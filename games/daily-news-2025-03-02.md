@@ -77,3 +77,66 @@
 一名粉丝使用虚幻5.4引擎重现《上古卷轴5》中的河木镇，打造出视觉效果惊艳的动态场景。该项目使用了Nanite和Lumen技术，呈现出电影级画质。
 
 ![](https://img.3dmgame.com/uploads/images/news/20250302/1740877494_224809_jpg_r.jpg)
+# 新闻简报(更新时间:2025-03-02 16:23)
+
+## 1. [多人派对游戏新作《奇喵派对》发布上市日期宣传片](https://www.3dmgame.com/news/202503/3915630.html)   2025-03-02 15:47
+
+发行商Team17和开发商Le Catnip Collective宣布，在线多人派对游戏《奇喵派对》将于4月10日登陆Steam平台。游戏以卡通豪宅为背景，玩家将与猫咪朋友一同参与一系列合作与竞技小游戏，包括跑酷、赛跑和团队对抗等，支持2至9名玩家在线游玩。游戏还提供自定义猫咪外观和丰富的爵士乐曲目。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740885501_543804.jpg)
+
+---
+
+## 2. [《龙珠Z：卡卡罗特》“–DAIMA–魔界大冒险”首支宣传片](https://www.3dmgame.com/news/202503/3915629.html)   2025-03-02 15:37
+
+万代南梦宫与CyberConnect2发布了《龙珠Z：卡卡罗特》新DLC“–DAIMA–魔界大冒险”第一部分的预告片。DLC预计在2025年7月至9月推出，并且第二部分将在2026年初上线。内容将重现小悟空和伙伴们在经典动画场景中的冒险经历。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740884763_796027.jpg)
+
+---
+
+## 3. [《Shroomwood》Steam上线 俯视角肉鸽战斗生存](https://www.3dmgame.com/news/202503/3915628.html)   2025-03-02 15:30
+
+由Sporelite Games制作发行的《Shroomwood》已上线Steam平台。这是一款俯视角肉鸽风格战斗生存游戏，玩家将扮演一位勇敢的小蘑菇，在奇异森林中展开冒险。游戏暂不支持中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740900596_896255.png)
+
+---
+
+## 4. [《请问您今天要来点兔子吗？》宣布制作新作动画](https://www.4gamers.com.tw/news/detail/70464/is-the-order-a-rabbit-new-anime-announced)   2025-03-02 14:13
+
+为纪念动画化十周年，《请问您今天要来点兔子吗？》宣布将制作全新动画。具体形式尚未确定是电视动画、OVA还是剧场版。同时，官方推出了纪念插图和周边商品，将于3月17日开放预购。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f383b39e997a45bf5ebe8d4f0be517618adb02ec.jpg)
+
+---
+
+## 5. [Windows 10终结日临近：Win11份额已经创下新高！](https://www.3dmgame.com/news/202503/3915627.html)   2025-03-02 15:19
+
+随着Windows 10支持即将结束，Windows 11市场份额快速增长，2月已达到38%。在英国，Win11市场份额首次超越Win10，占比50.41%。预计未来几个月更多用户将转向Win11。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740899913_601382_jpg_r.jpg)
+
+---
+
+## 6. [《SAND》将于4月3日登陆Steam抢先体验](.32026.html)   20203-世界PvAND联合开发，将于开启抢定一个柴油朋克风格的荒凉星球，玩家穿越荒原以探索与敌[](game.com503977)
+
+---
+
+. [： 游戏中缅www/202503391202511一位玩家在父亲去世当天，通过在《怪物猎人：荒野》中出角色人。了，类似img/images/news/20250302/1740886943.jpg)
+
+《新://www.com/news0.html5
+
+《死亡搁浅Station商动态异步多人玩法。玩家行为将影响他人游戏体验，且不包含微交易。游戏预计于2025年晚些时候发售。
+
+![](https://img.3dmgame2023.jpg)
+
+《灭之刃谭2](game.com/news/202/391  -02《火神血2》日在日本地区日发售，预购天体验将新增多个角色及战斗服饰，支持多个平台。
+
+![](https://img.3dmgame.com/news/174.jpg)
+
+ [正式://game.com/news/202503/3915612.html)   2025-03-dee恶城风格动作，现上线Steam。玩家将在充和敌新的[](dm02/0879748_514286.jpg)
+
+--- 
+
+以上为精选新闻，资讯请
