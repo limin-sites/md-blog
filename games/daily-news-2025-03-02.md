@@ -140,3 +140,68 @@
 --- 
 
 以上为精选新闻，资讯请
+# 新闻简报 (更新时间: 2025-03-02 18:25)
+
+## 1. [经典游戏《GEX三部曲》今夏发售 游戏预告片欣赏](https://www.3dmgame.com/news/202503/3915635.html)   2025-03-02 17:11
+
+发行商Limited Run Games宣布，《GEX三部曲》将于今年夏天登陆PS5、Xbox Series、NS平台，并通过Steam在PC平台推出。本作包括三款经典作品：《GEX》、《GEX：壁虎出击》和《GEX3：深度伪装壁虎》。该合集由Carbon引擎驱动，包含额外内容和改进，旨在带领玩家重温黄金时代。合集亮点包括丰富的关卡设计、幽默的对白、创新的镜头控制等。官方还发布了游戏预告片，展示了游戏的画面与特色。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740886606_366619.png)
+
+---
+
+## 2. [《改善》Steam上线 开放式解谜自动化工厂模拟](https://www.3dmgame.com/news/202503/3915634.html)   2025-03-02 17:07
+
+由Coincidence开发的开放式解谜自动化工厂模拟游戏《改善》现已上线Steam，支持简体中文。玩家将在上世纪80年代的日本背景下设计、建造和优化生产线，生产标志性产品如计算器、街机和便携式摄像机。游戏由Zachtronics原班人马打造，并以其多样化的玩法吸引玩家注意。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740906375_129812.jpg)
+
+---
+
+## 3. [505旗下动作冒险游戏新作《火焰之刃》5月22日发售](https://www.3dmgame.com/news/202503/3915633.html)   2025-03-02 16:42
+
+505 Games与开发商MercurySteam宣布动作冒险游戏《火焰之刃》将于5月22日发售，登陆PS5、Xbox Series及PC平台。游戏特色包括创新的武器锻造系统、七种武器种类、战术战斗系统以及超过50种独特敌人类型。玩家将探索神秘世界，迎接各种挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740886246_452532.jpg)
+
+---
+
+## 4. [人大代表提议折算高速公路免费天数 车主自选时间使用](https://www.3dmgame.com/news/202503/3915632.html)   2025-03-02 16:27
+
+全国人大代表张强建议优化高速公路节假日免费政策，推行“年度免费额度”制度。车主每年将享受固定免费天数，可自主选择使用时间，包括非节假日。该提议旨在缓解节假日高速拥堵问题，同时提升公众出行便利性，并促进旅游与消费增长。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740903986_157994.png)
+
+---
+
+## 5. [VTuber出演 视觉小说游戏新作《猫猫旅行社》公布](https://www.3dmgame.com/news/202503/3915631.html)   2025-03-02 16:12
+
+CyberStep旗下视觉小说游戏品牌Rabbitfoot宣布新作《猫猫旅行社：蜜桃镇振兴计划》。该作由虚拟主播美月もも担任主角，全程配音，计划于5月20日登陆NS及PC平台，支持简体中文等多种语言。玩家将帮助小镇振兴，并体验温馨的故事情节。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740885886_472248.jpg)
+
+---
+
+## 6. [多人派对游戏新作《奇喵派对》发布上市日期宣传片](https://www.3dmgame.com/news/202503/3915630.html)   2025-03-02 15:47
+
+发行商Team17与开发商Le Catnip Collective宣布，《奇喵派对》将于4月10日通过Steam登陆PC平台。游戏特色包括跑酷、多人合作与竞技小游戏、丰富的角色自定义，以及10首原创爵士乐曲。玩家将在卡通大宅中体验趣味横生的派对活动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250302/1740885501_543804.jpg)
+
+---
+
+## 7. [《龙珠Z：卡卡罗特》“–DAIMA–魔界大冒险”首支宣传片](https://www.3dmgame.com/news/202503/3915629.html)   2025-03-02 15:37
+
+万代南梦宫与CyberConnect2发布了《龙珠Z：卡卡罗特》DLC“–DAIMA–魔界大冒险”的首支预告片。DLC将分为两部分推出，第一部分计划于2025年7月至将角色的冒.3/uploads/images088## room鸽战](https/news.html)-30
+
+推出新这鸽战上线敢的小蘑菇，在充满奇异生物的森林中冒险。本以其D机制吸[](https/uploads/images/news/20250302/1740900596_896255.png)
+
+---
+
+## 9. [AI会取吗？谈VT4.tw/newsolive-ceo-motoaki-tanigo-talk-about-future-of-vtubing-ai-vtubers-struggle-to-re-h202520昭表示日益核心“人性、情感与真诚”，AI无法替代真人VT与强调，VTuber于https://.comf6ade0f364461ff502d.jpg)
+
+---
+
+## 10. [Windows 10终结日临近：Win11份额已经创下新高！](https://www.3dmgame.com/news/202503)-02随着即将结束，Windows 11市场份额大幅提升，达38%，创，市场份额Windows 超过的逐[](https/uploads503023 
+
+以上，更多
