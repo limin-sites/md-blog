@@ -61,3 +61,12 @@ DeepSeek公布推理系统的理论利润数据引发热议。尽管其理论日
 
 ![](https://img.3dmgame.com/uploads/images/news/20250302/1740916427_604568.jpg)  
 
+
+# 新闻简报(更新时间:2025-03-03 07:45)
+
+## 1. [资讯](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-02 21:33
+
+日本部分经销商已暂停Game Pass的销售，预计将在3月10日重新开售。此次暂停可能与经销商服务价格上涨有关。目前，经销商的Game Pass售价低于官网价格，而ヨドバシで则表示价格将上涨10%。
+
+![](https://static.willmao.com/feed_upload/2025-03-02/20-45-01-phprhFQQv.jpg) 
+
