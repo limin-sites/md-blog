@@ -127,3 +127,82 @@ Krafton宣布生活模拟游戏《inZOI》将于3月19日举行展示会，披�
 ![](https://img.4gamers.com.tw/puku-clone-version4668f011.jpg跑》https://blog.zh-hant.playstation.com/2025/03/03/20250303-gt7/)-《旅更新上线款内容展及!station.com/tachyon/2085/02/ed10caeee263.《进击的巨人》4D版推出全球://.tw/aot-film-animation-taiwan-box-office-4dx-version)   2025-03-03 12:09
 
 剧场版《进击的巨人》4第二和名热.uku6ca501e
+# 新闻简报(更新时间:2025-03-03 21:45)
+
+## 1. [动视开发新IP：开放世界、多人、新引擎](https://www.3dmgame.com/news/202503/3915697.html)   2025-03-03 20:33
+
+动视成立的新工作室Elsewhere Entertainment正开发一款基于叙事的开放世界游戏，采用全新引擎。据悉，该作包含多人模式和叙事元素，显示出动视对使用新技术的开放态度。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1741005170_658123_jpg_r.jpg)
+
+---
+
+## 2. [无敌？《艾尔登法环》已获得435个年度游戏大奖](https://www.3dmgame.com/news/202503/3915696.html)   2025-03-03 20:22
+
+《艾尔登法环》凭借其扩展DLC《黄金树之影》再获数十奖项，使其年度游戏奖总数达到435个，进一步巩固其在游戏界的地位。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1741004438_999133_jpg_r.jpg)
+
+---
+
+## 3. [传鸿海将独家拿下星际之门计划AI服务器代工订单](https://www.3dmgame.com/news/202503/3915695.html)   2025-03-03 19:40
+
+鸿海可能成为美国政府“星际之门”AI项目的唯一代工厂商，该项目预计投入5000亿美元，进一步巩固鸿海在AI服务器生产领域的全球领导地位。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1741002816_478954_jpg_r.jpg)
+
+---
+
+## 4. [迪士尼现实寻宝游戏《Disney STEP》正式上线](https://www.4gamers.com.tw/news/detail/70482/mobile-game-disney-step-launch)   2025-03-03 19:06
+
+由Drecom与迪士尼合作开发的GPS定位现实生活寻宝游戏《Disney STEP》已在多地区上线，玩家可探索并收集迪士尼主题宝物，体验与米奇互动的乐趣。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d8066dc853245a52cbbaf0b20b37199bf046205b.jpg)
+
+---
+
+## 5. [雷军否认穿皮夹克抄袭英伟达黄仁勋：这太滑稽了](https://www.3dmgame.com/news/202503/3915694.html)   2025-03-03 18:11
+
+雷军在直播中回应网友调侃其穿皮夹克抄袭黄仁勋，称穿皮夹克是为了配合小米SU7 Ultra的极致驾驶风格，并认为这种联想“太滑稽”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740989968_151629.jpg)
+
+---
+
+## 6. [Intel 1000亿美元巨型晶圆厂跳票：2030年才能完工](https://www.3dmgame.com/news/202503/3915686.html)   2025-03-03 15:41
+
+Intel在俄亥俄州的晶圆厂建设计划推迟至2030年完工，原因是市场需求不确定性及财务平衡的考虑。该工厂计划用于开发未来的先进半导体技术。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740987629_625251.png)
+
+---
+
+## 7. [腾讯科幻剧《三体・黑暗森林-上》备案 将于7月开拍](https://www.3dmgame.com/news/202503/3915685.html)   2025-03-03 15:40
+
+改编自刘慈欣小说的《三体：黑暗森林》科幻剧将于2025年7月开拍，预计拍摄26集，讲述人类与三体文明的对峙故事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740987620_930981.jpg)
+
+---
+
+## 8. [育碧特卖会开启 《星球大战 亡命之徒》首次打折](https://www.3dmgame.com/news/202503/3915675.html)   2025-03-03 14:30
+
+育碧在Steam上推出多款游戏折扣，《星球大战 亡命之徒》首次打折，售价149元人民币，活动持续至3月14日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740982409_451745.jpg)
+
+---
+
+## 9. [我国首部新能源汽车年检标准施行](https://www.3dmgame.com/news/202503/3915679.html)   2025-03-03 13:49
+
+新能源汽车安全检测新规正式实施，对动力电池的温度和电压进行严格审查，以确保行车安全。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740980975_395981.jpg)
+
+---
+
+## 10. [动画《游戏王GX》重编集版宣布4月11日开播](https://www.3dmgame.com/news/202503/3915678.html)   2025-03-03 13:44
+
+为纪念《游戏王》动画系列25周年，《游戏王GX》20周年高清重编集版将于4月11日开播，并每周在流媒体更新。
+
+![](https://img.3dmgame.com/uploads/images/news/20250303/1740980602_173212_jpg_r.jpg)
