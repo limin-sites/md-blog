@@ -64,3 +64,76 @@
 ![](https://static.willmao.com/feed_upload/2025-03-03/23-47-09-phpKHE52b.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-04 14:45)
+
+## 1. [日本文化厅公布第75届艺术选奖](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-04 13:33
+
+日本文化厅近日公布「第75回艺术选奖」媒体艺术部门获奖名单。其中，文化科学大臣奖颁发给《名侦探柯南》作者青山刚昌以及《任天堂明星大乱斗》制作人樱井政博；新人奖则由《蓦然回首》的押山清高和《暗喻幻想》的桥野桂获得。
+
+![](https://static.willmao.com/feed_upload/2025-03-04/13-32-57-phpPAcJnS.jpg)
+
+---
+
+## 2. [《天月麻雀》川麻玩法上线](https://www.3dmgame.com/news/202503/3915738.html)   2025-03-04 13:25
+
+二次元麻将游戏《天月麻雀》新版本推出，新增四川麻将玩法以及第二赛季「狩猎时分」。玩家可体验独特的「血战到底」规则，并通过赛季通行证解锁新装饰。此外，两位新雀士——犬塚信二和魔法少女Yoyo也登场，带来更多限时活动和道具。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741065886_659771.jpg)
+
+---
+
+## 3. [AI开发空战游戏10天赚120万](https://www.4gamers.com.tw/news/detail/70492/pieter-levels-used-ai-to-build-viral-flight-simulator-in-3-hours-elon-musk-shares-game)   2025-03-04 13:08
+
+开发者Pieter Levels利用AI工具在短短3小时内完成3D空战模拟游戏《Fly Pieter》。游戏上线10天便创收约38,360美元，并吸引大量玩家关注。马斯克转发其推文，称AI游戏前景无限。不过，游戏内购功能也引发了一些争议。
+
+![](https://thumbor.4gamers.com.tw/Tp-xscwBhAwwA6itoVaB7a2cfQM=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fd4ff1e7b92d9f8417715d95769a446c28e6e8b9c.jpg)
+
+---
+
+## 4. [《鬼灭之刃 火之神血风谭2》8月发售](https://www.4gamers.com.tw/news/detail/70496/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-launches-august-1)   2025-03-04 12:56
+
+《鬼灭之刃 火之神血风谭2》将于8月1日发售，游戏将包含动画「游郭篇」、「刀匠村篇」和「柱训练篇」的剧情内容，同时新增多名可用角色及付费DLC角色。游戏正值剧场版上映，或将引发新一波热潮。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8192ec79c4412ff7126f42a77646fc798421fc6d.jpg)
+
+---
+
+## 5. [《活尸猫之夜》动画7月播出](https://www.4gamers.com.tw/news/detail/70493/nyaight-of-the-livingcat-animation-release-in-july-2025)   2025-03-04 12:55
+
+改编自漫画的动画《活尸猫之夜》将于7月开播。故事背景是一个被猫统治的世界，主角九那岐需在猫掌之下保护妹妹生存。动画由Sony Pictures Entertainment等制作，声优阵容强大，预计将成为夏季热门作品。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d85f72b1389687c497742af6504862beb71afca3.jpg)
+
+---
+
+## 6. [Apple预告新品与「Air」相关](https://www.4gamers.com.tw/news/detail/70495/apple-teasing-something-new-for-air-product)   2025-03-04 12:53
+
+Apple CEO Tim Cook预告将在本周发布新品，可能涉及「Air」系列。外界预计Macbook Air或iPad Air将迎来更新。若为Macbook Air，新品或配备M4芯片和16GB内存，并支持AI功能。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bc002c5665b2d5f709678debe2dfe330603f4024.jpg)
+
+---
+
+## 7. [《怪物猎人》制作人升职](https://www.3dmgame.com/news/202503/3915737.html)   2025-03-04 12:18
+
+卡普空宣布人事变动，《怪物猎人》系列制作人辻本良三将于4月1日升任首席产品官，接替江川阳一。此外，公司内部多名高管职位也进行了调整。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741061913_704207.png)
+
+---
+
+## 8. [AMD RX9070首发销量或超RTX50](https://www.3dmgame.com/news/202503/3915736.html)   2025-03-04 12:06
+
+AMD RX9070显卡以4499元起的价格亮相，备货充足，预计首发销量将超越RTX50系列。外媒指出，RX9070系列得益于较长的备货期，在市场中表现抢眼，目前已开始预售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741059730_711445_jpg_r.jpg)
+
+---
+
+## 9. [沧州版“楚门的世界”引热议](https://www.yystv.cn/p/12606)   2025-03-04 12:00
+
+河北沧州赵官屯的一位智力缺陷村民「民哥」因被全村直播生活而走红。虽然直播提高了他的生活质量，但也引发了关于隐私和尊严的争议。村民利用他的日常生活制造内容，网络上形成了「民哥宇宙」。
+
+![](https://alioss.yystv.cn/doc/12606/ab998d2d4d41c0f197421242b54e62c1.appmsg_mw680water)
+
+---
