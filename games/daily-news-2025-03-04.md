@@ -137,3 +137,60 @@ AMD RX9070显卡以4499元起的价格亮相，备货充足，预计首发销量
 ![](https://alioss.yystv.cn/doc/12606/ab998d2d4d41c0f197421242b54e62c1.appmsg_mw680water)
 
 ---
+# 新闻简报(更新时间:2025-03-04 21:45)
+
+## 1. [《最终幻想16》PC版移除了D加密系统](https://www.3dmgame.com/news/202503/3915762.html)   2025-03-04 20:51
+
+SE为《最终幻想16》发布更新，移除了D加密系统。PC版于2024年9月发售，D加密系统维持了半年时间。游戏在Steam国区售价298元，完全版398元，支持简体中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741092625_893575.jpg)
+
+---
+
+## 2. [《最终幻想7：重生》PC MOD 《第一后裔》风格蒂法](https://www.3dmgame.com/news/202503/3915761.html)   2025-03-04 20:27
+
+玩家为《最终幻想7：重生》设计MOD，将角色蒂法呈现为《第一后裔》风格。导演透露系列三部曲面向全球受众，将优先道德审查。MOD设计引发网友热议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741091099_636758_jpg_r.jpg)
+
+---
+
+## 3. [传RTX 5070国行4599元起 3月5日上市](https://www.3dmgame.com/news/202503/3915760.html)   2025-03-04 19:40
+
+英伟达RTX 5070显卡即将上市，国行售价4599元起。首批供应有限，预计3月中旬货源充足。同一时间，AMD Radeon RX 9070系列显卡也将推出，起价4499元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250304/1741088856_791795_jpg_r.jpg)
+
+---
+
+## 4. [《魔物猎人荒野》3天狂销800万套](https://www.4gamers.com.tw/news/detail/70509/the-new-monster-hunter-wilds-roars-past-8-million-units-sold)   2025-03-04 19:34
+
+Capcom宣布《魔物猎人荒野》发售3天销售突破800万套，创下公司最快销售纪录。游戏采用RE引擎开发，支持跨平台游玩。
+
+![](https://img.4gamers.com.tw/puku-clone-version/448d445914af62121c8c5279ba8f4f1574c385ed.jpg)
+
+---
+
+## 5. [战爭中盛开的百合《与妳相恋到生命尽头》将改编动画](https://www.4gamers.com.tw/news/detail/70508/i-want-to-love-you-till-your-dying-day-animation)   2025-03-04 19:07
+
+百合漫画《与妳相恋到生命尽头》宣布改编电视动画，制作人名单与声优阵容同步公开。故事围绕魔术武器育成机构的少女们展开。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1de852ba9a3f29f9cd0b5fbd8cfbd3b71f04fff9.jpeg)
+
+---
+
+## 6. [Steam仓储模拟新作《ORDER 13》即将推出](https://www.4gamers.com.tw/news/detail/70500/warehouse-working-horro-game-order-13-launch-on-steam)   2025-03-04 18:16
+
+《ORDER 13》是一款仓储模拟恐怖游戏，将于3月10日在Steam发售。玩家需在危机四伏的深夜仓库完成订单，同时保护橘猫伙伴。
+
+![](https://img.4gamers.com.tw/puku-clone-version/67ddad3550287abf297f83f463b5c9be7970e089.jpg)
+
+---
+
+## 7. [中国公司通过海外渠道获取Blackwell GPU](https://www.3dmgame.com/news/202503/3915759.html)   2025-03-04 18:10
+
+尽管出口限制严格，中国公司通过马来西亚和NVIDIA最新 GPU。单台服务器价格.com/uploads/images/news/20250304/1741079292鸿祎评价措](httpsdmgame.com/news/202503/3915758.html)   2025-03-04 18:04
+
+360创始人周鸿祎称赞开源策略智”。他认为，开源生态一旦形成.3dmgame9480_988_jpg_r笔电概/70507/lenovo-launches-solar-charging-laptop-in-mwc2025)   202-04 太阳能续航。产品![](https://img.4gamers.com.tw/puku-clone-version/3d673afe173c32774e78魔物猎人荒www. 2025-03猎人荒野的纪录，尽亮眼。
+
+![](https://img.3/20250304今日精选新闻。
