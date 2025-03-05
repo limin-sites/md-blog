@@ -169,3 +169,44 @@ NVIDIA GeForce RTX 5070创始版发布，售价549美元，性能在启用DLSS 4
 ![](https://img.3dmgame.com/uploads/images/news/20250305/1741138258_812600.png)
 
 ---
+# 新闻简报(更新时间:2025-03-05 21:45)
+
+## 1. [特朗普关税将深度影响主机和实体游戏的未来](https://www.3dmgame.com/news/202503/3915827.html)   2025-03-05 20:36
+
+美国对墨西哥和中国的高额关税可能迫使游戏发行商放弃实体游戏，转向数字化。墨西哥生产的实体光盘和中国制造的游戏主机受影响最大。分析师预测，关税将加速行业的数字化转型。
+
+![](https://img.3dmgame.com/uploads/images/news/20250305/1741178055_180147_jpg_r.jpg)
+
+---
+
+## 2. [世嘉下个财年计划发售更少新作 专注于投资《索尼克》《如龙》等](https://www.3dmgame.com/news/202503/3915826.html)   2025-03-05 20:17
+
+世嘉将减少新作发布，集中资源投资《索尼克》和《如龙》等核心IP。公司透露，本财年重复销售的收入表现良好，同时计划通过并购扩展工作室开发能力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250305/1741176905_670540_jpg_r.jpg)
+
+---
+
+## 3. [金酸霉奖获奖名单 《蜘蛛夫人》成为最大“赢家”](https://www.3dmgame.com/news/202503/3915825.html)   2025-03-05 19:42
+
+第45届金酸霉奖揭晓，《蜘蛛夫人》获最差影片、最差女主角和最差剧本等奖项，《小丑2》则被评为最差续集。
+
+![](https://img.3dmgame.com/uploads/images/news/20250305/1741175689_288852.jpg)
+
+---
+
+## 4. [《席德·梅尔的文明帝国VII》1.1.0更新发布](https://www.4gamers.com.tw/news/detail/70526/civilization-vii-update-news)   2025-03-05 19:17
+
+《文明7》更新新增百慕大三角自然奇观，优化用户界面和AI表现，并强化文化胜利机制。部分新内容将于3月底推出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/59f3954674edbb2b05393f04235100c2ae4c1259.avif)
+
+---
+
+## 5. [紳士RPG《少女夏海和荒謬絕倫的學園》繁中版登Steam](https://www.4gamers.com.tw/news/detail/70524/natsumi-and-the-absurd-academy-tradtional-version-page-release-steam)   2025-03-05 19:08
+
+日本独立开发者推出的搞笑成人RPG《少女夏海和荒谬绝伦的学园》繁体中文版已上线Steam，玩家将体验荒诞校园生活。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3080a68c49cd5e5225cff20542a8d394dfd719cf.jpg)
+
+地狱毁灭战.com.tw/news/detail/705esda-doom-the-dard-helmet-preesda推出《：黑暗时代》主题仿真头售价175可调
