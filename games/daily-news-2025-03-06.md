@@ -182,3 +182,44 @@ Mojang Studios宣布《我的世界》新情报将于3月26日直播公布，包
 2025-03-06 11:17  
 
 海口海关查获3名游客利用免费旅游进行免税品代购，罚没涉案iPhone 12部，总价值惕此3dm202503. [帧3dm391586511NVIDIA款车手命之3dm503
+# 新闻简报(更新时间:2025-03-06 21:45)
+
+## 1. [《怪物猎人：荒野》PC MOD 完美解决卡顿问题](https://www.3dmgame.com/news/202503/3915900.html)   2025-03-06 20:36
+
+一款名为“REFramework”的MOD通过优化RE引擎游戏的防篡改技术，显著减少《怪物猎人：荒野》中的微卡顿问题。此外，该MOD还解决了因DRM引起的崩溃问题。玩家可通过NexusMods网站免费下载此补丁，进一步提升游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250306/1741264528_861495_jpg_r.jpg)
+
+---
+
+## 2. [英伟达发布572.70驱动 修复部分显卡黑屏问题](https://www.3dmgame.com/news/202503/3915899.html)   2025-03-06 20:24
+
+英伟达最新发布的572.70驱动修复了RTX 50系列显卡黑屏问题，并优化了多帧生成游戏的性能。此外，该驱动新增对《GTA5》更新的全显卡支持，显著提升稳定性和兼容性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250306/1741263650_840513_jpg_r.jpg)
+
+---
+
+## 3. [hololive二期生紫咲诗音4月26日毕业，因健康问题仍在治疗](https://www.4gamers.com.tw/news/detail/70550/vtuber-murasaki-shion-announced-her-graduation-before-hololive-expo-2025)   2025-03-06 20:11
+
+hololive二期生紫咲诗音宣布将于4月26日毕业，因与公司发展方向不合及健康问题。她在直播中表达了对粉丝的感谢，并希望在最后的时间里与大家创造更多美好回忆。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ac810a452a4c46b544698ae3d4d5575e55d7556f.jpg)
+
+---
+
+## 4. [《怪物猎人：荒野》角色、概念官方设计图欣赏](https://www.3dmgame.com/news/202503/3915898.html)   2025-03-06 20:04
+
+《怪物猎人：荒野》官方发布多张角色和怪物概念设计图，展示了从创意到成品的制作过程。游戏自2月28日发售以来已成为Capcom销售速度最快的作品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250306/1741262580_804277_jpg_r.jpg---
+
+转，女](./detail-of)5:《力圣宣布发布山为观奇httpsgam-version11c232 少女药官方./newsothe-k 03
+
+师的药手官方呼吁转[](gam-versionfe13699---
+
+ [ Ultra核CPUGPU202.html03
+
+芯片CPU大的高带片支持扩https.com2027_r8新幻想人妻](ers/-page03
+
+水电带种R，趣味img.tw8083de31---Tube://www/yout-0314月过大不在范围img-clonede834##.507加0山320265 0显 大量上充比比占.
