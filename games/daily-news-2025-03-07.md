@@ -59,3 +59,62 @@ YouTube推出每月7.99美元的Premium Lite订阅方案，用户可跳过大部
 ## Hawk +月://.com/2025/03/06202  《 》重制版即将登陆PS4和PS5平台，新增滑板手、动作多人模式。预购玩家可提前体验部分内容。
 
 !https65599_eb 
+# 新闻简报(更新时间:2025-03-07 07:45)
+
+## 1. [重生工作室取消一款未公布的第一人称射击游戏](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-07 06:47
+
+重生工作室宣布取消一款尚未公布的第一人称射击游戏，具体原因目前尚未披露。
+
+![](https://static.willmao.com/feed_upload/2025-03-07/06-47-02-phpvrTkvc.jpg)
+
+---
+
+## 2. [《沉没之城2》公布新预告，开启众筹](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-07 01:33
+
+《沉没之城2》正式发布预告片与开发笔记，并宣布开启众筹。本作背景设定在20世纪20年代的美国，以洛夫克拉夫特风格的恐怖生存为主题，玩家将探索被淹没的阿卡姆之城，与各种异界生物对抗。开发团队使用虚幻5引擎带来次世代视觉效果。
+
+![](https://static.willmao.com/feed_upload/2025-03-07/01-13-26-phpQVyMNG.jpg)
+
+---
+
+## 3. [WWE 2K25推出全新模式“岛屿”](https://news.xbox.com/en-us/2025/03/06/wwe-2k25-the-island/)   2025-03-07 04:30
+
+WWE 2K25推出全新自由漫游模式“岛屿”，玩家可与其他49名玩家在线互动，体验摔跤之外的游戏内容。新模式包含丰富的探索区域、个性化角色定制，以及独特的比赛场景，支持Xbox Series X|S。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/The-Island-9-b19b08df93fa836963ab.jpg)
+
+---
+
+## 4. [Trailmakers 2.0版本推出“Pioneers”更新](https://news.xbox.com/en-us/2025/03/06/trailmakers-pioneers-from-sandbox-to-survival/)   2025-03-07 04:30
+
+《Trailmakers》的“Pioneers”更新正式上线，新增资源收集、方块制作和PvE战斗等元素，带来超过20小时的全新剧情体验。玩家将帮助Froggits种族对抗机器人入侵，探索开放世界并完成各种任务。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/004-1920x1080-1-c8ac5368535db5049d4e.jpg)
+
+---
+
+## 5. [Nacon Connect 2025展示多款新游戏](https://news.xbox.com/en-us/2025/03/06/nacon-connect-2025-reveals/)   2025-03-07 03:00
+
+Nacon Connect 2025展示了多款新作，包括《Cthulhu: The Cosmic Abyss》、《Styx: Blades of Greed》以及《The Mound: Omen of Cthulhu》。这些游戏将于2025至2026年陆续登陆Xbox Series X|S。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/Nacon-Connect-Wire-Article-Main-Image-ec90103eb433a3344502.jpg)
+
+---
+
+## 6. [《Slime Heroes》：成为真正的英雄](https://news.xbox.com/en-us/2025/03/06/become-a-true-hero-in-slime-heroes/)   2025-03-07 02:00
+
+《Slime Heroes》是一款3D动作冒险游戏，玩家将扮演史莱姆英雄探索开放世界，解锁技能、装备并完成任务。游戏支持单人和多人模式，并提供多种可调节的无障碍选项。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/SlimeHeroes-Screenshot-Multiplayer-da2cd8d0a1682a7ed0b9.jpg)
+
+---
+
+## 7. [Epic Games本周限免《牠們的格鬥牧群》](https://www.4gamers.com.tw/news/detail/70552/thems-fightin-herds-is-free-to-keep-on-epic-games-store-this-week)   2025-03-07 00:21
+
+Epic Games Store本周限时免费领取卡通风格2D格斗游戏《牠們的格鬥牧群》，领取时间截至3月14日。此外，下周将免费送出类魂游戏《Mortal Shell》。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5d40ed78e814441a7114d93e24e7ace)
+
+半年内](https.tw-members-of-and-cover-tanigo-responded)   202-03五名成员满CEO谷郷元昭表示，公司将努力改善现状，为成员提供更好的发展环境，并承诺加强与成员的沟通。
+
+![](https://img.4gamers.com.tw/puku-clone-version/69937856c3
