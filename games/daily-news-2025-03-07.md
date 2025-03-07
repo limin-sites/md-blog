@@ -147,3 +147,42 @@ N发/news3915报道显0平台以购买到问题境202659_j马捕www.3dmgame.com/
 兽动物自由丰富版。
 
 iosd058984water
+# 新闻简报(更新时间:2025-03-07 21:45)
+
+## 1. [《電影版孤獨的美食家》松重豐來台宣傳，自認超愛吃香菜「難怪感覺麵線少了一味」](https://www.4gamers.com.tw/news/detail/70572/the-solitary-gourmet-movie-premiere-interview)   2025-03-07 20:40
+
+松重豐自編自導的《電影版孤獨的美食家》即將在台上映，他在台灣宣傳期間分享了六度訪台的感想和拍攝幕後故事。他特別提到自己是「香菜支持派」，喜歡搭配香菜的麵線，並對台灣美食如擔仔麵、小籠包等讚不絕口。本片描述主人公井之頭五郎在法國、南韓等地尋找湯頭食譜的美食旅程。
+
+![](https://thumbor.4gamers.com.tw/UWNdZuX1KLGUvDMM4Q824wF6kDY=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F56dbcdbf408574e5ba043d26c37b7c887dc3cf21.jpg)
+
+---
+
+## 2. [AMD确认FSR 4是和索尼PlayStation联合开发](https://www.3dmgame.com/news/202503/3915982.html)   2025-03-07 20:24
+
+AMD宣布FSR 4技术由索尼PlayStation共同开发，该技术相比FSR 3性能提升明显，但目前仅支持Radeon RX 9000系列GPU。双方合作的机器学习项目旨在开发高性能AI架构，兼容主机、PC和云平台。此举或将进一步推动业界技术竞争，最终惠及玩家。
+
+![](https://img.3dmgame.com/uploads/images/news/20250307/1741350244_939948_jpg_r.jpg)
+
+---
+
+## 3. [剛發表就旋風登台，小米15、15 Ultra開售NT$22999、34999起](https://www.4gamers.com.tw/news/detail/70570/xiaomi-15-15ultra-in-taiwan)   2025-03-07 19:03
+
+小米最新旗艦手機15及15 Ultra在台灣正式開售，價格分別為NT$22999起及NT$34999起。15 Ultra搭載高通Snapdragon 8 Elite處理器，主打徠卡合作攝影技術，具備IP68防塵防水性能。小米15則主小操作.-clbddfe---
+
+新作球.4/newsunder)-:》爾營，打造夢計個細，吧。訓功能5推出-clone81ea## 5. [《魔物10村」資httpsers705-p-will-fix-a-of  -:物於反映些用於刷素材的被更。
+
+https.tw951ec品牌動畫次元」線見白./detail/70568/holim503VT想元菜擔任旁。中展現了VTuber作者，理念實。
+
+gamone-version/3862347硬，半www/detailardwareebimplified-chinese-user-increased-by-20percent)-:35
+
+示首次幅與節假期相關。此外的升顯硬。
+
+gam/p6bc1803fe0d52bf.jpg)
+
+百來快雄](ers/mosiarch533》3夢超邊商品，包括磁甜並置六大打變[](https://gamoneacd 速》剧火热](https.503)  28追杀4》将在预极努杀多斗成年!dm503_)
+
+优》521:///.html-优工金创月，玩家可体验炼术game.com503081)
+
+--- 
+
+以上是今日精选新闻，关注更多动态请继续锁定更新！
