@@ -1,0 +1,55 @@
+# 新闻简报 (更新时间:2025-03-08 16:53)
+
+## 1. [7B级形式化推理与验证小模型，媲美满血版DeepSeek-R1，全面开源！](https://www.jiqizhixin.com/articles/2025-03-08-9) 2025-03-08 15:46
+
+研究团队由香港科技大学、中科院软件所等联合开发，仅需7B参数的小模型即可在形式化推理任务上接近DeepSeek-R1的表现。新模型支持多形式化语言任务，开源数据集和模型推动了形式化验证的普及，显著降低人力成本，提升自动验证效率。
+
+![](https://image.jiqizhixin.com/uploads/editor/0497da7f-05a1-46b2-bae9-c5015ceb4162/640.png)
+
+---
+
+## 2. [目标超级智能，前DeepMind科学家离职创业，获1.3亿刀融资](https://www.jiqizhixin.com/articles/2025-03-08-8) 2025-03-08 15:43
+
+两名前谷歌DeepMind研究人员创立Reflection AI，专注开发超级智能。团队已获1.3亿美元融资，估值达5.55亿美元。该公司致力于自动化编程工具开发，并探索新型AI架构。创始人均为DeepMind和AlphaGo等项目核心成员。
+
+![](https://image.jiqizhixin.com/uploads/editor/a3addb2d-dbe7-46c1-856c-03bc9e12bddf/640.png)
+
+---
+
+## 3. [微软甩开OpenAI自研大模型，还计划用DeepSeek](https://www.jiqizhixin.com/articles/2025-03-08-7) 2025-03-08 15:40
+
+微软加码AI研发，推出自主AI模型MAI，并计划取代OpenAI模型。内部测试显示，MAI模型性能已达到顶尖水平，同时微软与其他AI公司合作探索技术替代方案。MAI模型API将于年内上线，标志微软迈向AI生态独立。
+
+![](https://image.jiqizhixin.com/uploads/editor/9b44f18a-f555-4876-9250-05adf092bdf3/640.png)
+
+---
+
+## 4. [ICLR 2025 Spotlight |「免费」多模态信息助力3D小样本分割](https://www.jiqizhixin.com/articles/2025-03-08-6) 2025-03-08 15:38
+
+哥本哈根大学团队提出多模态Few-shot 3D分割任务设定，利用文本和2D信息提升分割性能。新模型MM-FSS通过多模态特征融合和测试优化，显著增强任务表现，且无需额外标注，大幅降低应用门槛。
+
+![](https://image.jiqizhixin.com/uploads/editor/2bc95ca4-aa78-48a1-b20d-749856031251/640.png)
+
+---
+
+## 5. [攻破OpenAI o1/o3、DeepSeek R1防线，安全推理过程反成大模型「阿喀琉斯之踵」](https://www.jiqizhixin.com/articles/2025-03-08-5) 2025-03-08 15:33
+
+杜克大学团队提出「思维链劫持」攻击方法，成功绕过多个高性能推理模型的安全审查。研究指出，模型展示推理链的透明化机制成为安全漏洞，导致拒绝率从98%降至2%，揭示当前安全机制的深层问题。
+
+![](https://image.jiqizhixin.com59a-830b)
+
+模型才能掌握未来？一股脑押注应用层或许值得警惕](https.com/articles-03
+
+AI当前大。文章模型批评投资者对训练领域的忽视市场误.j78e-b627)
+
+跳测来了中文.jiq/articles/2025-03-08-3) 03-08字节Tra备多进行管理端项目开发，是一款面向中文用户的高效开发工具。
+
+![](.j/d-4-30/)
+
+克、AITOP10](https://www.jiqizhixin.com/articles/2025-03-202527排行榜显示眼成为最快的的标志“变。
+
+.j6942-083---
+
+##刷级Agent已在路上](https://www.jiqizhixin.com/articles/2025-03-08) 2025-03-国内AI式定代码构。服务强大，推动国内AI产业创新发展iqdbcc-aa88771​Anth时代 AI 安全承诺，政策风向显著改变](https://wwwibase8308 删除发外AI视与认为或产生深:///202038)
+
+---
