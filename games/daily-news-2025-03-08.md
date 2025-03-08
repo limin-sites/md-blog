@@ -246,3 +246,48 @@ Rebellion首席执行官杰森·金斯利批评游戏行业中部分管理者对
 3/6023---
 
 ## 9. [卡梅隆自称最好的一部！《阿凡达3：火与烬》新/news/9-39：念姆可能于2025年1219日在[](game/141pg10》 https://www.3dmgame.com/news/202)08工作》102025，!dm2022---）
+# 新闻简报(更新时间:2025-03-08 22:21)
+
+## 1. [hololive Design COCO真人大小「FubuMio」雕像首亮相，新品牌Axgrit第一波推EN降臨組](https://www.4gamers.com.tw/news/detail/70583/hololive-super-expo-2025-designcoco-axgrit-collab-with-holoen-and-show-fubumio)   2025-03-08 21:00
+
+hololive SUPER EXPO 2025上，3D建模公司Design COCO首次展示大神澪与白上吹雪等身雕像，并宣布与新品牌Axgrit合作推出hololive English成员模型。大神澪的1/7比例模型已开启预购，售价约27,500日元，预计2026年6月发售。此外，Axgrit还将推出原创造型公仔，进一步扩展品牌影响力。
+
+![](https://thumbor.4gamers.com.tw/OMUVJhZAZdSa7LcaKQ6tJJVs80I=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fa46932cd4b0110a476c23244bde2749d54dc9547.jpg)
+
+---
+
+## 2. [资讯](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-08 20:58
+
+（闲聊）哪首电子游戏歌曲会让你难以忘怀？粉丝讨论热烈，分享了许多经典游戏音乐瞬间。
+
+![](https://static.willmao.com/feed_upload/2025-03-08/20-56-43-phpS5daWk.png)
+
+---
+
+## 3. [《刺客信条：影》主角藏身处深度展示 可完全自定义](https://www.3dmgame.com/news/202503/3916031.html)   2025-03-08 20:36
+
+育碧发布视频展示《刺客信条：影》的藏身处系统，玩家可深度定制建筑、装饰和场景，解锁更多玩法优势。主角的藏身处包括多种功能性房间，并支持养宠物及收集资源进行升级。游戏预计提供丰富的开放世界体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741437475_909157_jpg_r.jpg)
+
+---
+
+## 4. [hololive friends新娃EXPO會場首度公開，還有最新粉絲帽子](https://www.4gamers.com.tw/news/detail/70584/hololive-friends-new-dolls-released)   2025-03-08 20:19
+
+Cover在hololive Super Expo 2025上首次公开hololive friends最新玩偶，包括多名VTuber角色的第二套服装设计。同时推出更多粉丝帽配件，吸引了众多粉丝的关注。
+
+![](https://thumbor.4gamers.com.tw/wfxrgbIgCDsJvoXex2aHmLqy37E=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fae1ab4d57bdf4cd342d824e82aa3fac348028653.JPG)
+
+---
+
+## 5. [《巫师4》预告片灵感来自A24电影 更黑暗更直接](https://www.3dmgame.com/news/202503/3916030.html)   2025-03-08 20:00
+
+《巫师4》预告片灵感来源于电影《女巫》和《灯塔》，采用慢热性质，传递深刻信息。导演强调怪物并不总是生物，而是人类的内心黑暗。游戏的基调与整体主题仍需game.com/uploads/images/news. [英伟达准备系列](https://202503/3916029.html)   -03-08 0系列显卡耗更低，售价分别为249美元和199美元，预计在/news/20250308---
+
+## 7.白牡丹「維加」搶先引熱議](https://www.4ers.com.tw/newsishiro-botan-super19:29
+
+hololive与《快旋风6》合作“维加”的立牌https://thumbor.srn9Ft.4gamers.com.twgamers_watermark_):quality(90F%2Fimg9bf2c8239bad91ff.jpg》新DLC将实现深渊与凯恩的梦幻对决](https.html)   202DLC“扣篮恩等角色，内容。
+
+![](https://img.3dmgame/174140329女巫”第三部分扩3916026.html)-03-08魔法坏女巫琳达和菲耶罗生活场景。。
+
+![](https://5_856969_j》作者公布开发时间https://www.503/3916025.html)   2025《小丑牌》的作者，记录了创[](https://img.4_752482.jpg
