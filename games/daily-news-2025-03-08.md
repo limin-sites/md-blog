@@ -63,3 +63,49 @@ Xbox下包括》、《ASWE款新动作多种选择。
 
 3540bd.r5/-570b  
 
+
+# 新闻简报（更新时间：2025-03-08 14:45）
+
+## 1. [hololive Super Expo 2025签名墙大公开，诗音留下亲笔祝福](https://www.4gamers.com.tw/news/detail/70577/hololive-super-expo-2025-signature-wall) 2025-03-08 13:26
+
+hololive一年一度的Super Expo 2025在日本千叶幕张展览馆开幕，最吸引人的是成员们和绘师们的签名墙。即将毕业的紫咲诗音留下了“今天要度过最棒的一天”的祝福，还有夏色祭等成员的留言。展馆内还展出了成员们的签名立牌和其他互动内容，热闹非凡。
+
+![](https://thumbor.4gamers.com.tw/A7wbiXMS5hu24pKQUvYiyt-3S9A=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F0fb9bc796051218c8b3f3e7464e4c721afd78150.JPG)
+
+---
+
+## 2. [hololive x GiGO联名ReGLOSS老虎机EXPO开拉，限定明信片赠送](https://www.4gamers.com.tw/news/detail/70576/hololive-super-expo-2025-gigo-with-regloss) 2025-03-08 13:22
+
+hololive与GiGO合作推出全新主题老虎机，在Super Expo 2025上免费开放游玩，并赠送限定明信片。五位ReGLOSS成员穿着特别设计的服装亮相，吸引了大批粉丝拍照留念。活动还包括等身立牌展示和亲笔签名环节。
+
+![](https://thumbor.4gamers.com.tw/EXWJscZqwnz1f--pD5L4VWDbLdU=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F8458a9db04f96efab428e4ca114625255f16ada3.JPG)
+
+---
+
+## 3. [苹果键盘26年来变革！未来Mac静音键图标更新](https://www.3dmgame.com/news/202503/3916013.html) 2025-03-08 12:52
+
+苹果公司近期更新了Mac键盘的静音键设计，将图标改为带删除线的扬声器，与macOS系统显示的图标一致。这一改动解决了26年来设计不一致的问题，预计将从搭载M5芯片的新MacBook Pro开始应用。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741409548_274501.png)
+
+---
+
+## 4. [号U泄game.com/news/202503/3916012.html) 2025-03-08 12:47
+
+育碧开发的代号露风，目前已泄重玩育心。
+
+.game.com2028195.魄月21://11201 -08 12:33
+
+《死神 魂魄觉醒》发布全新命运21们[](https_upload/1284 6 agoo](https.comhololive-opening08 44 Expo 2025正式开幕，Cover CEO谷乡元昭（Yagoo）台致展会吉引[](httpsgamVtxHd:4gam/25,17(%2.%2oneb5471.JPG 7. [北京将人工智能纳入中小学课程](https://www.3dmgame.com/news/202503/3916010.html) 2025-03-08 11:04
+
+北京市教委宣布，从2025年秋季学期开始，全市中小学将开展人工智能通识教育，每学年不少于8课时。课程将与信息技术、科学等科目结合，同时重点培养人工智能教育领域的专业教师。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741403027_139316.jpg)
+
+---
+
+《版片](game5998-《飞真人露。该原因效果纷特效[](/uploads/images/320_j 《电影定档2026年](https://www.3dmgame.com/news202.html)-影业生电影18日在，本恐期游戏https.com/uploads202376_j---
+
+戮至今年://202503/39159875
+
+Trip于杀戮延期售基础上[](/uploads/images503_590)
