@@ -146,3 +146,54 @@ Trip于杀戮延期售基础上[](/uploads/images503_590)
 狱》Dino恶问题指，而J不得!3dmgame.com/uploads/79. 测替:///5.html)   2025-03-08 11:43
 
 微软组建AI研究团队开发自研模型MAI，并在Copilot产品中进行自研。此外其他风险，与!.3dmgame.com/uploads/images/news/20250308/174525749## Super公开，祝./detail-expo-2025-sign20213: Expo与刚音也过福展示许多创作者了!4XMSQUSimg./default_water5format(j%2.twone051218f4
+# 新闻简报(更新时间:2025-03-08 16:27)
+
+## 1. [holo好狐35配音《炫音轨迹FUTURE PERFORMERS》今夏登Switch](https://www.4gamers.com.tw/news/detail/70578/hololive-vtuber-sakura-fubuki-groove-coaster-future-performers-2025-summer-on-switch)   2025-03-08 14:44
+
+hololive超级EXPO 2025上，TAITO首次展示音乐节奏游戏《Groove Coaster Future Performers》，并宣布该作将于今年夏天登陆Nintendo Switch。此外，hololive三期生的巨型娃娃在展会亮相，吸引粉丝拍照。《炫音轨迹》系列首次引入横向全屏显示和新玩法，游戏角色设定来自虚拟高校虹宫高校和响华女学院的主角们。展会上还推出了相关周边商品和限定夹娃娃机活动。
+
+![](https://thumbor.4gamers.com.tw/xSVPW7wL1PyzJ1TnwdAM75k88Sc=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F27ec8502f5054b08e64ccbca58fe08331238f220.jpg)
+
+---
+
+## 2. [剧情驱动3D冒险游戏《Inner Truth》Steam页面 年内发售](https://www.3dmgame.com/news/202503/3916020.html)   2025-03-08 14:40
+
+《Inner Truth》是一款剧情驱动的3D冒险游戏，讲述了三位少女在现代社会中挣扎求生的故事。游戏采用回合制战斗，玩家需合理管理资源、利用地形并与敌人斗智斗勇。游戏支持简体中文，预计年内发售，感兴趣的玩家可前往Steam页面预约。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741416023_450572.jpg)
+
+---
+
+## 3. [卡梅隆自称最好的一部！《阿凡达3：火与烬》新图公布](https://www.3dmgame.com/news/202503/3916019.html)   2025-03-08 14:39
+
+《阿凡达3：火与烬》将于2025年12月19日上映，导演卡梅隆称其为系列迄今为止最好的作品。电影将展现纳威人的灰暗面，新增“灰人族”和“空中商人”等族群，进一步深化角色内心探索和文化背景。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741415892_532224_jpg_r.jpg)
+
+---
+
+## 4. [《死亡搁浅2》最新信息即将来袭 3月www202503)-小搁上公布5年，PS5可最新img/uploads/images/0505olive物人》合作角色](https./-meets)-hol5人》联名系列推出第二弹周边商品。包括兔田佩克拉、姬森露穿相、服饰httpsgamNY636watergamers/201,peg3F%2%2F3cb8b34f5a7842d05d880130309cd6了！勒](dm/ -08:23
+
+任天堂在法国最高，1的判托后义务游戏[](game503176.荒野档发布..com6-22
+
+怪人：荒野》将于3月10日发布新更新，修复多项游戏问题，包括网络、任务表示，:///uploads/images/469.jpg)
+
+---
+
+## 8. [《地狱境》之间：https.com601-
+
+《境的ino Patti和 Jensen因次attiensen，并解决./202141)
+
+---
+
+## 9. [微软开启AI反击战 测试Deep代AIgame39120208 
+
+研，并产品中测试，试图代微软x，以赖。
+
+./news140)
+
+---
+
+## 10. [hololive202诗音](gam705-ex    Super Expo 2025展出了成员和绘师的签名墙，成为展亮们福足。
+
+4gam724tfilters:watermark(img/defaultmark5):(2F..comukuF2187464afd
