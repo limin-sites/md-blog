@@ -47,3 +47,63 @@ img/news174815---
 搁3将探索与的[](dm/174---
 
 新闻更新
+# 新闻简报(更新时间:2025-03-08 22:20)
+
+## 1. [hololive Design COCO真人大小「FubuMio」雕像首亮相，新品牌Axgrit第一波推EN降臨組](https://www.4gamers.com.tw/news/detail/70583/hololive-super-expo-2025-designcoco-axgrit-collab-with-holoen-and-show-fubumio)   
+2025-03-08 21:00
+
+Design COCO在hololive SUPER EXPO 2025上展示了大神澪与白上吹雪等身雕像，同时宣布与hololive EN合作的新品牌Axgrit。雕像细节精致，吸引了众多粉丝关注。白上吹雪和大神澪的比例模型预计2026年6月开售，售价27,500日元。未来还将推出更多VTuber角色雕像和模型。
+
+![](https://thumbor.4gamers.com.tw/OMUVJhZAZdSa7LcaKQ6tJJVs80I=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fa46932cd4b0110a476c23244bde2749d54dc9547.jpg)
+
+---
+
+## 2. [《刺客信条：影》主角藏身处深度展示 可完全自定义](https://www.3dmgame.com/news/202503/3916031.html)   
+2025-03-08 20:36
+
+育碧发布了《刺客信条：影》主角藏身处的介绍视频，玩家可完全自定义藏身处，包括建筑物、装饰品和宠物。资源可通过任务或商人获取，藏身处内的设施还能提升玩家体验。藏身处扩展不仅增加功能，还为角色互动提供更多机会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741437475_909157_jpg_r.jpg)
+
+---
+
+## 3. [hololive friends新娃EXPO會場首度公開，還有最新粉絲帽子](https://www.4gamers.com.tw/news/detail/70584/hololive-friends-new-dolls-released)   
+2025-03-08 20:19
+
+hololive Super Expo 2025上公布了hololive friends最新玩偶，包括赤井心、白上吹雪等角色的第二套常服。粉丝帽配件也在开发中，吸引了众多粉丝关注。新品预计将在官方商店上架。
+
+![](https://thumbor.4gamers.com.tw/wfxrgbIgCDsJvoXex2aHmLqy37E=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fae1ab4d57bdf4cd342d824e82aa3fac348028653.JPG)
+
+---
+
+## 4. [英伟达准备入门级产品 配备8GB显存RTX 5050系列](https://www.3dmgame.com/news/202503/3916029.html)   
+2025-03-08 19:40
+
+英伟达计划推出RTX 5060系列和入门级RTX 5050系列，目标价格为300美元以下，功耗仅135W。RTX 5050系列包含8GB显存，预计4月发布，性能和价格定位吸https.3dmgame/news143365pg. [hololive《快打旋風6》合作活動獅白牡丹「維曝光，影引www.tw/news82-streetve-super-exummer)   
+202 19
+
+旋风合作活动曝光，獅白牡丹化身「维加」角色立牌亮相位发粉丝猜测，合作活动预计今夏举行，更多信息待官方发布。
+
+!://.tw/qn1FGwatermark44gam9090,):(jpeghttps2Fers%2-clone-version%82de9bad91.jpg## 6《巫灵黑暗://.3dmgame.com/news3916030.html)   
+2025-03-08 20师片灵女灯塔风传递导演的预玩家关注真实的人性问题。
+
+!img/news/20250308/174143649.jpg)
+
+7雲》大量露，建築破壞與傳統計分版.4/news/detail/70581/battlefield-playtest-gameplay-is-leaking)   
+202-新《闭内容遭，分板等经典元素回试找素，新年4gamukued960427a92454d---
+
+## 8. [《小丑牌》作者公布开发时间线：从沉迷到震惊](https://www.3dmgame.com/news/202503/3916025.html)   
+2025-03-08 16:25
+
+《小丑牌》作者分享开发时间线，讲述从沉迷到成功的历程。游戏销量突破500万份，备受独立开发者关注。作者强调坚持创意的重要性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741400784_752482.jpg)
+
+---
+
+## 9.AI反击战 测试DeepSeek等模型欲替代OpenAI](https://www.3dmgame.com/news/202503/391.html)-08 11:43测试MAI技术其他AI模型以分风险API与AIimg./news/202503174140)
+
+---
+
+ [卡梅隆自称最好的一部凡》.32026019.html)   
+2025-:3：发布艺术，导演詹姆梅止最好“灰人族”和“空中”将于月://img.3dmgame20250308/1741415892_532224_jpg_r.jpg---
