@@ -197,3 +197,52 @@ hololive超级EXPO 2025上，TAITO首次展示音乐节奏游戏《Groove Coaste
 ## 10. [hololive202诗音](gam705-ex    Super Expo 2025展出了成员和绘师的签名墙，成为展亮们福足。
 
 4gam724tfilters:watermark(img/defaultmark5):(2F..comukuF2187464afd
+# 新闻简报(更新时间:2025-03-08 16:52)
+
+## 1. [《小丑牌》作者公布开发时间线：从沉迷到震惊](https://www.3dmgame.com/news/202503/3916025.html)   2025-03-08 16:25
+
+《小丑牌》开发者LocalThunk分享了游戏的详细时间线，从2021年12月的三周假期计划开始，到最终销量超过500万份。游戏创作过程充满了沉迷与惊喜，不仅获得了媒体高分评价，也引发了开发者对游戏奇迹的感慨。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741400784_752482.jpg)
+
+---
+
+## 2. [EA《战地风云》新作封测大量泄露，建筑破坏与传统计分板回归](https://www.4gamers.com.tw/news/detail/70581/battlefield-playtest-gameplay-is-leaking)   2025-03-08 16:08
+
+《战地风云》新作封闭测试内容被大规模泄露，展示了建筑物破坏和传统计分板的回归。虽然EA尚未正式公布发行时间，但测试画面显示，开发团队尝试重新引入系列经典要素。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bee999ed9d60b4a03de80c427a924593a6d54d3c.jpg)
+
+---
+
+## 3. [《原子陨落》拥有屠城选项 但随后会有神秘人物出现](https://www.3dmgame.com/news/202503/3916024.html)   2025-03-08 15:37
+
+《原子陨落》允许玩家选择“屠城”或“和平主义者”玩法。开发者通过引入神秘电话亭和角色，为不同选择提供剧情支持，并增添了游戏的神秘感与独特性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741400500_247096_jpg_r.jpg)
+
+---
+
+## 4. [《狙击精英》CEO：有些人不是做游戏而是为了取悦股东](https://www.3dmgame.com/news/202503/3916023.html)   2025-03-08 15:14
+
+Rebellion首席执行官杰森·金斯利批评游戏行业中部分管理者对股东的过度迎合，认为创意产业需要在商业成功和制作质量之间找到平衡。
+
+![](https://img.3dmgame.com/uploads/images/news/20250308/1741399468_857989.jpg)
+
+---
+
+## 5. [视觉小说《Serre》Steam页面开放 发售日待定](https://www.3dmgame.com/news/202503/3916022.html)   2025-03-08 15:04
+
+《Serre》是一款关于女孩与外星人浪漫故事发售。默许!img/news141---
+
+客PS：功能](./202503/3916021.html)   2025-59刺PS节高PS追[](.com/news/2025031417157.狐音FORMhttps.comhololive-vtuber-s-guture5  -
+
+作ers天PO玩法及https://ers7188(ers-image/4gamers_watermark_201909253peg%2ersuku274bccbca58fe08331238f220---
+
+剧情 Truth售3/)  -
+
+ Truth》是一款D三如何游戏预计。
+
+3/6023---
+
+## 9. [卡梅隆自称最好的一部！《阿凡达3：火与烬》新/news/9-39：念姆可能于2025年1219日在[](game/141pg10》 https://www.3dmgame.com/news/202)08工作》102025，!dm2022---）
