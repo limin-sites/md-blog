@@ -53,3 +53,44 @@ AI当前大。文章模型批评投资者对训练领域的忽视市场误.j78e-
 ##刷级Agent已在路上](https://www.jiqizhixin.com/articles/2025-03-08) 2025-03-国内AI式定代码构。服务强大，推动国内AI产业创新发展iqdbcc-aa88771​Anth时代 AI 安全承诺，政策风向显著改变](https://wwwibase8308 删除发外AI视与认为或产生深:///202038)
 
 ---
+# 新闻简报(更新时间:2025-03-08 17:04)
+
+## 1. [7B级形式化推理与验证小模型，媲美满血版DeepSeek-R1，全面开源！](https://www.jiqizhixin.com/articles/2025-03-08-9)   2025-03-08 15:46
+
+由香港科技大学联合多家机构开发的一系列形式化推理与验证大模型正式开源，仅用7B参数即可在相关任务上媲美671B版DeepSeek-R1。这些模型显著提升形式化验证效率，降低人力成本，并展示了对多语言形式化验证的强大能力。研究团队还探索了模型的能力迁移潜力，为人工智能的发展提供了新的方向。
+![](https://image.jiqizhixin.com/uploads/editor/f8b5b28d-1098-44ef-adfd-750a17a40f27/640.png)
+
+---
+
+## 2. [目标超级智能，前DeepMind科学家离职创业，获1.3亿刀融资](https://www.jiqizhixin.com/articles/2025-03-08-8)   2025-03-08 15:43
+
+两名前谷歌DeepMind研究人员成立Reflection AI，专注开发超级智能，已获得1.3亿美元融资。公司计划构建自主编程工具并探索新型架构，其团队成员均为AI领域顶尖人才。尽管备受关注，外界对其目标和融资策略的看法不一。
+![](https://image.jiqizhixin.com/uploads/editor/8361b5f4-a1ec-4007-bb42-18a10ca6cbff/640.png)
+
+---
+
+## 3. [微软甩开OpenAI自研大模型，还计划用DeepSeek](https://www.jiqizhixin.com/articles/2025-03-08-7)   2025-03-08 15:40
+
+微软正在开发自主AI模型MAI，以减少对OpenAI的依赖，同时测试DeepSeek和Meta等第三方模型。MAI模型已开始在Copilot产品中进行替代测试，并计划开放API以吸引开发者。微软与OpenAI的合作关系也因技术分歧经历波动。
+![](https://image.jiqizhixin.com/uploads/editor/9b44f18a-f555-4876-9250-05adf092bdf3/640.png)
+
+---
+
+## 4. [ICLR 2025 Spotlight |「免费」多模态信息助力3D小样本分割](https://www.jiqizhixin.com/articles/2025-03-08-6)   2025-03-08 15:38
+
+哥本哈根大学等团队提出全新多模态Few-shot 3D分割方法，利用文本和2D信息提升模型性能，无需额外标注成本。该研究已获ICLR 2025接收，展示了在3D场景理解中的重要突破，为AI研究提供新方向。
+![](https://image.jiqizhixin.com/uploads/editor/2bc95ca4-aa78-48a1-b20d-749856031251/640.png)
+
+---
+
+## 5. [攻破OpenAI o1/o3、DeepSeek R1防线，安全推理过程反成大模型「阿喀琉斯之踵」](https://www.jiq-03 :33HT攻击方法揭示大透明成功突破模型研究透明性之间矛考image/4aed-cd2ac4a6c1d1/640.png)
+
+---
+
+## 6. [自己训练模型才能掌握未来？一层://www/articles-4-
+
+成商模型并捕文章模型训练好变化iqizh2548-f640.png##动懂编AIizhixin- :28的备强辅助功能。通过Chat可以实现的文带来:///editor/c-ad824.png)
+
+---
+
+## 8.克全球AI:///202203-阿应用排行榜现行业AI应用显著image/editor4052de1 [Manus刷屏，汇智智能企业上](izh-08-中国通用us，汇平台企业快速，[](.com/uploads9-f7ace1.png ropic悄然删除拜登时代全向显.a)  -ropic删除政府，引。特朗普AI监管或!in/2020
