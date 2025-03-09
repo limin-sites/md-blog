@@ -244,3 +244,80 @@ NVIDIA正在为入门级市场准备RTX 5050显卡，搭载8GB GDDR6显存。这
 ![](https://img.3dmgame.com/uploads/images/news/20250309/1741498223_227300.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-09 20:45)
+
+## 1. [走访hololive Super Expo 2025，holo饭一年一度的朝圣之旅](https://www.4gamers.com.tw/news/detail/70597/hololive-super-expo-2025-review)   2025-03-09 19:31
+
+hololive Super Expo 2025在日本千叶幕张展览馆举行，吸引了大批粉丝参与。活动以“游乐”为主题，展出包括旋转木马造型祭坛和holo indie游戏体验区等多种内容。粉丝们热情参与签名墙、卡牌展位等互动活动，展览还展示了hololive alternative动画分镜作品。
+
+![](https://thumbor.4gamers.com.tw/YdG55oT50cCVgqBJoio-R6N2e6E=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F30eb08667933048215471c08cfacf4bb6b1e8a01.JPG)
+
+---
+
+## 2. [资讯：怪物猎人6新细节曝光](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-09 17:37
+
+Fami通采访透露怪物猎人6（暂称）将加入全新设计的海龙种怪物骨骼和动作，并通过丰富的剧情和开放世界设定吸引玩家深度探索。
+
+![](https://static.willmao.com/feed_upload/2025-03-09/17-37-25-phplttESc.jpg)
+
+---
+
+## 3. [休闲射击《Find 100 Ducks and Blast Them!》免费发布](https://www.3dmgame.com/news/202503/3916064.html)   2025-03-09 17:21
+
+由Welcome Back Games开发的休闲射击游戏《Find 100 Ducks and Blast Them!》现已在Steam平台免费发布，玩家可在邻居家寻找并射击藏匿的100只鸭子。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741512052_864318.jpg)
+
+---
+
+## 4. [《双影奇境》被批女权主义 游戏总监回应争议](https://www.3dmgame.com/news/202503/3916063.html)   2025-03-09 17:20
+
+Hazelight Studios推出的《双影奇境》因主角为两名女性角色遭遇“女权主义宣传”批评，总监约瑟夫·法尔斯表示，这一创作灵感来源于他的女儿们，游戏旨在塑造优秀角色而非性别议题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741498343_208644_jpg_r.jpg)
+
+---
+
+## 5. [《大富翁》电影将由《龙与地下城》电影版编剧操刀](https://www.3dmgame.com/news/202503/3916062.html)   2025-03-09 17:04
+
+狮门影业与孩之宝联手改编经典桌游《大富翁》为电影，由约翰·弗朗西斯·达利和乔纳森·戈尔茨坦担任编剧，制作公司为玛格特·罗比的LuckyChap Entertainment。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741497969_465754_jpg_r.jpg)
+
+---
+
+## 6. [复古外设制造商Hyperkin发声致歉：以后不再放鸽子了](https://www.3dmgame.com/news/202503/3916061.html)   2025-03-09 16:37
+
+Hyperkin因频繁发布产品后迟迟未兑现遭用户批评，近日公开道歉并承诺未来将提高透明度，改善沟通，重新赢得客户信任。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741497657_357555_jpg_r.jpg)
+
+---
+
+## 7. [《小丑牌》创作者两年内不玩肉鸽游戏以免无意中借鉴](https://www.3dmgame.com/news/202503/3916059.html)   2025-03-09 16:17
+
+独立游戏《小丑牌》的创作者表示，在开发过程中拒绝玩类似游戏以保持创作的独立性。该作目前已在Steam平台销售超过500万份，成为2025年热门独立游戏之一。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741497518_841362_jpg_r.jpg)
+
+---
+
+## 8. [《恐鬼症》布莱斯代尔庄园地图进行了一次重大改造](https://www.3dmgame.com/news/202503/3916058.html)   2025-03-09 15:39
+
+《恐鬼症》经典地图布莱斯代尔庄园迎来全面翻新，新增茶室、奖杯室及花园等区域，同时保留玩家喜爱的壁炉与钢琴元素，提升游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741497343_620933_jpg_r.jpg)
+
+---
+
+## 9. [《FUBUKI》4月登陆Steam 高速度像素风横版动作](https://www.3dmgame.com/news/202503/3916057.html)   2025-03-09 15:37
+
+高速度像素风横版动作游戏《FUBUKI》将于4月13日登陆Steam，玩家可操控白上吹雪使用剑与技能进行战斗，支持中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250309/1741505812_173549_jpg_r.jpg)
+
+---
+
+## 10. [《过山车之星2》公布未来更新档内容 加入全新功能](https://www.com/news/3916.html)   2025-03-09 15:11
+
+《过山车之星2》即将推出第新增教程餐厅部主题https:///uploads/images149714_r.jpg
