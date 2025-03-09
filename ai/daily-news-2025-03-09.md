@@ -50,3 +50,38 @@ Hedra推出Character-3模型及其平台Hedra Studio，该模型能将图像、�
 ![](https://upload.chinaz.com/2025/0309/6387711292195394677285696.png)
 
 --- 
+# 新闻简报(更新时间:2025-03-09 20:46)
+
+## 1. [GPT-4o举步维艰、Claude 3.7险胜，《超级马里奥》成为了检验大模型的新试金石？](https://www.jiqizhixin.com/articles/2025-03-09-2)   2025-03-09 19:32
+
+AI研究者使用《超级马里奥兄弟》等经典游戏测试大模型的智能表现，加州实验室Hao labs推出的GamingAgent项目对GPT-4o和Claude 3.7等模型进行了评估。结果显示，Claude 3.7表现最佳，而GPT-4o因决策速度慢表现不佳。专家对游戏作为基准测试的有效性提出质疑，认为AI需要更多创新能力，而非仅仅依赖现有知识。
+
+![](https://image.jiqizhixin.com/uploads/editor/a7b39c1a-0846-4a86-aacf-dfac10fc6165/640.gif)
+
+
+## 2. [随着大模型在长文本处理任务中的应用日益广泛，如何客观且精准地评估其长文本能力已成为一个亟待解决的问题。](https://www.jiqizhixin.com/articles/2025-03-09)   2025-03-09 19:29
+
+困惑度（PPL）这一传统评估指标在长文本任务中表现失效，北京大学和MIT等团队提出新的指标LongPPL，用于更精准评估大模型的长文本处理能力。此外，研究团队开发了“长文本交叉熵（LongCE）”，显著改进了大模型的训练表现，为长文本任务提供了更有力的支持。
+
+![](https://image.jiqizhixin.com/uploads/editor/9b789ff3-60bc-4047-bce6-2431abb4619a/640.png)
+
+
+## 3. [Deep SerpApi](https://top.aibase.com/tool/deep-serpapi)   2025-03-09 18:43
+
+Deep SerpApi是一款优化数据抓取的谷歌搜索引擎数据提取API工具，支持多种搜索场景如谷歌地图和谷歌新闻。该工具以高成功率和低成本为特点，适合企业用户在商业分析和AI开发中大规模提取数据，同时无需自行开发爬虫，显著提高了数据获取效率。
+
+![](https://pic.chinaz.com/ai/2025/03/09/202503091843172453.jpg)
+
+
+## 4. [Depict](https://top.aibase.com/tool/depict)   2025-03-09 18:30
+
+Depict是一款电商陈列优化工具，通过智能算法和可视化编辑功能，帮助商家创建高效商品陈列页面，提升用户体验和转化率。其支持实时预览和自动排序功能，面向时尚和生活方式品牌，提供免费试用，助力商家在竞争激烈的市场中脱颖而出。
+
+![](https://pic.chinaz.com/ai/2025/03/09/202503091830110232.jpg)
+
+
+## 5. [KYG](https://top.aibase.com/tool/kyg)   2025-03-09 18:26
+
+KYG是一款专注于在线社区管理的工具，利用AI技术为WhatsApp和Telegram群组生成专业落地页，吸引合适成员并提升群组互动性。其特色包括智能成员筛选、隐私保护和精准匹配，适合在线社区运营者快速提升群组价值和成员连接效率。
+
+![](https://pic.chinaz.com/ai/2025/03/09/202503091826481228.jpg)
