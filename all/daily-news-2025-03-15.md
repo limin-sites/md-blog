@@ -126,3 +126,58 @@ Valve公布2024年Steam年度回顾，数据显示平台新作首发收入是201
 《传奇》快节冒之间探索黑暗样嵌、的巨!.3/202184## 丝PlayStation标.503/2025创作志，登陆PS尚未此前平台。
 
 3dm503155018言称《上古：湮于4月公布发行](httpsgame.com6445-11上古湮没2025Virt，使用图形引玩法dmgame/202_## 美国政府禁 彻底绞杀DeepSeek](https://www.3dmgame.com/news/202503/3916447.html)  15 AI向中国AIDeepSeekOpen认为应专注产品调整而非攻击对手img/uploads2006156
+# 新闻简报(更新时间:2025-03-15 20:45)
+
+## 1. [Ado、YOASOBI与星街彗星三方合作，日本麦当劳预告3/18薯条混音引热议](https://www.4gamers.com.tw/news/detail/70699/suisei-hoshimachi-ado-and-yoasobi-collaborate-with-mcdonald-on-music)   2025-03-15 19:28
+
+日本麦当劳宣布与虚拟偶像星街彗星、JPOP组合YOASOBI和歌手Ado合作，将于3月18日推出特别联名企划，引发广泛关注。此次合作为麦当劳的“薯条混音”计划升级，相关音乐将在广告中亮相。
+
+![](https://img.4gamers.com.tw/puku-clone-version/12405f47b6bc622508ac965f529d01dab143f6a3.jpg)
+
+---
+
+## 2. [《正义联盟》与《刺猬索尼克》联动漫画系列展示](https://www.3dmgame.com/news/202503/3916467.html)   2025-03-15 17:22
+
+DC Comics与世嘉合作推出的漫画系列展示了索尼克与正义联盟英雄的联合冒险，包括索尼克化身闪电侠，夏特化身蝙蝠侠等创意内容。该系列共五期，预计于2025年晚些时候发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250315/1742023779_150605_jpg_r.jpg)
+
+---
+
+## 3. [《刺客信条：影》将加入Xbox串流服务游戏库阵容](https://www.3dmgame.com/news/202503/3916466.html)   2025-03-15 17:04
+
+微软宣布《刺客信条：影》将在发布后不久加入Xbox的“串流自己拥有的游戏”服务。该游戏设定在16世纪的日本，玩家将通过忍者和武士的视角体验全新剧情。
+
+![](https://img.3dmgame.com/uploads/images/news/20250315/1742023398_491430_jpg_r.jpg)
+
+---
+
+## 4. [苦战五局《英雄联盟》CFO不敌KC，差点让二追三无缘决赛](https://www.4gamers.com.tw/news/detail/70698/first-stand-tournament-2025-semi-final)   2025-03-15 16:49
+
+在初阵对抗赛四强赛中，中信飞牡蛎（CFO）与Karmine Corp（KC）苦战五局，最终KC以3:2胜出晋级决赛。CFO虽止步四强，但其表现为赛区注入了活力。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b771847ede3089eaf086baf5ad66382bb8f5b96e.jpg)
+
+---
+
+## 5. [《未上锁的房间》厂商VR新作《Ghost Town》公布](https://www.3dmgame.com/news/202503/3916465.html)   2025-03-15 16:41
+
+Fireproof Games宣布其超自然VR悬疑游戏《Ghost Town》将于4月24日登陆Meta Quest平台，并计划今年晚些时候推出PC VR和PSVR2版本。玩家将扮演险3dm202_794)
+
+“跟新近亿美元](.com202503/3916464.html)   2025-03 16了170一年内9300社游戏![](https.3/uploads202637)
+
+. [《浪人崛09游戏稳定www.3dmgame.com64635:发布《PC，、帧复，游戏和流畅。
+
+.3/images/1742022804_243004_jpg_r.jpg)
+
+---
+
+## 8. [《地平线》主角演员：AI不可避免但仍应争取自身权益](https://www.3dmgame.com/news/202503/3916462.html)   2025-03-15 15:50
+
+《地平线》系列主角配音演员Ashly Burch回应AI技术对演员行业的影响，呼吁在使用AI生成表演时需征得演员同意并给予公平补偿。
+
+![](https://img./news/202---
+
+##管曝家丑：iri关键丑.202503  5-:35内部坦既丑并承诺优化力争体验3dm/uploads/images/news/20250315/1742024091_871## 10. [宝马亚迪企3dm.com503/ 20203-15 15:26
+
+比亚迪以6191车车企337志着中国市场的httpsimg.3dmgame.com/uploads/images/news/869.png
