@@ -150,3 +150,46 @@ Valve的年度回顾显示，2024年成为Steam平台的“增长之年”，新
 《星河战队》电影将由《第九区》导演尼尔·布洛姆坎普执导，新版将忠实于原著小说的军事故事，与1997年电影的讽刺风格有所不同。这部重启之作由索尼哥伦比亚影业制作。
 
 ![](https://img.3dmgame.com/uploads/images/news/20250315/1742000690_674528_jpg_r.jpg)
+# 新闻简报(更新时间:2025-03-15 20:45)
+
+## 1. [Ado、YOASOBI與星街彗星三方合作，日本麥當勞預告3/18薯條混音引熱議](https://www.4gamers.com.tw/news/detail/70699/suisei-hoshimachi-ado-and-yoasobi-collaborate-with-mcdonald-on-music)   2025-03-15 19:28
+
+日本麥當勞公布與JPOP組合YOASOBI、歌姬Ado及虛擬偶像星街彗星合作，將於3月18日推出新的薯條混音計劃。此前的薯條機器提示音混音創意已受到熱烈反響，此次合作引發粉絲熱議，預告影片暗示可能限區播放。麥當勞的創意活動吸引了眾多目光，星街彗星剪影登場也引發網友創意解讀。
+
+![](https://img.4gamers.com.tw/puku-clone-version/12405f47b6bc622508ac965f529d01dab143f6a3.jpg)
+
+---
+
+## 2. [《正义联盟》与《刺猬索尼克》联动漫画系列展示](https://www.3dmgame.com/news/202503/3916467.html)   2025-03-15 17:22
+
+DC Comics与世嘉联合推出《正义联盟》与《刺猬索尼克》的联动漫画系列，展示英雄们借用对方服装的创意设计。漫画剧情将聚焦两组团队携手对抗重大威胁，封面与分镜画面首次公开。该漫画系列由索尼克团队编剧和画师创作，共五期，具体发行日期尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250315/1742023779_150605_jpg_r.jpg)
+
+---
+
+## 3. [《刺客信条：影》将加入Xbox串流服务游戏库阵容](https://www.3dmgame.com/news/202503/3916466.html)   2025-03-15 17:04
+
+育碧新作《刺客信条：影》即将加入Xbox的“串流自己拥有的游戏”阵容。这款游戏背景设定在16世纪日本，玩家将以忍者和武士的视角体验剧情。微软宣布新功能将支持串流游玩该游戏，但具体上线时间尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250315/1742023398_491430_jpg_r.jpg)
+
+---
+
+## 4. [苦戰五局《英雄聯盟》CFO不敵KC，差點讓二追三無緣決賽](https://www.4gamers.com.tw/news/detail/70698/first-stand-tournament-2025-semi-final)   2025-03-15 16:49
+
+《英雄联盟》初阵对抗赛进入四强淘汰赛，CFO在五局激战中不敌KC，遗憾无缘决赛。CFO在生死局中表现出色，但KC通过关键团战成功扳回局势。欧洲赛区时隔多年重返国际赛事决赛，CFO虽败犹荣，令玩家们喝彩。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b771847ede3089eaf086b55b.jpg. [锁商VR新作《Ghost Town》公布](https://.3.com.html)-41作《月24日，PCVR背景设玩家幽象。了特互动://.3/uploads2023110_794228_jpg_r.jpg)
+
+---
+
+ ”170游戏消费亿美元./391 :12万这些用户达到购买游戏，还贡献1.展现发展的。
+
+dmgame/6371## 人崛》11性](https://www.3dmgame.com/news/202503/3916463.html)   2025-03-15 人更新项技术包括优化，为玩家体验dmgame50315243##线》避免https://.com2.html-
+
+《主演AI技术，权益。，但演受到偿3dm/uploads503379.gif [丑：Siri关键功能延迟 既丑陋www./)15 团队主管迟体验团队，并一年难题。
+
+![](https://img.3dmgame.com/uploads/images/news202409---
+
+##败亚企全年./391  15迪6191丰田成绩品牌，引发关注3dm202174202348530869
