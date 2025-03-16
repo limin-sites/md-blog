@@ -109,3 +109,66 @@ Konami确认《寂静岭f》将在PS5和Xbox Series X|S平台推出实体版，�
 ![](https://img.3dmgame.com/uploads/images/news/20241215/1734228821_982603.jpg)
 
 --- 
+# 新闻简报(更新时间:2025-03-16 15:45)
+
+## 1. [微软Windows更新又惹祸了：自家产品惨遭卸载](https://www.3dmgame.com/news/202503/3916493.html)   2025-03-16 14:51
+
+Windows 11和Windows 10的最新更新中出现了一个漏洞，导致微软Copilot应用被自动卸载，并从任务栏取消固定。受影响的用户需手动从微软商店重新下载应用。目前，微软正在修复这一问题，并计划在未来的累积更新中恢复该应用。此外，Windows 11的3月更新还引发蓝屏死机等问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742107848_738684_jpg_r.jpg)
+
+---
+
+## 2. [《Try them all！》登陆Steam 数字开锁解谜](https://www.3dmgame.com/news/202503/3916492.html)   2025-03-16 14:33
+
+由独立开发者制作的数字开锁解谜游戏《Try them all！》即将在4月18日推出。玩家需根据难度解锁3-8列数字，完成解锁后可获得丰厚奖励。目前，该作品已上架Steam。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742106745_691552.jpg)
+
+---
+
+## 3. [Steam平台2024年回顾：面向用户和开发者都有优化](https://www.3dmgame.com/news/202503/3916491.html)   2025-03-16 13:34
+
+Valve总结了Steam在2024年的发展成果，包括用户活跃度创纪录、新游戏收入大幅增长、平台功能改进等。特别是试玩版本和促销活动的优化，吸引了更多开发者参与。此外，Steam还推出了一些新功能，如成就与DLC区分显示和抢先体验游戏信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103230_502965_jpg_r.jpg)
+
+---
+
+## 4. [《冰淇淋模拟器》Steam上线 美味冰淇淋店经营](https://www.3dmgame.com/news/202503/3916490.html)   2025-03-16 13:31
+
+经营模拟游戏《冰淇淋模拟器》现已上线Steam。玩家可制作各式冰淇淋，定制商店并雇佣员工，打造属于自己的冰淇淋帝国。本作支持中文，为玩家提供丰富的经营策略体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103024_562375.jpg)
+
+---
+
+## 5. [Windows之外的新选择 曝SteamOS将完成PC适配](https://www.3dmgame.com/news/202503/3916489.html)   2025-03-16 13:30
+
+Valve正为PC平台完成SteamOS的适配工作。SteamOS基于Linux，主打游戏体验，资源占用更少且运行流畅。近年来，通过Proton技术，SteamOS已实现对Windows游戏的高兼容性。未来，SteamOS有望成为Windows的有力竞争者。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103019_554884.png)
+
+---
+
+## 6. [插画艺术家展示惊人涂色技巧 300美元的右脸](https://www.3dmgame.com/news/202503/3916488.html)   2025-03-16 11:46
+
+外国插画家Franek Bielak通过对比涂色技巧展示了如何赋予画作生命力。他利用彩色铅笔精心涂色，呈现了惊人的视觉效果，引发网友热议和点赞。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742096687_108263.png)
+
+---
+
+## 7. [AI机器人成骚扰电话帮凶 工信部部署查处](https://www.3dmgame.com/news/202503/3916487.html)   2025-03-16 11:13
+
+针对央视“3·15”晚会曝光的AI外呼机器人用于营销骚扰电话的问题，工信部已连夜部署调查并关停涉事线路。未来将加强监管，严厉打击网络黑灰产业，维护信息通信://img/uploads174.png)
+
+.《诺希亚》官方致谢 Steam/Switch版打折](https://www.3dmgame.com/news/202503/39164830310
+
+诺Steam优惠。飞杀游戏，体验紧张的推理与生存[](.com16/258## 玩家猎强武www3202503 -16机械物猎强的武器，但部分玩家因外放弃可观的。
+
+3.com/uploads/images/news/20250316/1742090945_576922_jpg_r 灵面纱试.3202)   2025-03-16 09:30
+
+《幻灵降世录 ：女巫的面纱》推出新“试炼模式”竞技场，玩家需敌并。同时制。
+
+!dm202503857
