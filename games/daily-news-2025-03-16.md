@@ -185,3 +185,68 @@ IGN发布《天国：拯救2》现实与游戏对比视频，展示15世纪小�
 ![](https://img.3dmgame.com/uploads/images/news/20241217/1734391710_482793.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-16 15:45)
+
+## 1. [微软Windows更新又惹祸了：自家产品惨遭卸载](https://www.3dmgame.com/news/202503/3916493.html)   2025-03-16 14:51
+
+Windows的最新更新导致部分设备的Copilot应用被自动卸载，并从任务栏取消固定。受影响的用户需通过微软商店重新下载应用。微软承诺未来补丁将修复这一问题。此外，Windows 11的更新还引发了包括蓝屏死机和固态硬盘崩溃等其他问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742107848_738684_jpg_r.jpg)
+
+---
+
+## 2. [《Try them all！》登陆Steam 数字开锁解谜](https://www.3dmgame.com/news/202503/3916492.html)   2025-03-16 14:33
+
+数字解谜游戏《Try them all！》将于4月18日上线Steam。游戏以数字开锁为核心玩法，难度越大奖励越丰厚。游戏提供多种解谜挑战，适合逻辑爱好者。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742106745_691552.jpg)
+
+---
+
+## 3. [Steam平台2024年回顾：面向用户和开发者都有优化](https://www.3dmgame.com/news/202503/3916491.html)   2025-03-16 13:34
+
+Valve通过改进用户和开发者体验，推动了Steam在2024年的显著增长，平台收入增长了10倍。优化试用版展示、购物车和家庭共享功能等措施广受好评，并新增针对开发者的折扣设置和游戏卡片编辑器。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103230_502965_jpg_r.jpg)
+
+---
+
+## 4. [《冰淇淋模拟器》Steam上线 美味冰淇淋店经营](https://www.3dmgame.com/news/202503/3916490.html)   2025-03-16 13:31
+
+《冰淇淋模拟器》是一款冰淇淋店经营游戏，玩家可以制作多种特色冰品并自定义店铺。游戏支持中文，目前已上线Steam。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103024_562375.jpg)
+
+---
+
+## 5. [Windows之外的新选择 曝SteamOS将完成PC适配](https://www.3dmgame.com/news/202503/3916489.html)   2025-03-16 13:30
+
+Valve计划让SteamOS适配PC，为玩家提供轻量级、游戏优化的操作系统。通过Proton技术，SteamOS现已兼容大部分Windows游戏，性能表现接近Windows。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103019_554884.png)
+
+---
+
+## 6. [插画艺术家展示惊人涂色技巧 300美元的右脸](https://www.3dmgame.com/news/202503/3916488.html)   2025-03-16 11:46
+
+插画家Franek Bielak展示了惊人的涂色技巧，通过彩铅将普通画作变得生动逼真。他的作品引发网友热议，称其右脸部分价值300美元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742096687_108263.png)
+
+---
+
+## 7. [AI机器人成骚扰电话帮凶 工信部部署查处](https://www.3dmgame.com/news/202503/3916487.html)   2025-03-16 11:13
+
+央视3·15晚会曝光AI外呼机器人拨打营销骚扰电话问题，工信部迅速行动，责令关停涉事线路，同时清查违法外呼软件，打击网络黑灰产业。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742094744_908028.png)
+
+---
+
+## 8. [值得D&D玩家期待 配音团队Critical Role正在开发新作](https://www.3dmgame.com/news/202503/3916486.html)   2025-03-16 11:10
+
+知名配音团队Critical Role正在开发基于D&D世界“埃克索达利新作。该游戏将给予玩家高度自由，随时可能公布更多消息。
+
+![](httpsdmgame2021865_r [央视翻新套路等](https://www.3dmgame.com/news/202503/3916480.html)   2025 0915行为外呼利加强监管![](.com16/221 [《降世巫的 推出:///202)   2025-03-16 09:30
+
+游戏《幻灵降世录》推出“试炼模式极限模式，并解故事dm202503419546
