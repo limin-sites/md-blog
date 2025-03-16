@@ -104,3 +104,84 @@ Konami最新公布的《寂静岭f》可能成为该系列26年历史中最血�
 ![](https://img.3dmgame.com/uploads/images/news/20250315/1742043999_627737_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-16 10:45)
+
+## 1. [《双影奇境》制作人为EA辩护：合作非常愉快](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-16 09:59
+
+《双影奇境》制作人Josef Fares在采访中表示，EA对其开发团队非常支持，未干涉创意开发，并认为EA受到过多不应有的指责。他指出开发者与发行商间需建立尊重和明确的合作关系，才能实现双赢。
+
+![](https://static.willmao.com/feed_upload/2025-03-16/09-58-30-phpLUJ2Pf.webp)
+
+---
+
+## 2. [《刺客信条：影》发布11分钟新视频展示](https://www.3dmgame.com/news/202503/3916477.html)   2025-03-16 07:10
+
+即将发售的《刺客信条：影》展示了风景秀丽的环境、城市生活细节、潜行暗杀等内容。视频中还包含游戏中的四季变化和盟友互动，处刑动作更显真实。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742080031_165315_jpg_r.jpg)
+
+---
+
+## 3. [《寂静岭f》PS5和XSX|S确认将有实体版](https://www.3dmgame.com/news/202503/3916476.html)   2025-03-16 06:50
+
+Konami确认《寂静岭f》将推出PS5和Xbox Series X|S实体版，并计划很快开启预售。包装设计暂定，有可能会调整。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742078998_948379.jpg)
+
+---
+
+## 4. [《VR战士5 R.E.V.O.》将举办世界大赛](https://www.3dmgame.com/news/202503/3916475.html)   2025-03-16 06:25
+
+世嘉宣布《VR战士5 R.E.V.O.》将举办官方世界大赛，北美预赛定于5月23日拉开帷幕，冠军将获得10万美元奖金。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742077419_638970.jpg)
+
+---
+
+## 5. [《反恐精英2》在线峰值超182万，创历史新高](https://www.3dmgame.com/news/202503/3916474.html)   2025-03-16 06:14
+
+《反恐精英2》打破《CS:GO》的同时在线人数记录，峰值达到182万4989人，展现了该游戏的巨大人气。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742076682_166505_jpg_r.jpg)
+
+---
+
+## 6. [关于评分系统会否异化人的探讨](https://www.yystv.cn/p/12651)   2025-03-16 10:30
+
+分析游戏评分系统是否会异化玩家，探讨了评分系统的历史、影响及其在多人竞技游戏中的复杂性。特别提到在MOBA游戏中评分系统可能引发玩家间冲突。
+
+![](https://alioss.yystv.cn/doc/12651/5408095e781e37b9dcb37bac83857d14.appmsg_mw680water)
+
+---
+
+## 7. [《刺客信条：起源》Steam一折特惠](https://www.3dmgame.com/news/202412/3910995.html)   2024-12-17 06:50
+
+育碧《刺客信条：起源》在Steam开启一折促销，标准版仅售29.8元，豪华版和黄金版也有大幅折扣。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734389272_814801.jpg)
+
+---
+
+## 8. [卡普空专注复兴老IP，《鬼武者》《大神》新作亮相](https://www.3dmgame.com/news/202412/3911004.html)   2024-12-17 09:13
+
+卡普空宣布将重启沉寂多年的IP，包括《鬼武者》和《大神》，未来可能推出更多重置版和新作，以提升企业价值。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734397991_467693.jpg)
+
+---
+
+## 9. [虚幻5恐怖生存游戏《战栗》公布](https://www.3dmgame.com/news/202412/3911002.html)   2024-12-17 08:36
+
+Team Nocebo公布虚幻5引擎打造的恐怖生存游戏《战栗》，玩家将在暴风雪中扮演汉娜寻找失踪的妹妹。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734395663_970253.jpg)
+
+---
+
+## 10. [《天国：拯救2》现实与游戏对比视频发布](https://www.3dmgame.com/news/202412/3910999.html)   2024-12-17 07:33
+
+IGN发布《天国：拯救2》现实与游戏对比视频，展示15世纪小镇与现代捷克库特纳霍拉的真实还原。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734391710_482793.jpg)
+
+---
