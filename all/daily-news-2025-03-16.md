@@ -172,3 +172,123 @@ Valve正为PC平台完成SteamOS的适配工作。SteamOS基于Linux，主打游
 《幻灵降世录 ：女巫的面纱》推出新“试炼模式”竞技场，玩家需敌并。同时制。
 
 !dm202503857
+# 新闻简报(更新时间:2025-03-16 20:45)
+
+## 1. [太空狼人杀游戏《古诺希亚》动画化预告片公开！](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-16 18:36
+太空狼人杀游戏《古诺希亚》宣布动画化，预计2025年10月播出。声优阵容包括安济知佳、长谷川育美等。粉丝期待角色在动画中的精彩表现。
+
+![](https://static.willmao.com/feed_upload/2025-03-16/18-36-00-phpgDqHbm.jpg)
+
+---
+
+## 2. [《Sand》即将进入抢先体验阶段 厂商提醒玩家谨防诈骗](https://www.3dmgame.com/news/202503/3916503.html)   2025-03-16 17:35
+开放世界PvPvE游戏《Sand》将于2025年4月3日开启抢先体验，开发团队提醒玩家警惕假冒试玩测试邀请，避免个人信息泄露。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112820_435047_jpg_r.jpg)
+
+---
+
+## 3. [《如龙0》迎来10周年 老外粉丝称赞通过游戏学到日本商务礼仪](https://www.3dmgame.com/news/202503/3916502.html)   2025-03-16 17:20
+世嘉庆祝《如龙0》10周年，一位玩家称通过游戏学会了日本商业礼仪，受到商务伙伴称赞，引发对游戏教育性的讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742116726_280790.png)
+
+---
+
+## 4. [《空洞骑士》玩家每天打一次BOSS 只为等待《丝之歌》](https://www.3dmgame.com/news/202503/3916501.html)   2025-03-16 17:07
+一位忠实玩家连续1258天击败《空洞骑士》的大黄蜂角色，以表达对续作《丝之歌》的期盼，这一行为引发广泛关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112628_168041_jpg_r.jpg)
+
+---
+
+## 5. [《机甲战士5：部落》推出新DLC 加入新机甲和新战役](https://www.3dmgame.com/news/202503/3916500.html)   2025-03-16 16:36
+《机甲战士5：部落》新DLC“幽灵熊：闪暴”将于2025年4月发布，包含12个任务的新战役和多种新机甲。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112124_745446_jpg_r.jpg)
+
+---
+
+## 6. [《寂静岭f》ESRB评级公开，血腥暴力场面引热议](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-16 16:03
+《寂静岭f》被评为M级（17+），游戏中包含血腥场景和暴力情节，玩家将扮演学生在日本山镇中对抗超自然实体。
+
+![](https://static.willmao.com/feed_upload/2025-03-16/16-03-41-phpie48p6.png)
+
+---
+
+## 7. [各大厂商扎堆出超频版显卡 原因现实又无奈](https://www.3dmgame.com/news/202503/3916499.html)   2025-03-16 16:18
+由于显卡成本高企，厂商通过推出超频版显卡提高售价以增加利润，这一策略成为显卡市场的普遍现象。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742113072_756314.png)
+
+---
+
+## 8. [《给他爱5：增强版》正在修复性能问题 但仍然远未完美](https://www.3dmgame.com/news/202503/3916498.html)   2025-03-16 16:02
+《给他爱5：增强版》更新后部分性能问题得到缓解，但仍存在水面效果和帧率下降等问题，玩家期待进一步优化。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742110251_592299_jpg_r.jpg)
+
+---
+
+## 9. [SE庆祝《最终幻想》系列总出货量突破2亿](https://www.3dmgame.com/news/202503/3916497.html)   2025-03-16 15:32
+Square Enix宣布《最终幻想》系列总出货量突破2亿，见证了RPG游戏的辉煌历史。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742110302_994278.png)
+
+---
+
+## 10. [PS商店出现山寨版《R.E.P.O.》 一度登上热门榜首](https://www.3dmgame.com/news/202503/3916496.html)   2025-03-16 15:22
+一款山寨版《R.E.P.O.》出现在PS商店并登上热门榜首，玩家呼吁加强商店审核机制。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742109725_169416_jpg_r.jpg)
+
+---
+
+## 11. [受到游戏引擎限制 《浪人崛起》PC版MOD似乎很难发展](https://www.3dmgame.com/news/202503/3916495.html)   2025-03-16 15:08
+因使用“武士刀引擎”，《浪人崛起》的MOD开发受到限制，玩家社区对未来发展持观望态度。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742108892_649566_jpg_r.jpg)
+
+---
+
+## 12. [C罗投资的足球游戏《UFL》PC版正在进行封测试玩](https://www.3dmgame.com/news/202503/3916494.html)   2025-03-16 15:00
+《UFL》PC版最后一次封闭测试进行中，玩家可通过Discord申请参与，游戏预计不久后正式发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742108426_825127_jpg_r.jpg)
+
+---
+
+## 13. [微软Windows更新又惹祸了：自家产品惨遭卸载](https://www.3dmgame.com/news/202503/3916493.html)   2025-03-16 14:51
+Windows更新导致Copilot应用被自动卸载，微软承诺将在未来更新中修复这个问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742107848_738684_jpg_r.jpg)
+
+---
+
+## 14. [《Try them all！》登陆Steam 数字开锁解谜](https://www.3dmgame.com/news/202503/3916492.html)   2025-03-16 14:33
+独立解谜游戏《Try them all！》将在4月18日正式上线，玩家可体验独特的数字开锁玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742106755_990517.jpg)
+
+---
+
+## 15. [Steam平台2024年回顾：面向用户和开发者都有优化](https://www.3dmgame.com/news/202503/3916491.html)   2025-03-16 13:34
+Steam回顾2024年成就，用户和开发者体验均获大幅改进，Valve承诺继续优化平台功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103230_502965_jpg_r.jpg)
+
+---
+
+## 16. [《冰淇淋模拟器》Steam上线 美味冰淇淋店经营](https://www.3dmgame.com/news/202503/3916490.html)   2025-03-16 13:31
+玩家可以通过《冰淇淋模拟器》经营自己的冰淇淋店，制作各种甜点并吸引顾客，享受经营乐趣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103033_197421.jpg)
+
+---
+
+## 17. [Windows之外的新选择 曝SteamOS将完成PC适配](https://www.3dmgame.com/news/202503/3916489.html)   2025-03-16 13:30
+Valve正在为PC适配SteamOS，未来玩家将拥有一个专注游戏的高效操作系统，与Windows形成竞争。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742103025_207723.png)
+
+---
