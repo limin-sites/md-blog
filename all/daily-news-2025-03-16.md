@@ -28,3 +28,84 @@ Konami最新公布的作品《寂静岭f》被评级为18+，成为该系列26�
 ![](https://img.3dmgame.com/uploads/images/news/20250315/1742043999_627737_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-16 10:45)
+
+## 1. [资讯](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-16 09:59
+
+《双影奇境》制作人Josef Fares为EA辩护，称EA对其工作室的支持无可挑剔，并表示开发者和发行商需建立完美的共生关系。他强调开发者需要明确创意理念，否则发行商可能会接管主导权。
+
+![](https://static.willmao.com/feed_upload/2025-03-16/09-58-30-phpLUJ2Pf.webp)
+
+---
+
+## 2. [《刺客信条：影》11分钟新视频展示 风景如画](https://www.3dmgame.com/news/202503/3916477.html)   2025-03-16 07:10
+
+即将于3月20日发售的《刺客信条：影》发布了详细展示游戏风景和玩法的11分钟视频，涵盖城市探索、角色盔甲、四季变化和潜行暗杀等内容，为玩家提供沉浸式体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742080031_165315_jpg_r.jpg)
+
+---
+
+## 3. [《寂静岭f》PS5和XSX|S确认将有实体版](https://www.3dmgame.com/news/202503/3916476.html)   2025-03-16 06:50
+
+Konami确认《寂静岭f》将在PS5和Xbox Series X|S平台推出实体版，预售即将开启。游戏由台湾团队泥巴娱乐开发，剧本由龙骑士07创作，带来全新体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742078998_948379.jpg)
+
+---
+
+## 4. [《VR战士5 R.E.V.O.》将有官方世界大赛 冠军10万美元](https://www.3dmgame.com/news/202503/3916475.html)   2025-03-16 06:25
+
+世嘉宣布《VR战士5 R.E.V.O.》将举办首届官方世界大赛，覆盖北美、欧洲、日本和亚洲四大区域，冠军奖金高达10万美元。北美预赛将于5月23日在COMBO BREAKER 2025举行。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742077419_638970.jpg)
+
+---
+
+## 5. [超越《CSGO》！《反恐精英2》Steam峰值超182万](https://www.3dmgame.com/news/202503/3916474.html)   2025-03-16 06:14
+
+《反恐精英2》Steam在线峰值突破182万，超越《CSGO》的181.8万记录。尽管近期没有重大更新，这款免费游戏的人气仍持续飙升。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742076682_166505_jpg_r.jpg)
+
+---
+
+## 6. [所以，评分系统真的会把人异化吗？](https://www.yystv.cn/p/12651)   2025-03-16 10:30
+
+文章探讨了游戏评分系统如何影响玩家行为和体验，分析其异化现象及历史背景。从街机游戏起源到MOBA游戏中评分系统的争议，文章揭示评分工具对玩家的心理和行为的深远影响。
+
+![](https://alioss.yystv.cn/doc/12651/5408095e781e37b9dcb37bac83857d14.appmsg_mw680water)
+
+--- 
+
+## 7. [《死神：魂魄觉醒》角色预告片之山本元柳斋重国](https://www.3dmgame.com/news/202412/3910990.html)   2024-12-17 05:32
+
+动作格斗游戏《死神：魂魄觉醒》发布新角色预告片，展示角色山本元柳斋重国的强大战斗力及其斩魄刀“流刃若火”。游戏将于2025年3月21日发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734384679_446037.jpg)
+
+--- 
+
+## 8. [《星刃》“圣诞假日”更新将于12月17日推出](https://www.3dmgame.com/news/202412/3910989.html)   2024-12-17 05:30
+
+《星刃》宣布推出圣诞假日主题更新，新增节日装饰、小游戏和配饰，让玩家在游戏中感受浓厚的节日氛围。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734384519_955962.jpg)
+
+--- 
+
+## 9. [《心灵杀手2》发布更新 新增PS5 PRO关闭PSSR选项](https://www.3dmgame.com/news/202412/3910986.html)   2024-12-17 00:01
+
+《心灵杀手2》发布新补丁，优化性能模式设置并新增PS5 PRO关闭PlayStation Spectral Super Resolution功能选项，为玩家提供更流畅的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20241217/1734364886_115464.jpg)
+
+--- 
+
+## 10. [顽皮狗新作《星际：异端先知》或于2027年发售](https://www.3dmgame.com/news/202412/3910994.html)   2024-12-17 06:41
+
+顽皮狗在TGA颁奖典礼上公布新作《星际：异端先知》。有玩家推测游戏可能于2027年发售，预计将登陆PS5和PS5 Pro平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20241215/1734228821_982603.jpg)
+
+--- 
