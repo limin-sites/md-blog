@@ -64,3 +64,148 @@
 ![](https://image.jiqizhixin.com/uploads/editor/9cb51f88-10e7-4f8c-a03c-75fd0591179b/640.png)
 
 ---
+# 新闻简报(更新时间:2025-03-17 10:45)
+
+## 1. [Factorio Learning Environment](https://top.aibase.com/tool/factorio-learning-environment)   2025-03-17 10:31
+
+Factorio Learning Environment（FLE）基于《Factorio》游戏构建，为评估大型语言模型在长期规划、程序合成和资源优化方面的能力提供了开放式评估框架。FLE设有两种评估协议——结构化任务和开放式任务，挑战模型智能能力。项目由Jack Hopkins团队开发并开源，目标是推动AI研究人员在复杂领域的研究。
+
+![](https://pic.chinaz.com/ai/2025/03/17/25031710331397480216.jpg)
+
+---
+
+## 2. [Deepseek崛起挑战霸主!a16z最新AI应用Top100榜单发布，17家新秀强势入围前50!](https://www.aibase.com/zh/news/16327)   2025-03-17 10:30
+
+a16z发布消费者级AI应用Top100榜单显示，17家新公司跻身前50名，市场格局发生巨大变化。Deepseek崛起成为第二大AI产品，受益于中国市场需求。此外，AI视频生成和开发者工具领域增长迅猛，图像与视频编辑工具贡献了AI收入的20%。
+
+![](https://upload.chinaz.com/2025/0317/6387780420020890556241389.png)
+
+---
+
+## 3. [惊人突破！AI撰写的论文成功骗过人类专家评审](https://www.aibase.com/zh/news/16326)   2025-03-17 10:28
+
+Sakana AI的AI Scientist-v2独立撰写科学论文并通过ICLR2025双盲同行评审，展示AI在科学研究领域的突破性能力。尽管成功，Sakana AI主动撤回论文以维护学术伦理，呼吁规范AI生成内容的发表标准。
+
+![](https://pic.chinaz.com/picmap/202307181533299002_4.jpg)
+
+---
+
+## 4. [Cohere 发布AI模型Command A，两块GPU就能高效运转，企业部署成本降50%](https://www.aibase.com/zh/news/16325)   2025-03-17 10:24
+
+Cohere推出拥有1110亿参数的AI模型Command A，仅需两块GPU即可运转，显著降低企业部署成本。模型具备256K上下文窗口、23种语言支持等功能，应用于RAG、SQL等企业级场景，成为企业AI的“平替”解决方案。
+
+![](https://upload.chinaz.com/2025/0317/6387780384387255977096611.png)
+
+---
+
+## 5. [谷歌Gemini 2.0 Flash去除图片水印功能引版权担忧](https://www.aibase.com/zh/news/16324)   2025-03-17 10:18
+
+谷歌Gemini 2.0 Flash模型被发现可轻松去除图片水印，引发版权争议。该功能虽标记为“实验性”，但部分用户担忧其可能被滥用。竞争对手模型如Claude3.7Sonnet明确拒绝此类操作，并强调法律风险。
+
+![](https://upload.chinaz.com/2025/0317/6387780345535861237057520.png)
+
+---
+
+## 6. [快手可灵AI全面接入DeepSeek-R1，DeepSeek灵感版已上线](https://www.aibase.com/zh/news/16323)   2025-03-17 10:12
+
+快手可灵AI接入DeepSeek-R1模型，助力用户生成高质量提示词并优化创意视频表现。DeepSeek灵感版与“灵感词库”功能联动，使普通用户也能轻松创作专业级视频。
+
+![](https://upload.chinaz.com/2025/0317/6387780307071837356609432.png)
+
+---
+
+## 7. [狂投AI!英伟达风险投资激增，2024年出手49次，远超往年总和!](https://www.aibase.com/zh/news/16322)   2025-03-17 10:09
+
+英伟达2024年参与49轮AI初创公司融资，远超往年总和，并通过投资OpenAI、Scale AI等公司巩固其AI生态系统。同时，其企业基金NVentures也显著增加投资活动，加速AI领域布局。
+
+![](https://pic.chinaz.com/picmap/202308161653589004_1.jpg)
+
+---
+
+## 8. [AI 助推 “水军” 新形态：48小时炮制4000多条有害信息](https://www.aibase.com/zh/news/16321)   2025-03-17 10:06
+
+借助AI技术，网络水军活动成本低至1厘钱，48小时内可发布4000条有害信息。春节档电影频遭恶意评分，水军产业链逐步形成，伪装普通用户影响公众观点。
+
+![](https://pic.chinaz.com/picmap/202306261422268372_8.jpg)
+
+---
+
+## 9. [Whispers from the Star](https://top.aibase.com/tool/whispers-from-the-star)   2025-03-17 10:00
+
+《Whispers from the Star》是一款太空互动故事游戏，玩家通过AI增强消息引导角色生存发展。实时互动、多重选择和情感共鸣让玩家沉浸于独特的叙事体验。
+
+![](https://pic.chinaz.com/ai/2025/03/17/25031710013737253686.jpg)
+
+---
+
+## 10. [一键变身！Gamma推出AI内容转换神器，秒将文档网页化身精美展示页](https://www.aibase.com/zh/news/16320)   2025-03-17 09:54
+
+Gamma推出AI内容转换工具，用户可将文档或网页一键转化为视觉震撼的展示页面。操作简单零门槛，显著提升信息分享效率，重新定义内容创作方式。
+
+![](https://upload.chinaz.com/2025/0317/6387780200039904831917681.png)
+
+---
+
+## 11. [Thera](https://top.aibase.com/tool/thera)   2025-03-17 09:52
+
+Thera是一款超分辨率技术工具，内置物理观察模型，提供高质量图像增强能力，适用于遥感和摄影测量领域。其开源特性为研究人员和开发者提供了广泛的应用机会。
+
+![](https://pic.chinaz.com/ai/2025/03/17/25031709531530349328.jpg)
+
+---
+
+## 12. [开源图片超分模型Thera：可以提升图片清晰度，让模糊从此“下岗”](https://www.aibase.com/zh/news/16319)   2025-03-17 09:47
+
+Thera开源超分辨率模型可实现任意倍数放大，内置物理观测模型避免失真。适用于遥感、医学影像和摄影等领域，助力图像细节提升。
+
+![](https://upload.chinaz.com/2025/0317/6387780157003295567584683.png)
+
+---
+
+## 13. [Cal AI APP](https://top.aibase.com/tool/cal-ai-app)   2025-03-17 09:39
+
+Cal AI是一款AI卡路里追踪应用，通过拍照快速计算食物的营养信息。适用于关注健康饮食的用户，其界面友好、功能强大。
+
+![](https://pic.chinaz.com/ai/2025/03/17/25031709400040203546.jpg)
+
+---
+
+## 14. [18岁创始人用硬核技术打造现象级AI健康应用Cal AI，8个月狂揽500万下载!](https://www.aibase.com/zh/news/16317)   2025-03-17 09:28
+
+18岁创始人Zach Yadegari推出Cal AI，用AI技术高效追踪食物卡路里和营养信息，8个月下载量达500万，用户留存率超30%。团队依托先进模型技术实现市场突破。
+
+![](https://upload.chinaz.com/2025/0317/6387780047936343545663576.png)
+
+---
+
+## 15. [谷歌Gemini 2.0 Flash引发争议：AI轻松去除图片水印引发版权担忧](https://www.aibase.com/zh/news/16316)   2025-03-17 09:27
+
+谷歌Gemini2.0Flash AI模型因水印去除功能引发版权担忧。该功能虽标记为实验性，但缺乏限制措施，竞争对手模型则明确拒绝此操作。
+
+![](https://upload.chinaz.com/2025/0317/6387780044948188255748730.png)
+
+---
+
+## 16. [LBM](https://top.aibase.com/tool/lbm)   2025-03-17 09:16
+
+LBM基于格子玻尔兹曼方法，可用于流体动力学、高效模拟多相流和多孔介质流动。其开源特性为科研人员提供了创新机会。
+
+![](https://pic.chinaz.com/ai/2025/03/17/202503170916221485.jpg)
+
+---
+
+## 17. [图像效果转换技术LBM：一键移除路人甲，还可调整光照](https://www.aibase.com/zh/news/16315)   2025-03-17 09:13
+
+LBM技术支持对象移除、光照调整以及图像转换任务，凭借潜在桥梁匹配方法高效实现复杂编辑效果，为图像处理领域带来突破性创新。
+
+![](https://upload.chinaz.com/2025/0317/6387779951172350844502173.png)
+
+---
+
+## 18. [AI创作提速!可灵AI集成DeepSeek，灵感秒变专业级提示词!](https://www.aibase.com/zh/news/16314)   2025-03-17 08:53
+
+快手可灵AI集成DeepSeek-R1模型，助力用户优化提示词生成，显著提升创意内容质量。该功能降低创作门槛，为大众提供便捷的创作工具。
+
+![](https://pic.chinaz.com/picmap/202308231446125698_0.jpg)
+
+---
