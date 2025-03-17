@@ -69,3 +69,46 @@
 ![](https://img.3dmgame.com/uploads/images/news/20250317/1742171254_284952_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间: 2025-03-17 15:45)
+
+## 1. [第19屆聲優大賞得獎名單公布，《轉生史萊姆》岡咲美保+《鬼太郎誕生》關俊彥獲主演獎](https://www.4gamers.com.tw/news/detail/70707/19th-seiyu-awards)   2025-03-17 15:00
+
+第19屆聲優大賞揭晓，《關於我轉生變成史萊姆這檔事》利姆路·坦派斯特聲優岡咲美保和《鬼太郎誕生咯咯咯之謎》鬼太郎父親聲優關俊彥分获主演声优奖。声优大赏旨在提升声优社会地位，并表彰年度最具影响力的声音表演。本次奖项还涵盖助演声优奖、歌唱奖、新人声优奖等多个类别。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b6a038593937cdf0a5d09173c2a2fb1200ffa760.jpeg)
+
+---
+
+## 2. [hololive出席大阪世博！星街彗星、櫻巫女等16人一夜限定「Japan Expo」開唱](https://www.4gamers.com.tw/news/detail/70712/vtuber-group-hololive-cover-presents-japan-expo-paris-in-osaka-2025-expo)   2025-03-17 14:48
+
+大阪世博会将迎来hololive的特别演出，16名成员将在“一夜限定”活动中献唱。观众需通过抽票机制参与，演出将不进行直播或录制，展现“限此机会”的独特魅力。
+
+![](https://img.4gamers.com.tw/puku-clone-version/effdc45d99fea0e81e0cb7d59b7baae822090cbc.jpg)
+
+---
+
+## 3. [《洗衣店模拟器》Steam上线 洗衣店幌子假货铺经营](https://www.3dmgame.com/news/202503/3916549.html)   2025-03-17 14:41
+
+《洗衣店模拟器》是一款别出心裁的经营游戏，玩家将管理一家表面上的洗衣店，而实际经营假货铺。游戏支持中文，内容轻松有趣，结合经营与犯罪元素。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742193640_760233.jpg)
+
+---
+
+## 4. [米哈游创始人的AI游戏内测开启 AI女友在外星求生](https://www.3dmgame.com/news/202503/3916548.html)   2025-03-17 14:33
+
+米哈游创始人蔡浩宇的新作《群星低语》曝光，该AI驱动游戏让玩家实时与AI角色互动，影响其情绪和决策。内测反馈好评如潮，未来或加入更多探索机制。
+
+![](https://img.3dmgame.com/uploads/images/news/202503311## 1全球卖https.com/  1729周边SE”正式和世[](dmgame.com/uploads/images/news/20250317/1742192881_465679_jpg_r.jpg)
+
+6R新宣传.com/news/3916546.html)   2025-03-17 14:20
+
+《Hero’s将uel独玩家气击[](https.com/2193937估仍開賣.tw/newsintendo-cost-biggest-console-launch-ever)-分析师超过望最强容![](https://img.4gamers.com.tw/puku/154d41.jpg [55-h.playstation.com/2025/03/17/20250317-lsa/)   2025-03-17 14:00
+
+动作R于PS的的情节与[](flickr.com/54379.》5 登陆Steam](httpsgame/ 20217 13:56
+
+《少女前线》继承版将于2025年夏季上线，玩家在国服全部。未来dm/331)
+
+---
+
+## 10. [《方块方舟》新内容透露，版本更新等多重惊喜来袭](.3/news)03方圣帕更新暗示玩法上线。游戏现参与季仅[](https.com17241
