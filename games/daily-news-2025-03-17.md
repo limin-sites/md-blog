@@ -139,3 +139,65 @@ Ritual Interactive推出的《洗衣店模拟器》在Steam正式上架，支持
 
 ![](https://img./images174)
 
+
+# 新闻简报(更新时间:2025-03-17 20:46)
+
+## 1. [石油盃《英雄联盟》2025电竞世界杯赛程公布，T1战队直接参赛](https://www.4gamers.com.tw/news/detail/70718/details-on-league-of-legends-at-the-esports-world-cup)   2025-03-17 18:50
+
+沙特阿拉伯主办的电竞世界杯（EWC）宣布《英雄联盟》成为长期赛事，至少持续至2027年。今年的赛事将于7月16日至20日举行，总奖金达200万美元。包括T1在内的12支队伍参赛，赛制采用全局BP选角规则。总决赛将在7月20日进行，此外还将涵盖其他电竞项目如《战棋》和《特战英豪》。
+
+![](https://img.4gamers.com.tw/puku-clone-version/64a6349530952a326c21f7582a2a1415160ebbe0.jpg)
+
+---
+
+## 2. [《我是不才恶女：雏宫蝶鼠互换传》动画化确定](https://www.4gamers.com.tw/news/detail/70720/though-i-am-an-inept-villainess-animation)   2025-03-17 18:50
+
+中村颯希小说《我是不才恶女：雏宫蝶鼠互换传》宣布动画化，由动画工房制作。故事讲述体弱多病的雏女黄玲琳意外与朱慧月互换身体后的命运转折。小说累计销量超300万册，动画制作团队阵容强大，备受期待。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f708281db598477456fb06d7134f618a1c7df60.png)
+
+---
+
+## 3. [华硕更新ROG主板设计减少显卡磨损](https://www.4gamers.com.tw/news/detail/70719/asus-slientliy-change-motherboard-pcie-slot-design)   2025-03-17 18:18
+
+华硕针对新生产的ROG主板进行了设计改进，优化了PCIe插槽设计以降低显卡磨损问题。新版本插槽卡扣变薄，进一步减少与显卡的摩擦，同时通过背板焊接点确保支撑性。这些改进暂未公开宣传。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0e4bcc2281f9361d16dbec5569d97d098777f8d2.webp)
+
+---
+
+## 4. [《浩劫前夕》开发商起诉俄媒称其游戏为“诈骗”](https://www.4gamers.com.tw/news/detail/70717/the-day-before-studio-reportedly-sues-russian-website-for-calling-infamous-disaster-game-scam)   2025-03-17 18:17
+
+《浩劫前夕》开发商Fntastic因不满俄媒将其游戏称为“诈骗”，提起诉讼。该游戏因内容质量问题在上线后饱受批评。Fntastic表示俄媒的报道妨害其声誉，并要求删除不实内容。这一举动引发了外界对其品牌策略的讨论。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5927d5d505b266f77cbeb5d1c23eb5c67567e21f.jpg)
+
+---
+
+## 5. [小米汽车SU7外观专利获批，销量持续增长](https://www.3dmgame.com/news/202503/3916562.html)   2025-03-17 18:02
+
+小米汽车宣布SU7车型外观设计专利获批，强调模仿者需谨慎。SU7系列销量迅猛增长，2025年3月累计新增锁单预计达5万份，创下历史新高。官方预计部分车型交付周期为14至40周。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742202237_402318.jpg)
+
+---
+
+## 6. [人生模拟游戏《inZOI》全球发布会即将举行](https://www.3dmgame.com/news/202503/3916563.html)   2025-03-17 17:58
+
+《inZOI》开发商宣布将于3月19日举办线上发布会，介绍抢先体验版新功能及未来更新计划。玩家可通过官方B站频道观看直播并参与实时问答。游戏主打高度自由的虚拟生活，预计3月28日正式上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742205364_185723.jpg)
+
+---
+
+## 7. [RTX 4090显卡维修纠纷获赔1万元](https://www.3dmgame.com/news/202503/3916561.html)   2025-03-17 17:56
+
+上海一男子因显卡维修纠纷报警维权，最终与维修人员达成和解，获得1万元赔偿。事件涉及维修人员以7700元低价购买疑似损坏的RTX 4090显卡，引发对维修服务行业的关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742202002_767153.jpg)
+
+---
+
+## 8. [小米SU7外观专增长](https://)   2025-03-17 18:02
+
+小米汽车宣布SU7车型，强调模锁单预计达5万份预计部分车型交/news/202503
