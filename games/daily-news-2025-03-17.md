@@ -85,3 +85,57 @@
 ![](https://img.3dmgame.com/uploads/images/news/20250317/1742171797_466513_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-17 15:45)
+
+## 1. [第19屆聲優大賞得獎名單公布，《轉生史萊姆》岡咲美保+《鬼太郎誕生》關俊彥獲主演獎](https://www.4gamers.com.tw/news/detail/70707/19th-seiyu-awards) 2025-03-17 15:00
+
+第19屆（2024年度）聲優大賞頒獎典禮圓滿落幕，主演聲優獎由岡咲美保和關俊彥獲得。聲優大賞旨在提升聲優的社會地位，吸引了各界關注。本次獲獎名單包括新人聲優獎、歌唱獎、遊戲獎等多個獎項。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b6a038593937cdf0a5d09173c2a2fb1200ffa760.jpeg)
+
+---
+
+## 2. [hololive出席大阪世博！星街彗星、櫻巫女等16人一夜限定「Japan Expo」開唱](https://www.4gamers.com.tw/news/detail/70712/vtuber-group-hololive-cover-presents-japan-expo-paris-in-osaka-2025-expo) 2025-03-17 14:48
+
+大阪世博會宣布hololive將在4月26日的「Japan Expo」活動中進行一夜限定演出。表演陣容包含日本、ID和EN分部的多位知名VTuber，演出需提前抽票預約，活動不提供直播或回放。
+
+![](https://img.4gamers.com.tw/puku-clone-version/effdc45d99fea0e81e0cb7d59b7baae822090cbc.jpg)
+
+---
+
+## 3. [《洗衣店模拟器》Steam上线 洗衣店幌子假货铺经营](https://www.3dmgame.com/news/202503/3916549.html) 2025-03-17 14:41
+
+Ritual Interactive推出的《洗衣店模拟器》在Steam正式上架，支持中文。玩家将经营一家表面是洗衣店，实则为造假作坊的企业，体验复杂的经营与犯罪活动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742193640_760233.jpg)
+
+---
+
+## 4. [米哈游创始人的AI游戏内测开启 AI女友在外星求生](https://www.3dmgame.com/news/202503/3916548.html) 2025-03-17 14:33
+
+米哈游创始人蔡浩宇的新作《群星低语》曝光，这是一款AI驱动的科幻互动游戏，玩家需通过对话帮助AI角色在外星球生存。游戏支持多种交互方式，内测反响热烈。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742193113_700417.jpg)
+
+---
+
+## 5. [5月1日世界重启！世嘉全球首家周边专卖店落户上海百联ZX](https://www.3dmgame.com/news/202503/3916547.html) 2025-03-17 14:29
+
+世嘉宣布全球首家IP周边专卖店“SEGA STORE SHANGHAI”将于5月1日正式业，ZX店边https/uploads/news/20250317/174219288_jpg6PG片://www/news60317 14:VillainR于。PG玩法险.3/images/1742192206_407393.jpg)
+
+---
+
+## 7. [分析師預估Switch2價格將達400美元以上仍賣紀www/detail2400gest-console-launch-ever) 2025- 預售仍發。豐富陣車作。
+
+![](https://img.4gamers.com.tw/puku-cl5918b51855blogant.playstation.com/2025/03/17/20250317sa/)17作魂30 以震統的購[](655c---
+
+##《宣布陆./ 2025-03- 13:》继5Steam中的img/news174pg_r.jpg)
+
+---
+
+## 10. [《方块方舟》新，惊wwwgame65403
+
+帕特，并告春季促销活动，折扣价仅售34元。
+
+![](https://img./images174)
+
