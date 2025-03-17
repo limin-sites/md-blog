@@ -112,3 +112,78 @@
 ---
 
 ## 10. [《方块方舟》新内容透露，版本更新等多重惊喜来袭](.3/news)03方圣帕更新暗示玩法上线。游戏现参与季仅[](https.com17241
+# 新闻简报(更新时间:2025-03-17 20:45)
+
+## 1. [石油盃《英雄联盟》2025电竞世界杯赛事信息公开，卫冕战队T1保送参赛](https://www.4gamers.com.tw/news/detail/70718/details-on-league-of-legends-at-the-esports-world-cup) 2025-03-17 18:50
+
+沙特阿拉伯主办的电竞世界杯宣布《英雄联盟》将成为长期赛事项目，至少持续到2027年。今年奖金池高达200万美元，比赛时间为7月16日至20日。卫冕冠军T1直接晋级，赛事采用全局BP选角规则。其他赛区也将派队伍参赛，预计激烈对决。
+
+![](https://img.4gamers.com.tw/puku-clone-version/64a6349530952a326c21f7582a2a1415160ebbe0.jpg)
+
+---
+
+## 2. [《我是不才恶女：雏宫蝶鼠互换传》动画化确定！《吉伊卡哇》动画工房操刀](https://www.4gamers.com.tw/news/detail/70720/though-i-am-an-inept-villainess-animation) 2025-03-17 18:50
+
+中村颯希的小说将被改编为电视动画，由动画工房制作。故事讲述雏女黄玲琳与朱慧月因身体互换而展开的冒险。原作小说累计销量超过300万本，改编漫画也备受好评，动画制作团队阵容强大。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f708281db598477456fb06d7134f618a1c7df60.png)
+
+---
+
+## 3. [华硕悄悄更新ROG主机板设计，减少显卡被磨损的可能](https://www.4gamers.com.tw/news/detail/70719/asus-slientliy-change-motherboard-pcie-slot-design) 2025-03-17 18:18
+
+华硕对新生产的主机板进行了调整，优化PCIe卡扣设计以减少显卡磨损问题。同时可能通过增加PCB焊接点保障支撑性，用户购买时需注意版本差异。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0e4bcc2281f9361d16dbec5569d97d098777f8d2.webp)
+
+---
+
+## 4. [《浩劫前夕》开发商Fntastic起诉俄媒妨害名誉](https://www.4gamers.com.tw/news/detail/70717/the-day-before-studio-reportedly-sues-russian-website-for-calling-infamous-disaster-game-scam) 2025-03-17 18:17
+
+因俄媒称其游戏是“骗局”，Fntastic提起诉讼，指控对方妨碍声誉。《浩劫前夕》曾因内容贫乏而饱受争议，此次诉讼引发外界对其未来的关注。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5927d5d505b266f77cbeb5d1c23eb5c67567e21f.jpg)
+
+---
+
+## 5. [小米汽车获SU7外观专利：胆敢模仿有风险](https://www.3dmgame.com/news/202503/3916562.html) 2025-03-17 18:02
+
+小米汽车申请的“整车”外观专利获授权。SU7车型销量持续增长，预计本月新增锁单量将突破5万份，创历史新高。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742202237_402318.jpg)
+
+---
+
+## 6. [人生模拟游戏《inZOI》3月19日全球直播，千万别错过](https://www.3dmgame.com/news/202503/3916563.html) 2025-03-17 17:58
+
+开发商InZOI Studio将举办全球线上发布会，介绍新功能、更新路线图及DLC计划。《inZOI》由虚幻5引擎打造，主打创造和家庭生活体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742205310_451045.png)
+
+---
+
+## 7. [维修变欺诈！价值1.58万RTX 4090被维修员7700元忽悠走](https://www.3dmgame.com/news/202503/3916561.html) 2025-03-17 17:56
+
+上海一男子因显卡维修问题受骗，最终通过报警和维权获得维修人员额外赔付1万元。此事引发对维修行业诚信问题的关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742202002_767153.jpg)
+
+---
+
+## 8. [万代推出全新HG精神力高达MK2钢普拉，3月22日发售](https://www.3dmgame.com/news/202503/3916558.html) 2025-03-17 17:13
+
+精神力高达MK2模型高度约270mm，可变形为机甲形态，售价11000日元。官方发布了多张精美样品图，引发高达迷期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742202699_922186.png)
+
+---
+
+## 9. [科幻恐怖动画《玲音》公认二创RPG《//signal.》4月底登陆Steam与itch.io](https://www.4gamers.com.tw/news/detail/70715/serial-experiments-lain-officially-approved-rpg-signal-released-on-april-30th) 2025-03-17 17:07
+
+经典动画《玲音》衍生RPG《//signal.》宣布4月30日推出，售价仅1000日元，玩家://img.4gamers.com.tw/puku-clone-version/92e63bd04188f7a3c0c0c0179988e5c5b8491e98.jpg)
+
+---
+
+## 10. [《最终幻想》设计师称蒂法魅力不仅在外表，性格也重要/news/202503/3916555.html) 2025-03-17 16:07
+
+《最终幻想7：奖，蒂她的/images/news/_r.jpg
