@@ -209,3 +209,42 @@ LBM技术支持对象移除、光照调整以及图像转换任务，凭借潜�
 ![](https://pic.chinaz.com/picmap/202308231446125698_0.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-17 15:46)
+
+## 1. [Groundlight 开源框架，搞定复杂的视觉推理](https://www.aibase.com/zh/news/16342)   2025-03-17 15:00
+
+Groundlight 团队宣布开源全新 AI 框架，旨在解决视觉推理难题。该框架通过强化学习和 GRPO 技术优化视觉语言模型（VLM）的推理能力。研究人员设计了需要处理视觉和文本信息的任务，验证模型准确率达 96%。此外，项目还提出了选择性模型升级等技术，进一步提升推理效率。
+
+![](https://upload.chinaz.com/2025/0317/6387782039245276335323277.png)
+
+---
+
+## 2. [联想问天WA7785a G3服务器创纪录!单机运行671B DeepSeek大模型吞吐量高达6708token/s!](https://www.aibase.com/zh/news/16341)   2025-03-17 14:51
+
+联想宣布其首款 AMD AI 大模型训练服务器问天 WA7785a G3 创下新纪录，在运行 DeepSeek 671B 模型时达 6708 token/s 吞吐量，刷新行业性能记录。此次突破得益于联想在访存优化、显存优化以及 PCIe5.0 全互联架构的创新技术。
+
+![](https://pic.chinaz.com/picmap/202304071422099476_0.jpg)
+
+---
+
+## 3. [真正的AI智能体时代即将到来，我们发现了几点「苦涩的教训」](https://www.jiqizhixin.com/articles/2025-03-17-5)   2025-03-17 14:44
+
+AI 智能体能力快速提升，但也暴露出一些问题：如无法制定长期计划、记忆不足、难以完成复杂任务等。博客探讨了 LLM 智能体的定义及其在多步训练和任务推理中的进展，指出未来需改进智能体的搜索与学习能力以突破现有瓶颈。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW9wTzGflc4jgIia5Fxib81cfZcDDaqmeb8xeCmKD41CdH2ISqTGHMTsChrqDuJO0vkH7qUV3D0VicicXw/640)
+
+---
+
+## 4. [北大团队提出LIFT：将长上下文知识注入模型参数，提升大模型长文本能力](https://www.jiqizhixin.com/articles/2025-03-17-4)   2025-03-17 14:42
+
+北京大学提出的新框架 LIFT，通过将长文本知识存储至模型参数中，提升大模型对长文本的理解方法著提高了长文本任务的效率准确表现场!iz_mAPb7Vi98uib640研究 聊可信www/5
+
+GPT八 聊机器人率经无公众呼和!in/.jpg)
+
+## 高类.a39-Open，202类编90能力已经排名 名 编[](/p503 怎么集、这里](ixin-536阶SER数据评 数据集涵盖 17,多创新 AI扮!.qizAPAGjlMypDdutIPKjEtclia3R35ewy1nia/---
+
+？「火真的izh   2025- 机器人功帮网络质拍精准了[](pic_g/KmXPKA19gW9wTzGflc4jgIia5Fxib81ZFxraIP)
+
+米推顶www.aibase.com/zh/news/16338   团队U取得率该提供进一步[](in/332.智](zh  14办万智降低开从和。
+
+!7034---
