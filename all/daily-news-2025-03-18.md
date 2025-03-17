@@ -80,3 +80,52 @@ AMD在日本市场份额达45%，引发业内关注。代表表示，公司尚�
 ## 10. [与《艾尔登法环https://www.5-03-17 《星际：异艾尔登法环》。玩家将探索未知星球，揭开神秘事件。顽皮狗负责人称游戏传递孤独和绝望感。  
 
 img.3dm174220085
+# 新闻简报(更新时间:2025-03-18 05:45)
+
+## 1. [和尚Wololo！《世纪帝国2：决定版》4月迎重大更新，单元与建筑翻新、战役平衡等8000字说明文件释出](https://www.4gamers.com.tw/news/detail/70722/age-of-empires-2-team-delivering-0legendarily-long-8000-word-patch-notes-for-april-update)   2025-03-18 01:16
+
+《世纪帝国2：决定版》将于4月迎来史上最大规模更新，涵盖文明平衡调整、单元与建筑全面翻新，以及新增环境视觉效果。此次更新还新增熊猫巨石地形、两张随机对战地图及中国长城等内容。官方预告中透露，未来DLC将增加5个全新文明。
+
+![](https://img.4gamers.com.tw/puku-clone-version/72e58e4591f5684e46063933bcbd4adb4fc398ca.webp)
+
+---
+
+## 2. [《刺客信条：影》武器指南：探索忍者与武士的独特战斗风格](https://news.xbox.com/en-us/2025/03/17/assassins-creed-shadows-weapon-guide/)   2025-03-18 00:00
+
+《刺客信条：影》将于2025年3月20日发售，玩家可操作两位角色：敏捷的忍者Naoe和强大的武士Yasuke。两位角色拥有独特的武器与战斗技能，游戏还支持武器升级及稀有度系统。预购玩家可获额外任务及扩展包。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/MAIN-THUMBNAIL-AC-Shadows-d08ebbbba185fdf989cc-1024x576.jpg)
+
+---
+
+## 3. [Xbox 360破解新方法BadUpdate问世：无需开机即可运行自制软件](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-17 23:03
+
+Xbox 360主机破解者发现了一种名为“BadUpdate”的新漏洞，通过使用USB闪存驱动器绕开微软Hypervisor保护，可运行自制应用与游戏。然而，该方法需要每次启动主机时重新运行，且实施过程可能耗时较长。
+
+![](https://static.willmao.com/feed_upload/2025-03-17/22-43-34-phpDcL7DS.png)
+
+---
+
+## 4. [《最后的生还者》第二季发布海报，致敬顽皮狗原作](https://www.3dmgame.com/news/202503/3916569.html)   2025-03-17 22:25
+
+HBO发布《最后的生还者》第二季海报，设计致敬顽皮狗游戏《最后的生还者2》。海报暗示剧中角色将面临艰难抉择与生存挑战。该剧将于2025年4月13日在Max平台首播。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742221456_680957.jpg)
+
+---
+
+## 5. [《刺客信条：影》评分将于3月19日凌晨解禁](https://www.3dmgame.com/news/202503/3916568.html)   2025-03-17 21:51
+
+《刺客信条：影》媒体评分将在北京时间3月19日凌晨1点解禁，玩家投票预测该作评分有望达到8分以上，被寄予厚望的这款游戏或将对育碧的未来发展产生重要影响。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742219449_725139.jpg)
+
+---
+
+## 6. [AMD日本市场份额达45%，RX 9070显卡在日本热销](https://www.3dmgame.com/news/202503/3916567.html)   2025-03-17 21:24
+
+AMD日本市场份额已达45%，RX 9070显卡供不应求。官方代表表示，虽然显卡溢价严重，但AMD将以70%市场份额为目标继续努力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742217725_410649_jpg_r.jpg)
+
+---
