@@ -129,3 +129,84 @@ AMD日本市场份额已达45%，RX 9070显卡供不应求。官方代表表示�
 ![](https://img.3dmgame.com/uploads/images/news/20250317/1742217725_410649_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-18 10:45)
+
+## 1. [《双截龙外传：双龙出海》将推出免费更新 添加两个可玩角色](https://www.3dmgame.com/news/202503/3916593.html)   2025-03-18 10:14
+
+3月18日，《双截龙外传：双龙出海》宣布将于4月推出免费内容更新，新增两个可玩角色：Jeff和Abore，并计划在今年晚些时候添加更多角色。这款横板清屏Roguelite游戏目前已登陆多个平台，包括PS5、PS4、Xbox等。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263876_415139_jpg_r.jpg)
+
+---
+
+## 2. [令人担忧 EA突然下架Steam上多款游戏](https://www.3dmgame.com/news/202503/3916588.html)   2025-03-18 10:13
+
+EA近日从Steam中下架了六款由Codemasters开发或发行的经典游戏，包括《诅咒》和《闪点行动》。玩家在尝试访问这些游戏时会遇到错误提示，此举引发了对数字平台保存旧游戏问题的担忧。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263045_262908_png_r.webp)
+
+---
+
+## 3. [索尼新成立PS第一方工作室Dark Outlaw Games，前《COD：Ops》製作人領銜](https://www.4gamers.com.tw/news/detail/70724/sony-interactive-entertainment-establishes-dark-outlaw-games-led-by-jason-blundell)   2025-03-18 10:13
+
+索尼互动娱乐成立新工作室Dark Outlaw Games，由《使命召唤：黑色行动》系列制作人Jason Blundell领衔。团队目前专注于创意碰撞和测试各种想法，未来或将发布更多消息。
+
+![](https://img.4gamers.com.tw/puku-clone-version/89fb8b804788da623e4d9aca95e1ab6e7b55f64b.jpg)
+
+---
+
+## 4. [《逃离塔科夫》0.16.2.0版本更新：AI升级现已推出](https://www.3dmgame.com/news/202503/3916592.html)   2025-03-18 10:10
+
+《逃离塔科夫》发布最新版本补丁，升级了游戏内AI行为，优化了敌人检测机制并调整了Boss出现几率，同时改善了地图性能和修复了大量BUG。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263846_864837_png_r.webp)
+
+---
+
+## 5. [《潜行者2》将有更强大的Mod支持 让Mod作者更容易创作](https://www.3dmgame.com/news/202503/3916591.html)   2025-03-18 10:02
+
+《潜行者2》官方宣布将提供更强大的Mod支持，鼓励玩家创作更多内容。此外，游戏原版三部曲将进行更新，并计划推出多个DLC及免费的PvP多人模式。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263205_437387_jpg_r.jpg)
+
+---
+
+## 6. [新游《饿殍：明末千里行》NS日版停售 明末乱世冒险](https://www.3dmgame.com/news/202503/3916590.html)   2025-03-18 10:01
+
+新游《饿殍：明末千里行》因更换发行商宣布NS日版停售，但已购买的玩家不受影响。游戏以明末乱世为背景，讲述护送女童的冒险故事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263238_481704.webp)
+
+---
+
+## 7. [双人合作解谜冒险游戏《双人大逃脱：失落的潜艇》Steam页面 年内发售](https://www.3dmgame.com/news/202503/3916589.html)   2025-03-18 10:00
+
+《双人大逃脱：失落的潜艇》开放Steam页面，预计2025年发售，支持双人合作解谜玩法，一人购买即可双人游玩。游戏考验沟通与团队协作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263135_340531_jpg_r.jpg)
+
+---
+
+## 8. [上市即限免！Steam派對遊戲《小動物餐吧》24小時限時免費](https://www.4gamers.com.tw/news/detail/70723/party-club-release-and-giving-away-for-24-hours)   2025-03-18 09:55
+
+《小动物餐吧》宣布发售即限时免费24小时。玩家可永久保留至Steam收藏库，与朋友一起经营餐厅并应对顾客的各种挑战。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9f0022c5788654675786488d941653750c85c857.jpg)
+
+---
+
+## 9. [《活侠传》更新日志：新剧情开发在稳步推进中](https://www.3dmgame.com/news/202503/3916586.html)   2025-03-18 09:50
+
+《活侠传》官方公布更新日志，透露新剧情和韩文版开发进展，同时计划对游戏内容进行扩充和优化，部分删除的剧本将重新实装。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742262600_700171_jpg_r.jpg)
+
+---
+
+## 10. [报道称《奇异人生：双重曝光》给史克威尔·艾尼克斯带来巨大损失](https://www.3dmgame.com/news/202503/3916585.html)   2025-03-18 09:45
+
+《奇异人生：双重曝光》因销量未达预期给SE造成巨大损失。开发商Deck Nine宣布裁员，未来系列计划尚不明确。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742262342_155206_jpg_r.jpg)
+
+---
