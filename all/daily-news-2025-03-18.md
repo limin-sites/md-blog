@@ -229,3 +229,74 @@ EA近日从Steam中下架了六款由Codemasters开发或发行的经典游戏�
 ---
 
 ## 3. [SNK新作格鬥遊戲《餓狼傳說 City of the Wolves
+# 新闻简报(更新时间:2025-03-18 20:45)
+
+## 1. [Steam双人合作《How 2 Escape: Lost Submarine》公布](https://www.4gamers.com.tw/news/detail/70745/how-2-escape-lost-submarine-steam-page-release)   2025-03-18 18:51
+
+法国独立工作室Breakfirst Games开发的双人合作解谜冒险游戏《How 2 Escape: Lost Submarine》正式上线Steam商店页面。一人操作电脑或主机，另一人使用手机，通过不同设备协力解谜，寻找失踪的潜艇并阻止世界大战爆发。游戏支持多语言，计划在2025年登陆多平台。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ec0d438d5c18a84aeed164522e404b9205fca994.jpg)
+
+
+## 2. [絆爱签约日本娱乐公司ASOBISYSTEM](https://www.4gamers.com.tw/news/detail/70743/kizuna-ai-signs-agency-contract-with-japanese-entertainment-giant-asobisystem)   2025-03-18 18:41
+
+日本虚拟偶像絆爱宣布与ASOBISYSTEM签订经纪合约，全面进军音乐事业。ASOBISYSTEM将助力其拓展国际市场，未来内容制作仍由絆爱团队负责。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f920fea5e4eb3f771bab88084528885c0021b40b.jpg)
+
+
+## 3. [巴西Ubisoft推出《刺客教条 暗影者》特摄风宣传片](https://www.4gamers.com.tw/news/detail/70744/80s-special-effects-style-footage-of-assassins-creed-shadows)   2025-03-18 18:19
+
+Ubisoft巴西分公司发布了一部特摄风格的《刺客教条 暗影者》宣传片，致敬80年代特摄片文化。这部影片吸引了日本玩家关注，也为游戏3月20日的正式发售预热。
+
+![](https://img.4gamers.com.tw/puku-clone-version/65ecca2b5d198d1de75b4c3c42a1bfb0c46fb4ad.png)
+
+
+## 4. [RTX 50显卡成本高企 导致原价销售几乎无利可图](https://www.3dmgame.com/news/202503/3916641.html)   2025-03-18 17:52
+
+RTX 50系列显卡因GPU芯片和显存成本占比高达80%，导致AIC厂商难以按MSRP原价销售。厂商多选择推出超频版以提高售价以获利。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742288792_282185_jpg_r.jpg)
+
+
+## 5. [《黎明杀机》联动《东京食尸鬼》即将上线](https://www.3dmgame.com/news/202503/3916630.html)   2025-03-18 15:41
+
+《黎明杀机》宣布与《东京食尸鬼》联动，金木研将作为杀手角色登场，活动将于4月3日正式上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742283599_604022_jpg_r.jpg)
+
+
+## 6. [新研究：人类智力水平可能正在下降](https://www.3dmgame.com/news/202503/3916629.html)   2025-03-18 15:37
+
+最新研究表明，现代生活方式和被动信息接收可能导致人类推理和解决问题能力下降。OECD的PISA测试数据显示，许多国家学生的认知能力自2010年代初达到顶峰后持续下滑。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742283424_304271.jpg)
+
+
+## 7. [《异度之刃X：终极版》容量优化至13.5GB](https://www.3dmgame.com/news/202503/3916625.html)   2025-03-18 15:32
+
+《异度之刃X：终极版》即将登陆Switch平台，虽然分辨率提升50%并包含所有附加内容，但游戏容量仅13.5GB，相较WiiU原版减少了10GB，受到玩家赞誉。
+
+![](https://img.3dmgame.com/uploads/images/news/20250220/1740017735_165283_jpg_r.jpg)
+
+
+## 8. [像素末日动作冒险游戏《腐化容器》将于2025年推出](https://www.3dmgame.com/news/202503/3916627.html)   2025-03-18 15:11
+
+《腐化容器》是一款以北欧神话为背景的像素风动作冒险游戏，预计2025年登陆全平台，支持中文。游戏采用独特的战斗系统和终结技，玩家将探索极具艺术感的手绘世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742281794_346601_png_r.webp)
+
+
+## 9. [动漫音乐祭ANISAMA WORLD 2025台北演出艺人名单公布](https://www.4gamers.com.tw/news/detail/70733/anisama-world-2025-in-taoyuan-announcement-1st-lineup)   2025-03-18 14:42
+
+全球最大动漫音乐会ANISAMA将于5月24日在台北举办。首波艺人名单包括ASCA、GARNiDELiA、森口博子等，演出阵容豪华。
+
+![](https://img.4gamers.com.tw/puku-clone-version/87066bb27adb6710703a984840265c354e865174.png)
+
+
+## 10. [《鹅鸭杀》或将推出手游 国服代理已确定](https://www.3dmgame.com/news/202503/3916621.html)   2025-03-18 14:34
+
+曾风靡一时的狼人杀游戏《鹅鸭杀》主创确认已与中国公司合作，或将推出手游版本，更多消息值得期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742279477_929866.png)
+
