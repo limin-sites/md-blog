@@ -102,3 +102,84 @@ AMD在日本市场份额已达45%，但Radeon RX 9070显卡持续缺货，价格
 ![](https://img.3dmgame.com/uploads/images/news/20250317/1742217725_410649_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-18 10:45)
+
+## 1. [《双截龙外传：双龙出海》将推出免费更新 添加两个可玩角色](https://www.3dmgame.com/news/202503/3916593.html)   2025-03-18 10:14
+
+横板清屏Roguelite游戏《双截龙外传：双龙出海》宣布将于4月推出免费内容更新，为游戏添加两个全新可玩角色：Jeff和Abore，同时计划在今年晚些时候再添加六位新角色。该游戏现已登陆多个平台，包括PS5、PS4、Xbox Series X|S、Xbox One、Switch和Steam。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263876_415139_jpg_r.jpg)
+
+---
+
+## 2. [令人担忧 EA突然下架Steam上多款游戏](https://www.3dmgame.com/news/202503/3916588.html)   2025-03-18 10:13
+
+EA突然从Steam中撤下Codemasters开发的六款经典游戏，包括《诅咒》和《医院大亨》等，引发玩家对数字游戏平台保存旧游戏问题的担忧。目前，EA未对此事作出说明。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263036_513994_png_r.webp)
+
+---
+
+## 3. [索尼新成立PS第一方工作室Dark Outlaw Games，前《COD：Ops》製作人領銜](https://www.4gamers.com.tw/news/detail/70724/sony-interactive-entertainment-establishes-dark-outlaw-games-led-by-jason-blundell)   2025-03-18 10:13
+
+索尼互動娛樂成立新工作室Dark Outlaw Games，由《决胜时刻：黑色行动》系列制作人Jason Blundell领衔开发。这是索尼五年来首次新设第一方工作室，团队目前低调扩展中。
+
+![](https://img.4gamers.com.tw/puku-clone-version/89fb8b804788da623e4d9aca95e1ab6e7b55f64b.jpg)
+
+---
+
+## 4. [《逃离塔科夫》0.16.2.0版本更新：AI升级现已推出](https://www.3dmgame.com/news/202503/3916592.html)   2025-03-18 10:10
+
+硬核射击游戏《逃离塔科夫》发布0.16.2.0版本补丁，优化了AI敌人行为，同时调整了Boss和特殊敌人的出现几率。更新还解决了地图“海关”的内存消耗问题，并修复了大量BUG。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263846_864837_png_r.webp)
+
+---
+
+## 5. [新游《饿殍：明末千里行》NS日版停售 明末乱世冒险](https://www.3dmgame.com/news/202503/3916590.html)   2025-03-18 10:01
+
+新游《饿殍：明末千里行》因更换发行商，宣布NS日版停售。玩家将扮演盗匪护送女童穿越乱世，揭露食人妖豚的真相。售出的游戏不受影响，具体再开日期未定。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263238_481704.webp)
+
+---
+
+## 6. [双人合作解谜冒险游戏《双人大逃脱：失落的潜艇》Steam页面 年内发售](https://www.3dmgame.com/news/202503/3916589.html)   2025-03-18 10:00
+
+双人合作解谜冒险游戏《双人大逃脱：失落的潜艇》开放Steam页面，预计2025年内发售。游戏考验团队协作，玩家需解开谜题阻止世界大战的爆发，一人购买即可双人游玩。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742263160_621777.jpg)
+
+---
+
+## 7. [上市即限免！Steam派对游戏《小动物餐吧》24小时限时免费](https://www.4gamers.com.tw/news/detail/70723/party-club-release-and-giving-away-for-24-hours)   2025-03-18 09:55
+
+餐厅模拟派对游戏《小动物餐吧》发售首日宣布限时24小时免费。该作最多支持4人在线合作，玩家需经营餐厅并应对各种麻烦顾客。免费领取后可永久保存至Steam库。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9f0022c5788654675786488d941653750c85c857.jpg)
+
+---
+
+## 8. [《活侠传》更新日志：新剧情开发在稳步推进中](https://www.3dmgame.com/news/202503/3916586.html)   2025-03-18 09:50
+
+《活侠传》韩文版已进入最终润稿阶段，游戏本体将进行中型更新扩充内容。同时，新剧情仍处于开发中，团队承诺品质优先，并将在适当时机公布更多信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742262600_700171_jpg_r.jpg)
+
+---
+
+## 9. [报道称《奇异人生：双重曝光》给史克威尔·艾尼克斯带来巨大损失](https://www.3dmgame.com/news/202503/3916585.html)   2025-03-18 09:45
+
+《奇异人生：双重曝光》因褒贬不一的评价给史克威尔·艾尼克斯带来巨大损失。开发商Deck Nine游戏发布后宣布裁员，高清游戏部门收入下降被认为与该作销量低迷有关。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742262342_155206_jpg_r.jpg)
+
+---
+
+## 10. [《生化危机4》重制并非坦途 卡普空：搞砸了玩家会不满](https://www.3dmgame.com/news/202503/3916583.html)   2025-03-18 09:42
+
+《生化危机4：重制版》销量突破900万，但卡普空曾担心重制可能招致玩家不满。最终通过改进战斗节奏和风格，该作获得了成功，成为系列销售速度最快的游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742262070_799804_jpg_r.jpg)
+
+---
