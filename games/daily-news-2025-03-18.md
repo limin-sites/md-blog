@@ -183,3 +183,40 @@ EA突然从Steam中撤下Codemasters开发的六款经典游戏，包括《诅�
 ![](https://img.3dmgame.com/uploads/images/news/20250318/1742262070_799804_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-18 15:45)
+
+## 1. [「大」型绅士RPG《地平线行者》试玩，徜徉成熟姐姐之海](https://www.4gamers.com.tw/news/detail/70729/erolabs-r18-rpg-launch-review)   2025-03-18 14:47
+
+由韩国Gentlemaniac开发的《地平线行者》在成人平台EROLABS推出未删减版，玩家扮演「人神」，组建后宫并拯救世界。游戏采用回合制战棋玩法，角色设计以韩系性感风格为主，战斗中可体验丰富策略，而高感度互动更提供独特的3D动态体验。
+
+![](https://thumbor.4gamers.com.tw/FJthoLlI4kvlWBaV-ctBwg-5nEA=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F57955d75bcf165bfea13f2f4b042e1db10704e37.png)
+
+---
+
+## 2. [动漫音乐祭ANISAMA WORLD 2025 in TAOYUAN 第一波出演艺人名单正式公开](https://www.4gamers.com.tw/news/detail/70733/anisama-world-2025-in-taoyuan-announcement-1st-lineup)   2025-03-18 14:42
+
+全球最大动漫歌曲演唱会「Anisama」将于5月24日在桃园举办，公布的第一波艺人阵容包括ASCA、GARNiDELiA、ReoNa等8组艺人，演唱会将带来跨次元音乐盛宴。
+
+![](https://img.4gamers.com.tw/puku-clone-version/87066bb27adb6710703a984840265c354e865174.png)
+
+---
+
+## 3. [SNK新作格斗游戏《饿狼传说 City of the Wolves》第二次β版公开测试3/27开放](https://www.4gamers.com.tw/news/detail/70735/city-of-the-wolves-open-beta-2nd)   2025-03-18 14:38
+
+SNK即将发布的新作《饿狼传说 City of the Wolves》将于3月27日至31日开启第二次β测试，新增角色「狮鹫假面」和练习模式，测试平台覆盖PS5、Xbox Series X|S等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b42e719f4a0c3b5c361f9c8b54b445ee774661fc.jpg)
+
+---
+
+## 4. [SteamOS系统更新 改进桌面体验和第三方掌机支持](https://www.3dmgame.com/news/202503/3916624.html)   2025-03-18 14:36
+
+Valve发布SteamOS 3.7，，并，。容修img.3dmgame.com/uploads/3---
+
+《版高清.33.html)   2025-03-18万代偶学发布，，明星dm5039747_999406.png)
+
+--- 
+
+ 登夜君将://.com2-35法》5核心元素结合，!game5034 将确定](https://www.3dmgame.com/news1202热门《手游中国已确定img/uploads503929 [美国自://202.html-日本半利生产可能依板./images/.jpg)
+
+9末：渊虚之羽》新截图 怪物施放八卦术dm66120214：新截图场景发X[](httpsdm2023 102演已www/202503/3916617.html) 1820Demo挑战斗吸[](/uploads/images1742278562_989---访问
