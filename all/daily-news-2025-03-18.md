@@ -210,3 +210,22 @@ EA近日从Steam中下架了六款由Codemasters开发或发行的经典游戏�
 ![](https://img.3dmgame.com/uploads/images/news/20250318/1742262342_155206_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-18 15:45)
+
+## 1. [「大」型紳士RPG《地平線行者》試玩，徜徉成熟姊姊之海](https://www.4gamers.com.tw/news/detail/70729/erolabs-r18-rpg-launch-review)   2025-03-18 14:47
+
+由韓國Gentlemaniac開發的成人RPG《地平線行者》近日於EROLABS平台推出未刪減版。遊戲以次元裂縫為背景，講述玩家成為「人神」後與性感女性護衛隊建立感情並拯救世界。遊戲採回合制類戰棋玩法，並搭載豐富的角色設計與3D建模細節。
+
+![](https://thumbor.4gamers.com.tw/FJthoLlI4kvlWBaV-ctBwg-5nEA=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F57955d75bcf165bfea13f2f4b042e1db10704e37.png)
+
+---
+
+## 2. [動漫音樂祭ANISAMA WORLD 2025 in TAOYUAN 第一波出演藝人名單正式公開](https://www.4gamers.com.tw/news/detail/70733/anisama-world-2025-in-taoyuan-announcement-1st-lineup)   2025-03-18 14:42
+
+全球最大動漫歌曲演唱會Anisama將於2025年5月24日在台灣桃園舉辦。首波演出陣容包括ASCA、GARNiDELiA、ReoNa等8組藝人，將帶來一場跨世代動漫音樂盛宴。
+
+![](https://img.4gamers.com.tw/puku-clone-version/87066bb27adb6710703a984840265c354e865174.png)
+
+---
+
+## 3. [SNK新作格鬥遊戲《餓狼傳說 City of the Wolves
