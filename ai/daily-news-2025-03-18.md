@@ -153,3 +153,52 @@ Roblox宣布推出并开源Cube3D模型，可快速生成3D对象并计划支持
 ![](https://upload.chinaz.com/2025/0318/6387788685988203816592394.png)
 
 --- 
+# 新闻简报(更新时间:2025-03-18 15:46)
+
+## 1. [英伟达展示新一代 AI 芯片，重点关注 Blackwell 系列 GPU](https://www.aibase.com/zh/news/16383)   2025-03-18 14:56
+
+英伟达在即将召开的年度开发者大会上宣布展示最新的AI和量子计算芯片，重点推出Blackwell系列GPU。尽管受到中国企业DeepSeek的竞争压力，英伟达仍保持市场信心，高端GPU需求旺盛。此外，英伟达CEO黄仁勋提到下一波AI革命正在到来，公司将继续发展量子计算相关技术。
+
+![](https://pic.chinaz.com/picmap/201901301657262923_0.jpg)
+
+---
+
+## 2. [32B参数的“逆袭”！OLMo 2 32B横空出世，叫板GPT-3.5 Turbo](https://www.aibase.com/zh/news/16382)   2025-03-18 14:53
+
+艾伦人工智能研究所发布全新开源模型OLMo 2 32B，以320亿参数规模和显著性能超越GPT-3.5 Turbo。该模型采用多阶段训练方式，结合高效计算资源设计，已成为开源AI社区的里程碑。
+
+![](https://upload.chinaz.com/2025/0318/6387790632702590618173987.png)
+
+---
+
+## 3. [超越DeepSeek GRPO的关键RL算法，字节、清华AIR开源DAPO](https://www.jiqizhixin.com/articles/2025-03-18-9)   2025-03-18 14:46
+
+清华AIR与字节跳动联合开源DAPO算法，显著提升了AI强化学习效率。该算法在训练稳定性和性能上超越了DeepSeek GRPO，成功让Qwen2.5-32B模型在AIME 2024基准上获得50分。
+
+![](https://image.jiqizhixin.com/uploads/editor/ea5b4d2e-abc3-4397-a56e-554c9b8c7991/640.png)
+
+---
+
+## 4. [AI聊天机器人正迅速成为消费者寻找信息的新方式](https://www.aibase.com/zh/news/16381)   2025-03-18 14:37
+
+Adobe研究显示，AI聊天机器人在2024年假日季引导的零售流量增长1300%，用户停留时间和页面浏览量均显著提升。尽管谷歌AI搜索早期问题不断，AI搜索趋势不可逆转，其精准性和用户体验受到广泛好评。
+
+![](https://pic.chinaz.com/picmap/202304231721022231_3.jpg)
+
+---
+
+## 5. [先别骂队友，上交如何让DeepSeek R1在分手厨房再也不糊锅？](https://www.jiqizhixin.com/articles/2025-03-18-8)   2025-03-18 14:37
+
+上海交大团队开发的DPT-Agent框架，结合双过程理论，实现了AI与人类的实时同步协作能力。在游戏《Overcooked》中表现出色，显著提升了AI在实时协作场景中的效率和效果。
+
+![](https://image.jiqizhixin.com/uploads/editor/efaf7edd-b1e4-476f-b794-f131534d98d6/640.png)
+
+---
+
+## 6. [美的集团人形机器人样机首次曝光，可执行多种动作](https://www.aibase.com/zh/news  -机舞。工业，upload5321 把ibase/news/16379)   2025-03-18 1414企业身能力  多www5-18 14:06
+
+腾讯混元发布五款3D生成开源模型，通过创新技术实现30秒内生成高质量3D模型，适用于游戏、商品素材Daz031/6387790390090380023975689.png)
+
+---
+
+## 9. [Deep百度山/  03表现劲，百度上涨9.18%，金山云涨5.03%。这一波行情受大模型利的52578快AI芯片产业/news202-聚焦GPU、ASIC等重点，平台等
