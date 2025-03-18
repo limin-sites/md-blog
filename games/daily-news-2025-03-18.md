@@ -220,3 +220,82 @@ Valve发布SteamOS 3.7，，并，。容修img.3dmgame.com/uploads/3---
  登夜君将://.com2-35法》5核心元素结合，!game5034 将确定](https://www.3dmgame.com/news1202热门《手游中国已确定img/uploads503929 [美国自://202.html-日本半利生产可能依板./images/.jpg)
 
 9末：渊虚之羽》新截图 怪物施放八卦术dm66120214：新截图场景发X[](httpsdm2023 102演已www/202503/3916617.html) 1820Demo挑战斗吸[](/uploads/images1742278562_989---访问
+# 新闻简报(更新时间:2025-03-18 20:46)
+
+## 1. [Steam双人合作游戏《How 2 Escape: Lost Submarine》揭晓](https://www.4gamers.com.tw/news/detail/70745/how-2-escape-lost-submarine-steam-page-release)   2025-03-18 18:51
+
+由法国独立工作室Breakfirst Games开发的双人合作解谜冒险游戏《How 2 Escape: Lost Submarine》在Steam页面正式上线。该游戏通过主机与手机合作模式展开，玩家需协力寻找失踪潜艇以避免世界大战爆发。游戏支持多平台，包括PC、PS5、Switch等，计划于2025年推出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ec0d438d5c18a84aeed164522e404b9205fca994.jpg)
+
+---
+
+## 2. [VTuber绊爱签约ASOBISYSTEM，全面进军音乐事业](https://www.4gamers.com.tw/news/detail/70743/kizuna-ai-signs-agency-contract-with-japanese-entertainment-giant-asobisystem)   2025-03-18 18:41
+
+日本VTuber绊爱宣布与娱乐公司ASOBISYSTEM签署经纪合约，主攻音乐创作领域。ASOBISYSTEM将助力其在国际市场发展，目标传递Neo J-pop风潮。绊爱表示希望通过音乐与全球粉丝建立深层联系。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f920fea5e4eb3f771bab88084528885c0021b40b.jpg)
+
+---
+
+## 3. [《刺客教条 暗影者》昭和特摄风宣传片引发关注](https://www.4gamers.com.tw/news/detail/70744/80s-special-effects-style-footage-of-assassins-creed-shadows)   2025-03-18 18:19
+
+育碧巴西分公司发布了《刺客教条 暗影者》的昭和特摄风宣传片，影片以80年代风格展现主角的冒险故事。该游戏因涉及神社破坏等内容在日本引发争议，正式发售日期为3月20日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/65ecca2b5d198d1de75b4c3c42a1bfb0c46fb4ad.png)
+
+---
+
+## 4. [RTX 50显卡成本问题：物料占比高达80%](https://www.3dmgame.com/news/202503/3916641.html)   2025-03-18 17:52
+
+RTX 50显卡因高昂的GPU芯片和显存成本，厂商利润被压缩。据悉，显卡厂商为降低损失，往往选择推出高价超频版以弥补成本。同时，显卡供应紧张导致市场价格一度飙升至原价的两倍。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742288792_282185_jpg_r.jpg)
+
+---
+
+## 5. [《黎明杀机》联动《东京食尸鬼》：金木研化身BOSS杀手](https://www.3dmgame.com/news/202503/3916630.html)   2025-03-18 15:41
+
+《黎明杀机》与《东京食尸鬼》的联动即将上线，原作主人公金木研将在游戏中变为迷雾森林的BOSS杀手。开发团队表示，此次设定意在展现金木研压抑的内心世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742283599_604022_jpg_r.jpg)
+
+---
+
+## 6. [研究：现代生活方式或导致人类智力下降](https://www.3dmgame.com/news/202503/3916629.html)   2025-03-18 15:37
+
+根据国际基准测试PISA的数据，人类的推理和解决问题能力自2010年代初达到顶峰后逐渐下降。研究指出，现代人对社交媒体和视觉内容的依赖可能是智力下降的主要原因。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742283424_304271.jpg)
+
+---
+
+## 7. [《异度之刃X：终极版》容量仅13.5GB，任天堂展现压缩技术](https://www.3dmgame.com/news/202503/3916625.html)   2025-03-18 15:32
+
+《异度之刃X：终极版》将在3月20日登陆Switch，尽管分辨率提高并添加新剧情，但游戏容量仅13.5GB，比原版小10GB。玩家称赞任天堂的压缩技术无与伦比。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742281479_165283_jpg_r.jpg)
+
+---
+
+## 8. [《漫威争锋》第二赛季内容已制作完成](https://www.3dmgame.com/news/202503/3916628.html)   2025-03-18 15:31
+
+《漫威争锋》第二赛季内容已准备就绪，或将于4月11日推出。官方透露未来将持续稳定更新新角色和内容，为玩家提供更丰富的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742283045_752345.png)
+
+---
+
+## 9. [像素风动作冒险游戏《腐化容器》将于2025年上市](https://www.3dmgame.com/news/202503/3916627.html)   2025-03-18 15:11
+
+《腐化容器》是一款以北欧神话为背景的像素风动作冒险游戏，将于2025年登陆多平台。游戏特色包括动态战斗系统和手绘画风，支持多语言，包括简体中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250318/1742281794_346601_png_r.webp)
+
+---
+
+## 10. [SNK新作格斗游戏《饿狼传说：群狼之城》即将开启第二次公测](https://www.3dmgame.com/news/202503/3916626.html)   2025-03-18 15:08
+
+SNK宣布《饿狼传说：群狼之城》将于3月27日至31日进行第二次公测，新增角色和练习模式。本次测试旨在提高在线功能品质，为4月24日正式发售做准备。
+
+![](img..com/uploads/images/news/1742286_以上续更新
