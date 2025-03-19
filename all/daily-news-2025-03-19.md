@@ -44,3 +44,84 @@ Square Enix在Xbox商城推出特别促销活动，经典游戏如《尼尔：�
 ![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/Square-sale-March-25-bf8c004a09436017138c-1024x576.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-19 10:45)
+
+## 1. [《异度之刃X：终极版》上市宣传片 3月20日正式发售](https://www.3dmgame.com/news/202503/3916672.html)   2025-03-19 10:26
+
+《异度之刃X：终极版》将于3月20日登陆Switch，媒体评分已解禁，M站均分为88分，有52家媒体参与评价，其中29家给出90分以上好评。该版本以WiiU版为基础进行强化移植，新增灵活队伍调整、时间调节等功能，并优化UI提供更流畅体验。官方已发布游戏宣传片，展示新故事及DLC内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742351022_986537_jpg_r.jpg)
+
+---
+
+## 2. [Ado×YOASOBI×星街彗星共演日本麦当劳薯条混音](https://www.4gamers.com.tw/news/detail/70750/hoshimachi-suisei-ado-and-yoasobi-collaborate-with-mcdonald-tiro-remix-2025)   2025-03-19 10:24
+
+日本麦当劳公开2025薯条混音计划动画MV，由Ado、YOASOBI及星街彗星合作带来三首名曲混音。该项目结合VRChat虚拟场景，提供沉浸式体验，并推出潮流服饰联名商品。动画MV主题为“从无到有的成长”，展现三位乡下女学生的乐团奋斗历程。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6daa63afb4b09c93fa77e05fac8ae40bde050355.jpg)
+
+---
+
+## 3. [Saber CEO玩了300多个小时《星际战士2》 仍惊讶于600万份销量](https://www.3dmgame.com/news/202503/3916671.html)   2025-03-19 10:21
+
+《战锤40K：星际战士2》去年推出后获得巨大成功，Saber Interactive首席执行官Matt Karch称游戏销量超600万份令人震惊。他曾预见本作可能成功，并亲自游玩超过300小时。该游戏被评价为公司变化的重要里程碑。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742350894_734640.jpg)
+
+---
+
+## 4. [Unity称79%的游戏开发者对AI技术持积极态度](https://www.3dmgame.com/news/202503/3916670.html)   2025-03-19 10:21
+
+Unity年度报告显示，79%的开发者对AI技术持积极态度，尤其是自动检测错误和简化游戏测试的应用备受关注。然而，AI在“自适应难度”等部分领域的使用率有所下降，行业整体对AI的接受度仍在不断提升。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742350871_896921.png)
+
+---
+
+## 5. [《地牢守护者》类幸存者游戏《Defenders of Etheria》Steam页面公布](https://www.3dmgame.com/news/202503/3916669.html)   2025-03-19 10:16
+
+《地牢守护者》世界观类幸存者游戏《Defenders of Etheria》年内发售，玩家可利用古代符文力量锻造装备，对抗敌军。该作融合合作玩法和轻度Rogue元素，提供随机目标和丰富元进度系统，支持多人冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742350584_113383.jpg)
+
+---
+
+## 6. [《对马岛之鬼》PC版支持48：9显示 新史低价促销中](https://www.3dmgame.com/news/202503/3916667.html)   2025-03-19 10:10
+
+《对马岛之鬼》PC版支持21：9、32：9及48：9三屏显示，为玩家提供更沉浸式体验。目前该作正值Steam春季促销，售价降至266.66元，为历史最低价。PC版优化画质与性能，完美展现对马岛风景。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742350016_823628_jpg_r.jpg)
+
+---
+
+## 7. [《龙腾世纪》资深开发者建议一次性延期胜过频繁推迟](https://www.3dmgame.com/news/202503/3916666.html)   2025-03-19 10:10
+
+BioWare资深开发者Mark Darrah建议游戏开发商一次性公布延期决定，而非频繁推迟发售日。他认为这样能给开发团队更多时间重新审视游戏设计，并做出必要调整，从而更好地提升游戏质量。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742349558_241429_jpg_r.jpg)
+
+---
+
+## 8. [《异度神剑X 终极版》获M站均分88 普遍好评](https://www.3dmgame.com/news/202503/3916665.html)   2025-03-19 10:07
+
+《异度神剑X 终极版》即将于3月20日登陆Switch，M站均分88分，评价普遍好评。玩家可自定义主角，在神秘星球上与人类幸存者一起努力开辟未来。本作故事背景设定在地球毁灭后的2054年。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742350016_301611.jpg)
+
+---
+
+## 9. [Steam最新一周销量榜 合作恐怖游戏《R.E.P.O.》登顶](https://www.3dmgame.com/news/202503/3916663.html)   2025-03-19 09:59
+
+Steam最新销量排行榜出炉，合作恐怖游戏《R.E.P.O.》成功登顶，取代上周第一《怪物猎人：荒野》。榜单其他热门游戏包括《双影奇境》《赛博朋克2077》和《艾尔登法环》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742349499_320817.jpg)
+
+---
+
+## 10. [《第一狂战士：卡赞》新预告 Boss幽魂之布雷德](https://www.3dmgame.com/news/202503/3916662.html)   2025-03-19 09:47
+
+DNF衍生动作新游《第一狂战士：卡赞》新预告展示Boss“幽魂之布雷德”。玩家将扮演帝国大将军卡赞，调查自己堕落原因并展开复仇冒险。本作将于3月27日发售，登陆PS5、XSX/S和PC平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250319/1742348788_461659_jpg_r.jpg)
+
+---
