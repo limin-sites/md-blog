@@ -57,3 +57,9 @@ NZXT推出Zone Elite系列鼠垫，采用奈米织布和防滑设计流畅尺寸
 ## 8. [《刺 暗夕登4/707-sh-in-the-japanese-parliament)   2025-03-19 19:08
 
 《刺客信条 暗影者》因游戏破，被日本员教，并担imguku-clone-version/759193fb610b36d [击新试玩ers.com-game-)  19》由《DOOM II》模组重制，采用虚幻引，玩家怪游戏预计，![](https://img.4gamers.com.tw/puku-clone-version/a674062e1b8a16a94d3361b8af0f##常技能食食番.4gamers.com.tw/news/detail/70764/japanese-poll-ranks-meshi-anime)   2025-03-19 18:改编世界获美季异美食爱好者的喜爱!4gamone02ecf623
+# 新闻简报(更新时间:2025-03-20 05:45)
+
+## 1. [GDC 2025: Celebrating Innovation in Gaming and Our Communities](https://news.microsoft.com/source/shortform/xbox-blizzard-king-ninja-theory-gdc-2025/#new_tab)   2025-03-20 01:37
+
+GDC 2025（游戏开发者大会）展示了游戏行业的创新和社区力量。本次大会汇聚了来自全球的开发者和创作者，共同庆祝游戏技术的最新进展。本次活动由Xbox、暴雪、King工作室和Ninja Theory等知名公司参与，展示了最新的游戏开发工具和技术，旨在推动行业持续发展，提升玩家体验。
+
