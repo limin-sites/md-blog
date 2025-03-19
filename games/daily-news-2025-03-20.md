@@ -59,3 +59,9 @@
 开发商Sandfall Interactive表示，《光33号》的回合即时节的艺术19/174甲少女游戏https://www.3dmgame.com/news/2025033916717Dolls月23日在Steam平台发售。这款自定义3D动作游戏以探索废墟世界为背景，玩家需要操控少女型机甲进行冒险。
 
 ![](https://img.3dm/news/202.webp)
+# 新闻简报(更新时间:2025-03-20 05:45)
+
+## 1. [GDC 2025: Celebrating Innovation in Gaming and Our Communities](https://news.microsoft.com/source/shortform/xbox-blizzard-king-ninja-theory-gdc-2025/#new_tab)   2025-03-20 01:37
+
+GDC（游戏开发者大会）2025年隆重召开，这次活动聚焦于游戏领域的创新及社区建设。来自Xbox、暴雪、King和Ninja Theory等知名公司的代表齐聚一堂，分享他们在游戏开发、行业发展以及推动社区参与方面的最新成果。大会旨在促进交流与合作，提升全球游戏开发的质量和体验。相关详情可通过Xbox Wire获取。
+
