@@ -184,3 +184,72 @@ Meta的开源人工智能模型家族Llama下载量已突破十亿次，仅三�
 ![](https://upload.chinaz.com//689)
 
 准确随机预测iq2022025-03-19 :科研学习达着细取得和提供[](/editor791416406磅测:///03-19-6)   2025-: Max和色0强引合ixin.com/uploadsb7169​美元改善zh202-:代理基础设施初创公司Arcade获得120万美元代理服务吸的.ch101704279841_1.jpgNA中国大可/5-13天团队提出语言模型调色板方法，通过贝解决中的明越iq/editor03 审ite究://zh  AIite获得5200万美元B轮融资，其“代码提升核心!az/.https.com11Stable开发高，非[](5250
+# 新闻简报(更新时间:2025-03-19 20:47)
+
+## 1. [Anthropic正为Claude聊天机器人开发语音功能 人机交互或迎新变革](https://www.aibase.com/zh/news/16430)   2025-03-19 17:59
+
+Anthropic正在为旗下AI聊天机器人Claude开发语音交互功能。首席产品官迈克·克里格透露，语音可能成为未来与Claude交互的主要方式，以简化桌面端的用户操作。公司还与亚马逊和ElevenLabs合作探索语音技术，未来或将实现人性化语音交流。
+
+![](https://pic.chinaz.com/picmap/202307120853038799_0.jpg)
+
+---
+
+## 2. [招商证券：公司目前已部署DeepSeek系列模型 接入办公交流软件](https://www.aibase.com/zh/news/16429)   2025-03-19 17:58
+
+招商证券宣布已部署DeepSeek系列模型，并主要应用于办公交流软件，支持员工日常办公需求，而未来计划在智能投顾和投研等领域进行数智化探索。
+
+---
+
+## 3. [三星重磅官宣！One UI 7携AI超能力4月7日全球启动更新，你的手机准备好了吗？](https://www.aibase.com/zh/news/16428)   2025-03-19 17:56
+
+三星宣布其基于Android 15的One UI 7操作系统将于4月7日开始全球更新，新增Google Gemini集成与“音频橡皮擦”等AI功能。首批更新机型包括Galaxy S24系列和Fold6等旗舰设备。
+
+---
+
+## 4. [比Manus好使！实测谷歌AI显眼包：三秒唠出一个网页，文件直接开口说相声](https://www.jiqizhixin.com/articles/2025-03-19-13)   2025-03-19 17:46
+
+谷歌推出Gemini AI新工具Canvas，集成多功能协作工具和实时代码生成功能。用户可轻松完成网页设计和代码编写。Gemini的语音功能展示了AI解读文档内容的能力，助力高效办公。
+
+---
+
+## 5. [SmolDocling](https://top.aibase.com/tool/smoldocling)   2025-03-19 17:42
+
+SmolDocling是一款医学领域的语言模型，擅长医学文本处理和文献分析，支持疾病诊断和医学文献摘要功能，助力医生和研究人员提高效率。
+
+![](https://pic.chinaz.com/ai/2025/03/19/202503191742125393.jpg)
+
+---
+
+## 6. [IBM与Hugging Face联手放大招！开源“文档解密神器”SmolDocling，复杂文档一键变结构化数据！](https://www.aibase.com/zh/news/16427)   2025-03-19 17:41
+
+IBM与Hugging Face合作推出开源工具SmolDocling，利用256M参数的视觉-语言模型优化文档转换任务，显著提升OCR性能，适用于复杂文档的解析和结构化处理。
+
+---
+
+## 7. [原作者带队再次改造xLSTM，7B模型速度最快超Mamba 50%，权重代码全开源](https://www.jiqizhixin.com/articles/2025-03-19-12)   2025-03-19 17:40
+
+xLSTM 7B模型发布，优化了推理速度和训练稳定性。新模型在长文本任务中表现出色，成为最快、最高效的7B参数语言模型之一，代码已开源供开发者使用。
+
+---
+
+## 8. [CVPR 2025|复旦&微软开源StableAnimator: 首个端到端ID一致性人类视频生成，Github Star破千](https://www.jiqizhixin.com/articles/2025-03-19-11)   2025-03-19 17:36
+
+复旦大学与微软联合开发的StableAnimator开源，具备端到端ID一致性视频生成能力，广泛应用于影视制作及数字内容创作，已在Github上获得破千的关注。
+
+---
+
+## 9. [腾讯最新财报显示AI战略进入重投入期 全年研发投入707亿](https://www.aibase.com/zh/news/16426)   2025-03-19 16:55
+
+腾讯2024年研发投入达706.9亿元，推动AI技术发展。公司战略聚焦于自研与开源结合，多个AI产品已广泛应用于内部和用户场景。
+
+![](https://pic.chinaz.com/picmap/201811151633427149_4.jpg)
+
+---
+
+## 10. [与DeepMind展开合作，英伟达的物理世界AI正在拓展版图](https://www.jiqizhixin.com/articles/2025-03-19-10)   2025-03-19 16:53
+
+在GTC大会上，英伟达与DeepMind宣布合作开发物理世界AI技术，推出新工具并展示应用成果，为机器人、药物研发和电网优化提供支持。
+
+![](https://image.jiqizhixin.com/uploads/editor/4a3192fd-ecfb-4d5d-ab0a-fe356daee97e/162609.png)
+
+---
