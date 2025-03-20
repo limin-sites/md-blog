@@ -41,3 +41,38 @@
 回合之竞技Steam申请日至https://3/news/---
 
 》2025insors加入了和日本探索480db/-f840
+# 新闻简报(更新时间:2025-03-21 05:45)
+
+## 1. [Xbox与行业伙伴推出“可及游戏计划”](https://news.xbox.com/en-us/2025/03/20/xbox-accessible-games-initiative/)   2025-03-21 04:15
+
+Xbox宣布与EA、Google、任天堂、Ubisoft等业界巨头合作，推出“Accessible Games Initiative”，旨在通过游戏可及性标签帮助玩家更好了解游戏的可及性功能。这一计划将提升残障玩家的游戏体验，推动行业标准化发展。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2024/12/Xbox_Disability_Community_Hero-213fde8fc362284334e5-1024x576.jpg)
+
+---
+
+## 2. [开发者如何利用Xbox Play Anywhere功能](https://news.xbox.com/en-us/2025/03/20/how-developers-embraced-xbox-play-anywhere/)   2025-03-21 03:00
+
+Xbox Play Anywhere功能让玩家在Xbox主机和Windows PC间无缝切换游戏，吸引了众多开发者支持。开发者们表示，这一功能不仅便于玩家，还为他们的作品带来了更多的曝光机会，促进了跨平台社区的建立。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/gdc25E33TowerDotson_Hero-6362b3c05b2b8090b26f.jpg)
+
+---
+
+## 3. [《侏罗纪世界：进化2》限时免费](https://www.4gamers.com.tw/news/detail/70794/jurassic-world-evolution-2-is-free-to-claim-on-epic-games-store-this-week)   2025-03-21 00:20
+
+电影改编游戏《侏罗纪世界：进化2》现已在Epic Games商店限时免费领取。游戏背景设定于《侏罗纪世界：殒落国度》之后，玩家可体验经营恐龙园区的乐趣。活动截止至2025年3月21日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0d5abac4ae6970ea44528c54402e281215820bb8.jpg)
+
+---
+
+## 4. [《刺客信条：影》Steam首发表现亮眼](https://www.4gamers.com.tw/news/detail/70793/assassins-creed-shadows-steam-first-day-players-peak-near-40k)   2025-03-20 21:31
+
+《刺客信条：影》在Steam平台首发即获得超80%的极度好评，高峰在线玩家数接近4万，成为系列史上表现最佳的新作之一。游戏以16世纪日本为背景，呈现精美画面及沉浸式体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/acad67514c690c5e80ca26266c2aacb56b8509de.jpg)
+
+---
+
+## 5. [《星之卡比》初代开发趣闻曝光](https://www.3dmgame.com/news/202411/3909541.html)   2024-11-27 17知博之方式了容量bit。这一广[](.com411750以上相关
