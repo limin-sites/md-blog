@@ -147,3 +147,84 @@ DC宣布推出新漫画《DC宇宙的新历史》，整合全DC宇宙历史，�
 ![](https://img.3dmgame.com/uploads/images/news/20250320/1742435608_329795.png)
 
 ---
+# 新闻简报(更新时间:2025-03-20 15:45)
+
+## 1. [台同人ASMR《把一切都忘記》致敬TGW集團沒落千金，網笑初音已收藏](https://www.4gamers.com.tw/news/detail/70781/femdomatelier-doujin-asmr-emulate-ave-mujica)   2025-03-20 15:03
+
+台湾同人声音社团FemdomAtelier推出成人语音作品《没落千金》，引发社群热议。主角香川咲乃的故事与《Ave Mujica》角色相似，吸引了众多粉丝关注。作品通过台本展现禁忌主题，试图突破现有的ASMR市场。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c4c6d6eb8cbc01fdb9eeaaee4c8f232c4752fcad.jpg)
+
+---
+
+## 2. [海盗MMO《侧风之旅》Steam页面 发售日待定](https://www.3dmgame.com/news/202503/3916801.html)   2025-03-20 14:53
+
+海盗主题生存MMO《侧风之旅》在Steam上线，支持简体中文。玩家将探索开放世界，驾驶战舰征服海陆战场，体验生存冒险与阵营对抗。发售日期尚未确定。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742453556_558579.jpg)
+
+---
+
+## 3. [《黑貓維茲》x仙界大濕驚喜合作！So-net看板娘三姊妹進入末日外送員異界冒險](https://www.4gamers.com.tw/news/detail/70776/the-world-of-mystic-wiz-x-dashi)   2025-03-20 14:47
+
+台湾So-net旗下游戏《黑貓維茲》推出与仙界大濕绘制角色的合作活动，推出全新冒险剧情与限定精灵卡片，带玩家穿越到充满危机的末日都市。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b13d2ef5f413e4270ce1dbae31a7038ea5dcc0b2.png)
+
+---
+
+## 4. [《黑神话：悟空》获得GDCA最佳视觉艺术奖 官方发文庆祝](https://www.3dmgame.com/news/202503/3916798.html)   2025-03-20 14:29
+
+国产3A游戏《黑神话：悟空》荣获2025年游戏开发者选择奖（GDCA）最佳视觉艺术奖。官方对未能现场领奖表示遗憾，并感谢玩家的支持。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742451998_312573.jpg)
+
+---
+
+## 5. [软银收购AI芯片设计公司Ampere 65亿美元谈判进入尾声](https://www.3dmgame.com/news/202503/3916793.html)   2025-03-20 14:19
+
+软银集团宣布以65亿美元收购AI芯片设计公司Ampere Computing，此次交易将加强软银在人工智能领域的布局，预计2025年下半年完成。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742451516_611569.png)
+
+---
+
+## 6. [《刺客信条：影》Steam多半好评 画面很棒优化出色](https://www.3dmgame.com/news/202503/3916794.html)   2025-03-20 14:21
+
+《刺客信条：影》正式发售，玩家好评其画面与优化表现，但对AI智能和存档点位置提出批评。游戏售价348元，带玩家探索日本战国开放世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742451660_774680.jpg)
+
+---
+
+## 7. [刷宝射击游戏《深空涡旋》现已推出试玩Demo 2025年第二季度抢先体验发售](https://www.3dmgame.com/news/202503/3916773.html)   2025-03-20 11:02
+
+《深空涡旋》试玩Demo在Steam上线，游戏借鉴《暗黑破坏神2》设计，玩家将设计飞船、探索星区，预计于2025年第二季度以抢先体验形式发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742439605_998369.jpg)
+
+---
+
+## 8. [罗素兄弟新片《电幻国度》扑街 网飞烧钱超3亿美元](https://www.3dmgame.com/news/202503/3916771.html)   2025-03-20 10:56
+
+《复联》导演罗素兄弟新片《电幻国度》口碑不佳，首周观看时长表现不如预期。网飞巨资投入3.2亿美元却未获成功，媒体和观众评分均较低。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742439287_685983.jpg)
+
+---
+
+## 9. [日本议员：《刺客信条：影》宣传破坏宗教场所 或引人模仿](https://www.3dmgame.com/news/202503/3916770.html)   2025-03-20 10:55
+
+日本议员对游戏中破坏神社的内容表示担忧，认为可能引发模仿行为。育碧已确认将通过首日更新移除相关破坏功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742439274_538240_png_r.webp)
+
+---
+
+## 10. [坤哥爆料：《EA SPORTS F1 25》5月30日发售](https://www.3dmgame.com/news/202503/3916763.html)   2025-03-20 10:20
+
+知名爆料人透露，《EA SPORTS F1 25》将于5月30日发售，标准版售价59.99美元，并推出“Iconic Edition”特别版本。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742437192_793454.jpg)
+
+---
