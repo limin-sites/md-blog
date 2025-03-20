@@ -145,3 +145,64 @@ DC宣布推出全面整合宇宙历史的漫画系列《DC宇宙新历史》。�
 ![](https://img.3dmgame.com/uploads/images/news/20250320/1742435323_174700_jpg_r.jpg) 
 
 ---
+# 新闻简报(更新时间:2025-03-20 15:45)
+
+## 1. [台同人ASMR《把一切都忘记》致敬TGW集团没落千金，网笑初音已收藏](https://www.4gamers.com.tw/news/detail/70781/femdomatelier-doujin-asmr-emulate-ave-mujica)   2025-03-20 15:03
+
+台湾同人声社团FemdomAtelier推出成人语音作品《没落千金》，故事主角的设定与《Ave Mujica》动画角色高度相似，引发台社群关注。该作品由独立声优早绪きむり配音，并包含高画质无码插图特典。作品情节涉及冲突性伦理内容，部分网友对此表示争议。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c4c6d6eb8cbc01fdb9eeaaee4c8f232c4752fcad.jpg)
+
+---
+
+## 2. [海盗MMO《侧风之旅》Steam页面 发售日待定](https://www.3dmgame.com/news/202503/3916801.html)   2025-03-20 14:53
+
+《侧风之旅》是一款生存MMO游戏，背景设定在海盗黄金时代，玩家将探索开放世界、驾驶战舰并与好友合作挑战黑暗势力。游戏支持简体中文，目前发售日尚未确定。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742453556_558579.jpg)
+
+---
+
+## 3. [《黑猫维兹》x仙界大湿惊喜合作！So-net看板娘三姐妹进入末日外送员异界冒险](https://www.4gamers.com.tw/news/detail/70776/the-world-of-mystic-wiz-x-dashi)   2025-03-20 14:47
+
+《黑猫维兹》与So-net看板娘展开合作，推出末日生存剧情副本及限定精灵奖励。玩家可通过活动关卡和转蛋获得特别卡片，并享受免费十连抽等福利。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b13d2ef5f413e4270ce1dbae31a7038ea5dcc0b2.png)
+
+---
+
+## 4. [世界首部像素漫画《最终诉求》将制作游戏 众筹上架](https://www.3dmgame.com/news/202503/3916800.html)   2025-03-20 14:39
+
+漫画家日下一郎宣布《最终诉求》将制作游戏并开启众筹。该漫画以完全像素风格呈现，目前人气高涨，游戏预计将带来独特体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742452736_585475.png)
+
+---
+
+## 5. [马斯克“5年内登陆火星” 前NASA宇航员质疑](https://www.3dmgame.com/news202.html-35
+
+5登陆火星的计划，但前NASA尔碍年才能测试展https/uploads/images245975---
+
+## 6. [《收获日》工作室大规模裁法国分www.com6-35表现不员关闭员员工不满，公司管理层回应称工作方式./news174## 神GD发://www.3dmgame.com/news/202503/39167920214A游戏空礼奖并。
+
+!3/1742451998.jpg)
+
+生态巢》，生态dmgame391-03 14:27
+
+由Frozen Way开发异机演将在物工程完成!game.com5031910_769935.png)
+
+---
+
+## 9.游戏还能ZO》](.503/)0322》开启，。188D![](.com20_ 10信：影》Steam多半好评 画面很棒优化出色](https://www202)-
+
+》正式画，但情AI。
+
+.3/images245166---
+
+银Amp进入./202503/3916793.html) 20宣布以收目标预计半年:///uploads/images/news/20250320/1742451516_611569.png)
+
+---
+
+## 12. [《切尔诺贝利人2：禁区》工作室面临问题并:///news/)03
+
+室The Farm 51因贝利低，并，游戏:///uploads/images174116
