@@ -230,3 +230,40 @@ SpatialLM是一款专注于3D点云数据处理的AI模型，支持从多种来�
 ---
 
 ## 10. [Meta AI重返欧洲://zh202AI，功能模型未使用欧盟用户个人计划范围az271---
+# 新闻简报(更新时间:2025-03-20 20:47)
+
+## 1. [ICLR 2025 Oral｜清华提出空间调控新范式GridMix，突破深度学习求解PDE瓶颈](https://www.jiqizhixin.com/articles/2025-03-20-13)   2025-03-20 18:44
+
+清华大学团队在偏微分方程（PDE）建模中提出创新的空间调控方法GridMix，通过网格基函数的线性组合解决现有方法在捕捉局部细节和泛化能力上的瓶颈问题。这一研究在PDE建模任务中表现出显著优势，特别在稀疏空间域和时间外推场景下，获得ICLR 2025 Oral论文的认可，入选比例仅1.8%。
+
+![](https://image.jiqizhixin.com/uploads/editor/9d151782-7a8c-48a1-9e1f-56edd1e3085b/640.png)
+
+---
+
+## 2. [谷歌RT-2、PaLM-E作者离职创业，获英伟达投资](https://www.jiqizhixin.com/articles/2025-03-20-12)   2025-03-20 18:32
+
+DeepMind科研科学家Pete Florence离职创立Generalist AI，致力于打造“让通用机器人成为现实”的机器人技术。初创公司已获英伟达投资，并吸引前OpenAI、DeepMind、波士顿动力成员加入，目标是生产能执行复杂任务的通用机器人。
+
+![](https://image.jiqizhixin.com/uploads/editor/42274473-4161-41a0-9520-b4462f362212/640.png)
+
+---
+
+## 3. [8万页肯尼迪遇刺记录公布，AI工具深度解析](https://www.jiqizhixin.com/articles/2025-03-20-11)   2025-03-20 18:05
+
+美国解密8万页肯尼迪遇刺记录，AI工具如DeepSeek和Grok3对其进行深度解析，帮助公众快速了解事件背景、关键细节及阴谋论焦点。两款AI工具在内容整理和细节呈现上各有所长，成为吃瓜群众的新利器。
+
+![](https://image.jiqizhixin.com/uploads/editor/b5f33167-b70d-46ce-a907-59ccef006eef/640.jpeg)
+
+---
+
+## 4. [大模型商业化拐点到来，科大讯飞领跑央国企AI应用](https://www.jiqizhixin.com/articles/2025-03-20-10)   2025-03-20 18:02
+
+科大讯飞在央国企大模型解决方案市场中排名第一。其“通专结合”模式和全栈国产化技术体系被认为是解开当前央国企AI落地困局的关键，为央国企数字化转型提供了高性价比和自主可控的技术支持。
+
+---
+
+## 5. [长沙推出“超智融合”基础教育大模型](https://www.aibase.com/zh/news/16465)   2025-03- 长沙智已在长郡中学等校算法学生模型AI://ic6.dev0万美元融资，解决AI代理安全问题](https://www.aibase.com/64202:提供与构帮助与致AI与现实交互中的安全性瓶颈[](in/7中国：.j/2025-03-20-9)   2025-03-17在“并模型，与机!iq169-adc1c695734/##.形164-20浦人形机器人和大模型等前沿科技领域，通过政策支持、人才吸引和产业用地规划园发展.ch/_9“百看计划”](https://www.aibase.com/zh/news/16461)  20238百通过蒙智能。
+
+软购Ampere Computing，布局AI与高性能计算](https://www.aibase.com/zh/news/16458)   2020343
+
+软银以收ere计算核AI
