@@ -63,3 +63,85 @@ NZXT推出Zone Elite系列鼠垫，采用奈米织布和防滑设计流畅尺寸
 
 GDC 2025（游戏开发者大会）展示了游戏行业的创新和社区力量。本次大会汇聚了来自全球的开发者和创作者，共同庆祝游戏技术的最新进展。本次活动由Xbox、暴雪、King工作室和Ninja Theory等知名公司参与，展示了最新的游戏开发工具和技术，旨在推动行业持续发展，提升玩家体验。
 
+
+# 新闻简报 (更新时间: 2025-03-20 10:45)
+
+## 1. [《颂钟长鸣》将于2025年第四季度登陆 Xbox Series](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-20 10:30
+
+《颂钟长鸣》将于2025年第四季度正式登陆Xbox Series。玩家将在游戏中建立领土、解放村落、帮助村民，并招募盟友加入自己的事业。游戏还注重背景故事的发掘，玩家可通过战斗证明勇气并巩固作为人民英雄的地位。
+
+![](https://static.willmao.com/feed_upload/2025-03-20/10-29-48-phpN1R2bk.jpg)
+
+---
+
+## 2. [坤哥爆料：《EA SPORTS F1 25》将于5月30日发售](https://www.3dmgame.com/news/202503/3916763.html) 2025-03-20 10:20
+
+知名爆料人透露，《EA SPORTS F1 25》将于5月30日发售，定价59.99美元，并推出“Iconic Edition”版本，售价79.99美元，预购可获3天抢先体验资格。EA Play用户也可享10小时试玩权。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742437192_793454.jpg)
+
+---
+
+## 3. [放置游戏《桌宠屋》Steam页面开放 年内发售](https://www.3dmgame.com/news/202503/3916762.html) 2025-03-20 10:20
+
+《桌宠屋》是一款放置类游戏，玩家可在桌面收集超过100只小宠物，并为它们布置小屋或派遣冒险。游戏支持简繁体，预计2025年内发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742436766_333735.jpg)
+
+---
+
+## 4. [《午夜之南》概念艺术图曝光 怪物设计精美](https://www.3dmgame.com/news/202503/3916761.html) 2025-03-20 10:20
+
+开发商Compulsion Games分享了《午夜之南》的概念艺术图，展示了丰富的神话元素和怪物设计。玩家将在美国南部探索奇幻的世界，解开家族秘密并面对神秘生物。游戏将于4月8日发售，首发登陆Game Pass。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742436377_971334_jpg_r.jpg)
+
+---
+
+## 5. [游戏营销研究员指出：独立游戏成功的关键是提供试玩版](https://www.3dmgame.com/news/202503/3916760.html) 2025-03-20 10:12
+
+在GDC 2025上，研究员Chris Zukowski强调独立游戏通过试玩版提升曝光度的重要性。他举例说明，《Parcel Simulator》通过试玩版大幅增加了愿望单数量，展示了试玩版对游戏成功的显著影响。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742436731_395871.jpg)
+
+---
+
+## 6. [网飞新作《Spirit Crossing》发布新宣传片](https://www.3dmgame.com/news/202503/3916759.html) 2025-03-20 10:12
+
+Netflix宣布推出合作生活模拟游戏《Spirit Crossing》，现已开放测试版注册。游戏注重友谊和社区，玩家可装饰家园、建造设施并参与舞蹈派对等活动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742436549_191539_png_r.webp)
+
+---
+
+## 7. [《漫威争锋》蜘蛛朋克2099传奇皮肤即将上线](https://www.3dmgame.com/news/202503/3916758.html) 2025-03-20 10:04
+
+《漫威争锋》将于3月21日推出蜘蛛侠“蜘蛛朋克2099”皮肤，套装包括特别表情、动画和技能特效。该皮肤融合了赛博朋克风格，为玩家提供全新视觉体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742436215_746250_png_r.webp)
+
+---
+
+## 8. [Steam模拟人生《inZOI》抢先体验即将上线](https://www.4gamers.com.tw/news/detail/70742/inzoi-gameplay-first-look) 2025-03-20 10:00
+
+《inZOI》是一款由KRAFTON开发的高自由度模拟人生游戏，将于3月28日以抢先体验形式推出。玩家可在虚拟世界中自定义角色，探索开放场景并建立丰富的社交关系。
+
+![](https://thumbor.4gamers.com.tw/fD6c4vt3W0in16cEiDnhZIUYtqA=/filters:watermark/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fdbec7afb1bf5e43f68fc7bf28d776cdbe8676c66.jpg)
+
+---
+
+## 9. [DC推出新漫画《DC宇宙新历史》](https://www.3dmgame.com/news/202503/3916757.html) 2025-03-20 09:55
+
+DC宣布推出全面整合宇宙历史的漫画系列《DC宇宙新历史》。故事由经典角色闪电侠巴里·艾伦讲述，并涵盖从史前到正义联盟成立的重大事件。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742435608_329795.png)
+
+---
+
+## 10. [《鬼武者2：复刻版》发布新视频](https://www.3dmgame.com/news/202503/3916756.html) 2025-03-20 09:51
+
+卡普空发布《鬼武者2：复刻版》新视频，展示织田信长等角色与画面优化。游戏将于5月23日发售，现已接受预约。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742435323_174700_jpg_r.jpg) 
+
+---
