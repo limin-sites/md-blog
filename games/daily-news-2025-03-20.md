@@ -228,3 +228,34 @@ DC宣布推出新漫画《DC宇宙的新历史》，整合全DC宇宙历史，�
 ![](https://img.3dmgame.com/uploads/images/news/20250320/1742437192_793454.jpg)
 
 ---
+# 新闻简报 (更新时间: 2025-03-20 20:46)
+
+## 1. [橡子共和國LaLaport南港店正式開幕，「大中小龍貓」限定造景迎接來訪粉絲](https://www.4gamers.com.tw/news/detail/70792/donguri-republic-nangang-lalaport)   2025-03-20 18:58 
+
+橡子共和國全新門市「LaLaport南港店」今日正式開幕，店內獨特的《龍貓》主題設計吸引了大量粉絲。南港店還推出了限定造景「池塘畔的大龍貓與中、小龍貓」，此外，還有一系列吉卜力限定商品及活動，讓粉絲們體驗不一樣的購物樂趣。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4ff908da413a0e22d0a4ba03aed66290e37cfb66.jpg)
+
+
+## 2. [動畫新作《數碼寶貝BEATBREAK》10月首播，系列25週年PV「進化與超越」公開](https://www.4gamers.com.tw/news/detail/70790/digimon-announces-new-tv-anime-digimon-beatbreak-for-october-2025)   2025-03-20 18:48 
+
+東映動畫宣布《數碼寶貝》系列新作《BEATBREAK》將於2025年10月開播，並釋出前導PV。新作主題圍繞「吞噬情感的生命體」，神秘感十足。此外，官方還發布了25週年紀念影片，回顧系列歷史。
+
+![](https://img.4gamers.com.tw/puku-clone-version/84b3c6b3a4afe30105fb00dd717f7741cc36bdce.webp)
+
+
+## 3. [Steam毛茸茸射擊新作《獸獵突襲》搶先體驗4/11開跑，扳機不獸控制](https://www.4gamers.com.tw/news/detail/70791/new-tps-game-wild-assault-steam-early-acess-on-april-11st)   2025-03-20 18:26 
+
+由Combat Cat Studio開發的第三人稱射擊遊戲《獸獵突襲》即將於4月11日在Steam開放搶先體驗。玩家將操控擬人化動物角色，體驗20對20的團隊對戰模式，遊戲採用虛幻引擎5打造，畫面與玩法俱佳。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0e6cbc8a63baac82057ba6bbcb81b31a875fa118.png)
+
+
+## 4. [速刷魔物神器！《魔物獵人荒野》貫通重弩畢業配裝攻略](https://www.4gamers.com.tw/news/detail/70789/monster-hunter-wilds-heavy-bowgun-guides)   2025-03-20 18:12 
+
+《魔物獵人荒野》重弩玩家迎來必看攻略！本篇介紹了如何使用貫通重弩進行高效刷怪，包含詳細的武器製作、防具選擇及技能搭配，幫助玩家打造最佳裝備。
+
+![](https://thumbor.4gamers.com.tw/PuwdACqdow-NOyIk://ersers.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%onebc11b)
+
+
+ [发展比任何时候都要快！黄仁勋：几乎全球都曾误判](httpswww20220伟在，期新将还Blackhttps/uploads20271
