@@ -37,3 +37,50 @@
 《积木爆射英雄》是一款快节奏的Roguelite第一人称射击游戏，玩家怪机模式246324## 6. [《绝递必达》公布发售日期](dmgame03-的新20日的://img.game720315猎突://70791/new-tps-game-wild-assault-steam-early-acess-onst猎突第三人v![](.tw/puku-clone-version/cb81 [.3.com/news/202503/3916821
 
 腾讯计划在东/news/20250320/1742462697_pgere被32025亿美元增强软img3dm616_j 10. [《魔法门之英雄无敌：上古纪元》注册](39117:上可在/uploads028.jpg
+# 新闻简报(更新时间:2025-03-21 05:45)
+
+## 1. [Xbox携手行业伙伴推出无障碍游戏计划](https://news.xbox.com/en-us/2025/03/20/xbox-accessible-games-initiative/)   2025-03-21 04:15
+
+Xbox宣布加入由娱乐软件协会（ESA）领导的“无障碍游戏计划”，旨在通过标签系统帮助玩家了解游戏的无障碍功能。Xbox将用这些新标签替代现有的无障碍功能标签，并与EA、Google、任天堂等公司合作，推动游戏行业的包容性发展。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2024/12/Xbox_Disability_Community_Hero-213fde8fc362284334e5-1024x576.jpg)
+
+---
+
+## 2. [开发者如何利用Xbox Play Anywhere](https://news.xbox.com/en-us/2025/03/20/how-developers-embraced-xbox-play-anywhere/)   2025-03-21 03:00
+
+Xbox Play Anywhere功能允许玩家在Xbox和Windows PC之间无缝切换游戏进度。多位游戏开发者分享了如何利用这一功能吸引更多玩家，如《Clair Obscur: Expedition 33》等新作将全面支持跨平台游玩。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/gdc25E33TowerDotson_Hero-6362b3c05b2b8090b26f.jpg)
+
+---
+
+## 3. [《使命召唤：手游》第三季“赛博幻影”上线](https://www.callofduty.com/blog/2025/03/call-of-duty-mobile-season-three-cyber-mirage-battle-pass-announcement#new_tab)   2025-03-21 01:30
+
+《使命召唤：手游》推出第三季“赛博幻影”，新增地图、武器及任务内容，强化了游戏体验。
+
+---
+
+## 4. [Epic限时免费《侏罗纪世界：进化2》](https://www.4gamers.com.tw/news/detail/70794/jurassic-world-evolution-2-is-free-to-claim-on-epic-games-store-this-week)   2025-03-21 00:20
+
+电影改编模拟经营游戏《侏罗纪世界：进化2》本周在Epic Games商店免费领取，活动截止至3月21日12:00。游戏设定于《侏罗纪世界：殒落国度》电影之后，玩家可重建恐龙园区并完成任务。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0d5abac4ae6970ea44528c54402e281215820bb8.jpg)
+
+---
+
+## 5. [《Promise Mascot Agency》如何支持无游戏box/asc-accessibility/)   2025
+
+开发》碍模式。此外碍等!-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/PromiseMascotAgency_KeyArt_4K-7fa3faa614458ff8---
+
+##代.3dmgame.com/news/202411/3909541.html)   2024-11-27 17:26
+
+樱井政博分享初代《星之卡比》的开发技巧，为节省容量，游戏采用了对和缩成功。
+
+3/news/173269939.png [.202411 
+
+消息称华为计划年，鸿化有:///images411367---
+
+## 8. [Steam新手柄设计./news7-
+
+开发柄b和”VRhttps/uploads/.jpg.Go担3/202411/3909533.html)11《Ni数据担负用途:///uploads/images/news/20241127/1732695599## 网易“/)-11称QQ音乐在自窃停止反玩法持续img/images/.png
