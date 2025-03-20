@@ -206,3 +206,46 @@ DC宣布推出全面整合宇宙历史的漫画系列《DC宇宙新历史》。�
 ## 12. [《切尔诺贝利人2：禁区》工作室面临问题并:///news/)03
 
 室The Farm 51因贝利低，并，游戏:///uploads/images174116
+# 新闻简报(更新时间:2025-03-20 20:45)
+
+## 1. [橡子共和国LaLaport南港店正式开幕，「大中小龙猫」限定造景迎接来访粉丝](https://www.4gamers.com.tw/news/detail/70792/donguri-republic-nangang-lalaport)   2025-03-20 18:58
+
+橡子共和国全新门市「橡子共和国 LaLaport 南港店」正式开幕，吉卜力迷不可错过的南港店限定造景「池塘畔的大龙猫与中、小龙猫」首次亮相，让访客沉浸于《龙猫》的奇幻世界中。此外，店内还提供多种限量商品与优惠活动，包括霍尔城堡模型、封蜡印章等。巨型《龙猫》电影海报也为店面增添怀旧氛围，成为拍照打卡热点。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4ff908da413a0e22d0a4ba03aed66290e37cfb66.jpg)  
+
+---
+
+## 2. [动画新作《数码宝贝BEATBREAK》10月首播，系列25周年纪念PV发布](https://www.4gamers.com.tw/news/detail/70790/digimon-announces-new-tv-anime-digimon-beatbreak-for-october-2025)   2025-03-20 18:48
+
+《数码宝贝》系列的最新动画《数码宝贝BEATBREAK》将于2025年10月播出，前导视觉图与预告片已释出。本作描述「吞噬情感的生命体」的神秘现象，系列25周年特别纪念视频也回顾了数码宝贝的经典发展历程，为粉丝带来满满回忆。
+
+![](https://img.4gamers.com.tw/puku-clone-version/84b3c6b3a4afe30105fb00dd717f7741cc36bdce.webp)  
+
+---
+
+## 3. [Steam射击新作《兽猎突袭》抢先体验将于4月11日开启](https://www.4gamers.com.tw/news/detail/70791/new-tps-game-wild-assault-steam-early-acess-on-april-11st)   2025-03-20 18:26
+
+由Combat Cat Studio开发的第三人称射击游戏《兽猎突袭》将于4月11日在Steam平台开启抢先体验。玩家可以操控拟人化的兽人角色，在20v20的团队战中取得胜利。游戏支持多种技能组合，战斗模式类似《战地风云》。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0e6cbc8a63baac82057ba6bbcb81b31a875fa118.png)  
+
+---
+
+## 4. [AI发展速度超预期，黄仁勋称「几乎全球都判断失误」](https://www.3dmgame.com/news/202503/3916823.html)   2025-03-20 18:09
+
+在英伟达年度开发者大会上，CEO黄仁勋表示，AI扩展速度远超预期，尤其是在代理式人工智能和推理技术方面。黄仁勋捍卫了英伟达芯片在行业中的地位，并强调未来所需的计算量将比去年预估增长100倍。
+
+![](https://img.3dmgame.com/uploads/images/news/20250320/1742462890_443271.jpg)  
+
+---
+
+## 5. [《微软模拟飞行2025》PS5奖杯泄露](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-20 17:56
+
+《微软模拟飞行2025》即将推出，PS5版本的奖杯此更多惊03----
+
+##建议玩家://wwwldiverstil--20总等服务器管如此了好感。
+
+.com.tw82eccd07. [《魔法门之英雄无敌：上古纪测试](39153
+
+元》话生战斗。测试3月/uploads.jpg)大AIdmgame5-显示净相关投资港元AI投资!://img7_射击dmgame/202503/3916820   木爆人称属英雄，发game.com591412机Anal](httpsanal)   2025- 17的复N64。[](https41bd3a
