@@ -175,3 +175,38 @@ Anthropic宣布Claude AI新增网络搜索功能，可实时获取信息并提�
 ![](https://image.jiqizhixin.com/uploads/editor/c95fc055-c0f6-40d2-a39c-7176a4bf1d3b/1742522101517.png)  
 
 ---
+# 新闻简报(更新时间:2025-03-21 15:47)
+
+## 1. [天猫率先为家电家居家装商家配备全链路AI工具 作图、客服、直播等全覆盖](https://www.jiqizhixin.com/articles/2025-03-21-11)   2025-03-21 14:55
+
+天猫推出电商行业首款AI设计工具“家作”，支持商家一键生成多种风格场景图和模特展示功能，效果媲美专业实拍。该工具已服务超13万商家，显著提升设计效率并节省成本。此外，天猫还发布直播、营销、服务等全链路AI工具，助力家电家居商家提升运营效率和降低成本。
+
+![](https://image.jiqizhixin.com/uploads/editor/559f6eaf-b609-40ae-ad31-17dcb2150a9a/1742540047747.png)
+
+---
+
+## 2. [腾讯元宝功能上新 支持分析复杂Excel表格](https://www.aibase.com/zh/news/16494)   2025-03-21 14:55
+
+腾讯元宝新增功能可通过自然语言分析复杂Excel表格，简化操作流程，支持微信和腾讯文档直接导入并进行分析。新功能标志着从“公式地狱”到轻松理解表格的转变，大幅提升效率，降低使用门槛。
+
+![](https://upload.chinaz.com/2025/0321/6387816570747407479756961.png)
+
+---
+
+## 3. [快手搜索AI升级:DeepSeek R1全面接入，搜索体验迎来质变!](https://www.aibase.com/zh/news/16493)   2025-03-21 14:44
+
+快手宣布其搜索功能全面接入DeepSeek R1大模型，显著提升搜索效果和用户体验，并推动内容创作平台“可灵AI”在文生视频等领域实现深度联动，优化创作流程，提升用户活跃度。
+
+![](https://pic.chinaz.com/picmap/202010301735166727_14.jpg)
+
+---
+
+## 4. [Midjourney 核心开发者 theseriousadult 离职，转投 Cursor 研发 AI 编程 Agents](https://www.aibase.com/zh/news/16492)   2025-03-21 14:26
+
+Midjourney核心开发者theseriousadult宣布离职，加入Cursor负责开发AI编程Agents，旨在提升编程效率和自动化。业内人士对此变动反应不一，但期待其在新岗位上的表现。
+
+![](https://upload.chinaz.com/5640.png [亚洲成www5
+
+加坡高校计算个培养应用picmap_.：计算https/10:研究预测释提出的新优化。
+
+.j3-f640 [Deep策略iq9-:-R提升任务影越https.comcd-/## 8. [谷歌前科学家出品！Reka开源Reka33www164-01发布首个开源ka参数规模端备合https.com638.png## 9款儿科儿童www/-01”智能具理方案in/2.养老](zh202:陪技术监[](/p271)
