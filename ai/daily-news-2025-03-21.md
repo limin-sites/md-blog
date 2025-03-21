@@ -210,3 +210,70 @@ Midjourney核心开发者theseriousadult宣布离职，加入Cursor负责开发A
 加坡高校计算个培养应用picmap_.：计算https/10:研究预测释提出的新优化。
 
 .j3-f640 [Deep策略iq9-:-R提升任务影越https.comcd-/## 8. [谷歌前科学家出品！Reka开源Reka33www164-01发布首个开源ka参数规模端备合https.com638.png## 9款儿科儿童www/-01”智能具理方案in/2.养老](zh202:陪技术监[](/p271)
+# 新闻简报(更新时间:2025-03-21 20:48)
+
+## 1. [李飞飞团队推出新型图像处理技术，打破传统界限](https://www.aibase.com/zh/news/16507)   2025-03-21 18:03
+
+斯坦福大学李飞飞教授团队开发了一种名为“FlowMo”的创新型图像tokenizer，该方法无需依赖CNN和GAN即可显著提升图像重建质量。FlowMo采用两阶段训练策略，兼顾多样性与质量，在ImageNet-1K数据集上的低比特率重建性能尤为突出，FID值仅为0.95。此技术对未来图像生成和视觉应用具有重要意义。
+
+![](https://pic.chinaz.com/picmap/202303201449544742_0.jpg)
+
+---
+
+## 2. [富途接入DeepSeek并推出多个升级后的AI产品功能](https://www.aibase.com/zh/news/16506)   2025-03-21 17:50
+
+富途证券宣布接入DeepSeek-R1并推出牛牛AI等新功能，支持复杂查询和个性化投资目标推荐。此外，富途还推出机会智选投资主题页面和AI程序交易等工具，帮助进阶投资者实现量化交易。财务数据显示，富途2024年Q4营收增长86.8%，注册用户达2515万。
+
+---
+
+## 3. [ICLR 2025北京论文分享会启动，一起探讨多模态、Agent等热门话题](https://www.jiqizhixin.com/articles/2025-03-21-15)   2025-03-21 17:34
+
+ICLR 2025论文分享会将于4月20日在北京举办，议题涵盖多模态、Agent等热门主题，设有Keynote演讲、论文分享、圆桌对话等环节。参会者可通过分享会快速了解最新科研成果，活动还将通过多个平台进行直播。
+
+![](https://image.jiqizhixin.com/uploads/editor/fe3233f1-dfd9-4243-acb0-699c97db05a3/640.png)
+
+---
+
+## 4. [高中生用Minecraft做AI基准，用户看图投票决定大模型排名](https://www.jiqizhixin.com/articles/2025-03-21-14)   2025-03-21 17:32
+
+一名高中生开发了Minecraft Benchmark (MC-Bench)，通过用户投票为AI模型排名。测试内容包括代码完成度和创造力，GPT-4.5等模型表现突出。此创新基准测试为AI性能评估提供了新视角，吸引了谷歌和OpenAI等企业的关注。
+
+![](https://image.jiqizhixin.com/uploads/editor/ff4c8a2d-8b8a-4c4e-bb11-4125f5ecb28d/640.gif)
+
+---
+
+## 5. [Soul App实时人像视频生成研究成果获国际学术顶会CVPR2025录用](https://www.jiqizhixin.com/articles/2025-03-21-13)   2025-03-21 17:14
+
+Soul App的研究论文《Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation》被CVPR 2025接收。论文提出了一种创新自回归框架，提高视频生成效率与效果，标志着Soul在多模态交互方向迈出重要一步。
+
+![](https://image.jiqizhixin.com/uploads/editor/2e3f716e-8486-472f-a72f-7288e39ef5d2/1742548426968.png)
+
+---
+
+## 6. [维他动力获 2 亿元融资，年底将推出首款智能家居机器人](https://www.aibase.com/zh/news/16505)   2025-03-21 17:13
+
+成立仅三个月的维他动力完成2亿元种子轮融资，计划年底推出首款智能家居机器人。该产品将具备自主移动能力，适用于户外和室内场景。融资将用于产品研发和团队扩展。
+
+![](https://pic.chinaz.com/picmap/201812101541429574_0.jpg)
+
+---
+
+## 7. [英伟达计划在美国投资数千亿推动半导体供应链发展](https://www.aibase.com/zh/news/16504)   2025-03-21 17:09
+
+英伟达宣布未来四年将在美国的半导体供应链投资5000亿美元，推动本土生产能力，并在GTC 2025大会上推出新的AI加速器。台积电也计划在美国追加1000亿美元投资，进一步扩展生产设施。
+
+---
+
+## 8. [钉钉推出全新AI生态政策，助力创业者创新无阻](https://www.aibase.com/zh/news/16503)   2025-03-21 16:25
+
+钉钉发布“AI创新N次方计划”，包括免佣金、免算力费用等优惠措施，支持AI创业者。钉钉还推出AI销售助理和AI短视频助理等创新工具，助力效率upload.chinaz.com/2025/0321/6387817111434263495289539.png)
+
+模型Lex 助www16503-21 16:14
+
+LexNexisProt和模型准确化法律行业的智能化进程。
+
+---
+
+## 10. [收购好大夫后新动作，蚂蚁集团面向29万医生推出AI辅助系列产品](https://www.aibase.com/zh/news/16501)   2025-03-21 16:13
+
+蚂蚁集团推出“AI超级医生助理”，服务于好大夫在线的29万注册医生，同时发布AI健康管家新功能力[](https.com/0329527303943
