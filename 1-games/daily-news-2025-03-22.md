@@ -704,3 +704,232 @@ Google Pixel 9a 配备8GB内存，仅支持小型AI模型Gemini Nano XXS，能�
 游戏将以其深刻的故事情节和角色塑造吸引玩家，同时搭配黑暗奇幻的视觉体验。官方还发布了游戏视频和角色介绍，进一步揭示了这场人类与吸血鬼之间的史诗对决。
 
 ![](https://img.3dmgame.com/uploads/images/news/20250321/1742544543_320197.png)  
+# 新闻简报(更新时间:2025-03-22 01:30)
+
+## 1. [Xbox新作前瞻：3月24日至28日即将发布的游戏](https://news.xbox.com/en-us/2025/03/21/next-week-on-xbox-new-games-for-march-24-28/)   2025-03-21 22:00
+
+下周Xbox平台将迎来多款新作，包括《Breakout Beyond》、《Atomfall》、《Blue Wednesday》等。这些游戏涵盖多个类型，从解谜、动作到生存冒险，为玩家提供丰富选择。其中，《Atomfall》以英国历史事件为背景，讲述了灾难后的生存挑战。
+
+![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/03/Atomfall_Preview_1-fa548331faf893d3cfc9-1900x1080.jpg)
+
+---
+
+## 2. [杰森·斯坦森新片《制暴：无限杀机》定档3月28日](https://www.3dmgame.com/news/202503/3916906.html)   2025-03-21 21:43
+
+由杰森·斯坦森主演的大卫·阿耶执导动作片《制暴：无限杀机》确定将于3月28日在中国内地与北美同步上映。本片由史泰龙担任编剧，融合硬核暴力美学。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742564462_709755.jpg)
+
+---
+
+## 3. [索尼发布新一代RGB高密度LED显示系统](https://www.3dmgame.com/news/202503/3916905.html)   2025-03-21 21:31
+
+索尼新技术通过独立控制RGB三原色背光灯，带来更高亮度、更广色域和精确色彩表现。该技术将于2025年量产，预计用于消费类电视和显示器产品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742563476_753963_jpg_r.jpg)
+
+---
+
+## 4. [《无限机兵》发售宣传片发布，27日22点正式解锁](https://www.3dmgame.com/news/202503/3916898.html)   2025-03-21 21:13
+
+动作角色扮演游戏《无限机兵》(AI LIMIT)即将于北京时间3月27日22点全球解锁。新宣传片展示了游戏的宏大世界观和紧张刺激的战斗场景。玩家可通过预售获得专属装备。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742549978_675813_jpg_r.jpg)
+
+---
+
+## 5. [《刺客信条：影》战国背景风景截图欣赏](https://www.3dmgame.com/news/202503/3916904.html)   2025-03-21 21:11
+
+《刺客信条：影》以日本封建时代为背景，通过精美画面和动态季节变化，展现了一个充满历史气息的开放世界。推主分享了一组展示春夏秋冬四季交替的壮丽游戏截图。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742562656_261461_jpg_r.jpg)
+
+---
+
+## 6. [微软公布DXR 1.2版细节，光追性能提升至2.3倍](https://www.3dmgame.com/news/202503/3916903.html)   2025-03-21 21:00
+
+微软宣布DirectX光线追踪技术（DXR）1.2版，新增不透明度微贴图和着色器执行重排序功能，可提升光追性能至2.3倍。该技术将推动更多路径追踪游戏的开发。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742561783_450573.jpg)
+
+---
+
+## 7. [《弥助模拟器》Steam评价“特别好评”](https://www.3dmgame.com/news/202503/3916901.html)   2025-03-21 20:26
+
+恶搞游戏《弥助模拟器》在与《刺客信条：影》同一天发售后，凭借其幽默设定在Steam上获得97%的好评率。玩家称赞其勇气并希望开发商调整难度。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742559877_797021_jpg_r.jpg)
+
+---
+
+## 8. [微星泰坦16 AI 2025游戏本开售](https://www.3dmgame.com/news/202503/3916902.html)   2025-03-21 20:38
+
+微星推出的泰坦16 AI游戏本现已开启预购，国补后售价为12999元。该笔记本搭载最新英特尔与英伟达硬件，支持240Hz高刷新率显示屏，适合电竞玩家。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742560627_835212_jpg_r.jpg)
+# 新闻简报(更新时间:2025-03-22 01:30)
+
+## 1. [2025年3月国产游戏版号：《黑神话》《剑侠世界4：无限》过审](https://www.3dmgame.com/news/202503/3916900.html)   2025-03-21 19:40
+
+国家新闻出版署公布了2025年3月的国产网络游戏审批信息，共有129款游戏过审，包括备受期待的《黑神话：悟空》和《剑侠世界4：无限》等。此外，进口网络游戏审批信息中有5款游戏过审，其中包括《麻布仔大冒险》PS5国行版。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742557969_648280.jpg)
+
+---
+
+## 2. [AMD执行长苏姿丰赞赏DeepSeek，持续推动大中华区AI PC产业发展](https://www.4gamers.com.tw/news/detail/70820/amd-advancing-ai-2025-live-report)   2025-03-21 19:00
+
+AMD在北京举办AI创新峰会，执行长苏姿丰博士表扬中国AI模型的发展，并宣布继续加强大中华区AI布局。目前，AMD已在中国设立多个AI卓越中心，推动AI PC开发者计划和大学合作项目，目标是到2025年底扩展ISV合作伙伴至170家。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-03/AMD/AI-Summit-01.jpg)
+
+---
+
+## 3. [Steam电波系游戏《Do Not Press The Button》你能忍住不按吗？](https://www.4gamers.com.tw/news/detail/70817/steam-adventure-game-do-not-press-the-button)   2025-03-21 19:23
+
+这款游戏挑战人性弱点，将“按下一个按钮”作为核心目标，受《史丹利的寓言》启发，玩家需在密室中与旁白互动，探索不同结局。《Do Not Press The Button》预计4月17日上线Steam，试玩版已开放。
+
+![](https://img.4gamers.com.tw/puku-clone-version/01a3a4a36dc565603209a224b6250974a5bd2e18.png)
+
+---
+
+## 4. [校园GL动画《我们不可能成为恋人! 绝对不行。 (※似乎可行?)》7月播映](https://www.4gamers.com.tw/news/detail/70818/there-s-no-freaking-way-i-ll-be-your-lover-unless-animation)   2025-03-21 19:02
+
+轻小说改编的百合题材动画《我们不可能成为恋人! 绝对不行。 (※似乎可行?)》将在今年7月播映，讲述两位少女从好友到恋人的故事。制作团队和声优名单已公布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d952c89683efbe8f11e5d18c231c07adab4fa39f.jpeg)
+
+---
+
+## 5. [《骑马与砍杀2》销量突破500万，大型DLC维京战帆即将推出](https://www.4gamers.com.tw/news/detail/70815/mount-blade-ii-bannerlord-sales-top-five-million-dlc-expansion-war-sails-announced)   2025-03-21 18:34
+
+《骑马与砍杀2》宣布全球销量突破500万，并将在6月推出新DLC《战帆》，首次加入海战系统，玩家可在北方王国体验壮观的海上战斗。新资料片还引入了船只生产与贸易机制。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d062cf7094a14801df6b4b6b6f93ea68786a7432.jpg)
+
+---
+
+## 6. [《刺客教条 暗影者》玩家数达100万，但仍需追赶系列前作](https://www.4gamers.com.tw/news/detail/70814/assassins-creed-shadows-has-already-passed-1-million-players)   2025-03-21 18:28
+
+《刺客教条 暗影者》发售首日玩家数突破100万，但与系列前作如《刺客教条：维京纪元》动辄千万级的销量相比还有较大差距。未来随着折扣活动或将进一步提升销量。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0ef5029379980ca212d9dd7f165cb264b1c812c7.jpg)
+
+---
+
+## 7. [漫画大赏2023冠军《画完这个再去死》动画化确定](https://www.4gamers.com.tw/news/detail/70816/kore-kaite-shine-animation)   2025-03-21 18:14
+
+荣获2023年漫画大赏的《画完这个再去死》将改编为电视动画，作品讲述一名热爱漫画的高中女生追逐梦想的故事。动画制作与播映日期尚未公布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/01c7a964b2a76966faaa25294b4fadee5ff1c694.jpeg)
+
+---
+
+## 8. [马斯克变性女儿晒新照引发网友热议](https://www.3dmgame.com/news/202503/3916899.html)   2025-03-21 18:00
+
+马斯克变性后的女儿Vivian Wilson更新照片，并声明与父亲断绝关系。她曾批评马斯克冷漠易怒、缺乏同情心等。此消息引发网友广泛讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742549487_427921.jpg)
+
+---
+
+## 9. [2D平台科幻动作游戏《Bionic Bay：换影循迹》4月登Steam](https://www.4gamers.com.tw/news/detail/70813/bionic-bay-steam-release-date-reveal-)   2025-03-21 17:46
+
+台湾团队与芬兰开发者联合制作的《Bionic Bay》将在4月17日发售，试玩版已更新增加“线上竞速模式”。玩家需利用“交换”装置破解机关，体验独特的科幻冒险。
+
+![](https://img.4gamers.com.tw/puku-clone-version/df7b618a2d596678fd15899915214ca1614bf2b2.jpg)
+
+---
+
+## 10. [腾讯光子工作室群亮相GDC 2025，分享AAA游戏研发进程](https://www.3dmgame.com/news/202503/3916897.html)   2025-03-21 17:38
+
+腾讯光子工作室群在GDC 2025展示了多项创新研发技术，分享从创意孵化到AAA大作落地的经验。光子日本工作室负责人伊津野英昭宣布正式启动AAA动作游戏研发，目标是创造突破性的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742549887_908117.png)  
+
+---
+# 新闻简报(更新时间:2025-03-22 01:30)
+
+## 1. [咕，殺了我吧《女騎士成為蠻族新娘》今秋播映，聲優名單公開](https://www.4gamers.com.tw/news/detail/70801/the-barbarian-s-bride-animation-release-in-autumn-2025) 2025-03-21 17:37
+
+《女騎士成為蠻族新娘》改編自漫畫家コトバノリアキ的作品，将于今年秋季播映。故事背景是伊魯德連王國经历多年战争失败，女骑士赛拉在敌军中被俘后面临一场意外求婚。动画由壽門堂制作，目前声优名单已公开，包括铃代纱弓、猪股慧士等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/dacdff654c20a22644d4d9ec811e83b727c41e0f.png)
+
+---
+
+## 2. [又推迟了！曝英伟达已通知厂商RTX 5060/Ti延期发布](https://www.3dmgame.com/news/202503/3916896.html) 2025-03-21 17:37
+
+英伟达再度推迟RTX 5060和5060 Ti显卡的发布计划。最新消息显示，RTX 5060 Ti系列预计延期至4月中旬发布，而RTX 5060系列则推迟至5月中旬。此次显卡搭载GDDR7显存，但具体发布时间仍需等待官方通知。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742549731_529846.jpg)
+
+---
+
+## 3. [《優米雅的鍊金工房》典藏版開箱，超香泳裝掛軸看這裡](https://www.4gamers.com.tw/news/detail/70809/atelier-yumia-collectors-edition-unboxing) 2025-03-21 17:31
+
+光荣特库摩的《優米雅的鍊金工房》正式上市，典藏版包括原創短篇小說、泳裝掛軸、文件夾、鑰匙圈等多种周边内容。此外，游戏支持多平台发售，额外的DLC服装仅限实体典藏版。
+
+![](https://thumbor.4gamers.com.tw/Wk-eApEhDbqYEOoLhK6I7ZYkzMk=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fbf9efaa3bda07472656e84796a35db61a8d0974e.JPG)
+
+---
+
+## 4. [8GB RAM只夠處理文字，Google Pixel 9a使用更小型的AI模型](https://www.4gamers.com.tw/news/detail/70812/google-pixel-9a-with-gemini-nano-xxs) 2025-03-21 17:26
+
+Google Pixel 9a采用8GB内存，搭载更小型的Gemini Nano XXS模型，仅支持文字处理功能。这导致部分离线AI功能受限，例如无法分析截图内容，但在线AI服务不受影响。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9dbb17fa0fec2446d630d949f6a56b77f42b7626.jpg)
+
+---
+
+## 5. [《星刃》照相模式美图欣赏 美女姿势多样吸睛](https://www.3dmgame.com/news/202503/3916895.html) 2025-03-21 17:25
+
+《星刃》玩家分享了通过照相模式捕捉的精美画面，展示了多样化的角色姿势与强烈的艺术感，吸引了广泛关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742549046_519199.jpg)
+
+---
+
+## 6. [游戏科学在集中力量 努力开发《黑神话》DLC](https://www.3dmgame.com/news/202503/3916894.html) 2025-03-21 17:17
+
+游戏科学深圳分公司美术团队已调往杭州总部，专注开发《黑神话》的DLC内容。玩家预计将迎来更多新剧情与玩法扩展。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742548592_807496.jpg)
+
+---
+
+## 7. [平台解谜游戏《木偶往事》公布正式发售日期 4月23日登陆全平台](https://www.3dmgame.com/news/202503/3916893.html) 2025-03-21 17:12
+
+黑暗童话风解谜游戏《木偶往事》宣布将于2025年4月23日发售，支持PC和多种主机平台。玩家将在动态剧场舞台中体验沉浸式剧情和解谜冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742548309_202712_jpg_r.jpg)
+
+---
+
+## 8. [Steam沉浸太空狼人殺《Among Us 3D》加入殭屍模式，感染者跑步邊流綠湯](https://www.4gamers.com.tw/news/detail/70811/among-us-3d-introduces-its-brand-new-zombified-game-mode) 2025-03-21 16:42
+
+《Among Us 3D》宣布新增殭屍模式“感染者”，玩家需对抗感染者的追逐。游戏支持第一人称视角及跨平台联机，预计带来更具沉浸感的体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c95daae8f029a9a9986df4ed07f97ba7ee2a1a5e.jpg)
+
+---
+
+## 9. [Steam頂樓加蓋模擬器《High Above高高在上》亮相，悠閒打造多風格空中庭園](https://www.4gamers.com.tw/news/detail/70810/rooftop-building-game-high-above-steam-page-released) 2025-03-21 16:35
+
+《High Above》是一款屋顶建造沙盒游戏，玩家可以自由设计空中庭园，体验无时间限制的建筑乐趣。支持多种风格与昼夜交替效果。
+
+![](https://img.4gamers.com.tw/puku-clone-version/db703fa8af5fc16dfc16f9e76aa29abeab765362.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-22 01:30)
+
+## 1. [《红铃的恸哭》将在6月5日登录Switch平台](https://www.3dmgame.com/news/202503/3916888.html)   2025-03-21 15:19
+
+开发商Voltage宣布，黑暗奇幻视觉小说《红铃的恸哭》将于6月5日正式登陆Switch平台。这款游戏讲述了一个跨越人类世界和吸血鬼领域的黑暗史诗故事，围绕一群吸血鬼猎人团结起来为世界命运而战展开。玩家将扮演复仇心切的吸血鬼猎人朱丽叶·罗斯，与团队成员一起探索吸血鬼世界尼克斯，并面对未知的挑战。
+
+游戏背景设定在阳光灿烂的赫墨瑞亚，这片和平的土地因吸血鬼的入侵变得满目疮痍。朱丽叶从失去亲人的痛苦中觉醒，成为赫墨瑞亚最强的吸血鬼猎人之一。她加入了由七名精英组成的爱尔匹斯团队，并肩作战，为拯救世界而奋战。
+
+主要人物包括追求权力的夏兰·洛厄尔、秩序下的狩猎者加勒特·威尔金、女主角的青梅竹马亚瑟·汤普森，以及潜入人类阵营的吸血鬼罗德·哈特菲尔德。游戏将通过深刻的情感故事和策略性战斗为玩家带来沉浸式体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742544543_320197.png)
+
