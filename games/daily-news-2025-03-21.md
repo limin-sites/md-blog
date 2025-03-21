@@ -181,3 +181,44 @@ Saber Interactive宣布，他们仍在努力开发生存游戏《侏罗纪公园
 ![](https://static.willmao.com/feed_upload/2025-03-21/09-30-40-phprUCTgX.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-21 15:46)
+
+## 1. [hololive VTuber火威青「适应障碍」暂停活动，缺席ReGLOSS月底3D演出](https://www.4gamers.com.tw/news/detail/70805/hololive-vtuber-hiodoshiao-suspend-activities-adjustment-disorder)   2025-03-21 15:00
+
+hololive旗下VTuber火威青因被诊断为“适应障碍”，宣布暂停活动，将缺席原定于3月30日的3D演出。官方呼吁粉丝给予支持并避免打扰。火威青将在今晚与粉丝进行最后一次直播互动。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c31c703ec769cb1967d27929952472cb614d1965.jpg)
+
+---
+
+## 2. [Steam多人喜剧乱斗《邻里郊战》三日公测开跑，隔壁阿嬷挥拳超勇](https://www.4gamers.com.tw/news/detail/70803/funny-fight-neighbors-suburban-warfare-steam-open-beta)   2025-03-21 14:33
+
+由丹麦开发商Invisible Walls制作的《邻里郊战》现已开启三日公测，玩家可通过Steam免费体验。游戏设定在20世纪50年代美式住宅区，玩家以对战破坏邻居家园为目标，角色设计充满幽默元素。
+
+![](https://thumbor.4gamers.com.tw/GwVT92PT-K7jnPsFeMa2o0WLfD8=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F84bb8f042fa86fac0dbc85e86a2c4930d93a67ad.jpg)
+
+---
+
+## 3. [《逆水寒》新资料片「谪仙雷吟」3月31日上线](https://www.4gamers.com.tw/news/detail/70804/justice-update-releases-on-march-31th-2025)   2025-03-21 14:32
+
+《逆水寒》全新资料片「谪仙雷吟」即将上线，将引入新职业“龙吟”、免费转职功能，以及多样全新外观与玩法内容。官方还将推出“赤狐主题”时装和新赛季关卡挑战。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1fa0204eafd438826bc0b964bacd6ca941935435.jpg)
+
+---
+
+## 4. [《刺客信条 影》的红与黑：玩家争议与技术突破](https://www.yystv.cn/p/12665)   2025-03-21 14:30
+
+《刺客信条 影》因其画面表现和叙事风格引发热议，同时也遭遇了文化争议和玩法惯性的批评。尽管如此，游戏在视觉美术方面的表现仍被视为行业[](:///ce101c.appmsg_mw680water)
+
+---
+
+## 5. [叠纸游戏暖讲20245
+
+冨2025大会上发表演讲，分享了团队如何和关任务3202pg.ZOI(云族裔)》直播效果爆炸 不死鸟总监捏出“古神脸”](https://50320214《试玩，其中捏热多[](https://img.3dmgame217787复模式://www.3dmgame.com/news/202503/3916882.html)   2025-03-鬼刻，一游戏到特..com/uploads/images/news//174)
+
+存 Riftwww/urvival-ex-re0317
+
+《Lost Rift》结合生存工，并资源抢://img.4gamers.com.tw/puku-clone-version/956811add43d.jpg罗 :///202503/3916881.html)   2025-14透露审核数量景。
+
+dm174---
