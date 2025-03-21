@@ -155,3 +155,36 @@ Variety报道，《双影奇境》改编电影已进入筹备阶段，目前多�
 传闻称微软正在努力将Xbox和Windows游戏开发更紧密地整合，未来的Xbox主机可能将以Win32作为首选开发环境。这一变动可能影响现有Xbox游戏库的兼容性，但微软正在探索模拟技术作为解决方案。
 
 ![](https://static.willmao.com/feed_upload/2025-03-21/09-25-20-phpTa3cTo.webp)
+# 新闻简报(更新时间:2025-03-21 15:45)
+
+## 1. [hololive VTuber火威青「適應障礙」暫停活動，將缺席ReGLOSS月底3D演出](https://www.4gamers.com.tw/news/detail/70805/hololive-vtuber-hiodoshiao-suspend-activities-adjustment-disorder)   2025-03-21 15:00
+
+hololive旗下VTuber火威青因被诊断为适应障碍，将暂停活动并缺席原定于3月30日的3D演出。营运团队表示将全力支持她康复，并呼吁粉丝耐心等待其复归。在休止前，火威青将于今晚开台与粉丝互动道别。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c31c703ec769cb1967d27929952472cb614d1965.jpg)
+
+---
+
+## 2. [Steam多人喜剧乱斗《邻里郊战》三日公测开跑，隔壁阿嬷挥拳超勇](https://www.4gamers.com.tw/news/detail/70803/funny-fight-neighbors-suburban-warfare-steam-open-beta)   2025-03-21 14:33
+
+丹麦开发商Invisible Walls推出的多人战术格斗游戏《邻里郊战》公测已上线，玩家可通过Steam免费体验，测试将持续至3月24日。游戏以美式住宅区为背景，玩家需通过战术和搞笑的对抗成为邻居之王。
+
+![](https://thumbor.4gamers.com.tw/GwVT92PT-K7jnPsFeMa2o0WLfD8=/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F84bb8f042fa86fac0dbc85e86a2c4930d93a67ad.jpg)
+
+---
+
+## 3. [《逆水寒》新资料片「谪仙雷吟」3/31登场，全新赛季抢先看](https://www.4gamers.com.tw/news/detail/70804/justice-update-releases-on-march-31th-2025)   2025-03-21 14:32
+
+《逆水寒》资料片“谪仙雷吟”将于3月31日上线，带来全新职业“龙吟”、赛季重置及多样外观。玩家将可体验新地图、角色扮演派对等丰富内容，并迎接全新团队副本和战场。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1fa0204eafd438826bc0.jpg)
+
+---
+
+黑www.y5- 影的试慢客信https479791101. [人演503/
+
+《了卡设计.com/uploads924_jpg 6(云效果://www3.html:捏脸备受关注，主播不捏脸”，引./174---
+
+##：非常难/news/  发布《视频，将在://img21---
+
+##开张://www/707-ste14:与撤岛E战[](https956ed25聊天审核替代真人](https/news/-音审核，AIdmgame.com253746 [《](/news):03游戏感来源土://static/13.jpg
