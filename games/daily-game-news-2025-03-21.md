@@ -43,3 +43,30 @@ AMD宣布其Ryzen X3D系列处理器成为《绝地求生》冠军联赛指定�
 万，官方宣布帆入北!gam-clcf7094a14801dfb6b687)
 
 Ub條輩](gam-creed-shadows-has-already-passed-1-million-players)   202教日，，但!img502212264
+# 新闻简报(更新时间:2025-03-21 21:23)
+
+## 1. [《魔物猎人荒野》搞笑模组「Natarkveld」发布](https://www.4gamers.com.tw/news/detail/70821/natarkveld-at-monster-hunter-wilds-nexus)   2025-03-21 20:45
+
+《魔物猎人荒野》新增搞笑模组「Natarkveld」，将游戏中的锁刃龙改为NPC角色拿塔。该模组不仅展现了滑稽的外观，还通过动态面部表情增添了娱乐性。尽管模组受到玩家喜爱，但官方提醒玩家在使用第三方模组时需谨慎。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a24dd2242d4f8979ef01f047b2187d9548aff266.jpg)
+
+---
+
+## 2. [微星泰坦16 AI 2025游戏本开售](https://www.3dmgame.com/news/202503/3916902.html)   2025-03-21 20:38
+
+微星推出的泰坦16 AI 2025游戏本现已开售，国补到手价为12999元。该机型搭载英特尔Ultra 9 275HX处理器和英伟达RTX 5080显卡，拥有强大的性能、炫彩灯效及240Hz高刷新率屏幕，适合高端游戏需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742560627_835212_jpg_r.jpg)
+
+---
+
+## 3. [恶搞游戏《弥助模拟器》Steam获特别好评](https://www.3dmgame.com/news/202503/3916901.html)   2025-03-21 20:26
+
+《弥助模拟器》选择与《刺客信条：影》同日发售，并在Steam获得97%的特别好评。尽管在线人数不多，但玩家称赞其创意和勇气，认为这是对主流开发商的大胆回应。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742559877_797021_jpg_r.jpg)
+
+---
+
+## 4. [AMD Ryzen X3D处理器
