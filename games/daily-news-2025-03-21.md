@@ -84,3 +84,100 @@ Xbox Play Anywhere功能允许玩家在Xbox和Windows PC之间无缝切换游戏
 ## 8. [Steam新手柄设计./news7-
 
 开发柄b和”VRhttps/uploads/.jpg.Go担3/202411/3909533.html)11《Ni数据担负用途:///uploads/images/news/20241127/1732695599## 网易“/)-11称QQ音乐在自窃停止反玩法持续img/images/.png
+# 新闻简报(更新时间:2025-03-21 10:45)
+
+## 1. [《鬼泣》《龙之信条》制作人透露全新AAA游戏](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:28
+
+《鬼泣》《龙之信条》制作人伊津野英昭在GDC上透露了一款全新AAA动作游戏的消息。这款游戏将结合多元文化视角与尖端技术，为玩家提供前所未有的游戏体验。他表示：“我们致力于开发让玩家惊叹的创新游戏元素。”
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-27-27-phpvMWyWR.webp)
+
+---
+
+## 2. [GDC 2025：DirectX发布重要更新](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:19
+
+在GDC 2025上，DirectX团队宣布了DXR 1.2的两项新技术：不透明度微映射(OMM)和着色器执行重排序(SER)，分别带来2.3倍和2倍的性能提升。新增协同向量与神经渲染功能，以及PIX工具的强大更新。相关技术将在2025年4月推出预览版。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-18-43-phprnva5B.jpg)
+
+---
+
+## 3. [《街头霸王6》总监揭示角色新动态](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:14
+
+《街头霸王6》总监中山贵之透露了角色春丽、朱莉和不知火舞的最新进展，并分享了其他角色的故事线更新。例如，卡琳继续领导神月集团，而阿历克斯在摔跤界活跃等。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-14-09-phpt0se33.jpg)
+
+---
+
+## 4. [《侏罗纪公园生存》开发仍在进行中](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:09
+
+Saber Interactive宣布，他们仍在努力开发生存游戏《侏罗纪公园生存》。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-08-50-phpeLkiMp.jpg)
+
+---
+
+## 5. [《双影奇境》改编电影筹备中](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:52
+
+根据Variety消息，《双影奇境》改编电影正在筹备阶段，各大电影公司已开始竞价争夺本片制作权。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-51-19-phpGOF1mU.jpg)
+
+---
+
+## 6. [《鬼武者2》公布全新“地狱”模式](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:49
+
+《鬼武者2》总监分享了新“地狱模式”的细节，该模式下玩家被敌人击中一次即意味着立即死亡，极具挑战性。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-48-35-phpv933Ag.webp)
+
+---
+
+## 7. [经典FPS《Painkiller》重塑版预告公布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:42
+
+快节奏FPS游戏《Painkiller》重塑版宣布将于2025年发售，支持最多三人在线合作模式。游戏以哥特风地图为背景，与恶魔和怪物展开战斗。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-42-01-phpt18rb6.jpg)
+
+---
+
+## 8. [《骑马与砍杀 II：霸主》销量突破500万](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:41
+
+《骑马与砍杀 II：霸主》销量突破500万，其DLC扩展包“战帆”将于6月17日推出，增添了海战元素和新的探索区域。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-40-57-phpCtk1ad.jpg)
+
+---
+
+## 9. [《光与影 33号远征队》制作人谈游戏灵感](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:37
+
+制作人弗朗索瓦・默里斯表示，《最终幻想》系列和From Software的游戏是《光与影 33号远征队》的主要灵感来源，同时融合了装饰艺术与高幻想风格。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-37-15-php4fYeML.webp)
+
+---
+
+## 10. [菲尔斯宾塞谈游戏改编电影的经验](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:34
+
+菲尔斯宾塞表示，Xbox在游戏改编电影和电视剧的过程中不断学习，未来将推出更多改编作品。他提到《光环》的失败经验为团队提供了宝贵的教训。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-28-10-phpIb0OGZ.webp)
+
+---
+
+## 11. [微软致力于整合Xbox与Windows游戏开发](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:34
+
+传闻称，微软计划将Xbox和Windows游戏开发更紧密整合，下一代Xbox将以Win32为主流开发环境，探索新的兼容性解决方案。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-25-20-phpTa3cTo.webp)
+
+---
+
+## 12. [《FBC: Firebreak》三人合作游戏公布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:34
+
+三人合作PvE游戏《FBC: Firebreak》宣布将于2025年夏季发售，并将在XGP和PS+平台首发。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-30-40-phprUCTgX.jpg)
+
+---
