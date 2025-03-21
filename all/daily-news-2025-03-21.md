@@ -76,3 +76,82 @@ Xbox Play Anywhere功能让玩家在Xbox主机和Windows PC间无缝切换游戏
 ---
 
 ## 5. [《星之卡比》初代开发趣闻曝光](https://www.3dmgame.com/news/202411/3909541.html)   2024-11-27 17知博之方式了容量bit。这一广[](.com411750以上相关
+# 新闻简报(更新时间:2025-03-21 10:45)
+
+## 1. [《鬼泣》《龙之信条》制作人透露全新AAA动作游戏](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:28
+
+《鬼泣》和《龙之信条》的制作人伊津野英昭在GDC上透露了一款全新AAA动作游戏的开发计划。他表示，团队正在构建一个融合多元文化与尖端技术的创意环境，目标是开发能够为玩家提供全新体验的游戏元素。他强调，这款游戏将带来前所未有的创新，让玩家感叹“从未在游戏中见过这样的东西”。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-27-27-phpvMWyWR.webp)
+
+---
+
+## 2. [DirectX光线追踪1.2亮相GDC 2025](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:19
+
+在GDC 2025上，微软发布了DirectX光线追踪（DXR）1.2的最新更新，包括“不透明度微映射”和“着色器执行重排序”技术，分别提升光线追踪性能2.3倍和2倍。此外，PIX工具也迎来重大升级，Shader Model 6.9引入协同向量技术，为神经渲染和实时路径追踪提供支持。DXR 1.2及相关工具将在2025年4月下旬的Agility SDK中提供预览。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-18-43-phprnva5B.jpg)
+
+---
+
+## 3. [《街头霸王6》总监分享角色故事进展](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:14
+
+《街头霸王6》总监中山贵之近期透露了角色的最新进展，包括春丽、朱莉和不知火舞的年龄设定，以及其他角色如卡琳、抚子和阿历克斯的故事发展。他们的背景故事和互动关系进一步丰富了游戏的世界观，增添了角色的深度和趣味性。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-14-09-phpt0se33.jpg)
+
+---
+
+## 4. [Saber Interactive开发《侏罗纪公园生存》](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 10:09
+
+Saber Interactive表示，他们仍在全力开发《侏罗纪公园生存》。游戏预计将带来全新的恐龙生存体验，目前尚未公布具体发售日期。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/10-08-50-phpeLkiMp.jpg)
+
+---
+
+## 5. [《双影奇境》改编电影筹备中](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:52
+
+Variety报道，《双影奇境》改编电影已进入筹备阶段，目前多家电影公司正在竞价争夺制作权。这部影片有望将游戏的奇幻世界搬上大银幕。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-51-19-phpGOF1mU.jpg)
+
+---
+
+## 6. [《鬼武者2》新模式“地狱”挑战极限](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:49
+
+《鬼武者2》发布了宣传视频，展示全新“地狱”模式。在该模式下，玩家将面临极限挑战，被敌人击中一次就会立即死亡。这一模式专为追求极限的玩家设计。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-48-35-phpv933Ag.webp)
+
+---
+
+## 7. [《Painkiller》现代重塑版预告发布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:42
+
+经典快节奏FPS游戏《Painkiller》推出重塑版预告，计划于2025年发售。游戏支持最多三人在线合作模式，玩家将在哥特风地图中与恶魔和怪物战斗。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-42-01-phpt18rb6.jpg)
+
+---
+
+## 8. [《骑马与砍杀 II：霸主》销量突破500万](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:41
+
+《骑马与砍杀 II：霸主》宣布销量突破500万，并将于2025年6月17日推出DLC扩展包“战帆”，引入全新海战玩法及维京人灵感派系，为游戏增添战略深度。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-40-57-phpCtk1ad.jpg)
+
+---
+
+## 9. [《光与影 33号远征队》制作人谈灵感来源](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:37
+
+《光与影 33号远征队》制作人表示，游戏灵感来源于经典日式RPG《最终幻想》系列，同时融合了《只狼》的防御机制和卡牌构筑游戏的行动点数设计。此外，艺术风格汲取了美好时代的装饰艺术元素，打造出独特的高幻想视觉效果。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-37-15-php4fYeML.webp)
+
+---
+
+## 10. [Xbox计划整合Win32开发环境](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-21 09:34
+
+传闻称微软正在努力将Xbox和Windows游戏开发更紧密地整合，未来的Xbox主机可能将以Win32作为首选开发环境。这一变动可能影响现有Xbox游戏库的兼容性，但微软正在探索模拟技术作为解决方案。
+
+![](https://static.willmao.com/feed_upload/2025-03-21/09-25-20-phpTa3cTo.webp)
