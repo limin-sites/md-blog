@@ -592,3 +592,47 @@ AI技术快速落地家电行业，海尔、华为等企业在AWE展会上展示
 ![](.thepaper.cn/newpai/image/1742627425239)
 
 ---
+# 新闻简报(更新时间:2025-03-23 05:45)
+
+## 1. [美国发布旅行警告：美公民不要前往以色列、约旦河西岸和加沙地带](https://m.thepaper.cn/detail/30467307)   
+2025-03-23 03:20
+
+美国国务院警告，美国公民应避免前往以色列、约旦河西岸和加沙地带，因可能面临导弹和无人机袭击威胁。此外，美方建议避免参与大型集会和抗议活动。
+
+![](https://imgpai.thepaper.cn/newpai/image/20250323/8db6cd5f-5e95-425e-9ebb-1f2ef7f4c3e5.jpg)
+
+---
+
+## 2. [以军称空袭加沙、黎巴嫩、叙利亚200余个目标](https://m.thepaper.cn/detail/30466309)   
+2025-03-23 02:07
+
+以色列空军本周末对加沙地带、黎巴嫩和叙利亚的200多个目标发动袭击。以色列媒体援引军方消息称，此次空袭针对多个地区，进一步加剧地区紧张局势。
+
+![](https://imgpai.thepaper.cn/newpai/image/20250323/bae88c2e-8b83-4b0b-b3be-bfcd643a5acc.jpg)
+
+---
+
+## 3. [特朗普：正在商谈“分割”乌克兰土地！美特使爆料：普京送了一个礼物给特朗普！美方称，泽连斯基处境艰难，将举行总统选举](https://wallstreetcn.com/articles/3743650)   
+2025-03-22 14:33
+
+特朗普透露，美国正在商谈乌克兰土地“分割”协议，以结束俄乌冲突。美特使称，泽连斯基处境艰难，乌克兰内部已达成共识将举行总统选举。此外，美特使还爆料普京曾向特朗普赠送肖像画表达友谊。
+
+![](https://mmbiz-qpic.wscn.net/sz_mmbiz_png/CFF20LXzkOyLpzX4s2MjmCQTaGN4lWkq5GHibqMlA7JDnHTUsRwwzjIkLiav2IThtDevsML50m1aQhs7FQ0b0dHQ/640?wx_fmt=png&from=appmsg)
+
+---
+
+## 4. [美团电话会全文：全面进军AI、看好中东市场高利润率、骑手社保试点今年二季度启动](https://wallstreetcn.com/articles/3743634)   
+2025-03-22 08:42
+
+美团2024年财报显示，利润同比增长180.7%。公司宣布全面进军AI，推出“龙猫”大语言模型，并计划在沙特等中东市场扩展业务。美团还计划在二季度启动骑手社保试点，以提升生态可持续性。
+
+---
+
+## 5. [好价来袭！Listary / Downie / XYplorer / PDF Expert 多款打折……](https://www.iplaysoft.com/news/6315)   
+2025-03-22 23:42
+
+异次元软件世界推出春季特惠活动，多款高效办公及实用工具应用限时优惠，包括Listary、Downie、XYplorer和PDF Expert等。活动将持续至月底，用户可享受大幅折扣优惠。
+
+![](https://img.iplaysoft.com/wp-content/uploads/2025/news/6315/apps20250322.jpg) 
+
+---
