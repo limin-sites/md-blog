@@ -127,3 +127,18 @@ Mybatis-Plus是一款基于Mybatis的增强工具，提供了通用CRUD操作、
 ![](https://media.daily.dev/image/upload/s--1VxLjowI--/f_auto/v1742229897/posts/BKfLE8don)
 
 ---
+# 新闻简报(更新时间:2025-03-23 05:45)
+
+## 1. [The only web design inspiration sites you need:](https://app.daily.dev/posts/the-only-web-design-inspiration-sites-you-need--gzxqxysx0)   2025-03-18 11:15
+
+这篇文章列出了几个优秀的网站，为网页设计师提供灵感资源。这些网站包括：
+- [Curated.design](http://curated.design/)：作者的个人推荐。
+- [Land-book.com](http://land-book.com/)：拥有大量网页设计案例。
+- [Landing.gallery](http://landing.gallery/)：涵盖各种设计领域。
+- [Saaslandingpage.com](http://saaslandingpage.com/)：专注于SaaS行业。
+- [Admiretheweb.com](http://admiretheweb.com/)：提供独特设计案例。
+
+这些资源被认为是网页设计师寻找灵感的绝佳工具。
+
+![](https://media.daily.dev/image/upload/s--1VxLjowI--/f_auto/v1742229897/posts/BKfLE8don)
+
