@@ -31,3 +31,36 @@
 ![](https://image.jiqizhixin.com/uploads/editor/ceea9a95-d9b1-4427-b440-ff6d30ba888a/640.png)
 
 ---
+# 新闻简报(更新时间:2025-03-23 00:32)
+
+## 1. [揭秘DeepSeek R1-Zero训练方式，GRPO还有极简改进方案](https://www.jiqizhixin.com/articles/2025-03-22-5)   2025-03-22 21:04
+
+近日，来自Sea AI Lab、新加坡国立大学和新加坡管理大学的研究团队发布了一项关于DeepSeek R1-Zero训练方式的研究。研究指出，DeepSeek-V3-Base模型在强化学习（RL）调优前已表现出“顿悟时刻”，并揭示了GRPO算法中存在的优化偏差。为解决这些问题，研究人员提出了Dr. GRPO算法，可在提升推理性能的同时提高token效率。此外，他们还提出了一种简化的R1-Zero方案，实现了新的SOTA（最先进）水准。这一研究为基于RL的语言模型训练提供了新的理论支持和技术改进方向。
+
+![](https://image.jiqizhixin.com/uploads/editor/36255366-bf15-4616-a308-96b4406dc0f9/640.png)
+
+---
+
+## 2. [强化学习也涌现？自监督RL扩展到1000层网络，机器人任务提升50倍](https://www.jiqizhixin.com/articles/2025-03-22-4)   2025-03-22 21:01
+
+普林斯顿大学与华沙理工学院的研究显示，将对比强化学习（CRL）扩展至1000层网络，可显著提升机器人任务性能，在某些情境下性能提升达50倍。研究团队通过残差连接、层归一化等技术稳定训练，发现网络深度的扩展能够显著提高任务的对比表征能力和泛化能力。此外，更深的网络还在复杂任务中的表现远超传统浅层网络，进一步验证了深度扩展在强化学习领域的潜力。
+
+![](https://image.jiqizhixin.com/uploads/editor/374edb00-031d-4935-b1d6-0fa957c25189/640.png)
+
+---
+
+## 3. [CVPR 2025 高分论文 | 单图秒变3D真人！IDOL技术开启数字分身新时代](https://www.jiqizhixin.com/articles/2025-03-22-3)   2025-03-22 20:59
+
+南京大学、中科院、清华大学和腾讯的研究团队提出了一种名为IDOL的技术，可从单张图片即时生成高分辨率3D人体模型。IDOL模型基于Transformer技术，结合HuGe100K大规模数据集训练，支持实时渲染和动画化。该技术不仅提升了3D人体重建的效率和质量，还显著降低了建模门槛，广泛适用于虚拟现实、游戏、数字人等领域。IDOL的开源协议为MIT，可商用，吸引了业界的高度关注。
+
+![](https://image.jiqizhixin.com/uploads/editor/ae560a95-0046-4184-b226-542a141fbed2/640.png)
+
+---
+
+## 4. [ICLR 2025 Spotlight｜让机器人实现「自主进化」，蚂蚁数科、清华提出具身协同框架 BodyGen](https://www.jiqizhixin.com/articles/2025-03-22-2)   2025-03-22 20:55
+
+蚂蚁数科与清华大学团队提出了BodyGen框架，成功入选ICLR 2025 Spotlight论文。BodyGen通过强化学习驱动机器人形态与控制策略协同优化，模拟生物的自主进化过程。框架通过拓扑结构编码器和集中式神经中枢网络实现了形态和控制的高效协同设计，展现了出色的环境适应性和性能提升（达60%）。BodyGen的研究为具身智能的加速进化提供了新思路，未来可应用于机器人设计、仿生研究等领域。
+
+![](https://image.jiqizhixin.com/uploads/editor/ceea9a95-d9b1-4427-b440-ff6d30ba888a/640.png) 
+
+---
