@@ -408,3 +408,139 @@ Atlus团队在GDC演讲中展示了《暗喻幻想: ReFantazio》的创新回合
 ![](https://static.willmao.com/feed_upload/2025-03-22/11-12-34-phpnlge77.webp)
 
 ---
+# 新闻简报(更新时间:2025-03-23 00:45)
+
+## 1. [Ubisoft宣布《刺客教条 暗影者》200万玩家超越《起源》与《奥德赛》，完全没提销量](https://www.4gamers.com.tw/news/detail/70839/assassins-creed-shadows-hits-2-million-players-2-days-after-release)   2025-03-22 23:43
+
+Ubisoft宣布《刺客教条：暗影者》在发售两天内玩家人数突破200万，比首日的100万翻倍，超越前作《起源》和《奥德赛》的首发表现。然而，官方并未提及具体销量，可能因为包括通过Ubisoft+订阅服务加入的玩家。该游戏目前在Steam、Epic、PS5和Xbox Series X|S平台上推出，首发数据显示其在Steam上的峰值接近6万人，未来有望打破更多记录。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a007e3a57b1d5e831113f474be6ee7a85fbed4a5.jpg)
+
+---
+
+## 2. [《出租女友》第四季前导PV水原千鹤泳装造型一闪而过，前女友七海麻美亮相](https://www.4gamers.com.tw/news/detail/70838/rent-a-girlfriend-season-4-starts-hawaii-arc-with-new-teaser-trailer-and-mami-visual)   2025-03-22 23:05
+
+《出租女友》第四季动画即将于2025年7月播出，前导PV在AnimeJapan 2025活动中首次亮相。新一季将围绕夏威夷水乐园展开，剧情中包括主人公木之下和也计划向水原千鹤表白的情节。动画制作团队和主要声优阵容继续沿用前三季的高质量标准。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c194a63d7eb8c70f8e3cf5627e566eb98350dd71.jpg)
+
+---
+
+## 3. [正太不香吗？《转生为第七王子，随心所欲的魔法学习之路》动画第二季7月播映](https://www.4gamers.com.tw/news/detail/70837/i-was-reincarnated-as-the-7th-prince-anime-2nd-season-release-date)   2025-03-22 22:58
+
+轻小说改编动画《转生为第七王子》第二季定档7月播出。主人公洛伊德转生成王子后专注于魔法研究，开启无双生活。该动画由经验丰富的制作团队打造，预告片已在AnimeJapan 2025上公开。
+
+![](https://img.4gamers.com.tw/puku-clone-version/330402561cc70f70d3e1d84789b425a632fe2b86.jpeg)
+
+---
+
+## 4. [电视动画《神椿市建设中。》7月亮相，6月日本先行上映](https://www.4gamers.com.tw/news/detail/70836/kamitsubaki-studio-animation-release-in-july-2025)   2025-03-22 22:58
+
+VR游戏改编的电视动画《神椿市建设中。》将于7月开播，6月推出剧场版先行上映。作品讲述五位拥有魔法歌声的魔女后代守护神秘城市的故事，动画由KAMITSUBAKI STUDIO和SMDE联合制作，声优阵容包括佐仓绫音等知名演员。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0364bda6a4f70acf60e77705fe35487c768c0e5a.jpeg)
+
+---
+
+## 5. [《战地》新作全新地图Battery测试泄露](https://www.3dmgame.com/news/202503/3916952.html)   2025-03-22 22:00
+
+《战地》系列新作的测试视频泄露，展示了小型地图Battery，背景设定在地中海海岸。玩家表示其风格类似于《战地5》的“水星”地图。开发团队称新作将融合系列优点，力求成为集大成之作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742652902_398279_jpg_r.jpg)
+
+---
+
+## 6. [超萌身高差《薰香花朵凛然绽放》校园恋爱动画7月登场](https://www.4gamers.com.tw/news/detail/70835/the-fragrant-flower-blooms-with-dignity-animation-release-in-july)   2025-03-22 22:00
+
+校园恋爱动画《薰香花朵凛然绽放》将于7月播出。故事讲述外表凶悍的少年凛太郎与娇小可爱的薰子之间的温馨互动。该作品由CloverWorks制作，预告片已释出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7316d718946691bd2a15691a6338769ae3ad6692.png)
+
+---
+
+## 7. [《光与影：33号远征队》送厂压盘，33天后发售](https://www.3dmgame.com/news/202503/3916950.html)   2025-03-22 21:13
+
+回合制RPG《光与影：33号远征队》宣布完成开发，4月24日正式发售。游戏以19世纪末法国为背景，结合即时机制的回合制战斗。Steam现正特价促销，支持简体中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742649093_235316.png) 
+# 新闻简报(更新时间: 2025-03-23 00:45)
+
+## 1. [《时间旅者：重生曙光》新细节 强调身体恐怖](https://www.3dmgame.com/news/202503/3916949.html) 2025-03-22 20:45
+
+《时间旅者：重生曙光》由《寂静岭2：重制版》开发商Bloober Team打造，设定在20世纪80年代的后末世。玩家将扮演唯一能穿越时空、与怪物战斗的“旅者”，探索灾难性事件后的世界。游戏灵感来自《怪形》、《黑暗》等经典作品，强调身体恐怖元素，敌人由人类肉体组成。此外，游戏将支持肢解系统，并于2025年登陆PS5、Xbox和PC。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742648371_555691_jpg_r.jpg)
+
+---
+
+## 2. [《刺客信条：影》MTC用户评分解禁 PC 3.9分](https://www.3dmgame.com/news/202503/3916948.html) 2025-03-22 20:20
+
+《刺客信条：影》玩家评分低迷，PS5版5.5分，PC版仅3.9分。玩家批评游戏未正确描绘日本文化，且内容“政治正确”过度。虽然游戏画面和战斗机制获部分好评，但整体评价褒贬不一，评分受到差评轰炸的影响。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742646981_877794.jpg)
+
+---
+
+## 3. [真我14发布：第四代骁龙6+标配16G内存 1799元起](https://www.3dmgame.com/news/202503/3916947.html) 2025-03-22 19:40
+
+真我（realme）推出真我14智能手机，搭载第四代骁龙6平台，标配16GB内存，支持IP68防水防尘。该机型采用120Hz高亮直屏，配备5000万像素主摄，售价1799元起。两种配色“翼空银”和“陨石棕”供选择。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742644054_129032_jpg_r.jpg)
+
+---
+
+## 4. [动画《Silent Witch沉默魔女的秘密》7月播映](https://www.4gamers.com.tw/news/detail/70834/silent-witch-animation-release-in-july-2025) 2025-03-22 19:00
+
+轻小说改编动画《Silent Witch沉默魔女的秘密》将于7月播映。故事讲述唯一能使用无咏唱魔术的魔女莫妮卡，为执行保护王子的任务而被迫面对恐惧。动画由Studio五组制作，声优阵容包括会泽纱弥、坂田将吾等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7d7b54ab871572e4cee8af063222bcbf9b462cb0.jpeg)
+
+---
+
+## 5. [前暴雪总裁Mike Morhaime将揭晓新作](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-22 18:58
+
+前暴雪总裁Mike Morhaime宣布月底将访华，揭晓其团队Dreamhaven历时五年的神秘新作。消息引发玩家热议，期待新作的更多细节。
+
+![](https://static.willmao.com/feed_upload/2025-03-22/18-58-02-phpL4pvak.jpg)
+
+---
+
+## 6. [新版动画《神剑闯江湖》第三季制作确定](https://www.4gamers.com.tw/news/detail/70833/rurouni-kenshin-new-animation-season-3rd) 2025-03-22 18:51
+
+经典漫画《神剑闯江湖》新版动画宣布制作第三季，将完整呈现“人诛篇”。新版动画自2023年播出以来获得好评，新篇章预计为粉丝带来更多精彩内容。
+
+![](https://img.4gamers.com.tw/puku-clone-version/81e467d435d7c97b7c0db5b2636afe0bdbb842ee.jpeg)
+
+---
+
+## 7. [哪吒2授权费飙升至900万 版权方收入破亿](https://www.3dmgame.com/news/202503/3916946.html) 2025-03-22 18:05
+
+国产动画电影《哪吒之魔童闹海》授权费从500万升至900万，版权方收入已超一亿元。该电影IP与20多个品牌合作，覆盖多个行业，成为中国电影IP授权领域的又一成功案例。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742637858_533676.png)
+
+---
+
+## 8. [Rougelike弹幕射击游戏《附魔师》Steam页面开放](https://www.3dmgame.com/news/202503/3916945.html) 2025-03-22 17:59
+
+《附魔师》是一款Rougelike弹幕射击地牢探索游戏，支持简体中文，预计2025年内发售。游戏包含装备附魔、沙盒探索、多样化弹幕射击等特色玩法，现已开放Steam页面。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742637478_544107_jpg_r.jpg)
+
+---
+
+## 9. [岩原裕二《Clevatess -魔兽之王与婴儿与尸之勇者-》7月动画开播](https://www.4gamers.com.tw/news/detail/70832/clevatess-animation-release-in-july-2025) 2025-03-22 15:00
+
+岩原裕二漫画改编动画《Clevatess》将在7月开播，故事围绕勇者团队与魔兽王的对抗展开。动画由Lay-duce制作，声优阵容包括中村悠一、宫野真守等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/feda53e3169f3946abb114f76d3fbfa6667cab2b.jpeg)
+
+---
+
+## 10. [《死神：魂魄觉醒》BUG频发 玩家不满](https://www.3dmgame.com/news/202503/3916941.html) 2025-03-22 16:43
+
+《死神：魂魄觉醒》因技术问题导致玩家体验不佳，Steam评价褒贬不一。常见问题包括无声和崩溃，开发者表示正在努力修复。玩家可尝试以管理员身份运行游戏或使用兼容模式启动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742609295_137658_jpg_r.jpg)
+
+--- 
