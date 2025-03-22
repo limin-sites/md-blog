@@ -203,3 +203,208 @@ Atlus在GDC演讲中介绍了《暗喻幻想：ReFantazio》的战斗系统改�
 ![](https://static.willmao.com/feed_upload/2025-03-22/11-12-34-phpnlge77.webp)
 
 ---
+# 新闻简报(更新时间:2025-03-23 00:31)
+
+## 1. [Ubisoft宣布《刺客教条 暗影者》200万玩家超越《起源》与《奥德赛》，完全没提销量](https://www.4gamers.com.tw/news/detail/70839/assassins-creed-shadows-hits-2-million-players-2-days-after-release)  
+2025-03-22 23:43  
+
+Ubisoft宣布《刺客教条：暗影者》自3月20日发售以来，已吸引超过200万玩家参与，首发表现超越《刺客教条：起源》和《刺客教条：奥德赛》。然而，Ubisoft并未透露具体销量数据，可能是因为包括Ubisoft+订阅用户。该游戏目前在PC、PS5和Xbox Series X|S平台上线。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a007e3a57b1d5e831113f474be6ee7a85fbed4a5.jpg)
+
+---
+
+## 2. [《出租女友》第四季前导PV水原千鹤泳装造型一闪而过，前女友七海麻美亮相](https://www.4gamers.com.tw/news/detail/70838/rent-a-girlfriend-season-4-starts-hawaii-arc-with-new-teaser-trailer-and-mami-visual)  
+2025-03-22 23:05  
+
+《出租女友》第四季动画前导预告片在AnimeJapan 2025活动中正式亮相。预告中展示了千鹤的泳装造型以及一行人夏威夷水乐园的场景，男主角和也决定在旅行中向千鹤告白。这部校园恋爱动画预计2025年7月播出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c194a63d7eb8c70f8e3cf5627e566eb98350dd71.jpg)
+
+---
+
+## 3. [《战地5》既视感？《战地》新作全新地图测试泄露](https://www.3dmgame.com/news/202503/3916952.html)  
+2025-03-22 22:00  
+
+《战地》系列新作的测试视频曝光，展示了一张名为“Battery”的全新小地图。玩家表示其风格与《战地5》的Mercury地图有相似之处。开发团队此前表示，新作将融合系列优秀元素，成为集大成之作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742652902_398279_jpg_r.jpg)
+
+---
+
+## 4. [超萌身高差《薰香花朵凜然绽放》校园恋爱动画7月登场](https://www.4gamers.com.tw/news/detail/70835/the-fragrant-flower-blooms-with-dignity-animation-release-in-july)  
+2025-03-22 22:00  
+
+《薰香花朵凜然绽放》改编自三香见SAKA的校园恋爱漫画，动画将于2025年7月播出。故事讲述了千鸟高校学生凛太郎与桔梗女高校学生薰子之间的爱情故事，背景融合两所学校的独特对立情节。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7316d718946691bd2a15691a6338769ae3ad6692.png)
+
+---
+
+## 5. [育碧：《刺客信条：影》玩家人数现已超过200万](https://www.3dmgame.com/news/202503/3916951.html)  
+2025-03-22 21:18  
+
+育碧宣布《刺客信条：影》玩家人数突破200万，首发表现超越《刺客信条：起源》和《奥德赛》。此前，该游戏发售不到24小时玩家人数即达100万。这部新作背景设定在封建日本。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742649445_226931.jpg)
+
+---
+
+## 6. [《光与影：33号远征队》送厂压盘 33天后发售、PC配置公开](https://www.3dmgame.com/news/202503/3916950.html)  
+2025-03-22 21:13  
+
+《光与影：33号远征队》宣布完成开发并送厂压盘，计划于4月24日正式发售。这是一款即时机制的回合制RPG游戏，售价218元支持中文。官方还公布了最低和推荐PC配置需求以供玩家参考。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742649093_235316.png)
+# 新闻简报(更新时间:2025-03-23 00:31)
+
+## 1. [《时间旅者：重生曙光》新细节 强调身体恐怖](https://www.3dmgame.com/news/202503/3916949.html) 2025-03-22 20:45  
+
+Bloober Team开发的《时间旅者：重生曙光》公开了新细节。游戏设定于20世纪80年代的架空历史背景，主角“旅者”可穿越时空拯救重要人物。游戏灵感来源包括《怪形》、《死亡空间》和《黑暗之魂》，强调身体恐怖元素，并引入肢解系统。该作预计2025年登陆PS5、Xbox和PC。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742648371_555691_jpg_r.jpg)  
+
+---
+
+## 2. [《刺客信条：影》MTC用户评分解禁 PC仅获3.9分](https://www.3dmgame.com/news/202503/3916948.html) 2025-03-22 20:20  
+
+《刺客信条：影》在Metacritic的玩家评分表现不佳，PC版仅获3.9分，主要因文化描写不当和角色设定引发争议。尽管部分玩家称赞画面和战斗改进，但整体评价仍为“褒贬不一”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742646981_877794.jpg)  
+
+---
+
+## 3. [真我14发布：第四代骁龙6+标配16G内存 1799元起](https://www.3dmgame.com/news/202503/3916947.html) 2025-03-22 19:40  
+
+真我14智能手机正式发布，搭载第四代骁龙6平台和16GB内存，支持防水防尘，售价1799元起。其他亮点包括120Hz高亮屏幕、5000万像素主摄以及AI功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742644054_129032_jpg_r.jpg)  
+
+---
+
+## 4. [動畫《Silent Witch沉默魔女的祕密》7月播映](https://www.4gamers.com.tw/news/detail/70834/silent-witch-animation-release-in-july-2025) 2025-03-22 19:00  
+
+轻小说改编动画《Silent Witch沉默魔女的祕密》将于今年7月播出。故事讲述唯一能使用无咏唱魔术的“沉默魔女”莫妮卡在后宫任务中的冒险经历。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7d7b54ab871572e4cee8af063222bcbf9b462cb0.jpeg)  
+
+---
+
+## 5. [前暴雪总裁Mike Morhaime将访华 宣布新作](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-22 18:58  
+
+前暴雪总裁Mike Morhaime宣布将在本月底访华，届时将揭晓Dreamhaven团队历时五年打造的神秘新作。
+
+![](https://static.willmao.com/feed_upload/2025-03-22/18-58-02-phpL4pvak.jpg)  
+
+---
+
+## 6. [新版動畫《神劍闖江湖》第三季製作確定](https://www.4gamers.com.tw/news/detail/70833/rurouni-kenshin-new-animation-season-3rd) 2025-03-22 18:51  
+
+新版动画《神剑闯江湖》第三季制作确定，将首次完整动画化“人诛篇”，填补旧版动画遗憾。该作改编自和月伸宏的经典漫画。
+
+![](https://img.4gamers.com.tw/puku-clone-version/81e467d435d7c97b7c0db5b2636afe0bdbb842ee.jpeg)  
+
+---
+
+## 7. [哪吒2授权费从500万飙升至900万 版权方收入过亿](https://www.3dmgame.com/news/202503/3916946.html) 2025-03-22 18:05  
+
+《哪吒之魔童闹海2》授权费飙升至900万元，合作品牌超过20家，覆盖食品、数码等多个领域。版权方光线传媒仅授权收入已超亿元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742637858_533676.png)  
+
+---
+
+## 8. [Rougelike弹幕射击《附魔师》Steam页面开放](https://www.3dmgame.com/news/202503/3916945.html) 2025-03-22 17:59  
+
+Rougelike弹幕射击地牢探索游戏《附魔师》将在2025年发售，现已开放Steam页面。游戏结合沙盒元素，提供丰富武器与附魔体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742637478_544107_jpg_r.jpg)  
+
+---
+
+## 9. [岩原裕二《Clevatess》改编动画7月开播](https://www.4gamers.com.tw/news/detail/70832/clevatess-animation-release-in-july-2025) 2025-03-22 15:00  
+
+岩原裕二漫画《Clevatess -魔兽之王与嬰兒与屍之勇者-》改编动画将于7月开播，讲述勇者团队与魔兽王对抗的故事。
+
+![](https://img.4gamers.com.tw/puku-clone-version/feda53e3169f3946abb114f76d3fbfa6667cab2b.jpeg)  
+
+---
+
+## 10. [《死神：魂魄觉醒》BUG频发 玩家怨声载道](https://www.3dmgame.com/news/202503/3916941.html) 2025-03-22 16:43  
+
+《死神：魂魄觉醒》PC版因频繁崩溃和无声等技术问题遭遇差评。开发者正在紧急修复，并提供了部分解决办法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742609295_137658_jpg_r.jpg)  
+# 新闻简报 (更新时间: 2025-03-23 00:31)
+
+## 1. [拉瑞安总监祝贺《小丑牌》获GDCA年度游戏：也是我的年度游戏](https://www.3dmgame.com/news/202503/3916940.html)  2025-03-22 16:22
+
+近日，游戏开发者大会（GDC）公布了2025年游戏开发者选择奖（GDCA）的获奖名单，热门独立游戏《小丑牌》荣获年度游戏大奖。《博德之门3》总监Swen Vincke在社交媒体表达祝贺，并表示《小丑牌》也是他的年度游戏。《小丑牌》以其创新设计获得了广泛认可，不仅摘得年度游戏，还获得了最佳创新、最佳新秀和最佳设计奖。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742631728_961020.png)
+
+---
+
+## 2. [拉瑞安总监大赞《刺客信条：影》的战斗系统调整](https://www.3dmgame.com/news/202503/3916939.html)  2025-03-22 16:07
+
+《刺客信条：影》在新作中优化了战斗系统和跑酷设计，受到了拉瑞安工作室发行总监迈克尔·道斯的高度称赞。他认为新作的战斗系统设计紧凑且精妙，回归了受欢迎的反击机制。此外，游戏还加入了两位风格迥异的主角，进一步丰富了战斗体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742608970_489276_jpg_r.jpg)
+
+---
+
+## 3. [《湮灭之潮》GDC采访：骑士系统与创新玩法揭秘](http://nnas.sqngame.com:11201/xboxfan/news)  2025-03-22 15:57
+
+《湮灭之潮》团队在GDC期间分享了游戏的创新设计。玩家可选择10余种骑士组成战斗小队，骑士设计灵感源于亚瑟王传说，但加入了原创设定。游戏采用即时切换搭配和召唤技能机制，玩家能在战斗中灵活应对。此外，开发团队深入英国采风，确保文化背景的真实性。
+
+![](https://static.willmao.com/feed_upload/2025-03-22/15-56-13-phpcsSAqB.jpg)
+
+---
+
+## 4. [V社高管谈DRM诞生：自家侄子玩盗版游戏引发灵感](https://www.3dmgame.com/news/202503/3916938.html)  2025-03-22 15:53
+
+V社高管Monica Harrington在GDC演讲中回忆了DRM系统的诞生过程。她提到，公司最初开发身份验证系统的契机是其侄子利用CD-ROM复制盗版游戏。身份验证系统推出后，发现大量用户的“运行问题”实际上源于盗版，为此V社进一步完善了防盗版技术。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742630004_861611.png)
+
+---
+
+## 5. [《我的英雄学院》第八季动画将于10月播出，迈向最终章](https://www.4gamers.com.tw/news/detail/70831/mha-animation-will-finish-in-2025-october)  2025-03-22 15:53
+
+根据AnimeJapan 2025活动的消息，《我的英雄学院》第八季动画将于2025年10月播出，正式进入最终故事篇章。动画将改编自原作漫画第397话起的内容。制作团队将延续高质量的动画风格，为观众带来英雄成长道路的终极高潮。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6c73b1ab9459fcb71747c025c753f15b560fba5b.jpeg)
+
+---
+
+## 6. [《凯撒朋克》发售，融合《纪元》和《欧陆风云》元素](https://www.3dmgame.com/news/202503/3916937.html)  2025-03-22 15:51
+
+策略游戏《凯撒朋克》正式登陆PC平台，结合了城市建造和大型策略玩法，背景设定在一战未结束的架空世界。玩家将管理城邦并扩张领地，但游戏在Steam上目前仅获得“褒贬不一”的评价。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742608720_507312_jpg_r.jpg)
+
+---
+
+## 7. [Atlus在GDC分享《暗喻幻想: ReFantazio》的战斗系统创新](http://nnas.sqngame.com:11201/xboxfan/news)  2025-03-22 15:51
+
+Atlus团队在GDC演讲中展示了《暗喻幻想: ReFantazio》的创新回合制战斗系统。游戏采用“Fast & Squad”双阶段战斗机制，优化了传统RPG的资源管理和操作体验。此外，全新的“Rewind”功能和自动存档机制提升了玩家试错的流畅度。
+
+![](https://static.willmao.com/feed_upload/2025-03-22/15-50-17-phpNvOqdU.jpg)
+
+---
+
+## 8. [23岁女学生打赏主播200万元遭拒退款，平台称“成年不退”](https://www.3dmgame.com/news/202503/3916936.html)  2025-03-22 15:40
+
+一名23岁女大学生在直播平台打赏200万元，后因家人反对请求退款，却被平台以“成年人打赏不退”为由拒绝。法律专家认为其行为可能被视为有效赠与，难以撤销，引发社会关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250322/1742629204_539192.jpg)
+
+---
+
+## 9. [《战地 6》新地图“Battery”亮相，聚焦密集城市战斗](http://nnas.sqngame.com:11201/xboxfan/news)  2025-03-22 11:34
+
+《战地 6》公开新地图“Battery”，以密集城市为场景，强调步兵战车和步兵作战。地图设计融入浓厚的战争氛围与高破坏性，进一步扩展游戏的战术深度。
+
+![](https://static.willmao.com/feed_upload/2025-03-22/11-12-34-phpnlge77.webp)
+
+---
