@@ -142,3 +142,31 @@ Mybatis-Plus是一款基于Mybatis的增强工具，提供了通用CRUD操作、
 
 ![](https://media.daily.dev/image/upload/s--1VxLjowI--/f_auto/v1742229897/posts/BKfLE8don)
 
+
+# 新闻简报(更新时间:2025-03-23 10:45)
+
+## 1. [AccessibilityService-weditor获取节点元素信息&amp;Assists实现自动化 - Vennnnn](https://www.cnblogs.com/venblog/p/18787593)   2025-03-23 10:23
+
+在使用AccessibilityService开发自动化工具或测试脚本时，需要了解控件属性以实现自动化逻辑。weditor是一款Android UI自动化测试的可视化工具，提供Web界面，可方便地查看设备UI层级并获取控件属性。
+
+---
+
+## 2. [一文搞懂MCP协议与Function Call的区别 - 久曲健](https://www.cnblogs.com/longronglang/p/18787489)   2025-03-23 09:04
+
+本文用通俗易懂的语言对比了编程中的MCP协议和函数调用，揭示了它们在“沟通方式”上的区别。通过生活实例和Python代码，作者详细解析了两者的应用场景及实现方式。
+
+---
+
+## 3. [『Plotly实战指南』--柱状图绘制高级篇 - wang_yb](https://www.cnblogs.com/wang_yb/p/18787458)   2025-03-23 08:07
+
+柱状图是数据可视化的重要工具，本文深入探讨了如何使用Plotly库绘制高级柱状图，包括分组柱状图与堆积柱状图。这些技巧能够帮助处理多维数据及复杂关系，提升数据展示的表达力。
+
+---
+
+## 4. [🚀 We Did It! 1K Members in Our Dev World Squad! 🔥](https://app.daily.dev/posts/we-did-it-1k-members-in-our-dev-world-squad--j2few0liz)   2025-03-21 22:26
+
+Dev World团队成员数突破1000！这一里程碑展现了社区力量和技术激情的结合。感谢所有开发者和技术爱好者的贡献与支持，期待未来继续推动技术创新，共同探索更多可能性。
+
+![](https://media.daily.dev/image/upload/s--3YbFiyaz--/f_auto/v1742567208/posts/J2Few0liZ)
+
+---
