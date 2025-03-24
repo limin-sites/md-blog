@@ -287,3 +287,305 @@ SteamDB数据显示，《刺客信条：影》的Steam在线峰值达到64825人
 在英国市场，《刺客信条：影》成为今年首发成绩最好的实体游戏，完胜《怪物猎人：荒野》。其一周实体销量轻松超过《星球大战：亡命之徒》三个月的销量。不过，与2020年的《英灵殿》相比，仍有差距。
 
 ![](https://static.willmao.com/feed_upload/2025-03-24/07-08-59-phpa9fV5a.jpeg)
+# 新闻简报 (更新时间: 2025-03-24 15:45)
+
+## 1. [千万别往外看！Steam生存恐怖《Look Outside》上市获极度好评](https://www.4gamers.com.tw/news/detail/70856/survival-horror-rpg-look-outside)  
+2025-03-24 14:50
+
+独立游戏发行商Devolver Digital与开发者Francis Coulombe合作推出的像素风生存恐怖游戏《Look Outside》现已在Steam上线，并获得极度好评。游戏背景设定在一栋公寓大楼内，玩家需要探索寻找资源并对抗变成怪物的邻居，保持生存的同时试图解开窗外世界的秘密。游戏强调“千万别往外看”，并以微恐怖的氛围挑战玩家的胆量。
+
+![](https://img.4gamers.com.tw/puku-clone-version/74ffdab8f9809883dac8338d9f97c6f3aed7b52b.jpg)
+
+---
+
+## 2. [大阪世博×卡普空《魔物猎人》周边亮相，吉祥物脉脉与奇怪龙联名登场](https://www.4gamers.com.tw/news/detail/70857/capcom-announced-expo-2025-osaka-monster-hunter-merch)  
+2025-03-24 14:43
+
+卡普空将在2025大阪世博推出《魔物猎人》联名周边商品，包括迷你华夫饼礼盒、火龙脉脉造型玩偶、奇怪龙模型等多款独特设计。活动期间还将展出沉浸式互动体验《MONSTER HUNTER BRIDGE》，融合数字科技与视听技术，展现世博主题“梦想与现实的桥梁”。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ed48a7338156abdab735291183fc37e912b4fc1e.jpg)
+
+---
+
+## 3. [《都市传说解体中心》更新预告 多项修复及新内容](https://www.3dmgame.com/news/202503/3917033.html)  
+2025-03-24 14:35
+
+集英社游戏旗下作品《都市传说解体中心》即将迎来两次重要更新。4月上旬将修复调查证据无法完结、音效异常等问题，6月上旬则计划新增游戏功能，包括自动功能、文本速度调整及二周目跳过已读内容等。玩家可期待更流畅的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742798077_677665.png)
+
+---
+
+## 4. [《铁拳8》第二季回归角色及新挑战者公布](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-03-24 14:29
+
+《铁拳8》第二季将在夏季和秋季迎来经典回归角色，并将在冬季推出一名新的挑战者。此外，为庆祝《吃豆人》45周年，游戏场景将在夏季更新。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/14-29-02-phpU8g7iC.jpg)
+
+---
+
+## 5. [Remedy新作《FBC: Firebreak》承诺无强制机制](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-03-24 14:17
+
+Remedy宣布旗下新作《FBC: Firebreak》将不设战斗通行证、限时活动或每日签到，玩家无需购买资料片即可享受完整体验。开发团队致力于让玩家自由探索，专注于游戏任务。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/14-17-04-phprFmOQC.jpg)
+
+---
+
+## 6. [《最后的生还者3》首个细节泄露](https://www.3dmgame.com/news/202503/3917031.html)  
+2025-03-24 14:07
+
+顽皮狗工作室传闻中的《最后的生还者3》部分情节曝光，将围绕一群拾荒者在后末日城市外围生存展开。游戏团队正在选角，并设计复杂角色关系与剧情冲突。尼尔·德鲁克曼表示，若无法找到更好的故事，第二部的结局可能会是终点。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742795836_653006.jpg)
+
+---
+
+## 7. [《吸血鬼 避世血族2》通过ESRB评级](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-03-24 14:03
+
+动作角色扮演游戏《吸血鬼 避世血族2》通过ESRB评级，适合17岁以上玩家。游戏中包含激烈战斗、溅血特写及暗示性内容，玩家将帮助吸血鬼角色恢复记忆并阻止叛乱。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/13-37-33-php1taExh.png)
+
+---
+
+## 8. [《空洞骑士 丝之歌》更新，或将亮相Nintendo直面会](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-03-24 14:03
+
+《空洞骑士 丝之歌》Steam后台更新，为GeForce Now提供支持，并修改法律声明年份为2025。距离下一次Nintendo直面会仅剩10天，玩家期待更多消息。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/13-10-59-phpcDP8ts.png)
+# 新闻简报(更新时间: 2025-03-24 15:45)
+
+## 1. [《守望先锋2》第16赛季主题为魔法少女](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-24 14:03
+《守望先锋2》第16赛季将围绕魔法少女主题展开，推出多款魔法少女皮肤，包括朱诺的神话皮肤，以及D.Va、雾子、芙蕾雅、黑百合、布丽吉塔和天使的神话武器。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/13-28-02-phpry5OF5.jpg)
+
+---
+
+## 2. [磁带未来主义风3D动作RPG《午夜机器人》亮相2025GDC蜗牛展台](https://www.3dmgame.com/news/202503/3917032.html)   2025-03-24 14:02
+《午夜机器人》在GDC 2025北美蜗牛展台首秀，凭借独特的“磁带未来主义”美学和开放世界探索吸引了众多目光。玩家将扮演主角佐伊，在荒芜的尤布星球上揭开身世之谜，体验深度剧情和动态战斗。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742796012_335671_jpg_r.jpg)
+
+---
+
+## 3. [Atlus网站图片出现神秘代号 或与《女神异闻录6》有关](https://www.3dmgame.com/news/202503/3917030.html)   2025-03-24 13:56
+Atlus招聘网站上出现神秘文件夹“XRD768”，被认为是《女神异闻录6》的开发代号。据传，游戏将以艺术学校为背景，采用双主角视角叙事，主题色为绿色。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742796450_893932.png)
+
+---
+
+## 4. [《碧蓝幻想Versus：崛起》新DLC角色“伽莱翁”预告 即将上线](https://www.3dmgame.com/news/202503/3917029.html)   2025-03-24 13:50
+《碧蓝幻想Versus：崛起》发布新DLC角色“伽莱翁”的预告视频。作为第二年季票中的第二位角色，预计将在2025年第二季度推出。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742795267_303193_jpg_r.jpg)
+
+---
+
+## 5. [休闲温馨放松模拟游戏《我的小绿屋》现已正式推出并获特别好评](https://www.3dmgame.com/news/202503/3917028.html)   2025-03-24 13:48
+由Kylyk Games开发的《我的小绿屋》正式登陆Steam，现已获得特别好评。玩家可通过植物装饰公寓，体验园艺乐趣，并与猫咪互动。游戏支持简繁中文，目前首发特惠中。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742795017_245249.jpg)
+
+---
+
+## 6. [《inZOI》官方解答热门问题 Steam试玩版已特别好评！](https://www.3dmgame.com/news/202503/3917027.html)   2025-03-24 13:35
+《inZOI云族裔：创意工坊试玩版》现已开放体验，并获得特别好评。游戏提供丰富的捏脸和建造功能，支持AI技术生成内容。试玩版将持续至3月27日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742794580_727200.png)
+
+---
+
+## 7. [Netflix《海贼王》美剧编剧监制马特宣布退出](https://www.3dmgame.com/news/202503/3917026.html)   2025-03-24 13:33
+Netflix《海贼王》美剧编剧马特·欧文斯宣布退出。他感谢粉丝支持，并透露未来将休养一段时间再回归创作。该剧曾创造多个国家排名第一的纪录。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742794364_712118.png)
+
+---
+
+## 8. [经典冒险解谜游戏《Amerzone：探险家的遗产》现已限免](https://www.3dmgame.com/news/202503/3917025.html)   2025-03-24 13:30
+经典指向点击冒险游戏《Amerzone：探险家的遗产》现于Steam限时免费。玩家可在3月25日前领取，体验由《Syberia》创作者Benoit Sokal开发的首部冒险杰作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742794114_447985.jpg)
+
+---
+
+## 9. [前《GTA6》《RDO》开发者谈“开放世界疲劳”](https://www.4gamers.com.tw/news/detail/70854/players-fatigued-open-world-games-gta-6-dev)   2025-03-24 13:29
+前《GTA6》和《RDO》开发者Cameron Williams在GDC 2025上分享了应对“开放世界疲劳”的方法，建议通过优化地标设计和任务配置，提升玩家的探索体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a106a83dc9fb5cee48c02e75618ee773f92fb47c.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-24 15:45)
+
+## 1. [华纳游戏曾计划开发克里斯托弗·诺兰版《蝙蝠侠》游戏](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-24 13:24
+
+华纳游戏副总裁透露，Monolith Productions曾计划开发一款基于克里斯托弗·诺兰执导的《蝙蝠侠》三部曲的游戏。然而由于诺兰本人对该项目表示保留意见，这款游戏最终被搁置。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/13-24-16-php7wjNyc.jpg)
+
+---
+
+## 2. [《SM调教师瞳》卡匣现身秋叶原小卖店，开售即完售](https://www.4gamers.com.tw/news/detail/70855/sm-trainer-hitomi-sfc-cartridge-akihabara-store)   2025-03-24 13:22
+
+传说中的《SM
+# 新闻简报 (更新时间:2025-03-24 15:45)
+
+## 1. [微星RTX 5080免费送了！只需集齐9个小红龙](https://www.3dmgame.com/news/202503/3917023.html) 2025-03-24 11:59
+
+微星在中国台湾省推出促销活动，集齐9个小红龙吉祥物即可兑换价值43990新台币（约人民币9655元）的RTX 5080显卡。盲盒内附有9种吉祥物，活动将持续至5月31日，兑换数量不限。市场上已有高价收购现象出现。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742788242_889562.jpg)
+
+---
+
+## 2. [星街彗星丢鞋破亿神曲粉丝游戏免费上线](https://www.4gamers.com.tw/news/detail/70853/hoshimachi-suisei-bibbidiba-fan-game-steam-free-to-play) 2025-03-24 11:58
+
+以星街彗星歌曲〈ビビデバ〉为主题的免费横版动作游戏《Bibbidiba fan game》现已上线Steam。游戏融入跳跃、战斗等玩法，但因操作难度较高，玩家评价褒贬不一。同时，星街彗星推出新MV和纪念活动，引发粉丝热烈讨论。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b0a82464f0aedc3f0146e3182bd0b91ebad9661a.jpg)
+
+---
+
+## 3. [任天堂提醒玩家 实体店购买游戏赠送黄金点数最后1天](https://www.3dmgame.com/news/202503/3917021.html) 2025-03-24 11:46
+
+任天堂宣布3月25日中午起终止My Nintendo黄金点数计划，今日为东京、大阪和京都实体店购买游戏赠送黄金点数的最后一天。黄金点数是长期实施的官方返点奖励，玩家可通过购买游戏积累。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742787908_877868.png)
+
+---
+
+## 4. [《inZOI云族裔：创意工坊试玩版》现可免费领取](https://www.3dmgame.com/news/202503/3917020.html) 2025-03-24 11:22
+
+生活模拟游戏《inZOI云族裔：创意工坊试玩版》在3月23日至27日期间免费开放下载，玩家可体验捏脸和建造功能。游戏支持AI技术创新，包括文字生成图片、视频转动画等，展示强大的创作能力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742786334_209906_png_r.webp)
+
+---
+
+## 5. [《荒原先驱》未来游戏展新预告发布，2025年发售](https://www.3dmgame.com/news/202503/3917019.html) 2025-03-24 11:21
+
+MMO射击游戏《荒原先驱》发布新预告片，展示了核灾末世中的战术射击玩法及奇幻元素。游戏融合PvE任务、PvP区域与公会系统，将于2025年登陆PC平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742786106_645494.jpg)
+
+---
+
+## 6. [真人电影《星际宝贝史迪奇》确定引进国内](https://www.3dmgame.com/news/202503/3917018.html) 2025-03-24 11:15
+
+迪士尼宣布真人版《星际宝贝史迪奇》将引进中国内地，档期待定。影片改编自2002年同名动画，由迪恩·弗雷斯彻·坎普执导，预计2025年5月23日在北美上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742786082_541792_jpg_r.jpg)
+
+---
+
+## 7. [《海尔兄弟》高清重制版全网上线](https://www.3dmgame.com/news/202503/3917017.html) 2025-03-24 11:15
+
+经典动画《海尔兄弟》高清重制版正式上线，纪念开播30周年。官方宣布将制作续集，并邀请网友参与共创。动画片以科普冒险为主题，是80后、90后的童年记忆之一。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742786079_666929.png)
+
+---
+
+## 8. [《白雪公主》电影票房惨淡引争议](https://www.3dmgame.com/news/202503/3917016.html) 2025-03-24 11:07
+
+迪士尼真人版《白雪公主》首周末票房仅4300万美元，成为近年来票房最差之一。影片因选角和剧情改编引发争议，评分低至2.4分。国外观众用AI换脸技术恶搞主角，批评“政治正确”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742785398_900486_jpg_r.jpg)
+
+---
+
+## 9. [《鬼灭之刃：火神血风谭2》新角色预告发布](https://www.3dmgame.com/news/202503/3917015.html) 2025-03-24 10:54
+
+《鬼灭之刃：火神血风谭2》新角色预告片发布，介绍了伊黑小芭内、不死川实弥和悲鸣屿行冥。游戏将于8月1日日本发售，8月5日全球发售，登陆多平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742784565_194603_jpg_r.jpg)
+
+---
+
+## 10. [《魔法使的新娘》视觉小说游戏将于10月2日推出](https://www.3dmgame.com/news/202503/3917014.html) 2025-03-24 10:51
+
+动画《魔法使的新娘》的视觉小说游戏《盛夏之幻与梦想之旅》将于10月2日登陆PS5、Switch和Steam平台。游戏支持日英双语，并计划推出限量版。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742784521_292378_png_r.webp)
+
+---
+# 新闻简报 (更新时间: 2025-03-24 15:45)
+
+## 1. [前高管表示 《中土世界：暗影魔多》的复仇系统是为了防止二手交易而开发的](https://www.3dmgame.com/news/202503/3917013.html)  2025-03-24 10:51
+
+《中土世界：暗影魔多》的“复仇女神系统”曾受到玩家广泛好评，但前华纳兄弟游戏高管Laura Fryer透露该系统开发初衷是为了打击二手游戏交易。华纳分析发现，许多玩家在完成游戏后将其转卖，损害了发行商的利益。为此，开发者设计了一个引人入胜的系统，确保玩家长期收藏游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742784667_173721.jpg)
+
+---
+
+## 2. [《我推的孩子》将制作解谜游戏 韩国NHN与角川合作](https://www.3dmgame.com/news/202503/3917012.html)  2025-03-24 10:43
+
+日本漫画《我推的孩子》将改编为解谜游戏，由韩国NHN与角川合作开发。游戏类型为僵尸益智解谜，详细情报将在后续公开。《我推的孩子》以偶像与医生的禁忌故事为背景，预计新游戏会延续作品的独特叙事风格。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742784151_251812.png)
+
+---
+
+## 3. [《沉默之丘f》遭澳洲政府「拒绝分级」，疑多项恐怖要素踩审查红线](https://www.4gamers.com.tw/news/detail/70852/silent-hill-sh-silent-hill-f-banned-in-australia)  2025-03-24 10:43
+
+《沉默之丘f》因涉及毒品、未成年人虐待等内容，被澳洲政府拒绝分级，无法在当地合法销售。游戏背景设定在昭和时代，以恐怖与暴力场景为特色。北美地区将其分级为17岁以上，但澳洲的严格审查标准使其禁售。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1bf39d078414e851f21dd53c3ee1c96047805520.jpg)
+
+---
+
+## 4. [《荒野大镖客2》搞笑MOD 枪比人大的狂野西部](https://www.3dmgame.com/news/202503/3917011.html)  2025-03-24 10:42
+
+《荒野大镖客2》近日推出搞笑MOD，玩家可以将主角缩小到迷你尺寸，而枪支则被放大得比人还大，形成强烈的视觉反差。这种荒诞的玩法展示了MOD社区的无限创造力，也带来了不一样的西部冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742784000_580465.jpg)
+
+---
+
+## 5. [《罪恶装备：STRIVE》新DLC角色“Venom”新预告 今日上线](https://www.3dmgame.com/news/202503/3917010.html)  2025-03-24 10:32
+
+《罪恶装备：STRIVE》新DLC角色“Venom”今日上线，为第四年季票的第二个可玩角色。开发商亚克系统还公布了2025年更新路线图，第三个角色预计5月上线，夏季将迎来与《赛博朋克：边缘行者》联动角色“露西”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742783269_885930_jpg_r.jpg)
+
+---
+
+## 6. [国产恐怖游戏《黑暗世界：因与果》新预告 3月27日发售](https://www.3dmgame.com/news/202503/3917009.html)  2025-03-24 10:26
+
+国产心理恐怖游戏《黑暗世界：因与果》公布新预告，游戏将于3月27日登陆PS5和PC平台。该作背景设定在反乌托邦世界，玩家将探索1984年东德的神秘故事，体验电影式心理惊悚冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742783128_413997_jpg_r.jpg)
+
+---
+
+## 7. [最尊重的设计 《刺客信条：影》中包含以真实日本创建的猫岛](https://www.3dmgame.com/news/202503/3917008.html)  2025-03-24 10:26
+
+《刺客信条：影》将带玩家体验以日本战国时代为背景的猫岛。玩家可以探索冲岛，与猫互动，并将猫招募到据点中，打造专属“猫岛”。游戏设计充分尊重日本的真实猫岛文化，细节令人期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742783154_882228.jpg)
+
+---
+
+## 8. [《我的世界2》大概率不会出现 Mojang概述长期计划](https://www.3dmgame.com/news/202503/3917005.html)  2025-03-24 10:13
+
+Mojang表示暂时没有开发《我的世界2》的计划，开发者希望延续现有游戏的寿命至30年。目前工作室正专注于图像更新以及长期支持策略，确保《我的世界》继续保持活力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250324/1742786299_702775.png)
+
+---
+
+## 9. [Bam Margera将成为“托尼霍克职业滑板 3+4”的可用角色](http://nnas.sqngame.com:11201/xboxfan/news)  2025-03-24 09:03
+
+Bam Margera将加入《托尼霍克职业滑板 3+4》作为可玩角色。据悉托尼·霍克亲自致电动视，促成这一角色的加入，进一步丰富了游戏的趣味性和可玩性。
+
+![](https://static.willmao.com/feed_upload/2025-03-24/08-33-31-phpgG64wr.jpeg)
+
+---
