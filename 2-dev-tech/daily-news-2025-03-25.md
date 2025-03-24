@@ -45,3 +45,44 @@
 ![](https://dannorth.net/the-worst-programmer/dilbert-bug-free-software-1024x311.gif)
 
 ---
+# 新闻简报(更新时间:2025-03-25 05:45)
+
+## 1. [一文速通Python并行计算：02 Python多线程编程-threading模块、线程的创建和查询与守护线程 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18790494)   2025-03-25 00:45
+
+本文介绍了Python threading模块的核心功能，包括线程创建与管理、线程状态监控以及守护线程的特殊应用。重点讲解了Thread类的实例化方法、获取当前线程信息、检测线程存活状态，以及如何实现后台线程。这篇文章非常适合开发者深入理解并行编程的基本原理与实践。
+
+---
+
+## 2. [编程神器Trae：当我用上后，才知道自己的创造力被低估了多少 - AI粉嫩特攻队](https://www.cnblogs.com/anai/p/18790489)   2025-03-25 00:39
+
+“AI会让每个人都能成为工具创造者，打破你能力边界，有时候只需要一个想法。” 本文作者分享了使用Trae工具的体验，探讨了人工智能如何帮助开发者突破自身能力限制，通过简单的操作实现更高效的工作流程。这篇文章适合对AI技术感兴趣的读者深入了解其在实际开发中的应用。
+
+---
+
+## 3. [Netty源码—5.Pipeline和Handler - 东阳马生架构](https://www.cnblogs.com/mjunz/p/18790452)   2025-03-24 23:47
+
+本文深入剖析了Netty框架中的Pipeline和Handler模块，涵盖其作用与构成、ChannelHandler的分类及生命周期，以及多个特殊ChannelHandler的应用案例。文章还对ChannelPipeline的事件处理进行了细致分析，是学习Netty源码的优质参考资料。
+
+---
+
+## 4. [IDA Pro分析dll在exe中的表现 - 崔好好](https://www.cnblogs.com/cuish/p/18790425)   2025-03-24 23:36
+
+文章尝试分析隐式加载和显式加载的dll在exe中进行反汇编时的表现。通过动态库testdll1的测试，作者详细展示了导出函数的处理方式及相关代码示例，为开发者理解dll加载机制提供了实践参考。
+
+---
+
+## 5. [Reactjs HandBook: A cheatsheet for developers](https://app.daily.dev/posts/reactjs-handbook-a-cheatsheet-for-developers-w0z8lqtaq)   2025-03-23 18:56
+
+这本免费的React速查手册为开发者提供了简洁明了的参考资源，避免了繁冗的文档阅读。无论是React初学者还是资深开发者，都可以通过这本手册快速掌握关键知识点并提高开发效率。点击链接可免费下载。
+
+![](https://media.daily.dev/image/upload/s--dPAAoe9L--/f_auto/v1742727382/posts/W0z8LqTAQ)
+
+---
+
+## 6. [JSON to Zod Converter](https://app.daily.dev/posts/json-to-zod-converter-cuzu6ddrn)   2025-03-21 17:10
+
+JSON to Zod Converter是一款强大的工具，可以帮助开发者从JSON数据中快速生成Zod模式，用于定义强类型的TypeScript数据验证规则。无论是API响应、数据库模型还是表单验证，都可以通过该工具简化开发流程。
+
+![](https://media.daily.dev/image/upload/s--KUSuu3Yb--/f_auto/v1742548232/posts/CuzU6ddRn)
+
+---
