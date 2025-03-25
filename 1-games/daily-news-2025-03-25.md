@@ -436,3 +436,265 @@ Remedy传播总监表示，《心灵杀手2》因追求创意突破导致预算�
 Xbox推出全新游戏中心功能，用户可在游戏列表中查看详细信息，包括成就、好友在线状态、截图和活动列表等。新功能支持无缝启动操作，并提供个性化体验，进一步提升用户使用便捷性。
 
 ![](https://static.willmao.com/feed_upload/2025-03-25/07-04-19-phprlQB0q.jpg)
+# 新闻简报 (更新时间: 2025-03-25 15:45)
+
+## 1. [《對馬戰鬼》粉絲協助重建神社禁止所有觀光客入內，難忍外國人惡行](https://www.4gamers.com.tw/news/detail/70879/japanese-shrine-rebuilt-by-ghost-of-tsushima-fans-bans-tourists-after-unforgivable-act)   2025-03-25 14:54
+
+曾因颱風損毀，由《對馬戰鬼》粉絲募資修復的日本和多都美神社，因外國觀光客不當行為，宣布全面禁止遊客進入。神社職員遭遇暴力攻擊，並受垃圾、吸煙等不當行為困擾，引發文化保護的討論。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f1a282562a15c40bfccfa9f0e2db27b6b91bef1b.jpg)
+
+---
+
+## 2. [明年发布！苹果首款折叠屏手机命名iPhone Ultra](https://www.3dmgame.com/news/202503/3917125.html)   2025-03-25 14:49
+
+苹果计划于明年发布首款折叠屏手机iPhone Ultra，采用类似Galaxy Z Fold的双屏设计，内外屏分别为7.74英寸和5.49英寸。新机大规模采用液态金属铰链，增强耐用性，并实现接近无折痕效果。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742885292_912550.jpg)
+
+---
+
+## 3. [C919国产大飞机已获多国适航证 包括加拿大等](https://www.3dmgame.com/news/202503/3917123.html)   2025-03-25 14:40
+
+中国自主研发的C919客机已获多国适航认证，包括巴西、加拿大等地。这标志着C919正加速进入国际市场，其低成本、高效率的竞争优势备受关注，预计2028年国产化率将突破80%。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742884832_780194.jpg)
+
+---
+
+## 4. [百万胖虎赞助《机动战队VS》首届线上1v1亚洲邀请赛开幕！](https://www.3dmgame.com/news/202503/3917122.html)   2025-03-25 14:38
+
+国产机器人格斗游戏《机动战队VS》举办首届亚洲邀请赛，赛事奖金丰厚，多位亚洲顶级选手参赛。赛事每周直播六天，首场比赛由KSG小孩对阵GTW天地，吸引众多电竞爱好者关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742884696_266333.png)
+
+---
+
+## 5. [下载别人老婆？ 《inZOI云族裔》热门捏脸角色分享](https://www.3dmgame.com/news/202503/3917121.html)   2025-03-25 14:35
+
+生活模拟游戏《inZOI云族裔》开放捏脸试玩，玩家可通过官方社区下载其他人创作的角色和服装设计，丰富游戏体验。多个优秀作品已成为热门，吸引玩家踊跃参与。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742884251_514330_jpg_r.jpg)
+
+---
+
+## 6. [系列正统续作《俄罗斯方块大师4》4月登陆Steam](https://www.3dmgame.com/news/202503/3917120.html)   2025-03-25 14:30
+
+经典游戏《俄罗斯方块》系列新作《俄罗斯方块大师4》将于4月4日上线Steam。新作延续系列核心玩法，并带来全新挑战模式，吸引广大玩家期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742884170_289567.jpg)
+
+---
+
+## 7. [《航海王卡牌对战》世界赛巅峰对决：大陆选手阿保夺冠，独特简体中文冠军卡加冕！](https://www.3dmgame.com/news/202503/3917119.html)   2025-03-25 14:19
+
+中国选手阿保在《航海王卡牌对战》世界赛中夺冠，成为首位获得简体中文冠军卡的选手。这张卡牌因其稀有性和独特性备受关注，市场价值已达270万美元。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250325/1742883535_686248.png)
+
+---
+
+## 8. [育碧官方提醒玩家：《刺客信条：影》浪漫均是玩家可选](https://www.3dmgame.com/news/202503/3917118.html)   2025-03-25 14:07
+
+《刺客信条：影》因游戏中的浪漫选项引发争议，育碧官方提醒玩家，这些情节均为可选内容，不会强制发生。玩家对此表示理解，但针对历史人物的设定仍存争议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742882851_177732.png)
+
+---
+
+## 9. [《最后的生还者》剧集第二季角色海报 艾莉艾比乔尔等亮相](https://www.3dmgame.com/news/202503/3917117.html)   2025-03-25 14:05
+
+HBO发布《最后的生还者》剧集第二季角色海报，包括艾莉、乔尔等主要角色亮相。第二季将于2025年4月开播，故事承接第一季，展开新角色的复杂剧情。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742882716_393532.jpg)
+
+---
+
+## 10. [《UNYIELDER-不屈者-》将于5月推出](https://www.3dmgame.com/news/202503/3917116.html)   2025-03-25 14:02
+
+第一人称肉鸽射击游戏《UNYIELDER-不屈者-》将于5月登陆Steam。游戏融合多种玩法，玩家可定制终极Boss并探索未知世界。目前Demo已上线，支持中文选项。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742883629_542098.png)
+# 新闻简报(更新时间:2025-03-25 15:45)
+
+## 1. [《极限竞速8》庆祝系列20周年 经典赛道富士见山道5月上线](https://www.3dmgame.com/news/202503/3917115.html)   2025-03-25 13:52
+
+为了庆祝《极限竞速》系列20周年，官方宣布将在今年5月推出经典赛道富士见山道（Fujimi Kaido），作为《极限竞速8》的一部分。这条赛道最早亮相于2005年的第一代游戏，将重新制作以符合现代游戏标准。官方还透露，未来将加入更多车辆、车手套装及主题挑战等内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742881843_153666_jpg_r.jpg)
+
+---
+
+## 2. [温馨剧情向狗狗模拟游戏《我的小柯基》现已推出试玩Demo](https://www.3dmgame.com/news/202503/3917114.html)   2025-03-25 13:41
+
+狗狗模拟游戏《我的小柯基》现已在Steam平台推出试玩Demo。玩家将体验柯基犬小柯为寻找已故主人的冒险旅程。游戏支持多语言界面，计划在2025年内正式发售，故事温馨感人，适合喜欢治愈系游戏的玩家。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742880969_995337_jpg_r.jpg)
+
+---
+
+## 3. [《inZOI(云族裔)》媒体评分解禁 外媒：潜力无限](https://www.3dmgame.com/news/202503/3917113.html)   2025-03-25 13:35
+
+基于虚幻5引擎开发的生活模拟游戏《inZOI(云族裔)》媒体评分正式解禁。GameSpot给出6分，指出游戏玩法尚需改进；而TheGamer则给出8分，称其视觉和游戏性令人印象深刻。试玩版已在Steam上开放，吸引了大量玩家关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742880572_130639.png)
+
+---
+
+## 4. [赛车策略冒险模拟游戏《一路向上》现已推出试玩Demo](https://www.3dmgame.com/news/202503/3917112.html)   2025-03-25 13:30
+
+赛车策略游戏《一路向上》现已在Steam推出试玩Demo，玩家需克服障碍到达山顶。不同的游戏机制如跳跃、加速等将为玩家带来挑战与乐趣。游戏支持中文界面，计划于2025年4月1日正式发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742880455_405768.jpg)
+
+---
+
+## 5. [《蹦蹦小囤鼠》登陆Steam 休闲松鼠公园冒险](https://www.3dmgame.com/news/202503/3917111.html)   2025-03-25 13:29
+
+以松鼠为主角的公园冒险游戏《蹦蹦小囤鼠》将于3月29日正式推出，现已登陆Steam平台。玩家可以与最多三名好友合作游戏，探索花园、建造自己的树屋，享受轻松的冒险乐趣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742880529_709844.png)
+
+---
+
+## 6. [《七大罪：起源》 开通宣传网站和社交媒体账号](https://www.3dmgame.com/news/202503/3917110.html)   2025-03-25 13:20
+
+开放世界动作RPG《七大罪：起源》开通了官方网站及社交媒体账号。游戏将以全新故事为背景，玩家可探索开放世界并组建自己的战斗团队。该作计划于2025年发布，登陆主机、PC及移动平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742880599_457226_png_r.webp)
+
+---
+
+## 7. [《红色沙漠》技术细节曝光 展现逼真物理效果](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-25 11:03
+
+在GDC大会上，Pearl Abyss展示了《红色沙漠》的BlackSpace引擎技术演示，展现了如布料随风飘动、阴影移动等细腻效果。细节处理甚至包括马匹部分浸水后的湿度表现，令人惊叹。
+
+![](https://static.willmao.com/feed_upload/2025-03-25/10-09-56-phpX39TeF.jpg)
+
+---
+
+## 8. [《如龙》系列高效开发秘诀公开](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-25 10:03
+
+在GDC大会上，《如龙》系列开发团队分享了其高效开发方式，包括剧情与玩法同步开发、资源高效复用以及通过支线内容丰富主线叙事。这些策略让《如龙》系列持续推出高质量作品。
+
+![](https://static.willmao.com/feed_upload/2025-03-25/09-51-55-php2eRyUZ.webp)
+
+---
+
+## 9. [科賦DDR5记忆体全新升级 提升时序与优化AMD性能](https://www.4gamers.com.tw/news/detail/70872/klevv-ddr5-amd-news)   2025-03-25 13:32
+
+科赋宣布其DDR5记忆体产品线全面升级，包括推出新配色散热片、更低时序以及AMD优化版本，进一步提升系统性能和兼容性，预计于2025年第二季度正式上市。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8c093fa5d16311da61dd8e928827606e748a4702.jpg)
+
+---
+
+## 10. [美国飞行员携《东方Project》角色FUMO高空飞行](https://www.4gamers.com.tw/news/detail/70874/usaf-pilot-fly-with-moriya-suwako-fumo-from-touhou-project)   2025-03-25 13:26
+
+一名美国空军飞行员分享了与《东方Project》角色FUMO布偶一起飞行的照片，并自称“弹幕空战无人匹敌”。这位飞行员对FUMO角色的喜爱引发了粉丝热议。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6e59d85de1bc359ef9eea86921754776c8b15524.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-25 15:45)
+
+## 1. [《天国：拯救2》续作或将聚焦胡斯战争](https://www.3dmgame.com/news/202503/3917106.html)   2025-03-25 13:19
+
+《天国：拯救2》的演员卢克·戴尔透露，续作可能会聚焦波西米亚中世纪重要篇章——胡斯战争。该战争始于1419年，持续15年，制作团队面临史料收集与玩法调整的挑战。前作主角亨利的年龄问题也成为关键考虑点。尽管细节尚未披露，但演员们对系列未来充满信心。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742874656_404245_jpg_r.jpg)
+
+---
+
+## 2. [Steam冒险者道具屋《Faire Trade》新作发布](https://www.4gamers.com.tw/news/detail/70875/faire-trade-official-reveal)   2025-03-25 12:47
+
+《Faire Trade》是一款模拟经营游戏，玩家可在奇幻世界中打造道具商店，从建造设施到制作商品全面操控。游戏支持400多种商品制作，并引入城镇探索功能。预计2025年上线Steam抢先体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/facd1c3ab0000605a60d08b0013686345fe9d26f.jpg)
+
+---
+
+## 3. [Steam新作《PathUp!》推出免费试玩](https://www.4gamers.com.tw/news/detail/70871/pathup-steam-demo-released)   2025-03-25 12:36
+
+《PathUp!》是一款开车版爬山游戏，玩家需驾驶车辆通过各种障碍与机关。游戏提供两个检查点减少重开负担。免费Demo已上线，正式版将于4月1日发布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/e5602a8e4906f314b106f683613ea5d4b2c7beef.jpg)
+
+---
+
+## 4. [《三国志8 REMAKE》与《火凤燎原》合作DLC发布](https://www.4gamers.com.tw/news/detail/70876/three-kingdoms-8-remake-and-the-ravages-of-time-collaborate-to-release-free-dlc-)   2025-03-25 12:34
+
+《三国志8 REMAKE》推出与动画《火凤燎原》的免费合作DLC，让玩家在游戏中体验燎原火、司马懿等角色。同时，横山光辉《三国志》限时DLC也上线，包含多种角色脸孔CG。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6debe484c39ffd84f8bcad87c8fc2a2fa47a3e18.jpg)
+
+---
+
+## 5. [育碧发文感谢《刺客信条：影》玩家支持](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-25 12:33
+
+育碧宣布《刺客信条：影》获得玩家高度评价，并表示对其在日本封建时代的背景设计倍感自豪。游戏Steam获“好评如潮”，团队表示将继续以玩家反馈为基础优化游戏。
+
+![](https://static.willmao.com/feed_upload/2025-03-25/12-08-10-phpv3yuLU.jpg)
+
+---
+
+## 6. [《街霸》真人电影无限期推迟](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-25 12:33
+
+卡普空与传奇影业合作的《街霸》真人电影原定于2026年3月上映，但现宣布无限期推迟，具体原因尚未公开。
+
+![](https://static.willmao.com/feed_upload/2025-03-25/12-05-32-phpTxnZ0V.jpg)
+
+---
+
+## 7. [《寂静岭f》澳洲分级风波引玩家关注](https://www.yystv.cn/p/12681)   2025-03-25 12:20
+
+《寂静岭f》因内容尺度问题一度被澳大利亚分级委员会拒绝分级，但24小时内迅速解禁。玩家担忧分级政策可能影响未来游戏的发布与体验。
+
+![](https://alioss.yystv.cn/doc/12681/400b5062ee17129916e6ba4f895cafc9.jpg_mw680water)
+
+---
+
+## 8. [NVIDIA RTX 5060系列显卡发布时间确定](https://www.3dmgame.com/news/202503/3917109.html)   2025-03-25 12:16
+
+NVIDIA正式确认RTX 5060 Ti和RTX 5060的发布时间，RTX 5060 Ti将于4月15日发布并于次日上市。两款显卡将提供性价比版本，玩家有望以建议零售价购得。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742872916_318583_jpg_r.jpg)
+
+---
+
+## 9. [《好饿的谜姆》确认6月19日发售](https://www.4gamers.com.tw/news/detail/70873/hungry-meem-launches-june-19)   2025-03-25 12:07
+
+殖民模拟游戏《好饿的谜姆》将于6月19日全球同步发售，玩家需帮助AI角色“谜姆”完成世代交替。游戏支持Switch和Steam平台，现已开放预购。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2d6f7cbadbbc5ed25d311e285aedd38988c99cd0.jpg)
+
+---
+
+## 10. [《沙丘：觉醒》配置要求公布](https://www.3dmgame.com/news/202503/3917108.html)   2025-03-25 12:04
+
+科幻MMO《沙丘：觉醒》公布配置需求，最低仅需GTX 1060显卡，推荐配置为RTX 3070。游戏将于2025年5月20日发售，支持简体中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742875435_681618_jpg_r.jpg)
+# 新闻简报(更新时间:2025-03-25 15:45)
+
+## 1. [《大货车极限竞赛》Steam页面 年内发售](https://www.3dmgame.com/news/202503/3917107.html) 2025-03-25 12:01
+
+经典游戏《大货车极限竞赛》的Steam页面已经上线，预计将在年内发售。这款游戏将玩家带入美国大地，体验从俄勒冈州到佛罗里达州的极限卡车驾驶之旅，包含4条独特路线和多种挑战模式。玩家不仅需要运送货物，还能改装卡车参与高速竞赛。目前游戏提供白天和夜间驾驶模式，挑战玩家的驾驶技能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742875194_429327.jpg)
+
+---
+
+## 2. [电竞选手的一生之敌，是流感](https://www.yystv.cn/p/12680) 2025-03-25 12:00
+
+后疫情时代，流感成为电竞选手的最大“敌人”。在近期举行的CS2赛事中，天禄战队表现出色，但队内多名选手因流感影响表现。文章探讨了流行性疾病对电竞行业的深远影响，从选手状态到赛事安排，都面临着诸多挑战。电竞选手常需在身体不适的情况下参赛，凸显了健康问题在电竞领域的重要性。
+
+![](https://alioss.yystv.cn/doc/12680/c9caabbfc8968a9b9acb1c5a2a77dc20.appmsg_mw680water)
+
+---
+
+## 3. [《午夜之南》文件大小公布](https://www.3dmgame.com/news/202503/3917102.html) 2025-03-25 11:19
+
+《午夜之南》公布了安装文件大小：Xbox Series X|S版本为58 GB，PC版为61.1 GB，现已开放预下载。作为一款Day One Xbox Game Pass游戏，《午夜之南》将于发布时同步上线。该作由奥利维尔·德里维埃负责配乐，并发布了原声带供玩家欣赏。标准版售价为198元，高级版为248元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250325/1742874937_150328.png)
