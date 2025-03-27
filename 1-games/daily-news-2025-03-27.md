@@ -272,3 +272,309 @@ Xbox推出3月更新，包括为免费游戏提供更多福利，优化云游戏
 
 ---
 
+
+# 新闻简报 (更新时间: 2025-03-27 15:45)
+
+## 1. [将超《泰坦尼克号》 成全球第四！苹果CEO库克：我是《哪吒2》忠实观众](https://www.3dmgame.com/news/202503/3917302.html)   2025-03-27 14:49
+
+苹果CEO库克近日造访中国，期间他称赞中国软件开发者的创造力，同时透露自己是《哪吒2》的忠实观众。《哪吒2》票房已突破152亿元，距离全球影史第四名《泰坦尼克号》仅差11.96亿元。影片上映时间延长至4月30日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058169_132745.jpg)
+
+---
+
+## 2. [《明末：渊虚之羽》新截图 女主大战肉团怪](https://www.3dmgame.com/news/202503/3917301.html)   2025-03-27 14:48
+
+《明末：渊虚之羽》官方发布新截图，展示女主无常与肉团怪的激战场面。游戏使用虚幻5引擎开发，背景设定在明末的巴蜀之地，将于2025年发售，首发加入XGP。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058090_967445_jpg_r.jpg)
+
+---
+
+## 3. [放置手游《吉伊卡哇袋著走》正式上线，和吉伊卡哇一起出发讨伐！](https://www.4gamers.com.tw/news/detail/70921/chiikawa-pocket-launch-now)   2025-03-27 14:47
+
+《吉伊卡哇袋著走》改编自日本插画家nagano作品，现已正式上线，玩法以放置型为主，玩家可通过“讨伐”挂机获取资源并推进关卡。此外，还有“小天地”等收集元素供玩家体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8393d79598dcba879863d1363410159d014d50c9.png)
+
+---
+
+## 4. [岛国男子贴假冒标签骗购手办被捕 去年起多次犯案](https://www.3dmgame.com/news/202503/3917300.html)   2025-03-27 14:45
+
+一名42岁男子因多次使用假标签骗购手办被捕。据警方调查，其去年10月曾以低价标签骗购1.98万日元的手办。目前警方正调查其其他犯罪行为。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057890_901125.png)
+
+---
+
+## 5. [《饿狼传说：群狼之城》 足球界传奇巨星“克里斯蒂亚诺·罗纳尔多”决定参战！](https://www.3dmgame.com/news/202503/3917299.html)   2025-03-27 14:45
+
+SNK宣布罗纳尔多将参战新作格斗游戏《饿狼传说：群狼之城》。该作背景设定在南镇，预计于2025年4月24日发售，搭载全新“REV系统”和刺激的战斗玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057870_723798_jpg_r.jpg)
+
+---
+
+## 6. [《东方求闻编年史》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202503/3917298.html)   2025-03-27 14:43
+
+东方同人宏大叙事向RPG《东方求闻编年史》Steam页面正式上线。玩家将跟随主角稗田阿求探索幻想乡的历史，收录丰富东方世界观与角色设定，发售日期尚待公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057764_522862_jpg_r.jpg)
+
+---
+
+## 7. [江户妖魔与蒸汽朋克乱舞，幕末奇幻RPG《暗影之路》Steam公测上线](https://www.4gamers.com.tw/news/detail/70920/shadow-of-the-road-alpha-test-steam)   2025-03-27 14:42
+
+奇幻RPG《暗影之路》Steam alpha测试现已上线，背景设定在幕末乱世，融合妖怪与蒸汽朋克元素。玩家可免费试玩，体验紧张战斗与丰富支线任务。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ce05f048a98f1f1a82322e3b7fb9bb405edb3ab6.jpg)
+
+---
+
+## 8. [黑曜石CRPG《永恒之柱》即将推出回合制战斗模式](https://www.3dmgame.com/news/202503/3917297.html)   2025-03-27 14:41
+
+黑曜石宣布，《永恒之柱》将于今年晚些时候新增回合制战斗模式并开启测试。该更新将让玩家体验全新的战斗方式，同时优化视觉效果与任务修复。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057669_684455.png)
+
+---
+
+## 9. [任天堂续签《宝可梦：日/月》商标 或是为了版权保护](https://www.3dmgame.com/news/202503/3917296.html)   2025-03-27 14:10
+
+任天堂近日续签《宝可梦：日/月》商标，距游戏发售已9年。此次续签更可能是为了保护知识产权，而非预示新续作发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743055650_903593.png)
+
+---
+
+## 10. [《inZOI(云族裔)》发布最佳设置建议 低门槛爽玩](https://www.3dmgame.com/news/202503/3917295.html)   2025-03-27 13:50
+
+《inZOI(云族裔)》将于3月28日开启抢先体验，售价188元。官方发布两套设置建议，分别面向低配置玩家与追求极致画质用户。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743054145_358623_png_r.webp)
+
+---
+# 新闻简报(更新时间:2025-03-27 15:45)
+
+## 1. [酷碼Cooler Master Hyper 411 Nano紧凑型小塔散热器，入门、中阶应用刚刚好](https://www.4gamers.com.tw/news/detail/70915/cooler-master-hyper-411-nano-review)   2025-03-27 13:47
+
+Cooler Master推出了一款针对入门和中阶用户的散热器Hyper 411 Nano。该产品采用全黑化外观设计，配备四支高效能导热管和92mm PWM风扇，能有效压制中阶处理器的热量。其安装方式简单，兼容多种主板和处理器。售价仅为NT$690元，性价比极高，适合小型主机用户选择。
+
+![](https://thumbor.4gamers.com.tw/KZMUhqHdjv2EvoCzfDauAE4RhxI=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F6fcb1d7f52b05ff4977607537622d8d71d5a4830.jpg)
+
+---
+
+## 2. [城市建造塔防轻肉鸽游戏《诺德要塞》现已正式推出 获特别好评](https://www.3dmgame.com/news/202503/3917294.html)   2025-03-27 13:40
+
+由StunForge开发的《诺德要塞》正式上线Steam平台，融合了Roguelite机制和回合制建筑策略玩法，玩家需要建造城市并保卫家园。目前游戏支持简繁中文，首发特惠售价仅为62.4元人民币。游戏以其高重玩性和策略深度获得玩家特别好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743053717_578853.jpg)
+
+---
+
+## 3. [《inZOI(云族裔)》智能ZOI配置需求公布 最低需3060](https://www.3dmgame.com/news/202503/3917292.html)   2025-03-27 13:35
+
+《inZOI(云族裔)》将于3月28日开启抢先体验，售价188元。游戏推出了全新智能ZOI功能，使AI角色更加个性化。其最低配置需求为NVIDIA RTX3060显卡，推荐配置为RTX5070或更高，玩家可享受更流畅的游戏体验。官方还发布了详细的使用指南。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743053570_762642.png)
+
+---
+
+## 4. [《如龙》官方手游上线 系列首部战略游戏](https://www.3dmgame.com/news/202503/3917291.html)   2025-03-27 13:31
+
+世嘉授权的《如龙》系列首部战略手游《City of Wars Powered by如龙》正式上线。玩家可与系列经典角色如桐生一马、春日一番等并肩作战，在黑道世界中打造自己的传奇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743053476_771389.png)
+
+---
+
+## 5. [主唱太拼了，《Ave Mujica》完结前夕初华声优揭露埋三个月的藏头诗](https://www.4gamers.com.tw/news/detail/70917/hidden-acrostic-by-sasakirico-revealed-after-three-months-as-ave-mujica-nears-finale)   2025-03-27 13:08
+
+动画《Ave Mujica》即将完结，声优佐佐木李子透露自动画播出以来，每集结束后发布的推文拼成了藏头诗“我是三角初”，为粉丝留下了意想不到的惊喜。这一细节展现了声优对角色的深度用心。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0d30d31df8537c1e61243bb6dcdc674ecfa5c9c9.jpg)
+
+---
+
+## 6. [《使命召唤》官方入驻B站！《黑色行动6》第三赛季经典回归](https://www.3dmgame.com/news/202503/3917290.html)   2025-03-27 13:07
+
+《使命召唤》官方正式入驻B站并发布首个视频，介绍即将上线的《黑色行动6》第三赛季内容，包括经典地图“Verdansk”的回归，同时加入全新玩法和英雄角色。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743052020_723070.png)
+
+---
+
+## 7. [你妈我车呢《跑跑卡丁车：飘移》推出4款「人形车」，通通下车用跑的](https://www.4gamers.com.tw/news/detail/70919/kartrider-drift-new-meme-car)   2025-03-27 13:03
+
+《跑跑卡丁车：飘移》推出首批人形车角色，包括蓝宝、微笑、睏宝和谭雅，玩家可直接操控角色奔跑竞速。此外，官方还推出了免费获取活动，完成任务即可获得角色和专属道具。
+
+![](https://img.4gamers.com.tw/puku-clone-version/fdef2eaa28027b92373377c2e86f2d571b47e205.png)
+
+---
+
+## 8. [RTX5090移动版性能飞跃 比RTX4090快2.5倍](https://www.3dmgame.com/news/202503/3917289.html)   2025-03-27 12:31
+
+根据最新测试，RTX5090移动版在多款游戏中性能表现显著提升，尤其在启用DLSS 4技术后，速度提升达2.5倍以上。这一代显引发了玩家热议，罗纳度将成为格斗-version/5c6af62adb7005dce36df954cbbf1a2f03.jpg)
+# 新闻简报(更新时间:2025-03-27 15:45)
+
+## 1. [《无限暖暖》开发团队正努力适配SteamDeck](https://www.3dmgame.com/news/202503/3917288.html)   2025-03-27 11:59
+
+叠纸游戏正在为《无限暖暖》开发SteamDeck兼容性支持，这对掌机玩家来说是个好消息。开发团队透露，目前正在推进适配工作，但尚未公布具体进展。此外，由于反作弊系统的限制，桌面版Linux系统暂未计划支持。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743047277_565526.jpg)
+
+---
+
+## 2. [《古墓丽影》开发商水晶动力公司裁员 解雇17名员工](https://www.3dmgame.com/news/202503/3917282.html)   2025-03-27 11:22
+
+水晶动力公司宣布裁员17人，此次裁员不会影响现有项目计划。被拥抱者集团收购后，公司面临降本压力。下一款《古墓丽影》游戏将由亚马逊合作开发并发行。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743047454_432182.png)
+
+---
+
+## 3. [在这项技术上，中国游戏厂商真的领先了全球行业](https://www.yystv.cn/p/12686)   2025-03-27 00:00
+
+中国游戏产业凭借丰富的反作弊技术和经验，在GDC 2025上展示了领先全球的解决方案，如基于Replay回放与AI结合的反作弊技术。腾讯ACE团队的技术创新受到业界瞩目。
+
+![](https://alioss.yystv.cn/doc/12686/9fb94e687e1e3498d9a719ac051e48ec.appmsg_mw680water)
+
+---
+
+## 4. [画面全黑的射击游戏里，你会当先开枪的那个吗](https://www.yystv.cn/p/12687)   2025-03-27 00:00
+
+《午夜谋杀俱乐部》是一款以完全黑暗为核心玩法的射击游戏，玩家需在全黑环境中依靠手电筒和声音行动。尽管玩法新颖，但由于市场竞争激烈，在线人数表现一般。
+
+![](https://alioss.yystv.cn/doc/12687/896bd04808fdd50cc8eab24816d97623.appmsg_mw680water)
+
+---
+
+## 5. [Acer Predator Aethon 300电竞机械键盘，不怕你按得多，因为帅就完事！](https://www.4gamers.com.tw/news/detail/70889/acer-predator-aethon-300-review)   2025-03-27 11:51
+
+Acer推出了全新Predator Aethon 300电竞机械键盘，采用Cherry MX青轴，提供优质的敲击手感与耐用性，并支持104键防鬼键设计，适合电竞玩家使用。
+
+![](https://thumbor.4gamers.com.tw/oCXxPW4RXu2rYyW5CnHyyGtB_gA=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F8e59c63319ce0c9fdafd10edda6e8e42b4382075.jpg)
+
+---
+
+## 6. [《inZOI(云族裔)》5-03-27 11:40
+
+《洛克王国：世界》现已开启“等等鸭测试”，支持PC、iOS、安卓三端数据互通。作为《洛克王国》的正统续作，游戏主打开放世界的精灵大冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743046762_459217_jpg_r.jpg)
+
+---
+
+## 9. [《逃生：试炼》限时活动“监视之下”现已推出](https://www.3dmgame.com/news/202503/3917284.html)   2025-03-27 11限时活动“监视之下”，新增MK挑战和月22日。
+
+![](https://img.3dmgame---
+
+## 10. [使命召唤动视官方 入驻2025-03-27 11:28
+
+动视https://static.willmao.com/feed_upload/2025-
+# 新闻简报 (更新时间:2025-03-27 15:45)
+
+## 1. [千年妖精也略懂电竞，AMICIS推《葬送的芙莉蓮》磁轴键盘、玻璃鼠标垫](https://www.4gamers.com.tw/news/detail/70913/amicis-frieren-magnetic-keybord-and-glass-mousepad)  2025-03-27 11:24
+
+动漫《葬送的芙莉蓮》周边再添新成员，日本厂商AMICIS推出主题磁轴键盘和玻璃鼠标垫，主打8000Hz高轮询率和独特设计。键盘采用紫色渐变设计，特色键帽融入角色元素，玻璃鼠标垫则提供超光滑操作体验，售价分别约台币7000元和7900元。
+
+![](https://img.4gamers.com.tw/puku-clone-version/17c4c8577bb32c50b0f60f3bef9840ac3a7971ea.jpg)
+
+---
+
+## 2. [小清新休闲治愈模拟游戏《溢出》正式发售，获特别好评](https://www.3dmgame.com/news/202503/3917283.html)  2025-03-27 11:23
+
+Lente打造的《溢出（Spilled!）》现已在Steam发售，玩家可清理海洋垃圾、升级船只并探索新区域。游戏支持简体中文，首发特惠价23.4元，并提供试玩Demo。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743045615_256973.jpg)
+
+---
+
+## 3. [库克与网易CEO丁磊会面，为了观摩一款游戏](https://www.3dmgame.com/news/202503/3917281.html)  2025-03-27 11:14
+
+苹果CEO库克在杭州体验网易《燕云十六声》新版本，称赞其在新iPad上的光线追踪效果，并与团队交流设计细节。据悉，游戏河西新篇章将于3月28日上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743045231_218351.png)
+
+---
+
+## 4. [Steam建造模拟节开启，最低折至一折不容错过！](https://www.3dmgame.com/news/202503/3917280.html)  2025-03-27 11:12
+
+Steam城市建造和模拟游戏节促销活动现已开启，《城市：天际线》等多款游戏降至史低价。活动将持续至3月31日上午10点，感兴趣的玩家快去抢购。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743044530_832278_png_r.webp)
+
+---
+
+## 5. [《复仇者联盟5》现已正式开拍，首批演员阵容揭晓](https://www.3dmgame.com/news/202503/3917279.html)  2025-03-27 11:12
+
+漫威宣布《复仇者联盟5：毁灭日》制作中，并公布首批演员阵容，包括老X教授、万磁王、雷神等经典角色回归。影片备受期待，更多细节尚待公开。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743044904_730626_jpg_r.jpg)
+
+---
+
+## 6. [《爆走次元海王星VS巨神史莱犬》Steam页面上线](https://www.3dmgame.com/news/202503/3917278.html)  2025-03-27 11:12
+
+《爆走次元海王星VS巨神史莱犬》现已上线Steam页面，发售日期待定，支持繁体中文。玩家将体验骑车收集史莱犬的趣味玩法，更多详情可见商店页面。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743045026_757431_jpg_r.jpg)
+
+---
+
+## 7. [《最后的生还者》剧集艾比登场剧情将被改编](https://www.3dmgame.com/news/202503/3917277.html)  2025-03-27 11:10
+
+《最后的生还者》剧集第二季将对游戏剧情进行改编，艾比的登场方式将调整，制作团队计划通过叙事工具
+# 新闻简报 (更新时间: 2025-03-27 15:45)
+
+## 1. [《战锤40K：暗潮》新版本：梦魇与幻景 现已正式上线](https://www.3dmgame.com/news/202503/3917275.html)   2025-03-27 10:59
+
+《战锤40K：暗潮》新版本“梦魇与幻景”已全平台上线。本次更新带来了“莫蒂斯试炼”玩法，玩家需要在12波敌军攻势中生存，并可选择增益效果如焚烬使徒、雷霆主宰等。完成特殊目标后可获得弹药补给与增强效果。此外，限时活动“剧院一日游”及新增变异因子系统也一并上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743044057_754100.jpg)
+
+---
+
+## 2. [《匹诺曹的谎言》总监表示 很喜欢FS社也尊重魂标签 但重点是创造自己的风格](https://www.3dmgame.com/news/202503/3917273.html)   2025-03-27 10:53
+
+《匹诺曹的谎言》总监崔智远在GDC 2025上强调，该作并非模仿《血源诅咒》等魂类游戏，而是结合多种灵感以创造自己的风格。他表示，团队致力于通过创新表达方式讲述独特的故事，并持续收集玩家反馈以完善游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743043569_242478.jpg)
+
+---
+
+## 3. [《逃离塔科夫》高玩达成不杀一人全交易师最高声望 真和平主义者](https://www.3dmgame.com/news/202503/3917274.html)   2025-03-27 10:52
+
+游戏主播ThatFriendlyGuy在《逃离塔科夫》中完成了不杀一人同时获得所有交易师最高声望的成就，引发热议。该挑战难度极高，需通过亲密度、交易量等指标达成目标，被称为“真和平主义者”的典范。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743043881_386905.webp)
+
+---
+
+## 4. [《重装前哨2》早期概念PV公布 游戏开发进度将定期更新](https://www.3dmgame.com/news/202503/3917272.html)   2025-03-27 10:45
+
+《重装前哨2》早期概念PV已公布。这款第一人称探索塔防游戏目前处于开发初期，团队正在重新构建玩法框架，定期更新进度并接受玩家反馈。官方表示短期内不会进行公开测试或开放Steam页面。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743043233_248229_jpg_r.jpg)
+
+---
+
+## 5. [根据测试反馈 《解限机》或可能开局所有机甲全部解锁](https://www.3dmgame.com/news/202503/3917271.html)   2025-03-27 10:42
+
+《解限机》公开测试结束后，西山居团队正考虑根据玩家反馈调整游戏内容，包括开局解锁所有机甲。此外，模块系统可能仅限在撤离玩法中使用，以维护竞技模式的平衡性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743043269_504808.png)
+
+---
+
+## 6. [《太空冒险哥普拉：觉醒》8月26日发售 多平台同步上线](https://www.3dmgame.com/news/202503/3917270.html)   2025-03-27 10:39
+
+横向卷轴动作平台游戏《太空冒险哥普拉：觉醒》宣布将于8月26日登陆多平台。玩家将扮演太空海盗哥普拉，与伙伴亚美女一起探索星际、拯救三姊妹，并使用精神感应枪等标志性武器对抗敌人。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743044289_279564.png)
+
+---
+
+## 7. [Epic春季特惠开启 最低低至2.5折](https://www.3dmgame.com/news/202503/3917269.html)   2025-03-27 10:38
+
+Epic Games春季特惠活动现已上线，多款
