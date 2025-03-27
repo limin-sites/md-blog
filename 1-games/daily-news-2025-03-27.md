@@ -578,3 +578,366 @@ Steam城市建造和模拟游戏节促销活动现已开启，《城市：天际
 ## 7. [Epic春季特惠开启 最低低至2.5折](https://www.3dmgame.com/news/202503/3917269.html)   2025-03-27 10:38
 
 Epic Games春季特惠活动现已上线，多款
+# 新闻简报(更新时间:2025-03-27 20:45)
+
+## 1. [3月26日PlayStation Store春季优惠开始](https://blog.zh-hant.playstation.com/2025/03/27/20250327-springsale/)  2025-03-27 19:31
+
+PlayStation Store春季优惠已启动，多款游戏及追加内容提供最高七五折优惠，包括《艾尔登法环》（六折）、《霍格沃茨的传承》（二五折）、《柏德之门3》（八折）等。活动将持续至4月23日，部分优惠可能提前结束。
+
+---
+
+## 2. [秋田书店旧大楼火灾致2人受伤](https://www.4gamers.com.tw/news/detail/70933/fire-at-former-akita-shoten-building-injures-two)  2025-03-27 19:02
+
+东京秋田书店旧总部今天下午发生火灾，两名工人受伤，约100人紧急疏散。起火原因仍在调查中。火灾前，该大楼以漫画《刃牙》主题的围栏吸引关注，令人唏嘘。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4e8bca91cd123a03eb8624004bd5a8d3f120571a.jpeg)
+
+---
+
+## 3. [微星RTX 5070显卡评测：性能与散热表现优秀](https://www.4gamers.com.tw/news/detail/70934/msi-geforce-rtx-5070-gaming-trio-review)  2025-03-27 19:00
+
+微星推出的GeForce RTX 5070 GAMING TRIO OC显卡以出色的设计与散热性能备受关注。其外观狂野，散热表现比NVIDIA创始版低10°C以上，适合追求高性能与美观的用户。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/Review/MSI-GeForce-RTX-5070-GAMING-TRIO/01.jpg)
+
+---
+
+## 4. [NZXT推出全新ATX3.1电源，12年保修](https://www.4gamers.com.tw/news/detail/70931/nzxt-all-new-c-atx-news)  2025-03-27 18:30
+
+NZXT推出ATX3.1金牌全模组电源，适配未来硬件需求，支持600W显卡电力输出并保证散热性能。提供12年保修政策，三种瓦数规格可选。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9d62ca5a3ad719dcd42f5c8dab222d290767206e.JPG)
+
+---
+
+## 5. [hololive EN与日本全家便利店联名活动即将启动](https://www.4gamers.com.tw/news/detail/70932/hololive-english-chaos-hope-death-and-fuwamoco-collab-with-familymart-jpn)  2025-03-27 18:27
+
+hololive English将与日本全家合作，从4月1日起推出促销与周边商品，包括特制立绘立牌和明治糖果赠品活动，粉丝不容错过。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b021205de93666c9c23c1bb733e4b4c56479fef9.jpg)
+
+---
+
+## 6. [恐怖游戏《Quite a Ride》公开Steam页面](https://www.4gamers.com.tw/news/detail/70930/quite-a-ride-announcement)  2025-03-27 18:24
+
+由Goodwin Games开发的第一人称恐怖游戏《Quite a Ride》现已上线Steam商店页面。玩家将在浓雾弥漫的乡间道路上，骑车探索逐渐扭曲的现实并解开秘密。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5e07c67969d0163f898f6cdf31fee3a937708b6f.jpg)
+
+---
+
+## 7. [Apple Arcade交流与分享游戏心得，更多玩家将能体验游戏的独特魅力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743068678_187991.png)
+
+---
+
+## 9. [《泡泡幽灵REMAKE》多平台发售](https://www.3dmgame.com/news/202503/3917320.html)  2025-03-27 17:44
+
+经典复古游戏《泡泡幽灵》全手绘重制版今日发售，登陆PC、Nintendo Switch、PlayStation 焕然一新。
+
+![](https://img.3dmgame.com/uploads/images/news_png_r.webp)
+
+---
+
+## 10. [淘宝启动AI假图治理](https9.html)  2025-03-27 17:36
+
+淘宝宣布全面打击AI假图，治理范围包括商品图片失真、效果夸大、场景虚假等，保护消费者权益及原创商家利益。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743067563_125432.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-27 20:45)
+
+## 1. [Steam类魂砍杀《第一狂战士：卡赞》上市获极度好评，战死还能升级变强与爽快格挡战斗](https://www.4gamers.com.tw/news/detail/70900/the-first-berserker-khazan-review)   2025-03-27 17:25
+
+由NEXON出品的类魂动作游戏《第一狂战士：卡赞》正式发售，故事围绕佩鲁斯帝国大将军卡赞的复仇之旅。游戏独特的机制允许玩家死亡后仍能继续变强。此外，关卡设计借鉴了《战神》和《黑暗之魂》，提供探索和解谜元素。画面采用3D赛璐珞风格，场景设计精美，玩家可以体验不同武器的战斗风格。
+
+![](https://img.4gamers.com.tw/puku-clone-version/22168c646e347fa1f1962bbd37a1613fee79d346.jpg)
+
+---
+
+## 2. [真正用手玩游戏 对应Valve Index的SteamVR手套控制器预购](https://www.3dmgame.com/news/202503/3917318.html)   2025-03-27 17:17
+
+Reality XR Game Glove手套控制器开启预购，支持Valve Index的SteamVR游戏。这款高科技手套搭载32个伸缩传感器，可精确捕捉玩家手部动作。手套设计紧凑且易清洗，售价约人民币3300元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743066953_276469.png)
+
+---
+
+## 3. [2025日本漫画大赏《艾莉丝，直达宇宙》获得冠军，《普通轻音社》《最爱暴食的望月小姐》入榜](https://www.4gamers.com.tw/news/detail/70923/2025-manga-award-list)   2025-03-27 17:14
+
+由漫画大赏评审团选出的2025年最佳漫画是売野机子的《艾莉丝，直达宇宙》。故事讲述主角艾莉丝与班上优等生犬星类的友情与成长，重新追逐太空人的梦想。其他获奖作品包括《普通轻音社》和《最爱暴食的望月小姐》。
+
+![](https://img.4gamers.com.tw/puku-clone-version/06d6ff54c780deaa3370106e2482edd00e26c7eb.jpeg)
+
+---
+
+## 4. [42万欧洲玩家提出抗议：反对已购游戏停运后不能玩](https://www.3dmgame.com/news/202503/3917317.html)   2025-03-27 17:12
+
+一项名为“停止破坏电子游戏”的请愿收集了超过42万签名，要求确保游戏在停止支持后仍然可玩。事件源于《飙酷车神》服务器关闭后无法游玩的问题，玩家们希望欧盟委员会重视此项提议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743065854_837001_jpg_r.jpg)
+
+---
+
+## 5. [资讯：《第一狂战士 卡赞》更新补丁，削弱部分BOSS并增强简单模式](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-27 17:06
+
+官方发布更新补丁，削弱部分BOSS难度，同时提升简单模式的补助效果。玩家对敌人的伤害输出有所增强，并计划五月推出免费的DLC内容。
+
+![](https://static.willmao.com/feed_upload/2025-03-27/16-57-29-phpI1LBGD.jpg)
+
+---
+
+## 6. [经典作品移植手游《玛奇MOBILE》今日正式于韩国推出](https://www.4gamers.com.tw/news/detail/70926/mabinogi-mobile-launch-today)   2025-03-27 17:01
+
+NEXON经典网游《玛奇》的手游版本正式上线韩国市场，玩家将重返艾尔琳世界，体验移植自《玛奇》G1-G2的故事内容。目前仅限韩国地区推出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ca7296fc898b071fe537ca9f02c73450321c98ae.jpg)
+
+---
+
+## 7. [一人开发、销量破30万套，《母娘调教》作者：ACG爱创作工具改变了我的人生](https://www.4gamers.com.tw/news/detail/70918/playmeow-acg-creator-and-milf-conditioning-developer-interview)   2025-03-27 17:00
+
+ACG爱创作平台帮助无程式基础的创作者开发游戏。《母娘调教》作者Vincent Chang分享了从失业到成为独立游戏开发者的历程。该平台已累计40-50款作品，开发工具直观易用。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6906f3ebc22f17f2d20f1ac518ee1dfc312f6eb3.jpeg)
+
+---
+
+## 8. [PlayStation Plus 4月份每月游戏：《RoboCop: Rogue City》、《The Texas Chain Saw Massacre》、《数码宝贝物语：网路侦探 骇客追忆》](https://blog.zh-hant.playstation.com/2025/03/27/20250327-psplus/)   2025-03-27 16:51
+
+PlayStation Plus 4月份提供三款游戏：《机甲战警：流氓之城》、《德州电锯杀人狂》和《数码宝贝物语》。会员可从4月1日至5月5日下载。
+
+![](https://blog.playstation.com/tachyon/2025/03/f71c56c7b6ad23ab3bb46d47ffacb38a3cd86884.jpg)
+
+---
+
+## 9. [《无人深空》重大更新「遗迹」古生物化石系统，可以收集、烹调
+# 新闻简报(更新时间:2025-03-27 20:45)
+
+## 1. [台灣《Pokemon Mezastar》支援「極巨腕帶」，推出皮卡丘悠遊卡](https://www.4gamers.com.tw/news/detail/70927/pokemon-mezastar-support-dynamax-band-in-taiwan) 2025-03-27 16:40
+
+《Pokemon Mezastar》确认支持极巨腕带，并推出皮卡丘卡匣造型悠遊卡，提供感应支付功能。游戏将于4月2日正式上线，并引入全新的极巨化玩法，玩家可通过使用极巨腕带确保发动成功。此外，官方还计划在便利商店和周边通路销售相关道具，方便玩家体验全新对战乐趣。
+
+![](https://thumbor.4gamers.com.tw/A8GCxM2onrwqf-t0FyR5sD0Vi18=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fed01752b6d58a4fe5c210c46758267979aee3f2c.JPG)
+
+---
+
+## 2. [KK官方对战平台新图推荐，命运狂想强者破界](https://www.3dmgame.com/news/202503/3917315.html) 2025-03-27 16:31
+
+《最强节奏》上线KK官方对战平台，推出全新地图和玩法，玩家可体验60多位英雄及神格连击系统，随机秘卷赋予游戏更多策略性，同时结合趣味小游戏如黄金矿工，提升整体娱乐性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743064248_623676.png)
+
+---
+
+## 3. [克苏鲁风格《RailGods of Hysterra》4月23日抢先体验](https://www.3dmgame.com/news/202503/3917314.html) 2025-03-27 16:23
+
+《RailGods of Hysterra》是一款克苏鲁题材合作生存动作游戏，玩家将驾驶结合古神力量的火车穿越噩梦世界，搜集资源、迎战怪物，并体验全新战斗与疯狂机制。游戏将于4月23日抢先登陆Steam。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250327/1743063778_632272.png)
+
+---
+
+## 4. [二手显卡陷阱：7000元RTX 4090竟无GPU显存](https://www.3dmgame.com/news/202503/3917313.html) 2025-03-27 16:23
+
+二手市场现骗局，玩家高价购买“RTX 4090”显卡后发现核心和显存被移除或伪造，甚至出现完全空壳显卡。消费者需警惕二手交易的风险，避免上当受骗。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743063713_579150.png)
+
+---
+
+## 5. [UE5仙侠MMORPG《诛仙世界》即将推出](https://www.4gamers.com.tw/news/detail/70924/world-of-jade-dynasty-comming-soon) 2025-03-27 15:57
+
+《诛仙世界》融合《诛仙》小说与原创内容，带来电影级画质和细腻光影效果。游戏将举办试玩会，并计划于台港澳地区上线，玩家可在游戏中体验全新的社交与战斗乐趣。
+
+![](https://img.4gamers.com.tw/puku-clone-version/246db93666d763568f62bedee40013d87f0af978.jpg)
+
+---
+
+## 6. [安卓开发转为私下进行 谷歌承诺代码仍开源](https://www.3dmgame.com/news/202503/3917312.html) 2025-03-27 15:53
+
+谷歌宣布安卓开发将转为内部进行，以提高效率，但仍保持开源性。尽管开发过程不再实时公开，但最终版本会向公众开放，用户和厂商体验不受影响。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743062001_763173.png)
+
+---
+
+## 7. [欢乐派对游戏《Slowly Sliding Ducks》上线Steam](https://www.3dmgame.com/news/202503/3917311.html) 2025-03-27 15:42
+
+《Slowly Sliding Ducks》是一款支持16名玩家在线对战的休闲派对游戏，玩家将在水上乐园中竞赛冲刺，争夺积分和胜利，现已上线Steam平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743061270_476996.jpg)
+
+---
+
+## 8. [解谜游戏《Electrogical》升级并确定NS版发布](https://www.3dmgame.com/news/202503/3917310.html) 2025-03-27 15:40
+
+数学解谜游戏《Electrogical》新增挑战模式及新关卡，同时优化用户体验，宣布2025年将推出Nintendo Switch版本。玩家可通过四则运算解开电路谜题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743061115_468222_png_r.webp)
+
+---
+
+## 9. [《魔物猎人荒野》推出“汤玛士小火车”模组](https://www.4gamers.com.tw/news/detail/70922/mhwilds-thomas-the-tank-engine-seikret-mods) 2025-03-27 15:34
+
+玩家可在《魔物猎人荒野》中替换鷺鷹龍为“汤玛士小火车”，并与其并肩作战。该模组已上线NexusMods平台，但提醒玩家注意第三方模组的安全性。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b212e1aea35e017d05a3bdc3de31d30cad8b9a4f.jpg)
+
+---
+
+## 10. [《宇宙机器人》故事经历23次改写 旨在适合所有人](https://www.3dmgame.com/news/202503/3917309.html) 2025-03-27 15:30
+
+《宇宙机器人》的开发者表示，为实现适合全家的游戏体验，故事情节经历23次改写，最终选择一个轻松幽默的结局。该游戏已获得TGA最佳家庭游戏奖。
+
+![](https://img.3dmgame.com/uploads/images/news/
+# 新闻简报(更新时间:2025-03-27 20:45)
+
+## 1. [《无人深空》全新更新“遗迹”上线：成宇宙考古学家！](https://www.3dmgame.com/news/202503/3917308.html)   2025-03-27 15:28
+
+《无人深空》推出全新免费更新“遗迹”，玩家可在行星地表下挖掘外星史前遗骸，打造独特的生物展览馆甚至进行遗骸交易。此外，更新还引入新的远征内容，挑战多样化的化石收集玩法，但需警惕可能存在的守护者生物。游戏目前正以史低价格促销，吸引更多玩家踏上星际探险旅程。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743060369_165979_jpg_r.jpg)
+
+---
+
+## 2. [《上古卷轴OL：落旗》地下城DLC现已登陆主机端](https://www.3dmgame.com/news/202503/3917307.html)   2025-03-27 15:23
+
+《上古卷轴OL：落旗》地下城DLC正式上线主机端，新增两处PvE地下城“流亡哨站”和“秀跃隐修院”，提供独特的故事线、Boss战及奖励。玩家需拥有ESO Plus会员资格解锁，免费更新U45补丁同步上线，优化游戏体验并提升区域细节水准。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743060142_484175_jpg_r.jpg)
+
+---
+
+## 3. [差点再酿惨剧！机长疑把R听成L：韩客机降错跑道险撞机](https://www.3dmgame.com/news/202503/3917306.html)   2025-03-27 15:07
+
+韩国廉价航空公司航班在釜山金海国际机场降落时进入错误跑道，与另一架即将起飞的飞机险些相撞。航管人员及时阻止撞机事件发生。事故原因初步怀疑为机长听错指令，目前已展开调查。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743059203_494905.png)
+
+---
+
+## 4. [NVIDIA将收购阿里前高管贾扬清创业公司 成立两年价值数亿美元](https://www.3dmgame.com/news/202503/3917305.html)   2025-03-27 14:59
+
+NVIDIA计划以数亿美元收购贾扬清创立的Lepton AI，该公司专注于高效AI应用平台。贾扬清曾开发深度学习框架Caffe并在阿里巴巴达摩院担任技术副总裁。此次收购旨在进一步提升NVIDIA的AI算力服务能力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058742_427618.jpg)
+
+---
+
+## 5. [《第一狂战士：卡赞》严重BUG!玩家属性可被清空](https://www.3dmgame.com/news/202503/3917303.html)   2025-03-27 14:57
+
+《第一狂战士：卡赞》出现严重漏洞，玩家使用特定道具或装备可能导致角色属性永久清空。开发商Neople工作室建议避免高风险操作，补丁修复正在开发中。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058310_854357_jpg_r.jpg)
+
+---
+
+## 6. [杀疯了！美国宣布：非美国制造的汽车征收25%的关税](https://www.3dmgame.com/news/202503/3917304.html)   2025-03-27 14:54
+
+美国总统特朗普宣布将对所有非美国制造的汽车征收25%的关税，旨在刺激美国制造业发展。消息发布后，美国汽车股价普遍下跌。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058445_881583.jpg)
+
+---
+
+## 7. [将超《泰坦尼克号》 成全球第四！苹果CEO库克：我是《哪吒2》忠实观众](https://www.3dmgame.com/news/202503/3917302.html)   2025-03-27 14:49
+
+《哪吒2》票房已达152.27亿元，全球影史排名第五，距离《泰坦尼克号》第四名仅差11.96亿元。苹果CEO库克在访华期间表示自己是该电影忠实观众。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058169_132745.jpg)
+
+---
+
+## 8. [《明末：渊虚之羽》新截图 女主大战肉团怪](https://www.3dmgame.com/news/202503/3917301.html)   2025-03-27 14:48
+
+《明末：渊虚之羽》官方分享新截图，展示女主与怪物激烈战斗。该游戏预计2025年发售，首发加入XGP。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743058090_967445_jpg_r.jpg)
+
+---
+
+## 9. [放置手遊《吉伊卡哇袋著走》正式上線，和吉伊卡哇一起出發討伐！](https://www.4gamers.com.tw/news/detail/70921/chiikawa-pocket-launch-now)   2025-03-27 14:47
+
+改编自日本漫画的放置手游《吉伊卡哇袋著走》正式上线，提供丰富玩法如“讨伐”、“小天地”及角色服装等。游戏现已登陆iOS与Android平台。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8393d79598dcba879863d1363410159d014d50c9.png)
+
+---
+
+## 10. [岛国男子贴假冒标签骗购手办被捕 去年起多次犯案](https://www.3dmgame.com/news/202503/3917300.html)   2025-03-27 14:45
+
+日本一名男子因贴假标签低价购买高价手办被捕。嫌犯去年以来多次实施类似犯罪，目前警方正在进一步调查。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057890_901125.png)
+
+---
+# 新闻简报(更新时间:2025-03-27 20:45)
+
+## 1. [《饿狼传说：群狼之城》 足球界传奇巨星“克里斯蒂亚诺·罗纳尔多”决定参战！](https://www.3dmgame.com/news/202503/3917299.html)   2025-03-27 14:45
+
+株式会社SNK宣布，足球传奇巨星克里斯蒂亚诺·罗纳尔多将参战新作格斗游戏《饿狼传说：群狼之城》，该游戏将于2025年4月24日发售。这是系列时隔26年的最新作品，搭载独特美术风格和全新战斗系统，为玩家提供从初学者到熟练者都能享受的丰富功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057870_723798_jpg_r.jpg)
+
+---
+
+## 2. [《东方求闻编年史》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202503/3917298.html)   2025-03-27 14:43
+
+《东方求闻编年史》是一部以幻想乡历史为背景的宏大叙事向东方同人RPG，玩家将跟随主角稗田阿求探索幻想乡的每个角落，重新见证历史。游戏支持简体中文，目前Steam页面已上线，发售日尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057808_142925.jpg)
+
+---
+
+## 3. [江户妖魔与蒸汽朋克乱舞，幕末奇幻RPG《暗影之路》Steam公测上线](https://www.4gamers.com.tw/news/detail/70920/shadow-of-the-road-alpha-test-steam)   2025-03-27 14:42
+
+《暗影之路》是一款设定在幕末时期的奇幻RPG，融合了传统武士文化与蒸汽朋克元素。游戏采用回合制策略玩法，玩家将指挥小队在妖怪与机械横行的虚构幕末战斗。目前Steam已开放免费Alpha测试。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ce05f048a98f1f1a82322e3b7fb9bb405edb3ab6.jpg)
+
+---
+
+## 4. [黑曜石CRPG《永恒之柱》即将推出回合制战斗模式](https://www.3dmgame.com/news/202503/3917297.html)   2025-03-27 14:41
+
+黑曜石宣布经典CRPG《永恒之柱》将于今年晚些时候推出回合制战斗模式，同时游戏还迎来了最新更新，优化了视觉效果、战斗和任务体验。玩家可期待全新战斗体验带来的游戏变化。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743057669_684455.png)
+
+---
+
+## 5. [任天堂续签《宝可梦：日/月》商标 或是为了版权保护](https://www.3dmgame.com/news/202503/3917296.html)   2025-03-27 14:10
+
+宝可梦公司和任天堂续签了《宝可梦：日/月》商标，这款2016年发售的游戏曾是宝可梦系列的第七世代正统续作，也是系列首次官方中文化的作品。此次续签或仅为保护知识产权。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743055650_903593.png)
+
+---
+
+## 6. [《inZOI(云族裔)》发布最佳设置建议 低门槛爽玩](https://www.3dmgame.com/news/202503/3917295.html)   2025-03-27 13:50
+
+即将于3月28日开启抢先体验的《inZOI(云族裔)》公布了两套推荐设置方案，分别面向追求高帧率的玩家和渴望极致画质体验的用户。该游戏采用虚幻5引擎打造，售价188元，抢先体验期间所有DLC免费。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743054145_358623_png_r.webp)
+
+---
+
+## 7. [酷码Cooler Master Hyper 411 Nano紧凑型小塔散热器，入门、中阶应用刚刚好](https://www.4gamers.com.tw/news/detail/70915/cooler-master-hyper-411-nano-review)   2025-03-27 13:47
+
+酷码推出的Hyper 411 Nano紧凑型塔式散热器，兼具高效散热和低噪音表现，/202503/3917292.html)   2025-03-27 13:35
+
+《inZOI(云族裔)》公布智能ZOI功能的推荐配置需求，最低需RTX3060显卡。该功能通过AI加持让游戏中的角色更加智能化互动，为玩家带来全新的模拟体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743053570_762642.png)
+
+---
+
+##龙》官方手游上线 系列首部战略游戏](https://www.3dmgame.com/news/202503/ 13:31
+
+世嘉官方首款《如龙》系列战争策略手游《City of Wars Powered by如龙》正式上线。玩家将与经典角色如桐生一马和真岛吾朗并肩作战，在黑道世界中书写传奇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250327/1743053476_771389.png)
+
+---
