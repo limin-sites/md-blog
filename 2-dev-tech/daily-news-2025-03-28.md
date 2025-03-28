@@ -64,3 +64,79 @@
 ![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/dd439a3b62f3fa31ebf7282fed111b91?_a=AQAEuj9)
 
 ---
+# 新闻简报(更新时间:2025-03-28 10:45)
+
+## 1. [Electron 客户端开机自启动 - 日升_rs](https://www.cnblogs.com/risheng/p/18797426)   2025-03-28 10:17
+
+本文分析了 Electron 客户端实现开机自启动的两种方式：`app.setLoginItemSettings` 和 `auto-launch`，并对其稳定性进行了对比评估。`app.setLoginItemSettings` 作为官方支持的 API，具有稳定性，但在某些 Windows 版本中存在已知问题。`auto-launch` 则更灵活，适配性较好，但需要依赖第三方库。文章详细列举了各自的优缺点，并提供了实际使用建议。
+
+---
+
+## 2. [【集合分组利器】Java通用集合分组方案 - 佛祖让我来巡山](https://www.cnblogs.com/sun-10387834/p/18797359)   2025-03-28 09:48
+
+本文全面讲解了 Java 中实现集合分组的多种方式，从基础的单属性分组到高级的多属性分组，并结合代码示例展示了其实际应用效果。文章还深入探讨了 Java 8 引入的 Streams API 在集合分组中的优势，帮助开发者快速掌握和应用这些技术。
+
+---
+
+## 3. [AOT编译Avalonia应用：StarBlog Publisher项目实践与挑战 - 程序设计实验室](https://www.cnblogs.com/deali/p/18797316)   2025-03-28 09:29
+
+本文介绍了使用 Avalonia 框架开发 StarBlog Publisher 项目时的实践经验与挑战。Avalonia 是一个跨平台 UI 框架，具备高性能和易用性，支持 Windows、Linux 和 macOS。文章详细分享了项目的开发流程、AOT 编译的技术细节以及遇到的问题与解决方案。
+
+---
+
+## 4. [掌握设计模式--备忘录模式 - 渊渟岳](https://www.cnblogs.com/dennyLee2025/p/18793702)   2025-03-28 09:27
+
+备忘录模式是一种行为型设计模式，用于在不暴露对象内部实现细节的情况下捕获对象的状态，并在需要时恢复。本文详细阐述了该模式的核心思想、适用场景及具体实现，帮助开发者更好地理解和应用这一设计模式。
+
+---
+
+## 5. [Next.js中间件权限绕过漏洞分析（CVE-2025-29927） - CVE-柠檬i](https://www.cnblogs.com/CVE-Lemon/p/18797265)   2025-03-28 09:16
+
+文章分析了 Next.js 框架中的高危漏洞 CVE-2025-29927。该漏洞利用特定的 HTTP 请求头绕过中间件的安全控制逻辑，可能导致身份认证失效和未授权访问。作者详细讲解了漏洞的成因、影响范围及修复建议。
+
+---
+
+## 6. [必看！2025 年颠覆测试行业的 10 大 AI 自动化测试工具/平台（上篇） - 狂师](https://www.cnblogs.com/jinjiangongzuoshi/p/18797243)   2025-03-28 08:58
+
+随着 AI 技术的快速发展，传统测试方式逐渐被颠覆。本文列举了 2025 年最具代表性的 10 大 AI 自动化测试工具和平台，通过详细分析其功能和应用场景，帮助读者了解 AI 自动化测试的未来趋势。
+
+---
+
+## 7. [利用AI增强VS Code TypeScript插件：AnyToTS带来编程新体验 - graywen](https://www.cnblogs.com/greywen/p/18789446)   2025-03-28 08:45
+
+"Any to TS" 是一个 VSCode 扩展插件，能够将任意对象转换为 TypeScript 类型或接口。本文介绍了插件的核心功能及使用场景，并展示了如何通过该工具提升开发效率，优化 TypeScript 项目的代码质量。
+
+---
+
+## 8. [虚函数表里有什么？（一）——从一个普通类开始 - 同勉共进](https://www.cnblogs.com/zpcdbky/p/18773538)   2025-03-28 08:38
+
+本文从一个简单的 C++ 类开始，探索虚函数表中除函数地址外的其他条目及其设计目的。通过对内存布局的深入分析，文章帮助读者理解 C++ 类对象的存储结构及其运行机制。
+
+---
+
+## 9. [《HelloGitHub》第 108 期 - 削微寒](https://www.cnblogs.com/xueweihan/p/18797088)   2025-03-28 08:26
+
+《HelloGitHub》第 108 期精选了多种编程语言的优秀开源项目，包括实战项目、入门教程、黑科技工具等。内容涵盖 Python、JavaScript、大厂开源项目等，旨在帮助开发者快速找到适合自己的学习资源。
+
+---
+
+## 10. [史上最全EffectiveJava总结（二） - seven97_top](https://www.cnblogs.com/seven97-top/p/18797114)   2025-03-28 08:15
+
+本文是《Effective Java》系列总结的第二部分，聚焦于方法参数有效性检查的重要性。作者结合实际案例，剖析了参数验证的最佳实践及其对代码可靠性和鲁棒性的提升作用。
+# 新闻简报(更新时间:2025-03-28 10:45)
+
+## 1. [https://api.daily.dev/r/78CPNy11S](https://app.daily.dev/posts/78cpny11s)   2025-03-26 20:45
+
+暂无新闻正文概要内容。
+
+![](https://media.daily.dev/image/upload/s--1KxV4ohY--/f_auto/v1722860400/public/Placeholder%2007)
+
+---
+
+## 2. [I created a Bank Management CRM with source code](https://app.daily.dev/posts/i-created-a-bank-management-crm-with-source-code-v3dp9o4lc)   2025-03-26 04:10
+
+作者开发了一款银行管理CRM系统，主要使用ReactJS、Tailwind CSS和DaisyUI构建。文章分享了完整的源代码，并提供免费下载链接，方便开发者学习和使用该工具。
+
+![](https://media.daily.dev/image/upload/s--owo9dhvv--/f_auto/v1742933443/posts/V3DP9o4LC)
+
+--- 
