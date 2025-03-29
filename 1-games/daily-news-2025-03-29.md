@@ -352,3 +352,141 @@ Netflix游戏业务负责人Alain Tascan在采访中表示，未来的游戏行�
 ![](https://img.3dmgame.com/uploads/images/news/20250329/1743207724_222272_jpg_r.jpg)
 
 --- 
+# 新闻简报(更新时间:2025-03-29 20:45)
+
+## 1. [大宇卖出《仙剑奇侠传》IP，仅剩2天可启动正版游戏](https://www.4gamers.com.tw/news/detail/70977/transfer-of-brand-operation-rights-of-the-legend-of-sword-and-fairy)   2025-03-29 19:02
+
+大宇资讯宣布将转移《仙剑奇侠传》的品牌运营权，自3月31日起终止客服、游戏更新及系统维护服务。尚未启动的实体版CD-KEY需在5月31日前完成操作。此外，《仙剑奇侠传》和《轩辕剑》的IP已分别以5亿台币转让给中手游和香港欢动科技。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3cee54b4d267fd30a9aec245a60db42c53080472.jpg)
+
+---
+
+## 2. [除《星际：异端先知》之外 顽皮狗还有一个大型项目](https://www.3dmgame.com/news/202503/3917424.html)   2025-03-29 18:55
+
+顽皮狗正在开发多个PS5项目，其中一个由《神秘海域：失落的遗产》创意总监肖恩·埃斯卡伊格领导。据悉，工作室的科幻项目由尼尔·德鲁克曼和马修·加兰特负责，而第二个项目的细节尚未公布。由于游戏开发周期较长，预计玩家需要等待数年时间才能体验这些新作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743202261_945531.jpg)
+
+---
+
+## 3. [32年之后《神秘岛》的重大更新终于让游戏彻底完整](https://www.3dmgame.com/news/202503/3917423.html)   2025-03-29 18:18
+
+经典解谜游戏《神秘岛》迎来重大更新，其扩展内容《霜寒时代》终于上线现代版游戏包，并进行了视觉和剧情重制。玩家现在可以体验完整的《神秘岛》以及扩展内容，标志着开发商Cyan三十年的杰作被浓缩在一个完整的游戏中。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743202035_714945.jpg)
+
+---
+
+## 4. [《双影奇境》获得3项吉尼斯世界记录](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-29 17:46
+
+《双影奇境》创下三项吉尼斯世界记录，包括单周内销量最高的本地合作电子游戏（200万份）、48小时内销量最高的本地合作电子游戏（100万份），以及Steam上最多人游玩的本地合作电子游戏（259003人）。
+
+![](https://static.willmao.com/feed_upload/2025-03-29/17-45-53-php67xDPQ.jpg)
+
+---
+
+## 5. [《使命召唤：黑色行动6》已有20万名作弊者被封禁](https://www.3dmgame.com/news/202503/3917422.html)   2025-03-29 17:37
+
+《使命召唤》反作弊系统“弹弓”公布最新成果，自《黑色行动6》发布以来，已有22.8万名作弊者被封禁。新功能将在第三季推出，包括改进自动瞄准检测和机器学习系统，以及为受作弊影响的玩家提供技能等级退款。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743201829_133877.jpg)
+
+---
+
+## 6. [《天国：拯救2》预购奖励装备现已作为DLC推出](https://www.3dmgame.com/news/202503/3917421.html)   2025-03-29 17:17
+
+《天国：拯救2》的预购奖励“狮之纹章”套装现已作为独立付费DLC发布，售价为18.8元。玩家需完成专属支线任务才能解锁这套装备。此外，游戏已正式登陆GOG平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743201606_143602.jpg)
+
+---
+
+## 7. [声优歌手平野绫2025台湾粉丝见面会突然取消](https://www.4gamers.com.tw/news/detail/70976/aya-hirano-fanmeeting-in-taiwan-2025-cancel-ed-by-star-cube-entertainment)   2025-03-29 17:07
+
+原定于4月5日举行的平野绫台湾粉丝见面会因主办方原因取消。据日方团队称，他们对这一决定感到惊讶。主办方表示活动延期，具体日期尚待协调，同时承诺全额退票。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9db44891eabfd34986235c6551b5e06dbd14020a.png)
+
+---
+
+## 8. [《黑色沙漠》将于2025年6月推出次世代版本](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-29 17:03
+
+《黑色沙漠》宣布将于2025年6月26日推出Xbox Series X|S和PS5版本，同时停止对X1和PS4版的支持。
+
+![](https://static.willmao.com/feed_upload/2025-03-29/16-17-04-phpYDLjR9.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-29 20:45)
+
+## 1. [多名育碧员工对与腾讯合作后的未来表达担忧](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-29 16:19
+
+育碧员工在公司宣布与腾讯成立子公司后表示对未来感到不安，特别是那些未参与《刺客信条》《孤岛惊魂》和《彩虹六号》项目的员工。内部邮件尝试安抚这些员工，强调他们的重要性，但仍有员工对此表示怀疑和不确定。
+
+![](https://static.willmao.com/feed_upload/2025-03-29/16-19-34-phpoAfi9z.jpg)
+
+---
+
+## 2. [《黑色沙漠》将停止支持旧主机并登陆次世代平台](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-29 16:17
+
+《黑色沙漠》将于2025年6月26日登陆Xbox Series X|S和PS5，同时停止对Xbox One和PS4版本的支持。这一举措标志着游戏全面转向次世代平台。
+
+![](https://static.willmao.com/feed_upload/2025-03-29/16-17-04-phpYDLjR9.jpg)
+
+---
+
+## 3. [英雄联盟格斗游戏《2XKO》首发仅有10名角色](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-29 16:15
+
+拳头游戏确认新作《2XKO》将在首发时仅提供10名角色，包括阿狸、艾克、金克斯等。开发者表示更愿意尽快上线游戏，并通过后续更新陆续推出新角色。
+
+![](https://static.willmao.com/feed_upload/2025-03-29/16-15-16-phpjj3MnA.png)
+
+---
+
+## 4. [Valve建议开发者面对网暴时“忍一下”](https://www.3dmgame.com/news/202503/3917420.html)   2025-03-29 15:45
+
+《Coquette Dragoon》的创作者分享Valve的官方建议，称面对Steam论坛上的网暴，开发者应避免争论或审查，而是“休息一下”。这一建议引发了关于玩家社区管理的广泛讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743201340_674479_jpg_r.jpg)
+
+---
+
+## 5. [《天国：拯救2》硬核模式或提前上线](https://www.3dmgame.com/news/202503/3917419.html)   2025-03-29 15:38
+
+战马工作室宣布，《天国：拯救2》的硬核模式将在4月中旬推出，但Steam上的新成就显示该模式可能会提前上线。硬核模式将增加极高的游戏难度，包括移除导航工具和增加特质限制。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743201026_196462_jpg_r.jpg)
+
+---
+
+## 6. [传Switch 2直面会即将到来，C键功能引猜测](https://www.3dmgame.com/news/202503/3917418.html)   2025-03-29 14:20
+
+Switch 2的C键可能支持与初代Switch连接，用作新主机的手柄。这一创新功能被认为有助于旧设备的再利用。任天堂的直面会预计4月2日举行，届时将揭晓更多信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743200870_217295_jpg_r.jpg)
+
+---
+
+## 7. [《刺客信条：Hexe》或推迟至2027年发布](https://www.3dmgame.com/news/202503/3917417.html)   2025-03-29 13:28
+
+由于《刺客信条：影》的延期，系列其他项目时间表也受到影响。据业内人士透露，《刺客信条：Hexe》可能会推迟到2027年推出。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743200669_970023_jpg_r.jpg)
+
+---
+
+## 8. [零售商泄漏Switch 2或将于6月发布](https://www.3dmgame.com/news/202503/3917416.html)   2025-03-29 12:28
+
+美国一家零售商的内部信息显示，Switch 2计划6月发布，并可能于4月9日开启预购。同时，预购赠品将包括一枚“独家收藏硬币”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743200430_549254_jpg_r.jpg)
+
+---
+
+## 9. [《优米雅的炼金工房》销量突破30万](https://www.3dmgame.com/news/202503/3917415.html)   2025-03-29 12:20
+
+《优米雅的炼金工房》自上周发行以来销量突破30万份，成为系列中销售速度最快的游戏。尽管游戏受到部分技术问题及简化系统的批评，但未来更新可能会解决这些问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250329/1743200272_317133_jpg_r.jpg)
+
+---
