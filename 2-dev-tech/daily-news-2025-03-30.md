@@ -43,3 +43,35 @@ Solana 是由 Anatoly Yakovenko 创立的开源项目，旨在打造高性能、
 ![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/ec047bd680938be839b61803c81ab655?_a=AQAEuj9)
 
 ---
+# 新闻简报(更新时间:2025-03-30 05:45)
+
+## 1. [shared_ptr的线程安全性与再论cmu15445 project0的COW线程安全字典树 - Afeather](https://www.cnblogs.com/Afeather/p/18800238)   2025-03-30 01:49
+
+近期一篇讨论shared_ptr线程安全性的文章引发关注。shared_ptr是C++中用于管理动态内存的智能指针，其线程安全性在并发环境中非常重要。文章还深入探讨了CMU 15445 project0中的COW线程安全字典树的实现，为开发高效的多线程程序提供了理论指导。
+
+---
+
+## 2. [深入掌握FastAPI与OpenAPI规范的高级适配技巧 - Amd794](https://www.cnblogs.com/Amd794/p/18800235)   2025-03-30 01:36
+
+FastAPI是一个快速开发RESTful API的Python框架，而OpenAPI规范是标准化描述API的工具。文章详细讲解了如何在FastAPI中高级适配OpenAPI规范，包括定制化文档生成、复杂参数处理和扩展接口描述，为开发者提供了高效构建可维护的API服务的技巧。
+
+---
+
+## 3. [Solana编译失败探讨（OpenEuler RISC-V版） - ChebyshevTST](https://www.cnblogs.com/ChebyshevTST/p/18800115)   2025-03-29 23:33
+
+Solana区块链平台因其高性能和独特的共识机制备受关注，但在OpenEuler RISC-V环境中编译失败的问题引起讨论。文章分析了可能的技术原因，并提出了潜在的解决方案，对区块链开发者和系统工程师具有重要参考价值。
+
+---
+
+## 4. [netstat 与 ss 比较 - 香吧香](https://www.cnblogs.com/zjdxr-up/p/18800060)   2025-03-29 22:44
+
+文章详细对比了网络工具netstat和ss的功能与使用场景。netstat作为经典工具，支持显示网络连接和路由表，而ss在性能和细粒度控制方面更胜一筹。通过示例代码和输出对比，开发者可以更好地选择适合的工具进行网络诊断。
+
+---
+
+## 5. [Is Golang the new Python Killer for AI?](https://app.daily.dev/posts/is-golang-the-new-python-killer-for-ai--8coz5qihv)   2025-03-23 17:52
+
+Golang凭借高性能、并发处理和可扩展性，正在成为机器学习领域的有力竞争者。尽管Python仍主导着AI开发，Go的生态系统正快速成长，包括Gorgonia等优秀库。文章分析了Go在高吞吐量预测服务、大规模数据预处理等应用中的优势，展示了其在特定场景中的潜力。
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/ec047bd680938be839b61803c81ab655?_a=AQAEuj9)
+
+---
