@@ -105,3 +105,64 @@ Golang凭借高性能、并发处理和可扩展性，正在成为机器学习�
 ![](https://media.daily.dev/image/upload/s--OhbJlm3B--/f_auto/v1743177091/posts/CbGtOLIHz)
 
 ---
+# 新闻简报(更新时间:2025-03-30 15:45)
+
+## 1. [WebKit Inside: 渲染树 - chaoguo1234](https://www.cnblogs.com/chaoguo1234/p/18800600)   2025-03-30 14:36
+
+经过CSS的匹配，就要进入渲染树的构建。渲染树也称为RenderObject树，因为树上的每一个节点，都是RenderObject的子类。文章详细介绍了RenderObject的继承类图及其解析，包括RenderText和RenderButton的具体作用。
+
+---
+
+## 2. [Java24发布，精心总结 - seven97_top](https://www.cnblogs.com/seven97-top/p/18800559)   2025-03-30 14:04
+
+Java 24于2025年3月正式发布，延续了每半年发布一次的节奏，带来了24项重要技术改进。文章从核心领域分类详细解析了每个特性背后的技术原理及实际价值，并探讨了它的应用场景。值得注意的是，Java 24是非长期支持版本，下一长期支持版本预计将是Java 25。
+
+---
+
+## 3. [【Linux】U-Boot 加载并启动 Linux 系统程序 - 清风来叙](https://www.cnblogs.com/minuhy/p/18800464)   2025-03-30 12:36
+
+U-Boot是一款开源通用引导加载程序，专为嵌入式系统设计，支持诸如ARM、x86和RISC-V等主流架构。本文结合作者在嵌入式开发板上的实践，深入探讨了U-Boot如何引导操作系统的技术细节。
+
+---
+
+## 4. [CompletableFuture原理及应用场景详解 - 卷福同学](https://www.cnblogs.com/dnboy/p/18800454)   2025-03-30 12:24
+
+在现代应用开发中，异步调用已成为主流解决方案，尤其是在涉及多个API调用时。本文通过实例分析了CompletableFuture的应用场景及其优势，同时讨论了使用线程池的弊端以及如何有效优化异步调用性能。
+
+---
+
+## 5. [【计算机网络】网络排错思路总结 - Nemo&](https://www.cnblogs.com/blknemo/p/14953147.html)   2025-03-30 11:42
+
+这篇文章总结了程序员必备的网络排错思路，从网卡类型到具体操作步骤均有详细说明。作者通过实际案例分享了如何快速定位并解决网络问题，使得排错过程更加高效和直观。
+
+---
+
+## 6. [BaseMultiTableInnerInterceptor源码解读 - LiuZijian](https://www.cnblogs.com/changelzj/p/18794189)   2025-03-30 10:56
+
+本文对MyBatis-Plus中的BaseMultiTableInnerInterceptor源码进行了全面解析，重点剖析其功能及设计理念。通过代码实例，作者展示了如何在复杂查询场景中应用该类。
+
+---
+
+## 7. [探秘Transformer系列之（20）--- KV Cache - 罗西的思考](https://www.cnblogs.com/rossiXYZ/p/18799503)   2025-03-30 09:58
+
+从零开始解析Transformer的工作原理，本文以KV Cache为主题，深入探讨了其核心机制及相关论文的创新点，旨在帮助读者全面理解Transformer的技术细节。
+
+---
+
+## 8. [『Plotly实战指南』--饼图绘制基础篇 - wang_yb](https://www.cnblogs.com/wang_yb/p/18800300)   2025-03-30 09:26
+
+饼图是一种直观的图表类型，广泛应用于市场分析和调查结果分布等领域。本文介绍了Plotly中饼图的绘制方法及技巧，并提供了多个实战案例，帮助读者快速掌握饼图的使用。
+
+---
+
+## 9. [2025成都.NET开发者Connect圆满结束 - EdisonZhou](https://www.cnblogs.com/edisonchou/p/-/chengdu-dotnet-developers-connect-2025)   2025-03-30 09:00
+
+2025年成都.NET开发者Connect线下活动成功举办，吸引了约30位开发者参与。活动聚焦.NET与AIGC及敏捷开发相关话题，现场讨论氛围热烈，为开发者提供了宝贵的交流平台。
+
+---
+
+## 10. [The Worst Programming Excuse](https://app.daily.dev/posts/the-worst-programming-excuse-gy6hzxeiu)   2025-03-27 20:39
+
+作者批评了部分初学者在编程学习中寻求捷径的行为，强调动手实践和项目开发的重要性。文章指出，真正的编程技能来自于不断尝试和积累，而非单纯依赖内容消费。
+
+![](https://i.ytimg.com/vi/_K5k0V7jaLI/sddefault.jpg)
