@@ -78,3 +78,40 @@ Midjourney与纽约大学研究团队合作开发了一种新型训练方法，�
 ![](https://upload.chinaz.com/2025/0330/6387892759189947887728414.png)
 
 --- 
+# 新闻简报 (更新时间: 2025-03-30 20:45)
+
+## 1. [吉卜力只是开胃小菜，GPT-4o一键抠图「换装换背景」！推理也初步显现](https://www.jiqizhixin.com/articles/2025-03-30-4)  
+2025-03-30 17:25  
+
+OpenAI 的 GPT-4o 模型近日持续引发关注，不仅在图像生成领域展现卓越能力，还首度显现推理功能。网友通过 GPT-4o 生成吉卜力风格的《甄嬛传》和《疯狂的麦克斯》动画版，展示了其在图像编辑与背景替换上的强大功能。通过画笔编辑功能，用户可以轻松修改图像细节，如衣物样式、背景替换等。此外，GPT-4o 的推理能力曝光，展示了思维链过程，似乎预示着 OpenAI 正在合并推理与非推理模型，进一步统一智能系统。
+
+![](https://image.jiqizhixin.com/uploads/editor/5595fd95-0967-42b2-bdb3-a78455d27a91/1743326497777.png)
+
+---
+
+## 2. [模型调优无需标注数据！将Llama 3.3 70B直接提升到GPT-4o水平](https://www.jiqizhixin.com/articles/2025-03-30-3)  
+2025-03-30 17:21  
+
+Databricks 推出了一种名为 TAO 的模型调优方法，突破了传统微调对标注数据的依赖，仅需未标注数据即可实现高质量调优。TAO 在文档问答和 SQL 生成任务中表现优异，甚至超越了基于标注数据的微调效果。通过测试时计算与强化学习结合，TAO 能够将开源模型如 Llama 提升至与 GPT-4o 质量相当的水平。该方法显著降低了企业使用 AI 的成本，且调优后的模型推理效率保持不变。
+
+![](https://image.jiqizhixin.com/uploads/editor/cf638eab-966a-45bd-b7c4-1d8ce2fde6e4/640.png)
+
+---
+
+## 3. [卷积网络又双叒叕行了？OverLoCK:一种仿生的卷积神经网络视觉基础模型](https://www.jiqizhixin.com/articles/2025-03-30-2)  
+2025-03-30 17:18  
+
+香港大学研究团队提出了一种基于人类视觉机制的新型卷积神经网络模型 OverLoCK。该模型通过模仿人类视觉的「纵观全局 - 聚焦细节」机制，在 ImageNet、COCO 和 ADE20K 数据集上展现了卓越性能。OverLoCK 在图像分类任务中达到 84.2% 的 Top-1 准确率，并在目标检测和语义分割任务中显著优于传统卷积网络。新型动态卷积模块 ContMix 的引入，进一步提升了模型的全局建模能力。
+
+![](https://image.jiqizhixin.com/uploads/editor/e251cc6b-0c9c-4e4a-be86-bfd9854bc102/640.png)
+
+---
+
+## 4. [CVPR 2025 | EmoEdit：情感可编辑？深大VCC带你见证魔法！](https://www.jiqizhixin.com/articles/2025-03-30)  
+2025-03-30 17:11  
+
+深圳大学可视计算研究中心开发了 EmoEdit，一个实现图像情感编辑的创新框架。只需输入目标情感类别，EmoEdit 即可调整图像以唤起目标情感。团队还构建了全球首个大规模情感编辑数据集 EmoEditSet，并设计了 Emotion Adapter 模块以增强模型的情感感知能力。实验显示，EmoEdit 在图像结构保持与情感表达之间达到了完美平衡，为情感计算领域打开了新视角。
+
+![](https://image.jiqizhixin.com/uploads/editor/4e737da4-5bf8-4207-897c-9a6560bce8fd/640.png)
+
+---
