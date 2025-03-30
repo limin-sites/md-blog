@@ -66,3 +66,48 @@
 本文深入解析了 Java 的 IO 模型及其在实际开发中的应用，包括同步、异步以及阻塞与非阻塞的细致讲解。作者从 Java 的流式数据输入输出入手，涵盖标准输入输出、文件操作、网络数据传输流等内容，并引入 Netty 的核心原理，帮助开发者理解高性能网络编程框架的工作机制。文章结构清晰，非常适合希望深入掌握 Java IO 的读者。
 
 ---
+# 新闻简报 (更新时间: 2025-03-31 05:45)
+
+## 1. [如何使用 OpenAI Agents SDK 构建 MCP - 哥不是小萝莉](https://www.cnblogs.com/smartloli/p/18801374)   2025-03-31 00:52
+
+OpenAI Agents SDK 现已支持 MCP（模型上下文协议），这是 AI 互操作性的一次重大变革。通过 MCP，开发者可以高效地将 AI 模型连接到外部工具和数据源。本文详细介绍了如何利用 OpenAI Agents SDK 构建 MCP 服务器，包括操作步骤和实例代码，帮助开发者快速上手，增强 AI 应用的功能性。
+
+---
+
+## 2. [提示词工程学习指南（入门级） - 239573049](https://www.cnblogs.com/token-ai/p/18801402)   2025-03-31 00:38
+
+提示词工程（Prompt Engineering）是优化和调整输入给大语言模型的提示语以获得更优结果的技术。本文为入门学习者提供了系统化的提示词工程指南，涵盖关键概念和应用方法，适合希望快速掌握这项技能的AI开发者。
+
+---
+
+## 3. [OpenEuler RISC-V 上跑bitcoin（实战版） - ChebyshevTST](https://www.cnblogs.com/ChebyshevTST/p/18801382)   2025-03-30 23:51
+
+作者在 OpenEuler 24.09 RISC-V 环境中部署并尝试运行比特币应用，分享了实践中的经验和技术细节，包括 bitcoin-cli、bitcoind 等命令的使用方法。这篇文章为开发者提供了在 RISC-V 平台上运行区块链应用的参考。
+
+---
+
+## 4. [一文速通 Python 并行计算：05 Python 多线程编程-线程的定时运行 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18801367)   2025-03-30 23:37
+
+本文介绍了 Python 中实现定时任务的四种方式，包括 threading.Timer 类、sched 模块、threading.Event 事件机制以及 APScheduler 第三方库。通过详细案例分析了每种方法的使用场景及操作步骤。
+
+---
+
+## 5. [从木舟平台来庖丁解牛微服务 - fanly11](https://www.cnblogs.com/fanliang11/p/18801297)   2025-03-30 22:40
+
+本文回顾了 surging 微服务引擎的发展历史以及木舟平台的诞生背景。作者分享了在客户需求驱动下的开发历程，并详细阐述了微服务框架在企业中的实际应用场景和盈利模式。
+
+---
+
+## 6. [Go语言实现1024终端游戏-不到400行代码 - taadis](https://www.cnblogs.com/taadis/p/18801293/go1024)   2025-03-30 22:34
+
+本文展示了如何用 Go 语言编写一个仅 400 行代码的 1024 终端游戏，代码简洁易懂，适合学习和掌握 Go 语言开发的初学者。文中还提供了源码地址及安装运行方法，方便读者快速上手。
+
+--- 
+
+## 7. [You're Not a Programmer Until...](https://app.daily.dev/posts/you-re-not-a-programmer-until--mi6nmcstl)   2025-03-26 23:43
+
+这是一篇幽默的文章，探讨了何时可以算作真正的程序员。作者列举了程序员常见的经历，如编写待办事项应用、频繁搜索解决方案以及处理复杂代码问题，内容充满趣味且引发共鸣。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/335a91d3623a3ec42fe9d3ace23e284d?_a=AQAEuj9)
+
+--- 
