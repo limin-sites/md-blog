@@ -75,3 +75,33 @@ Golang凭借高性能、并发处理和可扩展性，正在成为机器学习�
 ![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/ec047bd680938be839b61803c81ab655?_a=AQAEuj9)
 
 ---
+# 新闻简报 (更新时间: 2025-03-30 10:45)
+
+## 1. [探秘Transformer系列之（20）--- KV Cache - 罗西的思考](https://www.cnblogs.com/rossiXYZ/p/18799503)   2025-03-30 09:58
+从零开始解析Transformer，这篇文章旨在帮助新手理解Transformer的运作原理，并且为有经验的开发者提供一些最新的论文和理念分析。文章详细讲解了KV Cache的关键作用以及其在Transformer中的应用，适合对深度学习和自然语言处理有兴趣的读者。
+
+---
+
+## 2. [『Plotly实战指南』--饼图绘制基础篇 - wang_yb](https://www.cnblogs.com/wang_yb/p/18800300)   2025-03-30 09:26
+饼图是一种广泛应用的数据可视化工具，能够清晰展示数据各部分的比例关系。本篇文章介绍了在Plotly框架下如何绘制基础饼图，包括适用场景如市场占有率分析、预算分配等，特别适合初学者学习分类数据的可视化方法。
+
+---
+
+## 3. [2025成都.NET开发者Connect圆满结束 - EdisonZhou](https://www.cnblogs.com/edisonchou/p/-/chengdu-dotnet-developers-connect-2025)   2025-03-30 09:00
+2025年成都.NET开发者Connect线下活动成功举办，吸引了约30名开发者参与。活动讨论了.NET与AIGC的结合及敏捷开发的相关话题，为开发者提供了一个交流技术和经验的平台。
+
+---
+
+## 4. [The Worst Programming Excuse](https://app.daily.dev/posts/the-worst-programming-excuse-gy6hzxeiu)   2025-03-27 20:39
+作者表达了对部分初学编程者倾向于寻找捷径的失望态度，强调了实践和试验的重要性。文章指出，成功的关键在于动手完成项目并通过实际操作进行学习，而不是仅仅依赖于消费大量学习内容。
+
+![](https://i.ytimg.com/vi/_K5k0V7jaLI/sddefault.jpg)
+
+---
+
+## 5. [Can you take a look to my agency site?](https://app.daily.dev/posts/can-you-take-a-look-to-my-agency-site--cbgtolihz)   2025-03-28 23:51
+一位开发者向社区展示了其使用GSAP和NextJS开发的代理机构网站，并邀请大家访问并提供反馈。这篇内容适合对前端开发和网页设计感兴趣的读者。
+
+![](https://media.daily.dev/image/upload/s--OhbJlm3B--/f_auto/v1743177091/posts/CbGtOLIHz)
+
+---
