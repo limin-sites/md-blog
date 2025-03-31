@@ -113,3 +113,23 @@ Symbl工具提供了丰富的HTML符号、实体和图标库，包括箭头、�
 ![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8c7911336e1aef4fa6afa8d6e2ad2f0d?_a=AQAEuj9)
 
 ---
+# 新闻简报(更新时间:2025-04-01 05:45)
+
+## 1. [HarmonyOS基础- 快速弄懂HarmonyOS ArkTs基础组件、布局容器（前端视角篇） - 黑臂麒麟](https://www.cnblogs.com/Garfield-cat/p/18803269)   2025-03-31 23:18
+
+【摘要】本文由黑臂麒麟撰写，带领读者快速理解HarmonyOS ArkTs的基础组件及布局容器，从前端开发者的视角出发，详细介绍了常用基础组件的功能和意义。文章还融入了作者6年的前端经验，为开发者提供了宝贵的实用建议。点击阅读全文可了解更详细内容。
+
+---
+
+## 2. [Tesseract引擎RVV代码学习笔记 - ChebyshevTST](https://www.cnblogs.com/ChebyshevTST/p/18803248)   2025-03-31 23:07
+
+【摘要】Tesseract是一款开源的OCR引擎，能够将图像中的文本转换为机器可读的格式。本文作者ChebyshevTST基于组内同事贡献的RVV（RISC-V Vector）代码，对其进行了深入的学习和分析。文章提供了代码的PR链接，并从技术角度探讨了RVV的实现细节。
+
+---
+
+## 3. [链接到消息原文](https://app.daily.dev/posts/2csujrcaz)   2025-03-27 11:12
+
+该文章的详情暂无具体描述，但可通过点击链接直接访问原文以获取更多信息。
+
+![](https://media.daily.dev/image/upload/s--58gMhC4P--/f_auto/v1722860399/public/Placeholder%2012)  
+
