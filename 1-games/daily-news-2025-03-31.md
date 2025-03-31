@@ -601,3 +601,247 @@ Epic Games春季特惠活动已启动，持续至4月9日。《双人成行》�
 ![](https://img.3dmgame.com/uploads/images/news/20250327/1743040373_481096_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-03-31 15:45)
+
+## 1. [《魔物猎人荒野》首月销量突破1000万份，持续创系列新纪录](https://www.4gamers.com.tw/news/detail/70996/capcom-announces-monster-hunter-wilds-10-million-units-sold) 2025-03-31 15:31
+
+卡普空宣布《魔物猎人荒野》全球销量突破1000万份，成为系列史上销售最快的一款作品。这款游戏以动态变化的开放世界为舞台，带来沉浸式狩猎体验，同时支持跨平台玩法。官方计划于4月4日推出首波免费更新，新增龙与据点内容。
+
+![](https://thumbor.4gamers.com.tw/_EqRS6Gfp9MF-Xon6HVIJneJscc=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F77151d5167481cfdc34e1e4908c490149f97c88d.jpg)
+
+---
+
+## 2. [前暴雪星际团队端游力作《Battle Aces》官宣4.17亚洲测试](https://www.3dmgame.com/news/202503/3917527.html) 2025-03-31 15:29
+
+Uncapped Games宣布快节奏RTS游戏《Battle Aces》将于4月17日开启亚洲测试，主打深度策略与快节奏战斗。游戏支持多种兵种组合和实时观战模式，为RTS品类注入新活力。测试玩家招募现已开启，感兴趣者可前往官网报名。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743405720_750942.jpg)
+
+---
+
+## 3. [全球首款！新型手机OLED面板问世：可发声、会变形](https://www.3dmgame.com/news/202503/3917526.html) 2025-03-31 15:27
+
+韩国浦项科技大学成功开发首款自发声智能手机OLED面板，其超薄柔软的特性可通过电信号自由改变形状。这项突破为下一代智能显示器的发展奠定了基础，研究成果已发表在权威期刊《npj柔性电子学》上。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743406038_354054.png)
+
+---
+
+## 4. [《崩坏：星穹铁道》动画短片：「那安息的长夜」](https://www.3dmgame.com/news/202503/3917525.html) 2025-03-31 15:02
+
+米哈游官方公布《崩坏：星穹铁道》新动画短片，展现充满寒溟与葬仪氛围的雪土世界，搭配诗意般的旁白。短片中的视觉与故事为玩家带来深刻的沉浸感。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743404505_712219.jpg)
+
+---
+
+## 5. [动画重现《超超超超超喜欢你的100个女朋友》念经式告白](https://www.4gamers.com.tw/news/detail/70994/the-100-girlfriends-season-2nd-finished) 2025-03-31 14:53
+
+《超超超超超喜欢你的100个女朋友》第二季动画结尾的“念经式告白”名场面引发热议。动画版告白台词超过5000字，官方宣布将在蓝光中收录正常速度版，向声优加藤渉表达敬意。
+
+![](https://img.4gamers.com.tw/puku-clone-version/fc97cadbb007311b5fb8b793be743c2c69ce1407.png)
+
+---
+
+## 6. [《inZOI》和《第一狂战士：卡赞》建议RTX 40显卡回溯驱动](https://www.4gamers.com.tw/news/detail/70992/inzoi-and-khazan-rolling-back-rtx-40-drivers-stability-issues-572-version) 2025-03-31 14:49
+
+两款热门游戏均表示最新的RTX 40显卡驱动存在稳定性问题，建议玩家回溯至旧版驱动（566.36）。这项调整旨在避免游戏过程中出现掉帧或卡顿现象。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8844d15a274fb1d0fe0cb470b402f29a3f8a501a.jpg)
+
+---
+
+## 7. [超越GPT：DeepSeek成为全球增长最快的AI工具](https://www.3dmgame.com/news/202503/3917524.html) 2025-03-31 14:33
+
+国产AI工具DeepSeek的每月新增访问量已超越ChatGPT，市场份额排名全球第三。凭借突破性技术，DeepSeek迅速走红，并在美区应用商店下载榜上超越ChatGPT。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743402783_609973_png_r.webp)
+
+---
+
+## 8. [刘慈欣谈DeepSeek：完全有可能替代科幻小说作家](https://www.3dmgame.com/news/202503/3917523.html) 2025-03-31 14:32
+
+刘慈欣在中国科幻大会上表示，未来10到20年，AI技术如DeepSeek完全可能替代科幻作家。他呼吁文学领域坦然面对科技冲击，并适应未来变化。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743402682_158161.png)
+
+---
+
+## 9. [《灾难-地震》Steam上线 极限生存恐怖逃生](https://www.3dmgame.com/news/202503/3917522.html) 2025-03-31 14:30
+
+以地震为主题的极限生存恐怖逃生游戏《灾难-地震》登陆Steam，玩家需在地震和建筑倒塌前找到必需品并逃脱。游戏支持中文，展现紧张刺激的求生体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743402590_694040.jpg)
+
+---
+
+## 10. [科幻动作游戏《奈米使徒计划》将于4月24日登陆主机平台](https://www.3dmgame.com/news/202503/3917521.html) 2025-03-31 14:29
+
+出版商PQube宣布《奈米使徒计划》将于4月24日登录主机平台。这款科幻风格的Boss Rush动作游戏去年已在Steam推出，主打刺激头目战与独特战斗机制。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743403513_621332.png)
+
+---
+# 新闻简报(更新时间:2025-03-31 15:45)
+
+## 1. [《女神异闻录4》重制或公布在即 传首发登陆XGP](https://www.3dmgame.com/news/202503/3917520.html)   2025-03-31 14:15
+
+此前有消息称，《女神异闻录4 Reload》或将在发布首日加入Xbox Game Pass。泄露者eXtas1s透露，游戏将于今年晚些时候发布。此外，开发商Atlus已注册相关网页，这种操作曾在《女神异闻录3 Reload》公布前出现过，进一步佐证了重制版即将到来的可能性。目前，Atlus尚未对此传闻作出回应。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743401698_864222.png)
+
+---
+
+## 2. [马斯克：火星将是美国的一部分](https://www.3dmgame.com/news/202503/3917519.html)   2025-03-31 14:06
+
+特斯拉CEO埃隆·马斯克近日在威斯康星州的一场集会上表示，他“死也要死在美国”，并开玩笑称如果去火星，那也将是美国的一部分。马斯克旗下Space X计划于2026年底用火箭将特斯拉机器人送往火星，载人任务可能最早在2029或2031年实施。其火箭“星舰”设计目标是将人和货物送至地球轨道、月球乃至火星。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743401205_602707.webp)
+
+---
+
+## 3. [钓鱼冒险RPG游戏《Nice Day for Fishing》将在今年上线PS5和Switch](https://www.3dmgame.com/news/202503/3917516.html)   2025-03-31 13:47
+
+由Team17和FusionPlay联合推出的钓鱼冒险RPG《Nice Day for Fishing》将于今年登陆PS5和Switch平台，同时也将在Steam上线PC版。玩家将化身渔夫贝林，通过钓鱼战斗、升级能力以及重建村庄展开冒险。游戏结合奇幻元素与丰富的钓鱼机制，增加了独特的冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743400866_707891.png)
+
+---
+
+## 4. [《忍龙4》展示最新武器和技能](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 14:32
+
+《忍龙4》公布了最新武器与技能，如鴉の型、饭纲落和飞燕。展示中包括多张高清截图，玩家可一睹新武器和招式的设计细节。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/14-32-26-phpWlXjlj.jpg)
+
+---
+
+## 5. [杰克·布莱克透露游戏爱好](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 13:33
+
+演员杰克·布莱克在《我的世界》首映礼上表示，他最近一直在玩《辐射2、3、新维加斯》，还开始尝试《如龙》。这番话引起了玩家们的热议。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/13-21-42-phpe1mr1d.png)
+
+---
+
+## 6. [Steam多人生存模拟《Autonomica》更名并公开新玩法](https://www.4gamers.com.tw/news/detail/70990/autonomica-steam-store-open)   2025-03-31 13:23
+
+冒险模拟游戏《Autonomica》由Crytivo团队开发，结合农场经营、产线管理和动作射击元素。游戏支持多人合作，玩家可设计自动生产线并对抗夜间出现的幽怪，守护自己的农场。游戏预计今年8月进入封闭测试。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1cc08a9d45354fee028cb2f793fec6b9cea1fb71.jpg)
+
+---
+
+## 7. [《小魔女诺贝塔》作者新作《火焰魔女弗兰》公开](https://www.4gamers.com.tw/news/detail/70991/flame-witch-fran-launched)   2025-03-31 13:21
+
+《火焰魔女弗兰》由小魔女诺贝塔原作者监制，并设定在同一世界观。玩家将扮演教会魔女弗兰，利用四种火焰魔法展开冒险，同时面临多种选择影响剧情结局。游戏背景设定在北境大地，充满传说与危险。
+
+![](https://img.4gamers.com.tw/puku-clone-version/71ca3232949504452856d567d73c085069516233.jpg)
+
+---
+
+## 8. [《羊蹄山战鬼》确认新增武器系统与游戏机制](https://www.4gamers.com.tw/news/detail/70988/new-ghost-of-yotei-information-on-the-playstation-website)   2025-03-31 13:04
+
+《羊蹄山战鬼》将新增大太刀、锁镰、双刀等武器，进一步强化游戏机制。故事设定在日本蝦夷地，玩家扮演女主角篤，踏上复仇之路。游戏预计2025年内登陆PS5。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a06b6df1e2da50fe6768cccb8e453c154be3898a.avif)
+
+---
+
+## 9. [《最终幻想9》25周年纪念官网上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 12:33
+
+《最终幻想9》迎来25周年纪念，官方上线了专属纪念页面，吸引了广大粉丝的关注。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/11-59-16-phpK87eR2.jpg)
+
+---
+
+## 10. [《GTA6》开发12年仅发布一支预告片](https://www.4gamers.com.tw/news/detail/70983/take-two-boss-on-gta-6-taking-12-years-we-have-the-balance-sheet-for-it)   2025-03-31 11:22
+
+《GTA6》开发周期长达12年，引发玩家期待。Take-Two CEO表示，雄厚的财务支持使得公司能够承担如此长时间的开发工作，并专注于创造高质量的游戏体验。游戏预计将在今年秋季发布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8e845d6d73f79a7cfb54497568e0ff6348045be1.jpg)
+
+---
+# 新闻简报(更新时间:2025-03-31 15:45)
+
+## 1. [《战地6》或引入“枪匠”武器系统](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 10:45
+
+新的数据挖掘信息显示，《战地6》可能会借鉴《使命召唤》的“枪匠”系统，允许玩家自定义突击步枪的配件，如弹药类型、枪管、握把等。据泄露的资料，该系统或将在游戏中提供更广泛的武器定制选项。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/10-45-32-phpgYM4Nk.webp)
+
+---
+
+## 2. [《PUBG MOBILE》宣布与《葬送的芙莉蓮》联动](https://www.4gamers.com.tw/news/detail/70982/pubg-mobile-crossover-frieren) 2025-03-31 10:40
+
+《PUBG MOBILE》将于愚人节开始与《葬送的芙莉蓮》展开联动，预计推出角色服装造型和其他特别内容。消息公布后，网友纷纷创作搞笑图呼应联动主题。此外，游戏愚人节活动还将增加枕头近战道具和手指瞄准镜。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0ed9404fe90e9ebf2f72611ae490e4c5ac02613f.jpg)
+
+---
+
+## 3. [《英雄联盟》真人电视剧或将于越南拍摄](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 10:38
+
+越南文化部长与拳头游戏公司高层会面，计划拍摄《英雄联盟》真人电视剧。拍摄地点可能选在下龙湾，该地区的风景可能将设定为比尔吉沃特或暗影岛。制作团队将邀请曾制作《最后生还者》的Rose Lam担任制片人。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/10-38-01-phpUXjwuE.avif)
+
+---
+
+## 4. [《光环DS》取消内幕曝光](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 10:34
+
+微软曾计划为任天堂NDS推出《光环DS》，但任天堂因广告预算问题叫停了该项目。这款游戏由N-Space开发，制作了单人和多人模式演示版本。虽然微软全力支持，但最终未能实现。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/10-34-22-php2CjBwK.png)
+
+---
+
+## 5. [托尼·霍克谈《托尼霍克职业滑板 3+4》OST](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 10:33
+
+托尼·霍克表示，为《托尼霍克职业滑板 3+4》挑选新老结合的音乐曲目是他的个人决定，旨在让玩家体验发现新音乐的乐趣。尽管原版游戏的部分经典歌曲缺席，他希望玩家能够享受新的音频体验。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/10-29-53-phpS2BPRw.webp)
+
+---
+
+## 6. [Game Pass成为原创AA级游戏的稳定供应平台](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 10:33
+
+Game Pass订阅服务持续为玩家提供全新原创AA级游戏，包括单人冒险游戏和独立作品。自2025年以来，每月至少有一款发售首日加入的游戏，这种模式为濒临灭绝的游戏形式带来了稳定的供应。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/10-21-38-php4KEuA0.webp)
+
+---
+
+## 7. [《宣誓》鼓励玩家探索每个角落](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 09:59
+
+《宣誓》游戏设计旨在让玩家探索世界的每个细节。开发团队在隐秘角落放置奖励，以激发玩家好奇心。这种方法鼓励玩家在发现小额战利品或秘密时感到探索的价值。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/09-59-07-phpqFZw0x.webp) 
+
+---
+# 新闻简报 (更新时间: 2025-03-31 15:45)
+
+## 1. [（传闻）Tom Warren：《星空》PS5移植版原计划随首个扩展包一同发布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 09:42
+
+根据消息，《星空》的PS5移植版原计划与首个扩展包一同发布。据报道，他们已经为这一移植版工作了一段时间，预计将在今年晚些时候与扩展包同步推出。然而，目前尚不清楚计划是否会发生变化。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/09-42-17-php7zB03p.png)
+
+---
+
+## 2. [毁灭战士 黑暗时代 新的玩法展示将于31号公布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 08:03
+
+《毁灭战士 黑暗时代》的最新玩法展示将于3月31日正式公布。这次展示预计将揭示更多关于游戏的新机制和内容，为玩家带来更多期待。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/07-26-41-phpevM5g2.jpeg)
+
+---
+
+## 3. [毁灭战士 黑暗时代 新的玩法展示将于31号公布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-03-31 07:33
+
+《毁灭战士 黑暗时代》的玩法展示即将亮相，为玩家提供更多细节。此次展示将为游戏爱好者们揭示新的内容和游戏机制。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/07-26-41-phpevM5g2.jpeg)
+
+---
