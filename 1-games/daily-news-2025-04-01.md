@@ -212,3 +212,50 @@ Valve曾计划以普通游戏测试团队协作，行销主管坚持要推出年
 ---
 
 ## 6. [深圳新能源汽车实现反向放电 富余电可送回
+# 新闻简报 (更新时间: 2025-04-01 05:45)
+
+## 1. [《BanG Dream!公式》推出「客服小祥」活动，粉丝用电话演奏〈春日影〉](https://www.4gamers.com.tw/news/detail/71007/bangdream-mygo-meme-april-fool-2025) 2025-04-01 00:36
+
+《BanG Dream!》官方愚人节推出了趣味活动，粉丝可通过虚拟电话客服网页听到角色小祥的服务语音，并操作按键触发不同场景和结局。其中，有粉丝通过按键音阶演奏了《春日影》，展现极高创意。活动页面还重现了《It's MyGO!!!!!》中的经典情节。
+
+![](https://img.4gamers.com.tw/puku-clone-version/86568ce96d6b8ce879dc23eb434e58f2547f40ca.jpg)
+
+---
+
+## 2. [《幻兽帕鲁》首款衍生恋爱模拟游戏亮相Steam](https://www.4gamers.com.tw/news/detail/71006/pocketpair-shocks-palworld-fans-with-official-dating-sim) 2025-03-31 23:02
+
+日本开发商Pocketpair公开了《幻兽帕鲁》首款衍生作品《幻兽♡帕鲁！ ～已经不想只做朋友了～》。游戏中，玩家将以转学生身份加入帕尔帕戈斯私立学院，与游戏角色帕鲁展开恋爱冒险。尽管愚人节临近，官方确认游戏属实，已在Steam开放愿望单。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c1bec3ed76ea30bb850a09e0cac2341a0da9c8c9.jpg)
+
+---
+
+## 3. [《沉没之城 Remastered》即将登陆主机和PC平台](http://nnas.sqngame.com:11201/xboxfan/news) 2025-03-31 22:27
+
+《沉没之城 Remastered》宣布使用虚幻5引擎重建，新增拍照模式并支持DLSS等画面增强技术。现有玩家可免费升级，具体发售日期尚未公布。
+
+![](https://static.willmao.com/feed_upload/2025-03-31/22-27-15-php3dSDig.jpg)
+
+---
+
+## 4. [《毁灭战士：黑暗时代》11分钟实机视频公开](https://www.3dmgame.com/news/202503/3917547.html) 2025-03-31 22:10
+
+《毁灭战士：黑暗时代》公开长达11分钟的实机演示，展示了包括连枷、巨型机甲与龙骑战等多种新玩法。该作将于5月15日发售，并首发登陆Game Pass。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743431049_148302_jpg_r.jpg)
+
+---
+
+## 5. [《最终幻想9》全球销量达到890万套](https://www.3dmgame.com/news/202503/3917546.html) 2025-03-31 21:46
+
+《最终幻想9》全球销量突破890万套，比2019年多了300万套。据统计，PlayStation版全球出货量已超过550万套。该作以“回归原点”为主题，讲述了围绕水晶展开的史诗冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743428525_508336_jpg_r.jpg)
+
+---
+
+## 6. [《黑神话：悟空》开发获索尼“海量支持”](https://www.3dmgame.com/news/202503/3917545.html) 2025-03-31 21:28
+
+索尼透露在开发过程中为《黑神话：悟空》提供了大量支持，包括技术优化和资源协助。此前有传言称该游戏因独占协议未登陆Xbox，但官方表示是由于技术优化问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250331/1743427575_537718_jpg_r.jpg)
