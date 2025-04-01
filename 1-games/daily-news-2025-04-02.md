@@ -97,3 +97,52 @@ Capcom官博宣布，《怪物猎人：荒野》将在5月底更新，正式推�
 ![](https://img.3dmgame.com/uploads/images/news/20250401/1743507926_119010_jpg_r.jpg)  
 
 ---
+# 新闻简报 (更新时间: 2025-04-02 05:45)
+
+## 1. [Windows 11 全屏体验功能或将上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-02 00:03
+
+在最新的 Windows 11 预览版中，发现了一项名为“全屏体验”的新功能。这一功能可以在设备启动时作为默认主界面，用户或可选择以游戏为主的全屏界面。相关线索最早由 Xeno Panther 在 BlueSky 平台上发现，详细内容目前仍在开发中。
+
+![](https://static.willmao.com/feed_upload/2025-04-01/23-50-48-phpxpL9gx.webp)
+
+---
+
+## 2. [《Den of Wolves》实机画面首曝：探索赛博朋克中的合作抢劫玩法](https://www.4gamers.com.tw/news/detail/71035/den-of-wolves-pre-apha-stage-interview-about-the-dive)   2025-04-02 00:10
+
+瑞典游戏公司 10 Chambers Collective 公布了新作《Den of Wolves》的实机画面。这款多人合作射击游戏以赛博朋克未来都市为背景，玩家将在无政府监管的环境下对抗巨型企业。游戏强调策略与合作，玩法涵盖劫案计划、潜行与动态警戒状态切换等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7bb47c53485226f40bba92e86d28ff1f63a81e14.png)
+
+---
+
+## 3. [《Den of Wolves》更多细节曝光：赛博朋克版《Payday》](https://www.4gamers.com.tw/news/detail/71036/den-of-wolves-gameplay-shows-10-chambers-heist-fps-ambition)   2025-04-02 00:00
+
+《Den of Wolves》实机画面解禁，展示了其抢劫与“脑内骇入”玩法。游戏分为潜入、战斗与解谜的多阶段任务，同时支持玩家在任务中自由切换策略。开发团队表示，这款游戏更强调多人合作，且尚处于早期开发阶段。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8d42b99ee5178e7f2957f0af1443011425852b90.png)
+
+---
+
+## 4. [《宝可梦 feat. 初音未来》愚人节活动：重音Teto加入计划](https://www.4gamers.com.tw/news/detail/71037/pokemiku-hatsunemiku-kasane-teto-joins-collab-at-april-fools-2025)   2025-04-01 21:53
+
+《宝可梦》和初音未来的联动计划迎来新角色——重音Teto。作为愚人节的特别安排，这位最初来源于玩笑的角色正式加入“宝可梦 feat. 初音未来”计划，并推出新曲《Facade Question》。重音Teto成为初音未来的对手角色，搭档宝可梦包括树才怪和谜拟Q。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8cdd593853cacdcc0f000aade96a0015ddd54f9e.jpg)
+
+---
+
+## 5. [任天堂宣布Switch 2两场直播活动](https://www.3dmgame.com/news/202504/3917634.html)   2025-04-01 21:40
+
+任天堂将在4月3日和4月4日分别举办两场关于Switch 2的树屋直播活动，届时将展示Switch 2游戏的实机演示。此外，任天堂计划于4月2日举行长达60分钟的Switch 2专场直面会，具体内容备受期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250401/1743515777_762294_jpg_r.jpg)
+
+---
+
+## 6. [新《生化危机》电影专注角色旅程](https://www.3dmgame.com/news/202504/3917633.html)   2025-04-01 21:11
+
+由《野蛮人》导演扎克·克雷格执导的新《生化危机》电影将于2026年上映。影片聚焦一位主角的生存旅程，逐步揭示恐怖氛围，并力求还原原作的生存恐怖元素。目前剧情细节尚未公开，但导演表示会注重角色发展与紧张节奏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250401/1743512526_467374_jpg_r.jpg)
+
+---
