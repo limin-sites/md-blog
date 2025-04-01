@@ -133,3 +133,48 @@ Symbl工具提供了丰富的HTML符号、实体和图标库，包括箭头、�
 
 ![](https://media.daily.dev/image/upload/s--58gMhC4P--/f_auto/v1722860399/public/Placeholder%2012)  
 
+
+# 新闻简报(更新时间:2025-04-01 10:45)
+
+## 1. [大模型 Token 究竟是啥：图解大模型Token - BNTang](https://www.cnblogs.com/BNTang/p/18803486)   2025-04-01 09:24
+
+许多人听说过 Token 的概念，但未必真正理解其作用和意义。在文章中，作者通过详细图解，介绍了 Token 在超大语言模型（如 DeepSeek 和 ChatGPT）中的核心地位及其运作方式。Token 的解析与处理是这些模型运行的关键，帮助它们理解和生成语言内容。这是一篇深入浅出的科普文章，适合对人工智能感兴趣的读者。
+
+---
+
+## 2. [Web前端入门第 23 问：CSS 选择器的优先级 - 前端路引](https://www.cnblogs.com/linx/p/18803468)   2025-04-01 09:16
+
+CSS 选择器的优先级是前端开发中的关键知识点。文章系统地分类了各种选择器，并对其优先级进行了详细解析，包括通配符选择器、标签选择器、类选择器、ID选择器等。同时，作者还介绍了权重计算方式，帮助初学者快速掌握选择器的使用技巧和优先级规则。
+
+---
+
+## 3. [C# 窗口过程消息处理 WndProc - 蓝点lilac](https://www.cnblogs.com/BluePointLilac/p/18802906)   2025-04-01 09:04
+
+文章介绍了在 C# WinForm 中如何通过重写 WndProc 方法来处理窗口或控件接收到的指定消息。作者提供了示例代码，展示如何禁止通过关闭按钮或其他发送 WM_CLOSE 消息的途径关闭窗口。这是一篇实用性强的技术教程，适合开发者学习和参考。
+
+---
+
+## 4. [想让你多爱自己一些的开源计时器 - 削微寒](https://www.cnblogs.com/xueweihan/p/18803055)   2025-04-01 08:26
+
+作者分享了自己开发的一款开源计时器工具，旨在帮助用户更好地管理时间并关注自身健康。这款工具解决了常见计时工具忽略休息提醒的问题，通过创新设计提醒用户适时休息，从而避免过度劳累。文章细致介绍了工具的功能和开发理念，适合关注时间管理的读者。
+
+---
+
+## 5. [【Guava】BiMap&Multimap&Multiset - seven97_top](https://www.cnblogs.com/seven97-top/p/18803292)   2025-04-01 08:15
+
+本文深入探讨了 Guava 库中的 BiMap、Multimap 和 Multiset 的使用方法。作者以 BiMap 为例，讲解了双向映射关系的实现方式，展示了如何简化 key-value 映射操作。文章内容丰富，适合有一定 Java 基础的开发者学习。
+
+---
+
+## 6. [8621亿！华为公布2024业绩！孟晚舟：AI将带来巨大机会](https://www.51cto.com/article/812130.html)   2025-03-31 18:50
+
+华为公布了2024年业绩，收入达8621亿元。孟晚舟表示，AI技术将在终端设备领域带来巨大机会，随着模型推理能力的快速进步，AI终端的渗透率将显著提升。华为将继续坚持长期主义，推动技术创新与行业发展。
+
+---
+
+## 7. [🚀 FREE JavaScript Cheat Sheet (PDF)! 🚀](https://app.daily.dev/posts/free-javascript-cheat-sheet-pdf--vmoguf7d1)   2025-03-31 00:02
+
+作者免费提供了一份全面的 JavaScript 速查表，涵盖所有核心概念，方便初学者和专业开发者快速参考。PDF下载链接已附文中，适合学习和实践 JavaScript 的用户使用。
+![](https://media.daily.dev/image/upload/s--skim717K--/f_auto/v1743350534/posts/VmOguF7d1)
+
+--- 
