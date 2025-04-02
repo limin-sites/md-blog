@@ -450,3 +450,376 @@ Intel宣布其搭载18A制程的Panther Lake平台Core Ultra 300系列笔电处�
 ![](https://static.willmao.com/feed_upload/2025-04-01/23-50-48-phpxpL9gx.webp)
 
 ---
+# 新闻简报(更新时间:2025-04-02 15:45)
+
+## 1. [海洋污染清理小品《Spilled！》登Steam，每售出一份游戏捐款给鲸豚保护组织](https://www.4gamers.com.tw/news/detail/71046/steam-ocean-cleaning-game-spilled-got-90percent-good-review)   2025-04-02 15:00
+
+独立开发者Lente制作的海洋垃圾清理游戏《Spilled！》在Steam平台获得好评。玩家将在游戏中操作小船清理海上漂浮的油污和塑料垃圾。游戏时长约1小时，售价约106新台币，且每售出一份游戏将捐款0.1美元至鲸豚保护组织。游戏支持中文界面，有兴趣的玩家可试玩Demo版。
+
+![](https://img.4gamers.com.tw/puku-clone-version/08c0c7685eaf80b079236b82ca25a6004a8697ea.jpg)
+
+---
+
+## 2. [中国电视火遍全球！2024年出口超1.1亿台 420万涌入日本](https://www.3dmgame.com/news/202504/3917700.html)   2025-04-02 14:50
+
+2024年中国大陆电视机出口量达11054万台，同比增长11.4%。北美地区为最大市场，占总出口量的26.7%，其次是中东非和亚洲地区。在亚洲市场中，日本占比22%。液晶电视占出口量99.3%，展现中国电视制造业的强劲增长。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743576617_629013.png)
+
+---
+
+## 3. [《七龙珠》40周年「七龙珠音乐冒险盛会」公开活动七大亮点，初代OP原唱同步登台](https://www.4gamers.com.tw/news/detail/71048/dragon-ball-40th-anniversary-music-adventure-festival)   2025-04-02 14:50
+
+纪念《七龙珠》40周年的音乐冒险盛会将于5月10日登陆台北流行音乐中心，活动亮点包括初代主题曲原唱高桥洋树现场演唱，VIP限量套组，以及震撼舞台灯光特效。粉丝将通过沉浸式音乐体验重温经典回忆。
+
+![](https://img.4gamers.com.tw/puku-clone-version/00ef7a8885a3ba760bdd55e4da988510a572971a.jpg)
+
+---
+
+## 4. [《刺客信条：影》游戏美景截图 让人享受沉醉其中](https://www.3dmgame.com/news/202504/3917699.html)   2025-04-02 14:47
+
+《刺客信条：影》引入四季流转机制，画面水平极高，吸引玩家分享美景截图。游戏的视觉体验让人沉醉其中，成为玩家展示创意和探索的理想平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743576355_740369_jpg_r.jpg)
+
+---
+
+## 5. [加州大学宣布GPT-4.5通过了图灵测试 被判定七成是人类](https://www.3dmgame.com/news/202504/3917698.html)   2025-04-02 14:41
+
+加州大学研究组宣布GPT-4.5通过图灵测试，被判定为73%概率是人类。相比前代GPT-4仅21%的判定率，GPT-4.5展现了更加人性化的表现，未来屏幕对面的AI或难以分辨真假。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743576007_217573.png)
+
+---
+
+## 6. [新CPU将首发 Intel宣布18A工艺制程进入风险试产阶段](https://www.3dmgame.com/news/202504/3917697.html)   2025-04-02 14:39
+
+Intel宣布其18A工艺技术进入风险生产阶段，预计2025年下半年投入大批量生产，并应用在下一代移动处理器Panther Lake中。该技术采用PowerVia背面供电和RibbonFET环绕式栅极晶体管技术，有望实现台积电反超。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743575925_230944.jpg)
+
+---
+
+## 7. [ReLU Games公布新作 《MIMESIS》、《Scavenger T.O.M》预告片](https://www.3dmgame.com/news/202504/3917696.html)   2025-04-02 14:37
+
+KRAFTON创意工作室ReLU Games公布两款新作：《MIMESIS》主打心理战合作玩法，《Scavenger T.O.M》讲述核爆后的生存探索。这两款游戏融入AI技术，预计第三季度上线Steam抢先体验版本。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743575862_716814.png)
+
+---
+
+## 8. [《剑星》愚人节企划引发「蕾雯DLC」呼声，伊芙体模申才恩再秀「海之女仆」装扮](https://www.4gamers.com.tw/news/detail/71047/stellar-blade-eve-body-model-zennyrt-ocean-maid-suit-cosplay)   2025-04-02 14:37
+
+《剑星》官方愚人节活动以角色蕾雯为主角引发玩家期待蕾雯DLC的呼声。同时，伊芙体模申才恩发布新Cosplay装扮「海之女仆」，展现迷人曲线。
+
+![](https://img.4gamers.com.tw/puku-clone-version/75868d74d8b8fc3f3c18a8b0af679d877870d6bc.jpg)
+
+---
+
+## 9. [NIJISANJI EN主题联名咖啡厅梦幻登场！森林秘境风格打造满满氛围感](https://www.4gamers.com.tw/news/detail/71045/fanfans-x-nijisanji-en-collab-cafe)   2025-04-02 14:31
+
+FANFANS与彩虹社联名打造NIJISANJI EN主题咖啡厅，六位人气Liver以全新形象亮相。咖啡厅以森林秘境风格设计，提供定制餐点和主题周边吸引粉丝体验。
+
+![](https://thumbor.4gamers.com.tw/_J3ul1mmzPEsgbOzE0THXEgzYrw=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fe88f19ed2da796ecacd2924942a980705e0038ad.jpg)
+
+---
+
+## 10. [新版Outlook被系统管理员狂喷：就是个“热门垃圾”！](https://www.3dmgame.com/news/202504/3917695.html)   2025-04-02 14:23
+
+新版Outlook被系统管理员批评为“热门垃圾”，存在功能不完善、稳定性差等问题。尽管微软未明确回应，但用户期待更高效的原生版本替代方案。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743574918_636031.png) 
+
+---
+# 新闻简报(更新时间:2025-04-02 15:45)
+
+## 1. [《來自深淵》作者土筆章人被出版社玩偶化慶生，BL漫畫鬼才Harada操刀設計](https://www.4gamers.com.tw/news/detail/71044/made-in-abyss-akito-dobi-birthday-doll-bl-manga-harada)   2025-04-02 14:18
+
+日本竹書房宣布将《來自深淵》作者土筆章人制成毛绒玩偶，以庆祝其生日。该设计由BL漫画鬼才Harada操刀，消息最初在愚人节公布，引发粉丝热议。土筆老师幽默回应“救命啊娜娜奇！”，玩偶计划将在东京秋叶原举办快闪店活动。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d33ca7336ed431e133e9f334828d42399269f7cb.jpg)
+
+---
+
+## 2. [《秘影曼德拉》Mandragora试玩DEMO震撼上线！三种职业全新开放！](https://www.3dmgame.com/news/202504/3917693.html)   2025-04-02 14:15
+
+《秘影曼德拉》新试玩版在Steam上线，支持中文，提供扩展内容与三种职业选择：先锋、咒术师和夜影。玩家可体验一小时游戏内容，探索熵的腐蚀力量及其恐怖统治，迎接更大的冒险挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743574523_233432.png)
+
+---
+
+## 3. [2028年前后我国或将在月球盖房子 已备好3D月壤打砖机](https://www.3dmgame.com/news/202504/3917694.html)   2025-04-02 14:15
+
+嫦娥八号计划在月球着陆，并尝试利用月壤制砖盖房子。中国工程院院士吴伟仁透露已研制月壤打砖机，通过太阳能高温融化月壤并进行3D打印。这项技术有望支持国际月球科研站的建设。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743574439_925822.png)
+
+---
+
+## 4. [像素可爱风休闲冒险游戏《小小飞翼快递》现已正式发售 获得好评](https://www.3dmgame.com/news/202504/3917692.html)   2025-04-02 14:12
+
+《小小飞翼快递》在Steam正式发售，游戏支持简体中文，并提供约30分钟到1小时的轻松冒险体验。玩家可探索漂浮小岛并结识可爱角色，国区首发特惠售价13.2元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743574123_151724.jpg)
+
+---
+
+## 5. [《黑神话：悟空》推出实体音乐专辑 内容充实最低仅需198元](https://www.3dmgame.com/news/202504/3917691.html)   2025-04-02 14:08
+
+《黑神话：悟空》推出实体音乐专辑，并在QQ音乐开启预售。专辑包括25首精选曲目，分为黑胶和彩胶礼盒两种版本，售价分别为198元和388元，为玩家带来音乐与游戏传奇的交响之旅。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743573551_986142.jpg)
+
+---
+
+## 6. [三星首次任命外籍首席设计官：加速全球化创新](https://www.3dmgame.com/news/202504/3917690.html)   2025-04-02 14:03
+
+三星首次任命意大利籍设计师Mauro Porcini为首席设计官，负责全产品线设计战略。这一举措旨在应对业务挑战并加速全球化创新，进一步强化三星在设计领域的领导地位。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743573753_373327.jpg)
+
+---
+
+## 7. [《Den of Wolves》无需队友语音交流也能完成任务](https://www.3dmgame.com/news/202504/3917689.html)   2025-04-02 13:56
+
+《GTFO》开发商新作《Den of Wolves》推出无需语音交流的合作射击玩法，玩家可通过游戏内标记和命令系统完成任务。该游戏将于今年内抢先体验登陆PC，并后续推出PS5与Xbox Series版本。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743573316_389723.png)
+
+---
+
+## 8. [《崩坏：星穹铁道》 「遐蝶：遐瑕不分，叽米惨遭发配哀地里亚」](https://www.3dmgame.com/news/202504/3917688.html)   2025-04-02 13:55
+
+《崩坏：星穹铁道》发布“遐蝶”宣传片，展示叽米与赛飞儿的互动片段。叽米的幽默与赛飞儿的可爱对话吸引玩家关注，视频展现了丰富的角色魅力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743573224_882465.jpg)
+
+---
+
+## 9. [首次采用瑞士轮赛制 25年刀塔2国际邀请赛赛程出炉](https://www.3dmgame.com/news/202504/3917687.html)   2025-04-02 13:52
+
+2025年DOTA2国际邀请赛赛程公布，首次采用瑞士轮赛制。比赛将于9月4日启动，正赛阶段在德国汉堡巴克莱体育馆举行。最终将有八支队伍角逐冠军盾。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743572931_514968.jpg)
+
+---
+
+## 10. [《回音：飞艇传说》建造编辑器上线！即刻设计神话飞艇，抢先征服奇幻天空](https://www.3dmgame.com/news/202504/3917686.html)   2025-04-02 13:44
+
+沙盒建造游戏《回音：飞艇传说》推出试玩编辑器，玩家可自由设计独特飞艇并参与创意征集活动。未来正式版将带来天空生存RPG体验，探索奇幻浮空岛屿与未知文明。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743572570_262338.jpg)
+
+---
+# 新闻简报 (更新时间: 2025-04-02 15:45)
+
+## 1. [一部60年代开源古早游Steam峰值突然暴增13万 分析被盗版利用](https://www.3dmgame.com/news/202504/3917685.html)   2025-04-02 13:37
+
+1962年推出的开源免费游戏《Spacewar!》近期在Steam上峰值飙升至13.8万，引发热议。媒体分析认为，这可能是被盗版利用的结果。该游戏被用作Steamworks API开发者样本，但却被盗版玩家利用伪装为在线游戏。类似情况在《幻兽帕鲁》和《森林之子》等热门游戏推出时也曾发生。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743572168_613750.jpg)
+
+---
+
+## 2. [《壮志凌云》演员方·基默因肺炎逝世 享年65岁](https://www.3dmgame.com/news/202504/3917684.html)   2025-04-02 13:26
+
+著名演员方·基默因肺炎逝世，享年65岁。他曾因出演《壮志凌云》和《永远的蝙蝠侠》等作品而广受关注。方·基默在职业生涯后期经历了健康问题，最终在汤姆·克鲁斯帮助下出演了最后一部电影《壮志凌云：独行侠》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743574409_175225.png)
+
+---
+
+## 3. [直曲之争就此终结！越来越多厂商青睐直屏](https://www.3dmgame.com/news/202504/3917683.html)   2025-04-02 12:07
+
+随着OPPO、小米等厂商纷纷宣布全面采用直屏设计，曲面屏逐渐淡出高端旗舰手机阵营。智能手机发展史中，直屏和曲屏的竞争终于划上句号，直屏成为市场新宠，而曲面屏将更多应用于千元机型。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564904_513080.jpg)
+
+---
+
+## 4. [《幻想神域 - 源神啟動》Steam页面 年内发售](https://www.3dmgame.com/news/202504/3917682.html)   2025-04-02 12:00
+
+日系动漫风格的奇幻大世界MMORPG《幻想神域 - 源神启动》已上线Steam页面，预计2025年第二季度发售。游戏引入全新职业“源核炮”、武器自由切换以及创新的源神共鸣系统，为玩家带来独特的冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743566402_443177.jpg)
+
+---
+
+## 5. [《双影奇境》回应改编电影：还是不相信好莱坞](https://www.3dmgame.com/news/202504/3917681.html)   2025-04-02 11:55
+
+Hazelight创始人Josef Fares对好莱坞改编游戏电影的态度仍持保留意见，尽管《双影奇境》改编电影已在讨论中。他认为好莱坞会议多为空谈，改编项目的成功率较低。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743566115_255736_png_r.webp)
+
+---
+
+## 6. [《惊天魔盗团3》正式定名 续集《惊天魔盗团4》筹备中](https://www.3dmgame.com/news/202504/3917679.html)   2025-04-02 11:39
+
+狮门影业宣布《惊天魔盗团3》定名为《惊天魔盗团3：Now You Don’t》，将于2025年11月14日在北美上映。同时，导演鲁本·弗雷斯彻已签约，续集《惊天魔盗团4》正在筹备。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564931_371096_jpg_r.jpg)
+
+---
+
+## 7. [Switch2正式公布在即！总结下7个事实与4个传言](https://www.3dmgame.com/news/202504/3917680.html)   2025-04-02 11:38
+
+Switch2即将正式公布，Nintendo Direct将展示60分钟内容，包括《马里奥赛车》的实机演示及与一代机的兼容设定。同时，传闻称新设备或将加入Joy-Con的类鼠标功能以及新型Pro手柄的耳机插孔。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743565197_631942.png)
+
+---
+
+## 8. [《使命召唤：黑色行动6》第三赛季开始允许主机玩家限制跨平台](https://www.3dmgame.com/news/202504/3917678.html)   2025-04-02 11:35
+
+《使命召唤：黑色行动6》第三赛季新增选项，允许玩家关闭跨平台匹配。官方提示关闭跨平台功能可能会导致匹配速度变慢，但此改动旨在为玩家提供更灵活的匹配选择。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564935_918756.png)
+
+---
+
+## 9. [卡普空推出《怪猎荒野》封面怪“锁刃龙”手办 霸气侧漏](https://www.3dmgame.com/news/202504/3917677.html)   2025-04-02 11:31
+
+卡普空宣布推出基于《怪物猎人：荒野》封面怪“锁刃龙”的全新手办，将于2025年秋季发售。手办高度约21厘米，售价为22,000日元，展现锁刃龙苏醒的霸气场景。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564459_620887_png_r.webp)
+
+---
+# 新闻简报(更新时间:2025-04-02 15:45)
+
+## 1. [《使命召唤》主机版新增关闭跨平台功能 专治PC作弊](https://www.3dmgame.com/news/202504/3917675.html)   2025-04-02 11:25
+
+动视宣布从《使命召唤：黑色行动6》第三赛季开始，主机玩家可选择关闭跨平台联机功能，以减少PC玩家作弊问题的影响。玩家可根据需要在“开启”“仅限主机”和“关闭”三种跨平台选项中选择，但关闭跨平台可能会延长匹配等待时间。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564049_475732.jpg)
+
+---
+
+## 2. [可爱风格休闲探索冒险游戏《Koira》现已正式发售 获得好评](https://www.3dmgame.com/news/202504/3917676.html)   2025-04-02 11:24
+
+由Studio Tolima开发的《Koira》正式在Steam平台发售，以其手绘画风和温馨剧情获好评。玩家将在游戏中拯救小狗并探索魔法森林，解谜并避开猎人。游戏支持中文，售价65.7元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564050_774033_jpg_r.jpg)
+
+---
+
+## 3. [與微軟的兩年談判破裂，ZeniMax Media與Bethesda宣布罷工](https://www.4gamers.com.tw/news/detail/71042/microsoft-developers-authorize-strike)   2025-04-02 11:23
+
+ZeniMax Media及旗下Bethesda宣布罢工，原因是与微软长达两年的谈判无果。罢工可能影响即将推出的《毁灭战士：黑暗时代》等游戏的发售计划。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f79f90de66bbb1890bf3d036d1899adb6f160a3b.jpg)
+
+---
+
+## 4. [《暗区突围：无限》国服定档4月29日上线 六年磨一剑](https://www.3dmgame.com/news/202504/3917674.html)   2025-04-02 11:22
+
+腾讯宣布《暗区突围：无限》端游将于4月29日上线，这款射击端游以动态天气和丰富的武器系统为特色，号称“六年磨一剑”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564034_334518_jpg_r.jpg)
+
+---
+
+## 5. [穿越过去遇见落榜美术生？像素风时间旅行冒险游戏《Back In Time》即将多平台上线](https://www.3dmgame.com/news/202504/3917673.html)   2025-04-02 11:14
+
+独立游戏《Back In Time》即将登陆多平台，玩家将在游戏中探索历史关键事件，解开谜题并改变命运，支持中文语言系统。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743564677_645423.png)
+
+---
+
+## 6. [性价比更高 RTX 5080移动版性能实测比5090M低15%](https://www.3dmgame.com/news/202504/3917672.html)   2025-04-02 11:13
+
+最新测试显示，RTX 5080移动版性能比RTX 5090移动版低约10%-15%。尽管性能略逊，但5080的性价比更高，适合预算有限的用户。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743563542_296007.png)
+
+---
+
+## 7. [《inZOI》开发商收购印度游戏工作室 耗资1400万美元](https://www.3dmgame.com/news/202504/3917671.html)   2025-04-02 11:10
+
+Krafton以1400万美元收购印度游戏工作室Nautilus Mobile的控股权，后者以《真实板球》系列闻名。此次收购旨在强化Krafton的印度游戏策略。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743563067_386986.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-02 15:45)
+
+## 1. [数毛社发布《毁灭战士 黑暗时代》技术前瞻](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-02 11:03
+
+数毛社对《毁灭战士 黑暗时代》的技术进行了详细分析。游戏使用idTech 8引擎，带来光线追踪反射和全局光照技术，尤其在动态环境下表现极为逼真。新引入的物理驱动破坏机制使场景随战斗动态变化，并支持大规模破坏。游戏优化出色，可在同屏超30个敌人的情况下保持60fps。
+
+![](https://static.willmao.com/feed_upload/2025-04-02/10-07-45-phpxS5hOz.webp)
+
+---
+
+## 2. [《原子之心》发布6小时“双子舞伶”纯享视频](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-02 11:03
+
+《原子之心》官方发布了一段长达6小时的视频，名为“双子舞伶”纯享视频。这段视频展示了游戏独特的艺术风格和画面表现，吸引了众多玩家关注。
+
+![](https://static.willmao.com/feed_upload/2025-04-02/10-57-31-phpvhU6lZ.png)
+
+---
+
+## 3. [《怪物火车2》发售日公布：5月21日](https://www.3dmgame.com/news/202504/3917670.html)   2025-04-02 11:03
+
+卡牌游戏《怪物火车2》将于2025年5月21日正式发售，支持简繁体中文。游戏延续经典的纵向战场设计，并增加了全新氏族与挑战，玩家可在Steam商店页面了解更多详情。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743562484_278349_jpg_r.jpg)
+
+---
+
+## 4. [《英雄立志传：三国志》三国志立绘分享](https://www.3dmgame.com/news/202504/3917669.html)   2025-04-02 11:00
+
+玩家分享了《英雄立志传：三国志》的三国志立绘，展示了游戏中的精美角色设计。这些立绘为玩家提供了更沉浸的三国体验。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250402/1743561981_369352.jpg)
+
+---
+
+## 5. [《英雄立志传：三国志》玩法创新：三国游戏玩成武侠](https://www.3dmgame.com/news/202504/3917668.html)   2025-04-02 11:00
+
+《英雄立志传：三国志》采用身份切换和策略经营玩法，玩家可自由选择主公、武将或在野身份，通过军魂、武魂和智魂系统进行角色养成，并探索深度社交网络与历史大事件。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250402/1743562473_449676_jpg_r.jpg)
+
+---
+
+## 6. [《英雄立志传：三国志》玩家可改写三国历史](https://www.3dmgame.com/news/202504/3917667.html)   2025-04-02 10:59
+
+《英雄立志传：三国志》EA版已上线，玩家可体验经典战役如官渡之战和赤壁之战，并通过策略选择改写历史结局。游戏支持多种身份选择与深度社交互动。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250402/1743562739_241157.jpg)
+
+---
+
+## 7. [《怪物猎人：荒野》庆祝销量破千万，玩家获免费礼物](https://www.3dmgame.com/news/202504/3917666.html)   2025-04-02 10:57
+
+《怪物猎人：荒野》开发商卡普空宣布游戏销量突破1000万份，为玩家提供免费登陆奖励，包括回复药、爆弹桶等道具。同时，未来更新计划也已公布，将加入全新怪物和季节性活动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743562645_648564_png_r.webp)
+
+---
+
+## 8. [《刺客信条：影》负责人称双主角系统更酷](https://www.3dmgame.com/news/202504/3917665.html)   2025-04-02 10:54
+
+《刺客信条：影》创意总监Jonathan Dumont表示，游戏采用双主角系统是系列自然发展的结果，这种设计为玩家提供了更丰富的体验，并改善了游戏玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743562484_456617.jpg)
+
+---
+
+## 9. [《Dreams of Aether》PC版限时免费发布](https://www.3dmgame.com/news/202504/3917664.html)   2025-04-02 10:51
+
+Aether Studios宣布其迷你游戏合集《Dreams of Aether》PC版限时免费发布。游戏提供故事模式和无限挑战模式，操作简单，趣味十足，玩家可立即下载体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743562207_931864.png)
+
+---
+
+## 10. [Switch2卡带将新增多种味道](https://www.3dmgame.com/news/202504/3917663.html)   2025-04-02 10:47
+
+任天堂Switch2的卡带将推出多种口味，包括鸡胸肉配奶酪、三文鱼搭配海鲈鱼等，以增强趣味性。这一设计旨在吸引更多乐趣玩家，同时保留防止儿童误吞的功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250402/1743561946_272613_png_r.webp)
+
+---
