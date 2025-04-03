@@ -319,3 +319,192 @@ hololive正式公布2025年度海外活动大使名单，包括ReGLOSS成员首�
 ![](https://img.4gamers.com.tw/puku-clone-version/5172f0968287b5731da64f4737c87613b32a196c.jpg)
 
 ---
+# 新闻简报（更新时间：2025-04-03 10:45）
+
+## 1. [Switch2原计划叫超级NS 后改叫NS2要成为新标杆](https://www.3dmgame.com/news/202504/3917756.html)  
+2025-04-03 10:19  
+
+任天堂近日发布了关于新型游戏机Switch 2的开发秘闻。项目负责人透露，Switch 2支持向下兼容，最终定名为“任天堂Switch 2”，希望成为任天堂的新标杆。开发团队强调，该主机性能提升，但更注重玩家游戏体验，而非硬件规格。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646723_986599_jpg_r.jpg)
+
+---
+
+## 2. [《人类一败涂地2》将在PC和Switch2发售](https://www.3dmgame.com/news/202504/3917755.html)  
+2025-04-03 10:15  
+
+益智平台游戏《人类一败涂地2》宣布将登陆PC和Switch 2，发售日期尚未公布。该续作拥有全新关卡、可自定义角色以及更疯狂的物理拟真乐趣，支持最多8人合作解谜。官方同时公布了游戏截图与视频，展示了更多玩法细节。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646760_241971.png)
+
+---
+
+## 3. [任天堂公布新旧Switch数据转移指引 旧卡不能用了](https://www.3dmgame.com/news/202504/3917754.html)  
+2025-04-03 10:13  
+
+任天堂公布了新旧Switch数据转移指引，提示玩家Switch 2将使用更高性能的MicroSD EXPRESS存储卡，而其他类型MicroSD卡将无法使用。官方建议通过Nintendo账号使用“完整转移”功能以安全转移数据。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646286_272865_jpg_r.jpg)
+
+---
+
+## 4. [NGC游戏确认加入Switch2在线会员服务 首发阵容包括《塞尔达传说：风之杖》](https://www.3dmgame.com/news/202504/3917753.html)  
+2025-04-03 10:11  
+
+任天堂宣布GameCube游戏将成为Switch 2独占内容，并需升级为高级会员服务才能体验。首发阵容包括经典游戏《塞尔达传说：风之杖》等。官方将推出无线版GameCube控制器，带来原汁原味的操作体验。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646098_522621.jpg)
+
+---
+
+## 5. [打击黄牛！预购Switch 2需要至少一年的会员资格](https://www.3dmgame.com/news/202504/3917752.html)  
+2025-04-03 10:09  
+
+任天堂为防黄牛抢购Switch 2，设立严格预购条件，包括至少一年的Switch Online会员资格和50小时以上游戏记录。Switch 2将于6月5日发售，预购活动将以购买名额分配形式进行。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646102_747336_jpg_r.jpg)
+
+---
+
+## 6. [Switch2第一方游戏大幅涨价 玩家愿意掏80美元吗？](https://www.3dmgame.com/news/202504/3917746.html)  
+2025-04-03 09:58  
+
+任天堂公布Switch 2第一方游戏售价大幅上涨，美版价格达到79.99美元（约合人民币581元）。部分玩家对涨价感到失望，但拥有旧版游戏的玩家可花费少量费用升级至Switch 2版本。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643292_815456_jpg_r.jpg)
+
+---
+
+## 7. [任天堂Switch 2续航时间公开：2至6.5小时！](https://www.3dmgame.com/news/202504/3917751.html)  
+2025-04-03 09:54  
+
+Switch 2内置5220mAh锂电池，续航时间约为2-6.5小时，相较前代产品有所缩短。根据不同游戏，续航时间可能有所变化。主机在睡眠模式下完全充满电需约3小时。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743645239_311247_jpg_r.jpg)
+
+---
+
+## 8. [Switch2特别版microSD储存卡成黄牛幌子 玩家很容易被骗](https://www.3dmgame.com/news/202504/3917749.html)  
+2025-04-03 09:47  
+
+日媒提醒玩家警惕以Switch2特别版microSD储存卡为幌子的黄牛骗局。Switch2实际使用的是microSD Express卡，而非传统的microSD卡。玩家需注意产品标识避免上当受骗。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743644721_205320.png)
+
+--- 
+
+以上为最新游戏行业动态，敬请关注！
+# 新闻简报(更新时间:2025-04-03 10:45)
+
+## 1. [说明书还要买?任天堂为新机推出《Switch2秘密展》](https://www.3dmgame.com/news/202504/3917748.html)   2025-04-03 09:28
+
+任天堂宣布推出《Switch2秘密展》，一款数字独占教学游戏，将于6月5日随Switch2主机发售。这款游戏设定在巨型Switch2主机表面，玩家通过互动方式了解主机新功能，如鼠标控制和体感操控等。游戏还包括知识问答环节，但需额外付费购买。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643602_325961_jpg_r.jpg)
+
+---
+
+## 2. [Switch 2硬件规格公布 底座模式支持4K/60FPS](https://www.3dmgame.com/news/202504/3917747.html)   2025-04-03 09:22
+
+任天堂公布Switch 2硬件规格，搭载7.9英寸LCD屏幕，分辨率1080p，支持HDR10和120Hz的VRR。底座模式可实现4K/60FPS或1080P/120FPS输出。存储方面，主机内置256GB存储空间，支持Wi-Fi 6和microSD Express卡扩展。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643202_785544_jpg_r.jpg)
+
+---
+
+## 3. [《绝地潜兵2》工作室CEO承认 低谷时想到了《无人深空》](https://www.3dmgame.com/news/202504/3917745.html)   2025-04-03 09:15
+
+Arrowhead工作室CEO表示，《绝地潜兵2》在更新引发差评后，团队从《无人深空》的成功案例中获得启发，决定长期修复问题。索尼互娱的支持也帮助其改善游戏口碑。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743642858_496912.png)
+
+---
+
+## 4. [星铁演唱会门票开售即“秒没” 玩家呼吁制裁官方黄牛](https://www.3dmgame.com/news/202504/3917744.html)   2025-04-03 09:11
+
+《崩坏：星穹铁道》周年演唱会门票开售即售罄，部分玩家质疑出现“官方黄牛”现象，呼吁官方调查并管理相关行为。未来将有第二、三次售票机会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643588_946946.png)
+
+---
+
+## 5. [Switch 2向下兼容能力公布：99%兼容第一方游戏 第三方无法启动或运行有问题游戏名单](https://www.3dmgame.com/news/202504/3917743.html)   2025-04-03 09:01
+
+任天堂确认Switch 2对Switch游戏的兼容性较高，99%的第一方游戏无问题运行，但部分第三方游戏需测试或存在兼容性问题。硬件兼容性也得到详细说明。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743645308_269642_jpg_r.jpg)
+
+---
+
+## 6. [《雷道复刻版: 超力兵团奇谭》将登陆NS2 6月19日发售](https://www.3dmgame.com/news/202504/3917742.html)   2025-04-03 08:54
+
+ATLUS宣布《雷道复刻版: 超力兵团奇谭》将于6月19日发售，登陆多平台，包括Switch 2。作品新增全程语音支持，并优化画面与游戏性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743641600_893391_jpg_r.jpg)
+
+---
+
+## 7. [宫崎英高新作《The Duskbloods》首批截图 Switch 2独占](https://www.3dmgame.com/news/202504/3917741.html)   2025-04-03 08:31
+
+FromSoftware公布新作《The Duskbloods》，由宫崎英高担任总监。这款多人动作游戏将于2026年独占登陆Switch 2平台，更多详情将于4月4日揭晓。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743640199_562598_jpg_r.jpg)
+
+---
+
+## 8. [任天堂Switch2港版售价公布 标准版3450港币](https://www.3dmgame.com/news/202504/3917740.html)   2025-04-03 08:25
+
+任天堂香港公布Switch2港版信息，标准版售价3450港币，附赠《马力欧赛车 世界》组合版售价3750港币。主机将于6月5日发售，购买需通过抽选。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639871_290929_jpg_r.jpg)
+
+---
+
+## 9. [《无主之地4》将登陆Switch 2 2025年发售](https://www.3dmgame.com/news/202504/3917739.html)   2025-04-03 08:19
+
+2K和Gearbox宣布《无主之地4》将在2025年登陆Switch 2平台。游戏将带来全新角色与故事，玩家可探索宇宙宝藏并对抗独裁者。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639513_191256_jpg_r.jpg)
+
+---
+
+## 10. [《如龙0：誓约的场所 导演剪辑版》Switch 2 售价338港币](https://www.3dmgame.com/news/202504/3917738.html)   2025-04-03 08:13
+
+《如龙0：誓约的场所 导演剪辑版》作为Switch 2首发护航游戏，售价338港币，将支持中文字幕和国语配音。新增场景和在线模式为玩家带来全新体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639095_466084_jpg_r.jpg)
+
+---
+# 新闻简报 (更新时间: 2025-04-03 10:45)
+
+## 1. [《FF7重制版》传闻登陆NS2与Xbox，《FF7RB》明年上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-03 06:59
+
+（传闻）昨晚SE宣布了《最终幻想7重制版》将登陆Nintendo Switch 2（NS2），消息人士NateTheHate称该作也会登陆Xbox平台，但需等待官方宣布。此外，《最终幻想7重制版第二章》（FF7RB）预计明年同步登陆NS2和Xbox平台。
+
+![](https://static.willmao.com/feed_upload/2025-04-03/06-59-19-php7Q6zbD.jpg)
+
+---
+
+## 2. [GTA5或加入Xbox与PC Game Pass](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-03 06:55
+
+（传闻）知名爆料人Tom Henderson透露，《侠盗猎车手5》（GTA5）预计将在本月晚些时候加入Xbox和PC Game Pass服务。此举可能吸引更多玩家体验这款经典开放世界游戏。
+
+![](https://static.willmao.com/feed_upload/2025-04-03/06-55-05-phpiDfQNU.jpg)
+
+---
+
+## 3. [《空洞骑士：丝之歌》2025年内登陆Switch 2](https://www.4gamers.com.tw/news/detail/71078/hollow-knight-silksong-arriving-on-nintendo-switch-2-in-2025)   2025-04-03 02:14
+
+Team Cherry开发的动作冒险游戏《空洞骑士：丝之歌》将在2025年内登陆Nintendo Switch 2。愚人节直播中虽只有短暂一闪，但任天堂欧洲随后确认了消息。游戏将于上市首日加入Xbox Game Pass，支持多平台，包括PC、PS5、Xbox Series X/S等。玩家将操控角色“大黄蜂”，探索丝线与歌声统治的王国。
+
+![](https://img.4gamers.com.tw/puku-clone-version/de8b6e4790e143f703477887a4cb378acfb64b16.jpg)
+
+---
+
+## 4. [《妖怪捉迷藏2》今年夏季登陆Switch 2](https://www.4gamers.com.tw/news/detail/71077/obakeidoro-2-coming-on-nintendo-switch-2)   2025-04-03 01:59
+
+多人非对称对战游戏《妖怪捉迷藏2》将在2025年夏季登陆Nintendo Switch 2。游戏延续警察抓小偷模式，最多支持8人同玩，并加入全新角色与更细腻画面表现。玩家可选择扮演鬼怪或人类，展开刺激的3分钟追逐战。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1cad64feb79887d77a37ac1fa67070dad957c51e.webp)
+
+---
