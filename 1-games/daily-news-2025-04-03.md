@@ -508,3 +508,366 @@ Team Cherry开发的动作冒险游戏《空洞骑士：丝之歌》将在2025�
 ![](https://img.4gamers.com.tw/puku-clone-version/1cad64feb79887d77a37ac1fa67070dad957c51e.webp)
 
 ---
+# 新闻简报 (更新时间: 2025-04-03 15:45)
+
+## 1. [超700位客户及合作伙伴齐聚英特尔Vision 2025](https://www.3dmgame.com/news/202504/3917778.html)  2025-04-03 14:52
+
+英特尔Vision大会第二天，超过700位客户及合作伙伴齐聚一堂，分享基于英特尔产品和技术的创新应用，展示如何实现业务突破和市场认可。英特尔高层强调“以客户为中心”的理念，并提出优化x86架构、深化客户协作等未来战略。此外，英特尔在AI PC、边缘AI等领域的技术突破备受关注，如西门子医疗借助英特尔至强处理器优化癌症诊疗方案。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250403/1743663107_995580.png)
+
+---
+
+## 2. [肉鸽迷宫探索游戏《哈迪斯2》将登陆Switch与Switch2](https://www.3dmgame.com/news/202504/3917777.html)  2025-04-03 14:37
+
+任天堂宣布《哈迪斯2》将上线Switch和Switch2，支持1080p和60FPS运行。开发商Supergiant Games计划在抢先体验期间进行重大更新，正式版本随后发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743662969_487670.png)
+
+---
+
+## 3. [《蜡笔小新》或制作真人电影 官方放出成人版小新暗示](https://www.3dmgame.com/news/202504/3917776.html)  2025-04-03 14:32
+
+《蜡笔小新》官方发布成人版小新预测图，可能暗示制作真人电影，引发粉丝热议。网友猜测高桥文哉与原田泰造适合出演小新及其父亲角色。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743661842_394840.png)
+
+---
+
+## 4. [《双影奇境》加入 Nintendo Switch 2 上市首发行列！](https://www.3dmgame.com/news/202504/3917775.html)  2025-04-03 14:26
+
+Hazelight工作室宣布合作游戏《双影奇境》将作为Nintendo Switch 2的上市首发游戏之一，玩家可通过新主机体验生动的故事叙事与多样化玩法。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250403/1743661569_729531.png)
+
+---
+
+## 5. [任天堂GameCube经典回归Switch2，限定NSO游玩《宝可梦XD》等20年前佳作](https://www.4gamers.com.tw/news/detail/71079/gamecube-titles-are-coming-to-nintendo-switch-online-with-nintendo-switch-2)  2025-04-03 14:24
+
+任天堂宣布GameCube经典游戏将通过Switch2的Nintendo Switch Online服务回归，首批上线包括《塞尔达传说 风之律动》《F-ZERO GX》等。玩家需订阅NSO+扩充包服务。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d75ba2f6f4c5edf9c91cc8c36963bc119b1bc2cc.jpg)
+
+---
+
+## 6. [Switch2到底有没有搞锁区？双版本重点注意事项与释疑](https://www.4gamers.com.tw/news/detail/71076/switch2-dual-version-precautions-and-explanations)  2025-04-03 14:17
+
+Switch2日版与国际版存在差异。日版仅支持日文设定，且需绑定日本账户；国际版则支持多语言切换，且更适合全球玩家使用。建议非日语玩家选择国际版。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f36db68f710a64a82c445b27a7ee59706488309.png)
+
+---
+
+## 7. [《VR女友》新宣传片 与夕阳樱一起体验甜蜜生活](https://www.3dmgame.com/news/202504/3917774.html)  2025-04-03 14:16
+
+ILLUMINATION发布《VR女友》新宣传片，玩家可与夕阳樱展开互动体验。该作将于4月24日上线Steam，售价6200日元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660909_406371_jpg_r.jpg)
+
+---
+
+## 8. [Devolver杀疯了！NS2首发双王炸：星际社牛模拟器×地牢3D弹幕狂欢！](https://www.3dmgame.com/news/202504/3917773.html)  2025-04-03 14:15
+
+Devolver Digital宣布两款Switch 2首发游戏：《星际探寻者：异星旅人远征》和《挺进地牢2》。前者主打多人联机太空冒险，后者为升级至3D的弹幕射击游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660777_958159.png)
+
+---
+
+## 9. [《塞西尔：酒店惊魂》Steam发售58元，一睹光怪陆离的现代美国恐怖故事](https://www.3dmgame.com/news/202504/3917772.html)  2025-04-03 14:15
+
+独立恐怖冒险游戏《塞西尔：酒店惊魂》现已登陆Steam，售价58元。玩家将扮演记者探索20世纪60年代的洛杉矶酒店，揭示其背后的超自然秘密。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660840_226863.png)
+
+---
+
+## 10. [百万魔兽玩家首选！玩老图就来KK官方对战平台！](https://www.3dmgame.com/news/202504/3917771.html)  2025-04-03 14:15
+
+KK平台推出怀旧专区，汇聚《澄海3C》《守卫雅典娜》《伏魔战记》等经典魔兽RPG地图，为玩家提供丰富的怀旧游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660918_937277.png)
+
+---
+# 新闻简报(更新时间:2025-04-03 15:45)
+
+## 1. [磁吸式JoyCon设计曾计划用于初代Switch主机](https://www.3dmgame.com/news/202504/3917770.html)   2025-04-03 14:02
+
+任天堂在最新的直面会上展示了Switch2的磁吸式Joy-Con手柄。这项设计早在初代Switch开发阶段就已提出，但由于技术缺陷未能实现。如今，采用新型稀土磁铁和单键双锁定结构的方案得以突破，带来更便捷的用户体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660001_952071.jpg)
+
+---
+
+## 2. [《驯龙高手2》真人版电影定档2027年6月11日](https://www.3dmgame.com/news/202504/3917769.html)   2025-04-03 13:38
+
+环球影业宣布《驯龙高手2》真人版电影将于2027年6月11日上映，导演迪恩·德布洛斯将继续执导并担任编剧。真人版电影的制作引发观众期待，系列电影已累计带来超过16亿美元票房。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743660481_925050.png)
+
+---
+
+## 3. [任天堂Switch 2发布频道观众峰值突破329万 日厂最多](https://www.3dmgame.com/news/202504/3917768.html)   2025-04-03 13:32
+
+任天堂Switch 2的发布频道吸引了329万观众同时观看，创下日本厂商历史新记录。新主机定于6月5日发售，屏幕更大、性能更强，并有多款首发大作护航。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743658275_656883.png)
+
+---
+
+## 4. [NV特供H20有升级版 中国科技巨头已豪掷上千亿抢购](https://www.3dmgame.com/news/202504/3917767.html)   2025-04-03 12:18
+
+中国科技公司如字节跳动、阿里巴巴等已订购价值1163亿元的英伟达H20升级版芯片。由于产能压力，订单交付需等待至第四季度，美国出口禁令可能带来风险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743651959_838920_jpg_r.jpg)
+
+---
+
+## 5. [吉卜力哭笑不得 ChatGPT周活跃用户突破5亿](https://www.3dmgame.com/news/202504/3917766.html)   2025-04-03 11:50
+
+ChatGPT因推出“知名动漫风格生成图像”功能再次爆火，周活跃用户突破5亿。吉卜力画风引发全球热潮，而日本软银也宣布向OpenAI注资400亿美元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743652118_561987.jpg)
+
+---
+
+## 6. [重磅！传SBI被索尼抛弃 取消多个游戏合作项目](https://www.3dmgame.com/news/202504/3917765.html)   2025-04-03 11:41
+
+索尼传闻已终止与Sweet Baby Inc合作，取消多个项目，包括《战神》续作。玩家对于SBI的内容同质化提出大量批评，业界或迎来叙事顾问角色的调整。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743651606_515594.png)
+
+---
+
+## 7. [夜潜工作室宣布将启动PS3/Xbox360经典游戏重制计划](https://www.3dmgame.com/news/202504/3917764.html)   2025-04-03 11:29
+
+夜潜工作室计划重制第七世代主机经典游戏，利用自主研发的KEX引擎解决技术挑战。项目将优先考虑源代码完整且具备高质量素材的作品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743650746_370576.jpg)
+
+---
+
+## 8. [《燕云十六声》河西主章“问月长安”将于4月4日开启](https://www.3dmgame.com/news/202504/3917763.html)   2025-04-03 11:16
+
+《燕云十六声》新主线剧情“问月长安”将于4月4日凌晨上线，新增野外BOSS、活动及外观优化。玩家需完成前置任务以参与体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743650154_288067.jpg)
+
+---
+
+## 9. [传REDMI新机预热因SU7事故推迟 发布会或延期](https://www.3dmgame.com/news/202504/3917762.html)   2025-04-03 11:13
+
+REDMI新品预热因SU7事故推迟，小米高管保持低调，原定4月17日的发布会或受影响。iQOO抢占先机，宣布新机将搭载骁龙8s平台并于4月发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743649967_598454.png)
+
+---
+
+## 10. [公众评选出的有史以来最具影响力的电子游戏 —— 英国电影学院奖](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-03 11:03
+
+英国电影学院奖评选出最具影响力的游戏榜单，涵盖《莎木》、《毁灭战士》、《半条命》、《俄罗斯方块》等经典作品，彰显游戏历史中的重要里程碑。
+
+![](https://static.willmao.com/feed_upload/2025-04-03/10-38-31-phpeQCqPE.webp)
+
+---
+# 新闻简报(更新时间:2025-04-03 15:45)
+
+## 1. [守望先锋与高达联动？官方推文引热议](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-03 11:03
+
+守望先锋官方推特祝贺《新机动战记高达W》30周年，引发玩家猜测可能将迎来高达联动。此前有相关文件显示，守望先锋或将新增高达主题内容。
+
+![](https://static.willmao.com/feed_upload/2025-04-03/10-35-48-php8tbh4y.png)
+
+---
+
+## 2. [《烈焰之刃》全新视频发布，武器锻造成亮点](https://www.3dmgame.com/news/202504/3917761.html)   2025-04-03 11:03
+
+近日，505 Games发布了动作冒险游戏《烈焰之刃》的新视频，详细展示了武器锻造系统。玩家将在游戏中打造个性化武器，并挑战强敌。游戏定于5月22日登录PS5、XSX/S和PC平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743649351_703566_jpg_r.jpg)
+
+---
+
+## 3. [《上古卷轴5》奇葩MOD上线，满屏手足挑战玩家心理极限](https://www.3dmgame.com/news/202504/3917760.html)   2025-04-03 10:51
+
+一款名为“Immersive Feet and Cigarettes Parallax x Finger Grass”的《上古卷轴5》MOD近日上线，将游戏中的草木替换为手足，画面密集程度令人惊叹。挑战心理极限的玩家可以通过MOD页下载体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743648657_256210.jpg)
+
+---
+
+## 4. [Switch 2全新游戏聊天功能曝光，支持最多12人](https://www.3dmgame.com/news/202504/3917759.html)   2025-04-03 10:44
+
+Switch 2新增游戏聊天功能，通过C按钮激活，最多支持12人同时语音聊天并分享游戏画面。玩家还可连接USB摄影机进行视讯通话，享受更丰富的互动体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743648103_638228_jpg_r.jpg)
+
+---
+
+## 5. [《机动战队VS》：机甲文化重燃格斗游戏新篇章](https://www.3dmgame.com/news/202504/3917758.html)   2025-04-03 10:41
+
+超级机器人格斗游戏《机动战队VS》正式发布，集结经典机甲与原创角色，打造独特的格斗体验。游戏创新性地引入“双武装系统”，为玩家提供多样化的战术选择。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743648050_663984.png)
+
+---
+
+## 6. [《金垦小镇》加入Steam免费周末活动](https://www.3dmgame.com/news/202504/3917757.html)   2025-04-03 10:36
+
+生存模拟游戏《金垦小镇》将于4月4日至4月8日参加Steam免费周末活动，同时享受20%折扣优惠。玩家可在游戏中探索澳大利亚荒野，创造属于自己的小镇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743647766_161295.png)
+
+---
+
+## 7. [Switch 2名称背后的故事：从“超级NS”到“NS2”](https://www.3dmgame.com/news/202504/3917756.html)   2025-04-03 10:19
+
+任天堂高管透露，Switch 2原拟名“超级任天堂Switch”，最终改为“Switch 2”。团队希望新主机成为任天堂游戏领域的标杆，同时强调其向下兼容性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646723_986599_jpg_r.jpg)
+
+---
+
+## 8. [《人类一败涂地2》将登录PC和Switch 2](https://www.3dmgame.com/news/202504/3917755.html)   2025-04-03 10:15
+
+益智平台游戏《人类一败涂地2》正式宣布将在PC与Switch 2平台发售。游戏延续前作风格，新增关卡与角色自定义功能，并强化物理互动体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646760_241971.png)
+
+---
+
+## 9. [任天堂公布Switch 2数据转移指引](https://www.3dmgame.com/news/202504/3917754.html)   2025-04-03 10:16
+
+Switch 2主机采用新的存储卡标准，旧卡无法兼容。任天堂建议玩家通过官方功能“完整转移”将数据安全迁移至新主机。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646286_272865_jpg_r.jpg)
+
+---
+
+## 10. [GameCube游戏加入Switch 2会员服务，《风之杖》领衔首发](https://www.3dmgame.com/news/202504/3917753.html)   2025-04-03 10:11
+
+GameCube经典游戏将成为Switch 2会员服务独占内容，首发阵容包括《塞尔达传说：风之杖》《灵魂能力2》等。任天堂还推出无线版GameCube控制器以带来原汁原味的操作体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646098_522621.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-03 15:45)
+
+## 1. [打击黄牛！预购Switch 2需要至少一年的会员资格](https://www.3dmgame.com/news/202504/3917752.html) Thu, 03 Apr 2025 10:09:50 +0800
+
+任天堂宣布Switch 2将于6月5日发售，并于4月9日开始预购。为防止黄牛抢购，预购要求包括：至少一年Switch Online会员资格、登记时需处于会员期间、年龄满18岁以及原版Switch总游戏时间达50小时。此外，Switch 2推出日语版和多语言版，售价分别为49980日元和69980日元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743646102_747336_jpg_r.jpg)
+
+---
+
+## 2. [Switch2第一方游戏大幅涨价 玩家愿意掏80美元吗？](https://www.3dmgame.com/news/202504/3917746.html) Thu, 03 Apr 2025 09:58:06 +0800
+
+任天堂公布了Switch2首发游戏的价格，其中《马里奥赛车：世界》美版售价79.99美元，较之前涨幅显著。拥有部分Switch1游戏的玩家可花费低价升级至Switch2版。此次涨价引发玩家热议，同时Switch2将支持多款第三方大作，包括《艾尔登法环》和《赛博朋克2077》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643292_815456_jpg_r.jpg)
+
+---
+
+## 3. [任天堂Switch 2续航时间公开：2至6.5小时！](https://www.3dmgame.com/news/202504/3917751.html) Thu, 03 Apr 2025 09:54:08 +0800
+
+任天堂公布Switch 2的续航时间为2至6.5小时，并内置5220mAh电池。相比Switch OLED版的4.5至9小时续航，Switch 2表现稍显逊色。此外，睡眠模式下充满电需3小时。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743645239_311247_jpg_r.jpg)
+
+---
+
+## 4. [Switch2特别版microSD储存卡成黄牛幌子 玩家很容易被骗](https://www.3dmgame.com/news/202504/3917749.html) Thu, 03 Apr 2025 09:47:04 +0800
+
+日媒发现，Switch2特别版microSD Express存储卡成为黄牛欺骗玩家的新幌子。许多极限microSD卡被冒充为官方版本，任天堂提醒玩家注意识别真正的microSD Express标识。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743644721_205320.png)
+
+---
+
+## 5. [说明书还要买?任天堂为新机推出《Switch2秘密展》](https://www.3dmgame.com/news/202504/3917748.html) Thu, 03 Apr 2025 09:28:23 +0800
+
+《Switch2秘密展》是一款数字版教学游戏，将于6月5日发售。玩家可通过互动体验新主机功能，例如鼠标控制和体感操作。该游戏需付费购买，仅提供数字版，官方尚未公布售价。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643602_325961_jpg_r.jpg)
+
+---
+
+## 6. [Switch 2硬件规格公布 底座模式支持4K/60FPS](https://www.3dmgame.com/news/202504/3917747.html) Thu, 03 Apr 2025 09:22:19 +0800
+
+任天堂公布Switch 2硬件规格，包括7.9英寸1080p屏幕、底座模式支持4K/60FPS输出，以及256GB内存等。主机尺寸更大更重，续航时间为2至6.5小时，但霍尔摇杆与音频升级仍未确认。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643202_785544_jpg_r.jpg)
+
+---
+
+## 7. [《绝地潜兵2》工作室CEO承认 低谷时想到了《无人深空》](https://www.3dmgame.com/news/202504/3917745.html) Thu, 03 Apr 2025 09:15:10 +0800
+
+《绝地潜兵2》工作室CEO谈及低谷时期受到《无人深空》的激励，表示在经历几次差评后，工作室制定长期修复计划，并得到索尼互娱支持，最终重振士气。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743642858_496912.png)
+
+---
+
+## 8. [星铁演唱会门票开售即“秒没” 玩家呼吁制裁官方黄牛](https://www.3dmgame.com/news/202504/3917744.html) Thu, 03 Apr 2025 09:11:53 +0800
+
+《崩坏：星穹铁道》周年演唱会门票开售后迅速售罄，随后出现高价票销售现象，玩家质疑“官方黄牛”行为并呼吁加强管理。演唱会门票后续仍有多次售票机会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743643588_946946.png)
+
+---
+# 新闻简报(更新时间:2025-04-03 15:45)
+
+## 1. [Switch 2向下兼容能力公布：99%兼容第一方游戏 第三方无法启动&运行有问题游戏名单](https://www.3dmgame.com/news/202504/3917743.html)  
+2025-04-03 09:01
+
+Switch 2的向下兼容能力测试结果显示，任天堂自家游戏的兼容率高达99%，仅有少数游戏完全不兼容。第三方游戏中，22%可正常运行，75%可启动但需进一步测试，另有部分游戏存在运行问题或无法启动。任天堂计划于4月更新兼容性数据，进一步优化兼容性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743645308_269642_jpg_r.jpg)
+
+---
+
+## 2. [《雷道复刻版: 超力兵团奇谭》将登陆NS2 6月19日发售](https://www.3dmgame.com/news/202504/3917742.html)  
+2025-04-03 08:54
+
+ATLUS宣布，《雷道复刻版: 超力兵团奇谭》将于6月19日发售，支持多平台，包括Switch和Switch 2。高清复刻版保留了原版剧情和角色，优化画面与游戏性，并新增全程语音支持，为玩家带来更加沉浸的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743641600_893391_jpg_r.jpg)
+
+---
+
+## 3. [宫崎英高新作《The Duskbloods》首批截图 Switch 2独占](https://www.3dmgame.com/news/202504/3917741.html)  
+2025-04-03 08:31
+
+FromSoftware公布了多人动作游戏《The Duskbloods》，预计2026年发售，为Switch 2独占。游戏讲述“月泪”争夺的故事，由宫崎英高担任总监。更多详情将于4月4日通过任天堂官方网站揭晓。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743640199_562598_jpg_r.jpg)
+
+---
+
+## 4. [任天堂Switch2港版售价公布 标准版3450港币](https://www.3dmgame.com/news/202504/3917740.html)  
+2025-04-03 08:25
+
+任天堂香港宣布Switch 2港版标准版售价为3450港币（约3221元人民币），附带《马力欧赛车 世界》的组合版售价为3750港币。Switch 2将于6月5日发售，购买需首次通过抽选系统。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639871_290929_jpg_r.jpg)
+
+---
+
+## 5. [《无主之地4》将登陆Switch 2 2025年发售](https://www.3dmgame.com/news/202504/3917739.html)  
+2025-04-03 08:19
+
+2K和Gearbox宣布《无主之地4》将于2025年登陆Switch 2平台。作为系列最新作，游戏延续了幽默和丰富剧情，玩家将组建反抗小队对抗独裁者“时域天尊”，并体验全新的技能树与多样武器。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639513_191256_jpg_r.jpg)
+
+---
+
+## 6. [《如龙0：誓约的场所 导演剪辑版》Switch 2 售价338港币](https://www.3dmgame.com/news/202504/3917738.html)  
+2025-04-03 08:13
+
+Switch 2护航游戏《如龙0：誓约的场所 导演剪辑版》售价338港币（约315.5元人民币），支持中文字幕和国语配音。导剪版新增未收录场景及线上对战模式“争锋 线上对决”，为系列粉丝带来更多新内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250403/1743639095_466084_jpg_r.jpg)
+
+---
