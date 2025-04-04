@@ -126,3 +126,64 @@ Bpftrace作为Linux性能分析的新利器，为开发者提供了强大的工�
 文章聚焦于机器学习中的不平衡样本数据问题，详细介绍了数据分布对模型性能的影响，以及针对不平衡样本的处理策略。作者讨论了常见的场景和解决方法，包括数据重新分配、过采样和欠采样等技术，并分享了实践中的注意事项，帮助开发者优化模型训练过程。
 
 ---
+# 新闻简报 (更新时间: 2025-04-04 20:45)
+
+## 1. [5. RabbitMQ 消息队列中 Exchanges(交换机) 的详细说明 - Rainbow-Sea](https://www.cnblogs.com/TheMagicalRainbowSea/p/18809196)   2025-04-04 17:23
+
+本文详细讲解了 RabbitMQ 消息队列中的 Exchanges（交换机）的概念及其类型，包括临时队列、绑定(bindings)、以及扇出(fanout)等功能。作者通过目录形式结构化内容，帮助读者快速了解交换机的核心功能及应用场景。
+
+---
+
+## 2. [企业合同审批全流程设计指南：从风险管控到技术落地的完整方案 - 合同吴彦祖](https://www.cnblogs.com/hetongwuyanzu/p/18809079)   2025-04-04 16:16
+
+文章分析了合同审批流程的标准化及自动化方案。从风险管控到技术落地，作者形象地将合同审批比喻为家庭旅行的规划路线图，并强调通过合同管理系统实现高效审批和风险控制的关键作用。
+
+---
+
+## 3. [BotSharp + MCP 三步实现智能体开发 - 张善友](https://www.cnblogs.com/shanyou/p/18809051)   2025-04-04 15:59
+
+文章介绍了如何通过 BotSharp 和 MCP（模型上下文协议）三步实现智能体开发。MCP被比作通用接口（如USB-C），帮助大模型与外部数据和工具进行高效连接。内容浅显易懂，适合开发者快速上手。
+
+---
+
+## 4. [强化学习（on-policy）同步并行采样（on-line）的并行化效率分析 - Angry_Panda](https://www.cnblogs.com/xyz/p/18808878)   2025-04-04 15:09
+
+本文探讨了在强化学习中使用 on-policy 算法时，采样效率对算法运行的重要影响。作者详细解析了 DeepMind 的并行采样设计并提出改进建议，如使用队列和多进程间通信的优化方案。
+
+---
+
+## 5. [虚拟电商-话费充值业务（五）充值成功逻辑和网络异常重试逻辑 - 努力--坚持](https://www.cnblogs.com/kongsq/p/18808956)   2025-04-04 14:45
+
+文章聚焦虚拟电商充值业务的网络异常重试机制，介绍了供应商对接逻辑及远程调用失败的处理方式。通过实际代码示例，作者展示了如何在供应商接口调用中加入补偿机制以提升系统稳定性。
+
+---
+
+## 6. [Linux C线程读写锁深度解读 | 从原理到实战（附实测数据） - 小镇青年达师傅](https://www.cnblogs.com/town-master-da/p/18808918)   2025-04-04 14:18
+
+本文从原理到实战全面解析了 Linux C线程读写锁的使用，包括读写锁如何保证数据读取有效性，并附上实测数据和代码实例，帮助开发者掌握多线程编程中的关键技术。
+
+---
+
+## 7. [Tailwind CSS v4.1: Text shadows, masks, and tons more](https://app.daily.dev/posts/tailwind-css-v4-1-text-shadows-masks-and-tons-more-7wgl2mxrv)   2025-04-04 04:36
+
+Tailwind CSS v4.1发布，新增文本阴影、图像和渐变遮罩，以及更精细的文本换行和兼容性改进。新版本还引入了路径忽略功能以加快构建速度，并提供多种针对输入设备的新工具。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/3ba1be331d30e4ee2ce5c8c98bcbdabf?_a=AQAEuj9)
+
+---
+
+## 8. [Tech billionaires need a break from their reality distortion fields](https://app.daily.dev/posts/tech-billionaires-need-a-break-from-their-reality-distortion-fields-jyhvf4dva)   2025-04-01 16:51
+
+文章探讨了科技巨头如马克·扎克伯格和埃隆·马斯克如何因其巨大权力而脱离现实。作者呼吁对科技领导人实施类似政治领导人的任期限制，以减少其对社会的负面影响。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/cdeab7aa2013f0dcb3bf5c2f2f6d52ba?_a=AQAEuj9)
+
+---
+
+## 9. [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://app.daily.dev/posts/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out-lzoskd4q7)   2025-03-28 23:28
+
+马克·扎克伯格谈及观看《社交网络》的经历，并形容其对电影中的不准确刻画感到“奇怪”。他同时澄清了 Facemash 与 Facebook 的关系，并分享了自己近年来的风格演变。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/9b81beadf9b974d27b483c370542a0e5?_a=AQAEuj9)
+
+---
