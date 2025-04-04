@@ -522,3 +522,94 @@ Epic游戏商城现正在免费提供开放世界动作RPG《喵咪斗恶龙2（
 ![](https://img.3dmgame.com/uploads/images/news/20250404/1743725400_831984_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-04-04 20:45)
+
+## 1. [第二季剧场先行上映版《胆大党：邪视》全球特映5月底开启](https://www.4gamers.com.tw/news/detail/71090/dandadan-season-2nd-in-theater)   
+2025-04-04 18:19
+
+《胆大党》第二季动画即将于今年七月回归，并将在5月底举办全球影院抢先特映活动。活动将覆盖亚洲、欧洲和北美地区，粉丝可以抢先观看第二季前三集与第一季最终集。《胆大党》改编自漫画家龙幸伸的作品，自连载以来销量已突破1000万册，动画化后更是倍增。第二季由知名动画工作室Science SARU制作，导演及配乐团队均为原班人马。
+
+![](https://img.4gamers.com.tw/puku-clone-version/e5033bb8ffe1bd962b05e0de38405d8d33554c66.jpg)
+
+---
+
+## 2. [Switch2会重演Joy-Con飘移问题吗？任天堂强调手柄「完全重新设计」更大更耐用](https://www.4gamers.com.tw/news/detail/71089/nintendo-addresses-joy-con-drift-in-switch-2)   
+2025-04-04 17:26
+
+任天堂在开发者座谈会上确认，Switch 2的Joy-Con手柄将彻底重设计，解决初代飘移问题。新手柄更大、更耐用，并配备更强的HD震动功能。此外，Switch 2的蓝牙连接也得到显著改进，同时采用磁吸式拼装方式，提升操作便利性。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0235003d5858c75bed34630a6ddb507a19f46e6e.jpg)
+
+---
+
+## 3. [Switch2预购开启订单太多卡服务器 两周报名时间不必太急](https://www.3dmgame.com/news/202504/3917835.html)   
+2025-04-04 17:24
+
+任天堂正式开启Switch2预购，首轮抽签报名截止至4月16日，玩家有两周时间参与。成功抽签者将在指定时间内付款，并于6月5日主机上市后成为首批用户。尽管报名系统因订单过多出现卡顿，但官方表示时间充裕无需急于操作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250404/1743758592_586631.png)
+
+---
+
+## 4. [任天堂Switch 2密钥卡的推出或成为实体收藏家的末日](https://www.3dmgame.com/news/202504/3917834.html)   
+2025-04-04 17:19  
+
+Switch 2推出实体版游戏密钥卡，但玩家需下载完整内容，导致实体收藏价值下降。部分游戏如《艾尔登法环》采用此方式，但也有例外如《赛博朋克2077》直接存储游戏完整内容。任天堂力推数字版游戏，实体游戏市场或将进一步萎缩。
+
+![](https://img.3dmgame.com/uploads/images/news/20250404/1743738453_472427_jpg_r.jpg)
+
+---
+
+## 5. [花滑动画《金牌得主》导演：虽然确定要做第二季，但动画师人手严重不足](https://www.4gamers.com.tw/news/detail/71088/medalist-animation-season-2nd)   
+2025-04-04 17:12  
+
+花滑题材动画《金牌得主》宣布制作第二季，但导演山本靖贵公开表示动画师人手严重不足，并呼吁有志者加入制作团队。这部作品第一季质量稳定，第二季仍有挑战。原作漫画曾获多项大奖，动画改编由ENGI公司制作。
+
+![](https://img.4gamers.com.tw/puku-clone-version/da83e5e55383291217db4b29b38d7637fc44d174.jpeg)
+
+---
+
+## 6. [任天堂Switch 2的鼠标操作可以在玩家的裤腿上实现](https://www.3dmgame.com/news/202504/3917833.html)   
+2025-04-04 17:09  
+
+Switch 2的Joy-Con手柄新增鼠标控制功能，可在裤腿上实现操作，这一设计适合便携使用。《Drag X Drive》等多款游戏将利用此功能，进一步提升游戏体验。任天堂制作团队表示，此功能受PC游戏启发，经过多次优化后最终实现。
+
+![](https://img.3dmgame.com/uploads/images/news/20250404/1743738157_167252_jpg_r.jpg)
+
+---
+
+## 7. [树屋直播展示任天堂Switch 2《欢迎之旅》游戏画面](https://www.3dmgame.com/news/202504/3917832.html)   
+2025-04-04 16:37  
+
+任天堂树屋团队展示Switch 2教程游戏《欢迎之旅》，包括互动式技术演示及迷你游戏。这款游戏旨在帮助玩家熟悉主机功能，但需支付990日元，引发玩家不满。部分网友认为此类引导性游戏应随主机免费附赠。
+
+![](https://img.3dmgame.com/uploads/images/news/20250404/1743737912_413519_png_r.webp)
+
+---
+
+## 8. [《使命召唤》在2025年Steam平台玩家数量达最高值](http://nnas.sqngame.com:11201/xboxfan/news)   
+2025-04-04 16:03  
+
+《使命召唤》在弗尔丹斯克地图推出当天，Steam平台玩家数量突破11.2万，创下历史最高值，显示该系列依然热度不减。
+
+![](https://static.willmao.com/feed_upload/2025-04-04/15-05-11-phppgmJa9.jpg)
+
+---
+
+## 9. [《喷漆模拟器》将于5月发售，首发加入XGP](http://nnas.sqngame.com:11201/xboxfan/news)   
+2025-04-04 15:03  
+
+《喷漆模拟器》是一款轻松休闲游戏，玩家通过喷漆工具修复物品并享受完成后的成就感。这款游戏将于5月发售并首发加入Xbox Game Pass。
+
+![](https://static.willmao.com/feed_upload/2025-04-04/14-53-42-php1AJoho.jpg)
+
+---
+
+## 10. [棒鸡的《马拉松》将于下周全面揭晓](http://nnas.sqngame.com:11201/xboxfan/news)   
+2025-04-04 15:03  
+
+根据消息，Bungie的《马拉松》将在下周全面揭晓。这款游戏备受玩家期待，详情尚待官方进一步公布。
+
+![](https://static.willmao.com/feed_upload/2025-04-04/14-47-53-phpccBHlN.png)
+
+---
