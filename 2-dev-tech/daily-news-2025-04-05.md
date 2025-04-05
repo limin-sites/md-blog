@@ -102,3 +102,32 @@ DeepseekScanner通过Python实现了代码审计功能，能够扫描项目中�
 ## 7. [Web前端入门第 27 问：你知道 CSS 被浏览器分为了几大类吗？ - 前端路引](https://www.cnblogs.com/linx/p/18809796)   2025-04-05 09:36
 
 CSS属性被浏览器分为几大类，许多开发者对此并不熟悉。文章通过开发者工具展示了CSS属性分类的细节，并探讨其对前端开发优化的意义。
+# 新闻简报(更新时间:2025-04-05 20:45)
+
+## 1. [【Legged gym】关于Legged gym用到的roll_out_storages的batch的解析和一些PPO算法层面.config文件里参数的说明 - 泪水下的笑靥](https://www.cnblogs.com/myleaf/p/18810294)   2025-04-05 17:59
+
+本文围绕Legged gym中的roll_out_storages的batch解析展开，作者详细阐述了mini_batch_generator函数中的核心逻辑及参数配置，特别提到了num_epoc的外层控制逻辑。文章旨在提供学习和交流的参考，并鼓励读者在评论区提出意见以共同进步。
+
+![](https://www.cnblogs.com/images/blogs/myleaf-thumbnail.jpg)
+
+---
+
+## 2. [System V信号量 vs. POSIX信号量：核心区别与选型指南 - 小镇青年达师傅](https://www.cnblogs.com/town-master-da/p/18810297)   2025-04-05 17:45
+
+文章对比了两种主流的信号量实现方式：System V和POSIX，分析了它们在Linux多线程/进程开发中解决同步问题的核心区别，并给出了选型建议。通过深入研究，两者在使用场景、性能和系统支持方面的优劣被逐一解析，适合对Linux信号量感兴趣的开发者参考。
+
+---
+
+## 3. [Python 潮流周刊#96：MCP 到底是什么？（摘要） - 豌豆花下猫](https://www.cnblogs.com/pythonista/p/18810239)   2025-04-05 16:57
+
+本期Python潮流周刊精心筛选了国内外250多个信息源，分享了12篇精选文章、12个开源项目、2则热门讨论，涵盖了技术教程、工具推荐及职业发展等内容。周刊对MCP的概念进行了深入探讨，并预告了周刊即将迎来第100期的特别活动。
+
+---
+
+## 4. [D 图上的遍历算法 - YamadaRyou](https://www.cnblogs.com/violet1359/p/18804744)   2025-04-05 14:16
+
+本文介绍了广度优先搜索（BFS）算法，作为一种图遍历方法，它通过队列逐层扩展节点，从源节点开始依次访问邻接节点，直到遍历完整个图或到达目标节点。文章对BFS的概念和实现过程进行了详细说明，适合学习图算法的开发者阅读。
+
+![](https://www.cnblogs.com/images/blogs/violet1359-thumbnail.jpg)
+
+---
