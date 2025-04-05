@@ -80,3 +80,50 @@ DeepSeek与清华大学的研究者提出了自我原则点评调优（SPCT）�
 微软首席技术官凯文斯科特预测，到2030年，95%的编程代码将由AI生成，但人类开发者的角色不会消失，而是转型为AI协调者。他认为，AI将帮助开发者摆脱重复性任务，专注于设计和问题解决等高层次工作。这一观点与IBM CEO此前主张AI提升生产力的看法一致，表明AI更多是辅助而非取代程序员的角色。
 
 ---
+# 新闻简报(更新时间:2025-04-05 20:46)
+
+## 1. [全网都在猜，这些视频是不是字节AI生成的：该跟动捕说再见了？](https://www.jiqizhixin.com/articles/2025-04-05-6)   2025-04-05 17:28
+
+字节跳动推出的全新框架DreamActor-M1掀起了AI生成视频的热潮。通过该框架，AI可以以高精度模仿视频中的人物动作，并实现长时间一致性。技术核心基于扩散式Transformer（DiT），结合了多尺度适应和混合引导机制。DreamActor-M1表现优异，不仅在动作生成上超过传统动捕技术，还能高度还原人物身份细节。网友纷纷惊叹，AI或许将彻底取代传统动捕技术。
+
+![](https://image.jiqizhixin.com/uploads/editor/db4e8f00-f518-48c9-a1a7-dc6d1a652324/640.png)
+
+---
+
+## 2. [CVPR 2025 Oral | 多模态交互新基准OpenING，新版GPT-4o杀疯了？](https://www.jiqizhixin.com/articles/2025-04-05-5)   2025-04-05 17:24
+
+上海人工智能实验室推出OpenING基准，为开放式图文交错生成任务提供了全新评测标准。基准覆盖23个领域、56个任务，并引入强大的评估模型IntJudge，克服了传统评测模型的偏见问题。实验显示，OpenING大幅提升了多模态生成模型的评测精度，推动了多模态AI的进一步发展。
+
+![](https://image.jiqizhixin.com/uploads/editor/846978d7-7f13-4719-8849-598b4a37745f/640.png)
+
+---
+
+## 3. [7B扩散LLM，居然能跟671B的DeepSeek V3掰手腕，扩散vs自回归，谁才是未来？](https://www.jiqizhixin.com/articles/2025-04-05-4)   2025-04-05 17:21
+
+香港大学与华为诺亚方舟实验室联合推出Dream 7B模型，展示扩散语言模型在自然语言处理中的潜力。实验表明，Dream 7B在数学推理、编程任务等领域表现出色，有时甚至优于DeepSeek V3 671B。研究指出，扩散模型在长期推理和多任务场景中具有天然优势，或将成为语言生成领域的新趋势。
+
+![](https://image.jiqizhixin.com/uploads/editor/d5523245-3a9b-45a9-a813-3ffff85b9adc/640.png)
+
+---
+
+## 4. [微软诞生50周年，比尔・盖茨撰文忆往昔，并发布了Altair BASIC源代码](https://www.jiqizhixin.com/articles/2025-04-05-3)   2025-04-05 17:13
+
+微软成立50周年之际，比尔・盖茨撰文回忆公司创立初衷，并首次公开了Altair BASIC的完整源代码。这段代码不仅是微软历史的起点，也见证了个人计算机革命的开始。盖茨表示，这段历史激励微软继续创新，让科技更好地服务于全球。
+
+![](https://image.jiqizhixin.com/uploads/editor/83707ed8-1f59-491f-bba7-263cb41b4375/640.png)
+
+---
+
+## 5. [三思而后行，让大模型推理更强的秘密是「THINK TWICE」？](https://www.jiqizhixin.com/articles/2025-04-05-2)   2025-04-05 17:10
+
+研究团队提出“三思而后行”（Think Twice）推理策略，通过多轮推理提升大语言模型的准确性。该方法无需重新训练，仅在推理阶段进行自我纠错，显著优化了模型在数学、问答和编程任务中的表现。同时，模型的表达风格变得更加自信和简洁。
+
+![](https://image.jiqizhixin.com/uploads/editor/39b175ac-6d6e-46d3-8a22-e265e2876a76/640.png)
+
+---
+
+## 6. [CVPR 2025 | GaussianCity: 60倍加速，让3D城市瞬间生成](https://www.jiqizhixin.com/articles/2025-04-05)   2025-04-05 17:07
+
+新加坡南洋理工大学提出GaussianCity框架，利用创新性的BEV-Point表示实现无界3D城市生成。相比传统方法，该框架在推理速度上提升了60倍，同时显存占用恒定。GaussianCity在街景、无人机视角下表现优异，为虚拟城市的实时构建提供了全新解决方案。
+
+![](https://image.jiqizhixin.com/uploads/editor/535b5617-68f2-49fe-a4a8-4e3f76f6ab6a/640.png)
