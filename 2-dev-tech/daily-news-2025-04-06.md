@@ -116,3 +116,125 @@ Supabase正式发布了他们的全栈UI库，并附带了一段展示新功能�
 这篇文章延续了对虚函数表的探讨，重点分析普通单继承情况下的虚函数表结构及其条目的作用。通过示例代码，作者详细解释了如何使用虚函数表来实现多态行为，并揭示了底层机制的工作原理。对于深入理解面向对象编程的读者，这是一篇不可错过的技术文章。
 
 ---
+# 新闻简报(更新时间:2025-04-06 15:450)
+
+## 1. [nginx中的路径匹配规则详解（location规则） - huangSir-devops](https://www.cnblogs.com/huangSir-devops/p/18811123)   2025-04-06 14:51
+
+Nginx的匹配规则使用`location`指令实现，用于匹配请求的URI（请求路径）并执行相应的处理指令。`location`是Nginx实现动静分离、URL重写和反向代理等功能的核心模块。文章详细介绍了`location`的匹配规则分类及其应用场景，帮助读者理解如何优化Nginx配置。
+
+---
+
+## 2. [https://api.daily.dev/r/oNaQO8lTp](https://app.daily.dev/posts/onaqo8ltp)   2025-04-05 18:42
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--P4t4XyoV--/f_auto/v1722860399/public/Placeholder%2001)
+
+---
+
+## 3. [Bu websitesi, ElevenLabs tarafından oluşturulan bir platformdur. Çeşitli AI araçları ve hizmetleri için fırsatlar, indirimler hatta zaman zama...](https://app.daily.dev/posts/bu-websitesi-elevenlabs-taraf-ndan-olu-turulan-bir-platformdur-e-itli-ai-ara-lar-ve-hizmetleri-i-nvflybljq)   2025-04-04 19:08
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--HRgLpUt6--/f_auto/v1722860399/public/Placeholder%2003)
+
+---
+
+## 4. [NPM binary planting is a way to cause dependency confusion within installed executable packages with npx. Haoqun Jiang from the Vue.js and Vite core t...](https://app.daily.dev/posts/npm-binary-planting-is-a-way-to-cause-dependency-confusion-within-installed-executable-packages-with-z72rkazlm)   2025-04-04 15:00
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--VDukGCjf--/f_auto/v1722860399/public/Placeholder%2002)
+
+---
+
+## 5. [Get FREE stickers by signing up for the SyntaxFM newsletter](https://app.daily.dev/posts/get-free-stickers-by-signing-up-for-the-syntaxfm-newsletter-r9dqbyo6n)   2025-04-03 22:09
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--foaA6JGU--/f_auto/v1722860399/public/Placeholder%2004)
+
+---
+
+## 6. [https://api.daily.dev/r/N4YiUb5ym](https://app.daily.dev/posts/n4yiub5ym)   2025-04-03 20:11
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--qPvKM23u--/f_auto/v1722860399/public/Placeholder%2009)
+
+---
+
+## 7. [Supabase has just released their very own fullstack UI library! Check out this video to see all the cool new features and how it can benefit your proj...](https://app.daily.dev/posts/supabase-has-just-released-their-very-own-fullstack-ui-library-check-out-this-video-to-see-all-the--qbsedq5vw)   2025-04-03 18:58
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--ZrL_HSsR--/f_auto/v1722860399/public/Placeholder%2006)
+
+---
+
+## 8. [https://api.daily.dev/r/0LkvUXMxw](https://app.daily.dev/posts/0lkvuxmxw)   2025-04-03 01:07
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--2-1xRawN--/f_auto/v1722860399/public/Placeholder%2011)
+
+---
+
+## 9. [https://api.daily.dev/r/qt16X4zYH](https://app.daily.dev/posts/qt16x4zyh)   2025-04-02 14:53
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--2-1xRawN--/f_auto/v1722860399/public/Placeholder%2011)
+
+---
+
+## 10. [💡 93.3% with Thinking, 92.9% without — that’s Refact.ai Agent's new results on Aider's polyglot benchmark! What makes this score stand out? Full-...](https://app.daily.dev/posts/93-3-with-thinking-92-9-without-that-s-refact-ai-agent-s-new-results-on-aider-s-polyglot-benc-vbdxsvi85)   2025-04-02 01:24
+
+暂无描述信息。
+
+![](https://media.daily.dev/image/upload/s--OHB84bZF--/f_auto/v1722860399/public/Placeholder%2010)
+
+---
+# 新闻简报(更新时间:2025-04-06 15:45)
+
+## 1. [【保姆级教程】windows 安装 docker 全流程 - 美码师](https://www.cnblogs.com/littleatp/p/18810739)   2025-04-06 12:23
+
+许多用户在安装 Dify 或 RagFlow 等工具时，常常遇到 Docker 安装问题，尤其是在 Windows 系统上。文章详细介绍了 Windows 环境下安装 Docker 的全流程，包括对常见问题的解决方案和优化建议。
+
+---
+
+## 2. [7. RabbitMQ 消息队列——延时队列(Spring Boot + 安装message_exchange延迟插件 的详细配置说明) - Rainbow-Sea](https://www.cnblogs.com/TheMagicalRainbowSea/p/18810981)   2025-04-06 12:08
+
+本文深入讲解了 RabbitMQ 消息队列的延时队列功能，结合 Spring Boot 和延迟插件 message_exchange 的配置步骤，帮助开发者快速上手实现延迟队列的功能。
+
+---
+
+## 3. [在类 Unix 系统中将 Nginx 源码导入 CLion 并调试运行 - cyhbyw](https://www.cnblogs.com/cyhbyw/p/18810527)   2025-04-06 09:37
+
+文章详细介绍了如何在类 Unix 系统（如 MacOS、CentOS、Ubuntu）中，将 Nginx 源码导入到 CLion IDE 中进行调试的全过程，并提供了相关环境配置和操作建议。
+
+---
+
+## 4. [JavaScript Animation Engine](https://app.daily.dev/posts/javascript-animation-engine-9pqzinbcv)   2025-04-04 01:59
+
+Anime.js 是一个强大的 JavaScript 动画库，支持对象旋转、路径动画、SVG 路径动画等功能，还提供时间轴、动画分组、拖拽以及基于媒体查询的动画配置，适合开发者打造复杂的交互效果。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a7de3135757a904e7422c7373ae27b61?_a=AQAEuj9)
+
+---
+
+## 5. [FlexApp - Build mobile apps with AI, not code](https://app.daily.dev/posts/flexapp---build-mobile-apps-with-ai-not-code-y96b6wvn4)   2025-03-29 18:15
+
+FlexApp 是一个基于 AI 的无代码移动应用开发平台，用户可以通过简单的指令和操作快速生成功能完备的应用程序，极大降低了开发门槛。
+
+![](https://media.daily.dev/image/upload/s--58gMhC4P--/f_auto/v1722860399/public/Placeholder%2012)
+
+---
+
+## 6. [Not Every App Needs Real-Time Validation!](https://app.daily.dev/posts/not-every-app-needs-real-time-validation--rgytekqvc)   2025-03-25 00:33
+
+文章讨论了表单开发中是否需要实时验证的问题，建议开发者根据具体场景选择适当的验证方式，并提供了基于 React 的优化方法，减少多余的渲染以提升性能。
+
+![](https://media.daily.dev/image/upload/s--yyT364yz--/f_auto/v1742833985/posts/RGyTekQvC)
+
+---
