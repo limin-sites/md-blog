@@ -54,3 +54,63 @@
 
 ---
 
+
+# 新闻简报(更新时间:2025-04-06 15:45)
+
+## 1. [Meta深夜开源Llama 4！首次采用MoE，惊人千万token上下文，竞技场超越DeepSeek](https://www.jiqizhixin.com/articles/2025-04-06-4)   2025-04-06 10:18
+
+Meta发布了最新AI模型系列Llama 4，包括Llama 4 Scout、Maverick和Behemoth，首次采用混合专家(MoE)架构，支持1000万token上下文。Llama 4 Maverick在大模型竞技场排名第二，超越自家Llama 3。所有模型均采用原生多模态设计，支持图像与文本的无缝整合。开发者现可在官方网站及Hugging Face下载。
+
+![](https://image.jiqizhixin.com/uploads/editor/bbe18880-8bee-4885-a7aa-a2390e0f1669/640.png)
+
+---
+
+## 2. [从0到1玩转MCP：AI的「万能插头」，代码手把手教你！](https://www.jiqizhixin.com/articles/2025-04-06-3)   2025-04-06 10:14
+
+MCP（模型上下文协议）作为AI与外部工具交互的标准化连接方式，正逐渐改变AI生态。最新博客详细解析了MCP的工作原理及代码实现，帮助开发者通过MCP轻松集成外部工具。OpenAI、谷歌等巨头已开始支持MCP，推动AI系统互操作性和安全性进一步提升。
+
+![](https://image.jiqizhixin.com/uploads/editor/97c9b89d-8bab-41f2-afe6-cd6bf8af1a18/640.png)
+
+---
+
+## 3. [Runway 融资3.08亿美元，估值超 30 亿美元](https://www.aibase.com/zh/news/16867)   2025-04-06 10:08
+
+人工智能视频初创公司Runway完成3.08亿美元融资，估值突破30亿美元。本轮融资由General Atlantic领投，吸引了软银、Nvidia等知名机构参与。Runway计划将资金用于研发投入、团队扩充及全球市场拓展，以巩固其在AI视频领域的领先地位。
+
+---
+
+## 4. [CVPR满分论文 | 英伟达开源双目深度估计大模型FoundationStereo](https://www.jiqizhixin.com/articles/2025-04-06-2)   2025-04-06 10:08
+
+英伟达发布FoundationStereo模型，用于立体深度估计，具备强大的零样本泛化能力。该模型通过百万级合成数据训练，结合单目先验与立体匹配技术，在Middlebury、ETH3D等基准测试中表现卓越。论文获得CVPR2025满分评审，代码已开源。
+
+![](https://image.jiqizhixin.com/uploads/editor/236b918b-b2cf-43a2-a054-6427f5984971/640.png)
+
+---
+
+## 5. [清明假期广西高速启用AI交通大模型治理拥堵](https://www.aibase.com/zh/news/16866)   2025-04-06 10:02
+
+广西交通投资集团推出“路网先知”交通大模型，结合无人机协同治堵体系，实现全域巡查无死角。在清明假期期间，该系统成功缓解拥堵状况，为“五一”假期及未来交通管理积累了重要数据。
+
+---
+
+## 6. [大语言模型变身软体机器人设计「自然选择器」，GPT、Gemini、Grok争做最佳](https://www.jiqizhixin.com/articles/2025-04-06)   2025-04-06 09:58
+
+密歇根大学开发基准测试RoboCrafter-QA，评估语言模型在软体机器人设计中的表现。Gemini-1.5-Pro在任务理解和设计选择能力上表现优异，探索了AI驱动机器人设计的潜力，为智能化设计流程开辟新方向。
+
+![](https://image.jiqizhixin.com/uploads/editor/3b6f0016-389e-42c7-a479-9a544a59b89d/640.png)
+
+---
+
+## 7. [谷歌 Gemini 2.5 Pro API 定价公布，使用量猛增引关注](https://www.aibase.com/zh/news/16865)   2025-04-06 09:42
+
+谷歌公布Gemini 2.5 Pro API定价，输入tokens每百万1.25美元，输出tokens10美元。尽管价格高于部分竞争对手，Gemini 2.5 Pro在Google AI Studio上的使用量本月增长了80%，显示出开发者的广泛关注。
+
+---
+
+## 8. [Meta 官宣开源原生多模态 Llama 4，性能强劲引关注](https://www.aibase.com/zh/news/16864)   2025-04-06 09:39
+
+Meta发布Llama 4系列开源模型，包括Scout和Maverick，支持1000万上下文，首次采用MoE架构，在LMSYS排行榜表现优异。未来将推出更强大的2万亿参数Llama 4 Behemoth以进一步强化其AI实力。
+
+![](https://upload.chinaz.com/2025/0406/6387952914235214277972693.png)
+
+---
