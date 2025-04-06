@@ -73,3 +73,48 @@ Bun 发布了最新版本，其中一个重要改进是 `Headers.get` 方法的�
 ![](https://media.daily.dev/image/upload/s--ZrL_HSsR--/f_auto/v1722860399/public/Placeholder%2006)
 
 ---
+# 新闻简报(更新时间:2025-04-07 05:45)
+
+## 1. [【U-Boot】解决U-Boot的“Unknown command 'help' - try 'help'”问题 - 清风来叙](https://www.cnblogs.com/minuhy/p/18811980)   
+2025-04-07 04:22
+
+最近在使用U-Boot时，遇到输入help命令后提示“Unknown command 'help' - try 'help'”的问题。作者记录了解决该问题的详细过程，包括调试步骤和解决方案，非常适合正在学习或使用U-Boot的开发者参考。
+
+---
+
+## 2. [一文速通Python并行计算：06 Python多线程编程-基于队列进行通信 - FreakStudio](https://www.cnblogs.com/FreakEmbedded/p/18811961)   
+2025-04-07 01:01
+
+本文介绍了Python中队列的多种类型及其应用场景，包括FIFO队列、LIFO队列和优先级队列。这些队列在生产者与消费者的通信中起到缓冲作用，并适用于不同的任务场景。文章还深入讲解了队列在多线程编程中的使用，适合对并行计算有兴趣的读者。
+
+---
+
+## 3. [HTB打靶记录-Administrator - F12~](https://www.cnblogs.com/F12-blog/p/18811390)   
+2025-04-07 00:09
+
+作者分享了在HTB平台进行网络靶场挑战的过程，详细记录了信息收集步骤，包括使用nmap扫描目标的服务与端口。文章适合对网络安全与渗透测试感兴趣的读者学习和参考。
+
+---
+
+## 4. [洛谷P4198 楼房重建 题解 - Ruan_ji](https://www.cnblogs.com/blogs-for-Ruan-ji/p/18811886)   
+2025-04-06 23:24
+
+文章讨论了洛谷P4198题目“楼房重建”的解决思路与技巧。作者从问题的斜率变化入手，分析了如何通过单点修改来优化解法，同时对复杂的统计过程给出了自己的理解与解决方案，非常适合算法爱好者阅读。
+
+---
+
+## 5. [Firefox is finally adding PWA support](https://app.daily.dev/posts/firefox-is-finally-adding-pwa-support-q46d9htnv)   
+2025-04-01 02:49
+
+Firefox通过“Taskbar Tabs”实验性功能引入了渐进式网络应用（PWA）支持。相比基于Chromium的浏览器，Firefox保留了关键的浏览器UI元素，并提供了临时的网页应用模式切换。这种实现方式与官方PWA规范有所不同，旨在提供更加灵活的类应用体验。
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a26905f5b0c47c19824b196b19d89775?_a=AQAEuj9)
+
+---
+
+## 6. [Self Hosting Like Its 2025](https://app.daily.dev/posts/self-hosting-like-its-2025-6psxz9cb6)   
+2025-04-01 20:04
+
+自托管正成为一种取代数据收集服务的热门选择。文章介绍了自托管的优势、相关软件工具以及容器运行时（如Docker和Kubernetes）。此外，还涉及容器管理工具和反向代理解决方案，提供了丰富资源和实用工具来优化自托管体验。
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/483a293a6ab79597ffe116f9e1092892?_a=AQAEuj9)
+
+---
