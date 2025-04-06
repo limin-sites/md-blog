@@ -95,3 +95,24 @@
 ![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a3f4dbc350bbb0df2bfb3bb8f314fa64?_a=AQAEuj9)
 
 --- 
+# 新闻简报(更新时间:2025-04-06 10:45)
+
+## 1. [『Plotly实战指南』--散点图绘制进阶篇 - wang_yb](https://www.cnblogs.com/wang_yb/p/18810863)   2025-04-06 08:47
+
+在数据分析中，散点图是一种重要的可视化工具，可展示多个变量之间的关系，帮助发现数据中的模式、趋势和异常点。相比静态图表，基于Plotly绘制的散点图具有交互性，可通过鼠标悬停、缩放等功能进一步探索数据。本文详细介绍了绘制进阶散点图的技巧与应用，旨在帮助读者深入理解数据的潜在规律。
+
+---
+
+## 2. [Supabase has just released their very own fullstack UI library!](https://app.daily.dev/posts/supabase-has-just-released-their-very-own-fullstack-ui-library-check-out-this-video-to-see-all-the--qbsedq5vw)   2025-04-03 18:58
+
+Supabase正式发布了他们的全栈UI库，并附带了一段展示新功能的视频。该库包括丰富的组件和工具，旨在简化开发者的应用构建流程。无论是前端还是后端开发，这个全栈解决方案都可以显著提升项目效率，为开发者提供更流畅的体验。
+
+![](https://media.daily.dev/image/upload/s--ZrL_HSsR--/f_auto/v1722860399/public/Placeholder%2006)
+
+---
+
+## 3. [虚函数表里有什么？（二）——普通单继承下的虚函数表 - 同勉共进](https://www.cnblogs.com/zpcdbky/p/18800861)   2025-04-06 03:34
+
+这篇文章延续了对虚函数表的探讨，重点分析普通单继承情况下的虚函数表结构及其条目的作用。通过示例代码，作者详细解释了如何使用虚函数表来实现多态行为，并揭示了底层机制的工作原理。对于深入理解面向对象编程的读者，这是一篇不可错过的技术文章。
+
+---
