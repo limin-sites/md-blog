@@ -674,3 +674,87 @@ Spring Boot中的@JsonView注解提供了动态控制字段序列化的功能。
 @Async是Spring 3.0提供的注解，用于标识某类或方法执行异步调用。文章详细介绍了该注解的基本使用及底层实现原理，帮助开发者更好地理解异步编程机制。
 
 ---
+# 新闻简报 (更新时间: 2025-04-08 20:45)
+
+## 1. [GitLab vs GitHub : Key Differences in 2025](https://app.daily.dev/posts/gitlab-vs-github-key-differences-in-2025-dzet6en1u)   2025-04-07 21:49
+
+GitLab与GitHub是领先的Git托管平台，各具特色。GitLab提供全面的DevOps平台，包括CI/CD、安全扫描和基础设施管理，适合企业应用。GitHub以代码托管和协作功能闻名，依赖第三方工具实现广泛的DevOps功能，但在易用性、社区支持和集成方面表现出色。两者均支持AI驱动的编程助手，但GitLab凭借额外的安全合规功能在大型组织中更具优势。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/c9e018aeb664066a0a42a7f7ccab52be?_a=AQAEuj9)
+
+---
+
+## 2. [手写数字识别实战教程：从零实现MNIST分类器（完整代码示例） - TechSynapse](https://www.cnblogs.com/TS86/p/18815132)   2025-04-08 17:40
+
+手写数字识别是人工智能领域的经典任务。本文详细介绍如何从零开始实现一个AI程序，使用基础的机器学习算法在经典的MNIST数据集上达到高准确率。通过实践，你将深入理解模式识别的核心思想。完整代码示例助你轻松入门人工智能开发。
+
+---
+
+## 3. [最新DeepSeek-V3驱动的MCP与SemanticKernel实战教程 - 打造智能应用的终极指南](https://www.cnblogs.com/token-ai/p/18815070)   2025-04-08 17:16
+
+本文介绍了MCP（Model Context Protocol）的基本概念及应用场景，它是一种开放协议，旨在实现LLM应用与外部数据源和工具的无缝集成。通过结合DeepSeek-V3与SemanticKernel，开发者可以打造更智能的应用程序。教程内容详尽，适合技术爱好者深入学习。
+
+---
+
+## 4. [shell处理字符串 - huangSir-devops](https://www.cnblogs.com/huangSir-devops/p/18814665)   2025-04-08 16:37
+
+本文详细介绍了在shell编程中处理字符串的各种方式，包括单引号、双引号及不使用引号的情况。文章深入讲解了字符串变量的声明、使用限制以及常见问题，帮助开发者掌握shell编程的基础技能。
+
+---
+
+## 5. [深度学习--个人总结 - 虾饺爱下棋](https://www.cnblogs.com/lizhongzheng/p/18814913)   2025-04-08 16:20
+
+本文记录了作者在深度学习实践中遇到的问题与解决方案，包括权重初始化、学习率设置等关键技术点。同时，文章探讨了验证集与测试集的区别，提供了实用的建议，适合初学者参考。
+
+---
+
+## 6. [HTB打靶记录-Vintage - F12~](https://www.cnblogs.com/F12-blog/p/18814904)   2025-04-08 16:15
+
+文章记录了HTB(Vintage)的渗透测试过程，详细介绍了使用nmap进行信息收集并分析目标主机的端口状态。内容适合安全领域的初学者学习网络攻防技巧。
+
+---
+
+## 7. [Web前端入门第 29 问：CSS 盒模型：网页布局的基石 - 前端路引](https://www.cnblogs.com/linx/p/18814772)   2025-04-08 15:23
+
+CSS盒模型是网页布局的核心概念，决定了每个HTML元素在页面中的空间和位置。本文通过详尽的讲解，帮助读者理解盒模型的基本规则，并掌握网页布局的技巧，是前端开发者不可错过的学习资源。
+
+---
+
+## 8. [Win10在WSL上使用Vivado对ZCU 102 PYNQ进行ILA调试 - weileng](https://www.cnblogs.com/19373400weileng/p/18814744)   2025-04-08 15:09
+
+本文介绍了如何在Win10的WSL环境下使用Vivado工具对ZCU 102 PYNQ板进行ILA调试。详细讲解了硬件连接和配置步骤，为开发者提供了高效的调试指南。
+
+---
+# 新闻简报(更新时间:2025-04-08 20:45)
+
+## 1. [记录-内网部署vllm分布式推理DeepSeekR1:70b - 日报初级开发工程师](https://www.cnblogs.com/april-code/p/18814698)   
+2025-04-08 14:49
+
+背景介绍了在内网部署DeepSeekR1:70b的过程，作者尝试了ollama、vllm、llamacpp等工具，最终选择了vllm的分布式推理方式进行部署。文章详细列出了所需资源，包括vllm的Docker镜像，以及具体实施步骤。此外，作者还提到使用的服务器配置为四台Tesla T4显卡设备，16GB显存。内容适合对分布式推理技术感兴趣的开发者阅读。
+
+---
+
+## 2. [剖析 Docker Swarm 操作对容器端口影响 - xiao智](https://www.cnblogs.com/yuwen01/p/18814696)   
+2025-04-08 14:46
+
+文章剖析了在使用Docker Swarm构建集群环境时遇到的一个问题：ts3节点的容器端口失效，需手动重启才能恢复。作者详细描述了问题背景，包括使用`docker swarm init`命令的具体配置，并分析了可能的原因及解决方法，为开发者提供了实践经验，适合有相关技术需求的读者参考。
+
+---
+
+## 3. [The evolution of Modern RAG Architectures.](https://app.daily.dev/posts/the-evolution-of-modern-rag-architectures--zr2mvmkvl)   
+2025-04-07 15:51
+
+文章探讨了检索增强生成（Retrieval Augmented Generation，RAG）架构的演变过程，从最初的Naive RAG到更高级的Cache Augmented Generation（CAG）和Agentic RAG。内容涵盖了各阶段解决的挑战、提高准确性的先进方法，以及未来可能的技术突破。对于关注人工智能领域，尤其是生成式架构的读者来说，这是一篇值得阅读的文章。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/879438db0995a377f92ddf28ba2c24ef?_a=AQAEuj9)
+
+---
+
+## 4. [CVE-2014-0401 : PHP Currency weakness!](https://app.daily.dev/posts/cve-2014-0401-php-currency-weakness--kvhdwrtsr)   
+2025-04-02 02:28
+
+文章简要讨论了CVE-2014-0401漏洞，该漏洞涉及PHP中的货币弱点问题。虽然内容较为简略，但提醒开发者关注此安全问题。适合对漏洞和安全领域感兴趣的读者了解。
+
+![](https://media.daily.dev/image/upload/s--OHB84bZF--/f_auto/v1722860399/public/Placeholder%2010)
+
+---
