@@ -143,3 +143,100 @@ Ninja Theory工作室的《Senua’s Saga: Hellblade II》在本届BAFTA游戏�
 ![](https://img.3dmgame.com/uploads/images/news/20250407/1744032074_254162.jpg)
 
 ---
+# 新闻简报 (更新时间: 2025-04-08 10:45)
+
+## 1. [任天堂Switch 2游戏定价引争议 《博德之门3》发行总监呼吁灵活定价](https://www.3dmgame.com/news/202504/3917948.html)  
+2025-04-08 09:23
+
+近日，任天堂宣布Switch 2游戏《马里奥赛车：世界》售价高达80美元，引发玩家广泛争议。《博德之门3》发行总监Michael Douse呼吁开发者采用灵活定价策略，而非完全遵循零售规范。任天堂方面则表示并非所有游戏价格都会是80美元，但这一定价显然标志着游戏价格的显著上涨，分析师认为生活成本增加是主要原因。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744075350_814452.png)
+
+---
+
+## 2. [《Blue Prince》获M站均分92好评 解谜新游发售在即](https://www.3dmgame.com/news/202504/3917947.html)  
+2025-04-08 09:14
+
+Dogubomb工作室开发8年的解谜新游《Blue Prince》即将于4月10日发售，M站评测均分高达92分。游戏融合了策略和roguelite元素，玩家将探索一座不断变化的神秘房屋。多家媒体表示游戏解谜方式新颖且不可多剧透，感兴趣的玩家可以关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744074848_889882.png)
+
+---
+
+## 3. [《最后的生还者2》PC版自带修改器 尽情享受乐趣](https://www.3dmgame.com/news/202504/3917946.html)  
+2025-04-08 08:59
+
+顽皮狗在《最后的生还者2》PC版中意外保留了开发者调试菜单，玩家通过下载脚本即可使用无限弹药、穿墙等功能。制作方暂未说明是否会删除这一菜单。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744073922_659904_jpg_r.jpg)
+
+---
+
+## 4. [《最后的生还者2》PC版很棒 Steam在线峰值30690人](https://www.3dmgame.com/news/202504/3917945.html)  
+2025-04-08 08:50
+
+《最后的生还者2：重制版》登陆Steam后表现亮眼，在线玩家峰值达30690人，且好评率为88%。游戏包含技术强化和精彩故事，吸引了大量玩家。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744073350_505037.jpg)
+
+---
+
+## 5. [《地铁：逃离》前开发者新作《La Quimera》4月25日发售](https://www.3dmgame.com/news/202504/3917944.html)  
+2025-04-08 08:49
+
+前《地铁：逃离》开发者组成的Reburn工作室推出科幻射击游戏《La Quimera》，将于4月25日发售。游戏采用4A引擎，讲述PMC组织的未来冲突故事，并支持外骨骼高科技战斗。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744073110_237412_jpg_r.jpg)
+
+---
+
+## 6. [任天堂确认：Switch 2不会有成就系统 玩家失望！](https://www.3dmgame.com/news/202504/3917943.html)  
+2025-04-08 08:27
+
+任天堂确认Switch 2将不会配备成就系统，但部分游戏如《塞尔达传说》将通过手机应用提供成就功能。Switch 2将于6月5日发售，玩家期待的新功能仍显不足。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744071967_545922_jpg_r.jpg)
+
+---
+
+## 7. [任天堂不会放弃支持Switch 1 这一群体达1.5亿](https://www.3dmgame.com/news/202504/3917942.html)  
+2025-04-08 08:19
+
+任天堂美国总裁Doug Bowser表示，Switch 2发售后仍会继续支持Switch 1，其安装基数已达1.5亿台。多款游戏如《宝可梦传说：Z-A》将同时登陆Switch 1与Switch 2。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744071443_876601_jpg_r.jpg)
+
+---
+
+## 8. [《死亡搁浅》真人电影选中导演 《寂静之地：入侵日》导演执导](https://www.3dmgame.com/news/202504/3917941.html)  
+2025-04-08 08:09
+
+《死亡搁浅》真人改编电影将由迈克尔·萨诺斯基执导，并由小岛工作室与A24联合制作。电影计划在《死亡搁浅2》发售后开始制作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744070835_449150_jpg_r.jpg)
+
+---
+
+## 9. [任天堂为80美元定价辩护：Switch2游戏将证明新价格合理](https://www.3dmgame.com/news/202504/3917940.html)  
+2025-04-08 08:06
+
+任天堂美国副总裁Bill Trinen表示，Switch 2游戏的80美元定价是基于其内容价值的合理决定。《马里奥赛车：世界》等游戏将通过丰富内容证明新价格的合理性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250408/1744070562_713997.jpg)
+
+---
+
+## 10. [Introducing the Season 03 Battle Pass, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-battle-pass-blackcell-bundles-intel-drop#new_tab)  
+2025-04-08 05:45
+
+《使命召唤：黑色行动6》和《使命召唤：战区》推出第三赛季战斗通行证、新的BlackCell系统以及商店捆绑包，为玩家带来更多新内容和玩法体验。
+
+---
+# 新闻简报(更新时间:2025-04-08 10:45)
+
+## 1. [关于《马拉松》的官方新闻稿](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-07 23:33
+
+《马拉松》是一款基于团队的撤离射击游戏，由著名游戏开发商 Bungie 推出，这是他们在十多年来的首个全新项目。《马拉松》的背景设定在神秘的天仓四 IV 号行星，玩家将扮演“奔跑者”，一种经过义体改造的雇佣兵角色，专门为适应恶劣环境而设计。在游戏中，玩家将在废弃的殖民地地表中探索，寻找包括新武器和装备在内的珍贵战利品。这款游戏融合了团队合作与冒险探索的新玩法，吸引了大量玩家的期待。
+
+![](https://static.willmao.com/feed_upload/2025-04-07/23-04-48-phpUaBqRI.jpg)
+
