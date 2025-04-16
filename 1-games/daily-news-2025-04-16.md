@@ -742,3 +742,196 @@ Funcom宣布开放世界生存网游《沙丘：觉醒》PC版跳票，从原计
 开发商Casual Brothers工作室首次独立推出游戏，希望通过这款作品与全球玩家建立更深的联系。现在就加入《Hot Rod Mayhem》社区，与其他玩家一起分享乐趣与反馈吧！
 
 ![](https://pub-f354ec240bea480db7320bd0e29d972e.r2.dev/sites/2/2025/04/Screenshot_PS_11-1cb9c3bdcff6c43afb4d.jpg)
+# 新闻简报 (更新时间: 2025-04-16 15:45)
+
+## 1. [斯宾塞谈原创IP与未来方向](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 15:33
+
+微软高层斯宾塞表示未来将以原创IP为主要开发方向，并对《夺宝奇兵》的成功感到满意。他强调团队有讲述新故事的空间，并希望继续推动原创内容的发展。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/15-33-13-phpfsJ4jA.webp)
+
+---
+
+## 2. [ZeniMax推出《上古卷轴OL》纪念牌匾](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 15:29
+
+ZeniMax Online Studios将停用的《上古卷轴OL》服务器制作成限量2000块纪念牌匾，牌匾附带签名证书，并纪念该游戏十年的历程。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/15-28-24-phpKDKN7Z.webp)
+
+---
+
+## 3. [斯宾塞谈Xbox Game Pass增长趋势](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 15:07
+
+斯宾塞指出Xbox Game Pass增长最快的领域是PC和云游戏。同时，他认为订阅服务对于玩家是探索游戏的好选择，但并不适合所有人。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/15-07-00-phpHwBtHC.webp)
+
+---
+
+## 4. [微软游戏改编项目不断学习与成长](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 14:59
+
+斯宾塞表示微软将从游戏改编项目中学习经验，并继续创作更多作品，同时不会给团队施加压力。他强调社区的支持对项目成功至关重要。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/14-58-51-phpn3zMHi.jpg)
+
+---
+
+## 5. [斯宾塞谈微软2025游戏阵容](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 14:56
+
+微软高层斯宾塞谈到今年游戏阵容，包括《天外世界2》和《毁灭战士》等未公布的作品，同时对团队的能力充满信心。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/14-55-51-phpevM7Jo.jpg)
+
+---
+
+## 6. [ZOTAC GAMING推出GeForce RTX 5060系列显卡](https://www.4gamers.com.tw/news/detail/71287/zotac-gaming-geforce-nvidia-rtx-5060ti-5060) 2025-04-16 14:54
+
+ZOTAC发布新款RTX 5060系列显卡，配备高速GDDR7内存与强效散热系统，支持小型机箱设计，预计将带来更强性能与广泛兼容性。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2fad9654162f54251498fc2cdee085cdfb7e7d40.png)
+
+---
+
+## 7. [斯宾塞谈电子游戏改编为电影或电视剧的必要性](http://nnas.sqngame.com:11201/xboxfan/news) 2025-04-16 14:54
+
+斯宾塞认为电子游戏不需要强制改编为电影或电视剧，强调创意输出的独特性，同时希望专注于互动娱乐的创新。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/14-54-05-php2Mykyq.jpg)
+
+---
+
+## 8. [PS Plus会员新增六款游戏](https://www.3dmgame.com/news/202504/3918418.html) 2025-04-16 14:44
+
+PS Plus Extra和Premium会员迎来新一轮游戏更新，包括《战地1》、《霍格沃茨之遗》和《鬼屋魔影2》等多款作品，部分游戏于Premium档位独占。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744785681_628882_jpg_r.jpg)
+
+---
+
+## 9. [Xbox回应《我的世界》电影成功](https://www.3dmgame.com/news/202504/3918417.html) 2025-04-16 14:40
+
+斯宾塞表示《我的世界》电影的成功并不意味着其他游戏名作需推行多元化发展，强调电子游戏自身的素质才是关键。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744785587_131372.jpg)
+
+---
+
+## 10. [《明末：渊虚之羽》新视频发布](https://www.3dmgame.com/news/202504/3918415.html) 2025-04-16 14:38
+
+《明末：渊虚之羽》发布新视频，展示女主潜行偷袭的精彩片段。游戏售价或在四月末公布，官方透露将有惊喜。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744784564_411025.jpg)
+
+---
+# 新闻简报 (更新时间: 2025-04-16 15:45)
+
+## 1. [Steam第一人称狼人杀《Among Us 3D》确认5月初发售，愿望清单冲刺活动开跑](https://www.4gamers.com.tw/news/detail/71288/among-us-3d-release-date-reveal)   
+2025-04-16 14:36
+
+由Schell Games与Innersloth联合开发的3D版《Among Us》确认将在5月初发售，台北时间5月7日正式上架。游戏将以第一人称视角为主，带来更加沉浸的太空狼人杀体验。此外，官方还宣布新增“僵尸感染模式”，进一步丰富玩法。为庆祝上市，Steam愿望清单冲刺活动已启动，玩家有机会获取限定装扮。
+
+![](https://img.4gamers.com.tw/puku-clone-version/90312c995f0c2161b0b7765ea4d5fc108f1d2c26.jpg)
+
+---
+
+## 2. [《八戒之天蓬下界》动画电影定档海报 7月11日上映](https://www.3dmgame.com/news/202504/3918416.html)   
+2025-04-16 14:33
+
+动画电影《八戒之天蓬下界》官方发布定档海报，宣布影片将于7月11日上映。故事讲述天蓬元帅跌落妖城，法力尽失化为猪妖，却奋起为爱为义战破苍穹。影片将带来震撼的视觉体验，三界混战一触即发。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744785204_709176.jpg)
+
+---
+
+## 3. [《剑星》电影级写实1/3比例模型亮相，超美伊芙回眸搭配迅梓套组](https://www.4gamers.com.tw/news/detail/71285/stellar-blade-official-hyper-realistic-figures-up-for-pre-orders)   
+2025-04-16 13:43
+
+韩国模型厂商JND Studios宣布推出基于PS5动作冒险游戏《剑星》的超写实1/3比例模型，包括主角伊芙和迅梓。单个伊芙模型售价2199美元，双人套组售价3599美元。模型以医疗级硅胶制作，细节惊艳，预购将于4月18日开启。
+
+![](https://img.4gamers.com.tw/puku-clone-version/98fa4659f616cb11655967cba506724e9af4eac0.jpg)
+
+---
+
+## 4. [《双影奇境》宣布 Nintendo Switch 2 预购信息与深入访谈](https://www.3dmgame.com/news/202504/3918414.html)   
+2025-04-16 13:43
+
+EA Originals与Hazelight宣布《双影奇境》的Nintendo Switch 2版本将于4月24日开始预购，售价49.99美元，并于6月5日作为Switch 2首发游戏推出。新版本支持GameShare和GameChat功能，为玩家提供更加互动的合作体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744782225_866826.png)
+
+---
+
+## 5. [《星球大战 零号连队》首张艺术图与游戏揭露](https://www.3dmgame.com/news/202504/3918413.html)   
+2025-04-16 13:42
+
+全新单人回合制战术游戏《星球大战 零号连队》即将亮相。游戏首次揭露将于4月19日的《星球大战》庆典上举行，开发团队将分享设计理念与细节，带来独特的《星球大战》体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744782159_469236.png)
+
+---
+
+## 6. [任天堂宣布Switch 2第二轮预购抽签 参与条件未定](https://www.3dmgame.com/news/202504/3918412.html)   
+2025-04-16 13:32
+
+任天堂Switch 2首轮预购抽签刚刚结束，第二轮抽签将于4月28日开启。第一轮的参与条件包括50小时以上游戏记录和一年以上Nintendo Switch Online会员时间，第二轮条件尚未公布，或将有所放宽。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744781498_226363.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-16 15:45)
+
+## 1. [《SD鋼彈 G世代 永恆》開發人員表示志在成為鋼彈百科大全](https://www.4gamers.com.tw/news/detail/71286/development-of-g-generation-eternal-will-to-create-a-gundam-encyclopedia)   2025-04-16 13:07
+
+最新行動遊戲《SD鋼彈 G世代 永恆》於今日上市，開發人員希望此作品能成為鋼彈百科全書，並納入大量機體與角色，包括未登場的稀有作品和漫畫原作角色。開發團隊在移植至手機平台時克服了多次UI設計挑戰，力求提供舒適的遊戲體驗。
+
+![](https://img.4gamers.com.tw/puku-clone-version/85a40f4ff1f91dd15ecf5aaafb457d9157c7d5d8.jpg)
+
+---
+
+## 2. [「歷戰王」即將登場，《魔物獵人荒野》4/30將迎「歷戰王煌雷龍」與「煌雷龍γ系列」防具](https://www.4gamers.com.tw/news/detail/71284/mhwilds-arch-tempered-rey-dau-coming-at-april-30th)   2025-04-16 12:53
+
+《魔物獵人荒野》宣布自4月30日起新增「沉默的閃光」任務，獵人將對抗強大的歷戰王煌雷龍。新防具「煌雷龍γ系列」及多款隨從裝備也同步推出。此外，今日已進行版本更新，修正了特定動作姿勢的Bug。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ccfbaafa61c5f7e72e5a6216da04c489e1b36d36.webp)
+
+---
+
+## 3. [真人電影版《全知讀者視角》台灣7月登陸大銀幕](https://www.4gamers.com.tw/news/detail/71282/omniscient-reader-live-action-release-in-taiwan)   2025-04-16 12:43
+
+改編自知名網路小說的真人電影《全知讀者視角》將於7月在台灣上映。電影由《與神同行》製作團隊打造，耗資300億韓圜，並由金獨子、劉眾赫等角色主演。本片講述主角金獨子在小說場景成真後，如何在滅亡的世界中存活。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7166a62048706f7ed5009a5748084017c2e7ccce.jpg)
+
+---
+
+## 4. [PvPvE撤離射擊新作《ARC Raiders》跨平台測試4/30開跑](https://www.4gamers.com.tw/news/detail/71281/pvpve-fps-arc-raiders-tech-test-2-launch-on-april-30th)   2025-04-16 12:43
+
+由Embark Studios開發的PvPvE射擊遊戲《ARC Raiders》宣布第二次技術測試將於4月30日至5月4日展開，支持PC和主機平台。本次測試展示了ARC機械的多樣性、成長系統與戰鬥通行證，玩家可申請資格參與。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3c518e364eddde0a23b4f5bd6479c83597258b3e.jpg)
+
+---
+
+## 5. [微软用AI“重制”了一代FPS经典，但没有人感到开心](https://www.yystv.cn/p/12757)   2025-04-16 12:40
+
+微软利用生成式AI重制了《雷神之锤2》，但画面质量差、游戏体验糟糕引发玩家不满。AI技术的应用仍处于早期阶段，微软希望未来能用AI帮助保留经典老游戏，但目前的成果难以满足玩家和开发者的期待。
+
+![](https://alioss.yystv.cn/doc/12757/44f8b3bc89a719e1bef1d05f597eba2e.appmsg_mw680water)
+
+---
+
+## 6. [又变卦了：英伟达透露美国正限制H20芯片对华出口](https://www.3dmgame.com/news/202504/3918411.html)   2025-04-16 12:24
+
+英伟达透露，美国政府正限制其H20芯片出口中国，理由是担忧芯片可能被用于超级计算机。该举措或将加速中国摆脱对美技术依赖的决心，同时削弱美国公司的竞争力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250416/1744775480_739906.jpg)
+
+---
+
+## 7. [《命运2》“宿命边缘”发布会将于2025年5月7日举行](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-16 09:03
+
+热门游戏《命运2》即将推出新资料片“宿命边缘”，发布会定于5月7日举行，玩家可期待更多内容及更新。
+
+![](https://static.willmao.com/feed_upload/2025-04-16/08-07-37-phpRHAlud.jpg)
+
+---
