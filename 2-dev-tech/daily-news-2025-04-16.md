@@ -176,3 +176,105 @@ PHP 8.5的弃用列表公布，开发者需注意相关功能的废除和替代�
 ![](https://media.daily.dev/image/upload/s--foaA6JGU--/f_auto/v1722860399/public/Placeholder%2004)
 
 ---
+# 新闻简报 (更新时间: 2025-04-16 10:45)
+
+## 1. [Web前端入门第 35 问：CSS 细说 flex 弹性盒子布局（多图） - 前端路引](https://www.cnblogs.com/linx/p/18827996)   2025-04-16 09:15
+
+flex 是现代布局方案中最常用的手段之一，本文详细介绍了与 flex 布局相关的 CSS 属性，包括容器（父元素）的 display、flex-direction 等设置。这些属性的应用能够帮助开发者更轻松地构建灵活的页面布局。
+
+---
+
+## 2. [英伟达含量为零！华为密集模型性能比肩DeepSeek-R1，纯昇腾集群训练](https://www.51cto.com/article/813326.html)   2025-04-16 08:50
+
+华为通过纯昇腾集群训练的盘古Ultra模型，在数学竞赛及编程推理任务中表现出色，与DeepSeek-R1展开激烈竞争。这一技术突破展示了昇腾芯片在高性能推理任务中的潜力。
+
+---
+
+## 3. [Vim 编辑器的常用操作汇总，高手必备！](https://www.51cto.com/article/813373.html)   2025-04-16 08:45
+
+本文汇总了 Vim 编辑器的常用操作技巧，帮助运维人员快速提升文本编辑效率。Vim 是功能丰富的扩展文本编辑器，熟练掌握其操作是运维人员的重要技能之一。
+
+---
+
+## 4. [「交交」媲美GPT-4o！上海交大推出口语对话情感大模型，首个纯学术界自研！](https://www.51cto.com/article/813329.html)   2025-04-16 08:40
+
+上海交通大学听觉认知与计算声学实验室推出了情感对话大模型“交交”，支持多语言、多角色、多情感的智能对话功能。这是国内首个纯学术界自研的全能型语音助手。
+
+---
+
+## 5. [给代码开外挂：用Kotlin扩展函数化身编程乐高大师](https://www.51cto.com/article/813386.html)   2025-04-16 08:20
+
+Kotlin 的扩展函数被比作代码的“外观皮肤”，通过灵活使用扩展函数，开发者可以优化项目结构和操作体验，使代码如同乐高积木般易于组装和扩展。
+
+---
+
+## 6. [程序员内功修炼：五分钟彻底搞懂 Linux ELF 文件 !](https://www.51cto.com/article/813348.html)   2025-04-16 08:20
+
+ELF 文件是 Linux 世界中程序的核心容器，承载程序从编译到执行的整个生命周期。本文深入解析 ELF 文件的结构与功能，帮助读者快速了解其重要性。
+
+---
+
+## 7. [高效数据分析必备：Pandas 最常用的十个核心函数](https://www.51cto.com/article/813342.html)   2025-04-16 08:10
+
+掌握 Pandas 的十个核心函数将大幅提升数据处理效率。这些函数涵盖数据筛选、处理与分析的常见场景，结合代码示例，让数据分析变得更加高效。
+
+---
+
+## 8. [一起聊聊Ceph 对象存储多站点复制的性能](https://www.51cto.com/article/813384.html)   2025-04-16 08:01
+
+本文探讨了 Ceph 对象存储在多站点复制中的性能表现，分析了 RGW 服务共享资源和处理时间的影响因素，为优化多站点配置提供了参考。
+
+---
+
+## 9. [AI浏览器自动化实战 - BNTang](https://www.cnblogs.com/BNTang/p/18827708)   2025-04-16 08:00
+
+AI 大模型通过 Browser use 项目实现浏览器自动化操作，从搜索商品到深度研究均可完成。该开源项目在 GitHub 上迅速获得关注，成为开发者的新工具。
+
+---
+
+## 10. [软件包幻觉：LLM可能会向粗心的开发人员提供恶意代码](https://www.51cto.com/article/813349.html)   2025-04-16 07:02
+
+大型语言模型（LLM）在辅助编程时可能存在编造事实的倾向，甚至会自信地提供恶意代码。本文提醒开发人员在使用 LLM 时需谨慎，以避免潜在风险。
+
+---
+# 新闻简报(更新时间:2025-04-16 10:45)
+
+## 1. [Linux操作系统系统编程：x86-64架构下的系统调用](https://www.51cto.com/article/813352.html)   2025-04-16 04:22
+
+从计算机发展历程看，系统调用一直在不断革新。早期操作系统资源有限，系统调用种类和功能少，程序与内核交互简单。随着硬件性能提升、软件场景变复杂，x86-64 架构持续演进，系统调用机制也在优化，指令集、参数传递方式不断改进，与内核功能深度融合，推动着 Linux 系统编程不断进步。
+
+---
+
+## 2. [探索AI+k8s：如何使用Deepseek大模型增强k8s-dashboard](https://www.51cto.com/article/813331.html)   2025-04-16 03:25
+
+k8m 作为一款结合 AI 和 Kubernetes 的工具，展现了其简洁高效的设计理念。从便捷的文件管理、日志诊断到智能化的 YAML 翻译和故障排查，k8m 凭借其直观的界面和 AI 支持，极大提升了 Kubernetes 的易用性和可操作性。
+
+---
+
+## 3. [借助Spring AI，快速为AI Agent搭建API网关](https://www.51cto.com/article/813357.html)   2025-04-16 01:00
+
+希望本文能为大家在相关领域的探索提供有益参考，助力大家在AI与API融合的实践中取得更多成果，挖掘更多应用可能。
+
+---
+
+## 4. [可灵AI基础模型「双子星」重磅更新！快手盖坤：让每个人都能用AI讲出好故事](https://www.51cto.com/article/813360.html)   2025-04-15 19:29
+
+4月15日，可灵大模型2.0版本及可图大模型2.0版本正式面向全球发布。
+
+---
+
+## 5. [Rust is easy? Go is… hard?](https://app.daily.dev/posts/rust-is-easy-go-is-hard--rcpwlpdsu)   2025-04-14 19:56
+
+作者根据个人经验比较了Rust和Go，强调了枚举、特性以及错误处理等方面。Rust的高级特性使得它在解决复杂任务方面更易上手，尽管刚开始学习时存在难度；而Go在初期较为简单，但随着开发深入可能需要更多的解决办法且代码重复性较高。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/8a69857a0224bd59fad6c0c16d63bfe7?_a=AQAEuj9)
+
+---
+
+## 6. [8bitcn is a retro 8-bit UI collection of components built on Shadcn](https://app.daily.dev/posts/8bitcn-is-a-retro-8-bit-ui-collection-of-components-built-on-shadcn-perfect-for-creating-web-games--t4f7bd2ao)   2025-04-08 21:30
+
+8bitcn 是一个基于 Shadcn 构建的复古 8 位 UI 组件集合，非常适合创建网页游戏或个人作品集。该项目开源，用户可以自由使用和修改代码。
+
+![](https://media.daily.dev/image/upload/s--foaA6JGU--/f_auto/v1722860399/public/Placeholder%2004)
+
+---
