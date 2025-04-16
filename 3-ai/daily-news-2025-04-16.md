@@ -155,3 +155,199 @@ Ghiblio是一款基于ChatGPT 4o模型的吉卜力风格图像生成器，支持
 ![](https://pic.chinaz.com/ai/2025/04/16/202504160847102191.jpg)
 
 ---
+# 新闻简报(更新时间:2025-04-16 15:45)
+
+## 1. [知名开源大模型平台Hugging Face进军机器人领域，收购Pollen Robotics](https://www.aibase.com/zh/news/17209)   2025-04-16 14:58
+
+近日，人工智能开发平台Hugging Face宣布收购法国人形机器人初创公司Pollen Robotics，正式进军机器人领域。Pollen Robotics的核心产品Reachy2是一款先进的人形机器人，特别适合教育、研究和实体AI实验。收购后，Hugging Face计划将Reachy2整合进其开源机器人生态体系，并开放代码库供全球开发者优化。这一举动旨在降低机器人开发门槛，推动开源机器人技术发展。
+
+![](https://pic.chinaz.com/picmap/202308230927566700_0.jpg)
+
+---
+
+## 2. [字节Seedream 3.0追平GPT-4o，进入文生图领域第一梯队](https://www.jiqizhixin.com/articles/2025-04-16-5)   2025-04-16 14:54
+
+字节跳动发布的图像生成模型Seedream 3.0综合性能已追平GPT-4o，进入全球文生图第一梯队。Seedream 3.0支持2K分辨率图像直出，并在小字体生成与多行文本排版等领域取得重大突破。据技术报告，这款模型仅需3秒即可快速生成高品质图像，极大地提升了生成效率和质量。
+
+![](https://image.jiqizhixin.com/uploads/editor/64d6eaf2-b0f3-48e4-800f-9c05c8f09a51/1744786407223.png)
+
+---
+
+## 3. [给大卫贝克的Foldit加DLC，用游戏进行人人可参与的药物分子设计](https://www.jiqizhixin.com/articles/2025-04-16-3)   2025-04-16 12:55
+
+范德堡大学等团队基于Foldit蛋白质设计游戏推出新模式Drugit，允许玩家设计小分子药物并进行优化。这种游戏化的众包模式成功验证了小分子药物研发的可行性，玩家设计的分子已被实验验证对目标蛋白有显著结合效果。Drugit有望推动罕见病药物研发，激发全民参与的科学创新。
+
+![](https://image.jiqizhixin.com/uploads/editor/dce6c0d6-4f23-4ffc-a3e2-d4fa86aa1df5/640.png)
+
+---
+
+## 4. [DeepSeek推理引擎开源新路径，助力vLLM生态再升级](https://www.aibase.com/zh/news/17207)   2025-04-16 13:56
+
+DeepSeek宣布将其自研推理引擎的优化成果贡献给开源项目vLLM，推动社区性能提升。这一合作旨在解决开源社区中代码分歧等问题，确保开发者能够享受到最先进的推理支持。这一举动反映了当前开源领域的合作趋势，并将加速推理技术的创新与发展。
+
+![](https://pic.chinaz.com/picmap/202502051558203268_1
+# 新闻简报 (更新时间: 2025-04-16 15:45)
+
+## 1. [苏州发布12条强农措施，百万元补贴“农业大模型”](https://www.aibase.com/zh/news/17202) 2025-04-16 13:48
+
+苏州市近日发布《关于促进苏州市科技强农的若干措施》，包含12项政策，旨在通过技术创新提升农业生产力。这些措施包括种源保护、耕地质量提升以及推动“AI + 农业”项目发展。特别是对被市级认定的人工智能项目，最高可获100万元奖励，单项资助可达200万元。
+
+![](https://pic.chinaz.com/picmap/202210102205039379_3.jpg)
+
+---
+
+## 2. [智能体版《苦涩的教训》，图灵奖得主Sutton、谷歌RL大佬Silver新作：超人智能靠经验](https://www.jiqizhixin.com/articles/2025-04-16-2) 2025-04-16 13:35
+
+图灵奖得主Richard Sutton和Google DeepMind副总裁David Silver发表论文《Welcome to the Era of Experience》，探讨AI从人类数据时代迈向经验时代的转变。他们预测未来智能体将通过经验学习超越人类能力，并提出关键特征，如长期经验流、环境奖励以及自主规划。
+
+![](https://image.jiqizhixin.com/uploads/editor/3940673d-69de-475d-a83b-116cbc719079/640.png)
+
+---
+
+## 3. [迈向推理时代：900+篇参考文献揭示长链思维的前世今生，最全综述来了](https://www.jiqizhixin.com/articles/2025-04-16) 2025-04-16 13:28
+
+一篇综述论文系统解析长链思维在推理大模型中的作用，揭示其三大特性：深度推理、广泛探索和可行性反思。论文还探讨了推理边界、过度思考等现象，并展望多模态推理、知识增强等未来研究方向。
+
+![](https://image.jiqizhixin.com/uploads/editor/021fc0b7-3460-4545-960e-d82aded17838/640.png)
+
+---
+
+## 4. [OpenAI收购Context.ai团队，助力AI模型评估技术升级](https://www.aibase.com/zh/news/17199) 2025-04-16 11:24
+
+OpenAI宣布收购Context.ai团队，旨在提升AI模型性能分析能力。Context.ai开发的工具可帮助开发者理解模型的交互模式并发现性能瓶颈。此次收购显示出OpenAI在AI技术领域的持续投入。
+
+![](https://pic.chinaz.com/picmap/202005281122130015_60.jpg)
+
+---
+
+## 5. [蚂蚁百宝箱正式推出“MCP专区”，首批上线“支付MCP Server”等30余款服务](https://www.aibase.com/zh/news/17198) 2025-04-16 11:12
+
+蚂蚁集团旗下百宝箱平台上线“MCP专区”，支持开发者快速接入30余款服务，包括支付MCP Server等。此举简化了智能体与外部工具的配置流程，3分钟即可搭建连接服务的智能体。
+
+![](https://upload.chinaz.com/2025/0416/6388039865834996127550616.png)
+
+---
+
+## 6. [Agent 工具集成利器!automcp 实现多框架向标准化 MCP 协议转换](https://www.aibase.com/zh/news/17197) 2025-04-16 10:58
+
+automcp工具简化了将多种代理框架（如CrewAI、LangGraph）转换为MCP服务器的流程。这一工具为开发者提供标准化接口，显著提升Agent工具的互操作性。
+
+![](https://upload.chinaz.com/2025/0416/6388039789418738657475242.png)
+
+---
+
+## 7. [国家超算平台发布新一代多模态大模型，推动 AI 智能体发展](https://www.aibase.com/zh/news/17196) 2025-04-16 10:51
+
+国家超算互联网平台推出“超长文本多模态大模型”，支持智能体开发。两款模型分别处理文本和多模态数据，为企业智能化转型提供技术支持。
+
+![](https://pic.chinaz.com/picmap/202305091556149296_6.jpg)
+
+---
+
+## 8. [Anthropic 推出 Claude 新研究功能，提升用户信息获取体验](https://www.aibase.com/zh/news/17195) 2025-04-16 10:38
+
+Anthropic推出Claude“研究”功能，支持从多个信息来源提供答案并附引用，同时与Google Workspace集成，帮助用户更高效管理邮件和日历。
+
+![](https://upload.chinaz.com/2025/0416/6388039668751705865527300.png)
+
+---
+
+## 9. [ChatGPT 新增图库功能，让 AI 生成图像管理更轻松！](https://www.aibase.com/zh/news/17194) 2025-04-16 10:29
+
+OpenAI为ChatGPT推出“Image Library”功能，帮助用户高效管理AI生成的图像，并支持分类和检索。这一功能提升了用户体验，移动端和网页版均可使用。
+
+![](https://pic.chinaz.com/picmap/202412271704353969_1.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-16 15:45)
+
+## 1. [英国 AI 版权法规或导致模型偏见与创作者收益减少](https://www.aibase.com/zh/news/17193) 2025-04-16 10:25
+
+近日，政策专家对英国 AI 版权法规表示担忧，认为禁止使用版权材料进行 AI 训练可能导致模型质量下降和偏见增加。专家指出，这种限制会削弱 AI 的有效性，同时对创意产业和其他行业产生负面影响。此外，关于 AI 艺术创作的法律争议也成为讨论的焦点。专家建议保持灵活性，允许 AI 对公共内容进行合法学习。
+
+![](https://pic.chinaz.com/picmap/202005261144375677_13.jpg)
+
+---
+
+## 2. [搜狐简单AI](https://top.aibase.com/tool/souhujiandanai) 2025-04-16 10:05
+
+简单 AI 是一个多功能 AI 工具平台，提供绘图、写作和图片处理等服务。其易用性和丰富的功能适合从新手到专业用户，帮助节省时间并提高效率。该平台提供免费试用和付费增值服务，支持用户实现更高效的创意设计。
+
+![](https://pic.chinaz.com/ai/2025/04/16/25041610042551363281.jpg)
+
+---
+
+## 3. [Anthropic或将推出语音AI助手，Claude将支持三种声音模式](https://www.aibase.com/zh/news/17191) 2025-04-16 09:55
+
+Anthropic 正在准备推出语音 AI 助手，该助手将集成到 Claude 聊天机器人中，并提供三种英语声音模式：Airy、Mellow 和 Buttery。此功能旨在提升用户与 AI 的互动体验。Anthropic 近期还推出了高级服务套餐，显示其在 AI 领域的扩展战略。
+
+![](https://upload.chinaz.com/2025/0416/6388039411346540313310039.png)
+
+---
+
+## 4. [报道称OpenAI或将推出类X社交媒体功能，计划整合ChatGPT](https://www.aibase.com/zh/news/17190) 2025-04-16 09:49
+
+OpenAI 正计划开发类似 X 的社交媒体功能，将整合 ChatGPT 的图像生成能力。用户可生成 AI 图像并分享至社交信息流中。这项技术旨在挑战 X 和 Meta，同时为 OpenAI 提供实时数据以优化语言模型。
+
+![](https://upload.chinaz.com/2025/0416/6388039369808899698467080.png)
+
+---
+
+## 5. [HiDream](https://top.aibase.com/tool/hidream) 2025-04-16 09:41
+
+智象未来（HiDream.ai）是一个中文 AIGC 创作平台，提供丰富的工具和社区支持，帮助用户零基础掌握多模态创作能力。平台特点包括易用性、全面性和学习资源丰富，适合创作者和设计师等人群。
+
+![](https://pic.chinaz.com/ai/2025/04/16/25041609412513089491.jpg)
+
+---
+
+## 6. [OpenAI进军社交网络：融合图像生成与动态
+# 新闻简报(更新时间:2025-04-16 15:45)
+
+## 1. [阿里云AIStack大模型一体机首次亮相 为企业提供高性价比的 AI 解决方案](https://www.aibase.com/zh/news/17184)   2025-04-16 09:19
+
+阿里云在第八届数字中国建设峰会上发布了 AIStack 大模型一体机。这款结合软硬件的产品旨在为政务、能源、医疗等行业提供高性价比的智能服务，助力企业提升运营效率。AIStack 的灵活性使其能够满足不同客户的个性化需求，展现了阿里云在企业级 AI 解决方案领域的技术突破。
+
+![](https://pic.chinaz.com/picmap/202307261637346165_3.jpg)
+
+---
+
+## 2. [3D视觉大模型SpatialLM开源，实时识别场景内容](https://www.aibase.com/zh/news/17183)   2025-04-16 09:19
+
+杭州群核科技在GTC2025大会上开源3D视觉大语言模型SpatialLM。这款模型以低成本处理3D场景数据，为机器人训练、建筑设计及AR/VR领域带来突破，其强大的空间认知能力让复杂场景分析更精准。SpatialLM的开源版本已在多平台上线，吸引全球开发者参与。
+
+![](https://upload.chinaz.com/2025/0416/6388039193791541662576338.png)
+
+---
+
+## 3. [Claude 集成 Google Workspace!AI 聊天机器人直连 Gmail、日历和文档](https://www.aibase.com/zh/news/17182)   2025-04-16 09:17
+
+Anthropic 宣布 AI 聊天机器人 Claude 与 Google Workspace 集成，用户可直接通过 Claude 搜索 Gmail邮件、日历事件和文档内容。这项功能能够提升回复的个性化程度，同时强调数据安全性。Claude 的新功能旨在优化用户体验，为职业和个人规划提供便利。
+
+![](https://pic.chinaz.com/picmap/202307120853038799_0.jpg)
+
+---
+
+## 4. [Cohere 推出 Embed 4：全新多模式搜索模型可处理 200 页文档](https://www.aibase.com/zh/news/17181)   2025-04-16 09:12
+
+Cohere发布了其最新嵌入模型Embed 4，支持128,000个token的超长上下文窗口，处理约200页文档。该模型在复杂多模态数据搜索方面表现优异，可应用于金融、医疗等领域，助力企业挖掘关键洞察。Embed 4的高效性能及安全部署，使其成为企业级 AI 解决方案的强大工具。
+
+![](https://upload.chinaz.com/2025/0416/6388039150469526934241123.png)
+
+---
+
+## 5. [OpenAI 任命新非营利顾问，助力慈善事业拓展影响力](https://www.aibase.com/zh/news/17180)   2025-04-16 08:52
+
+OpenAI宣布任命四位新非营利顾问，包括劳动活动家多洛雷斯・惠尔塔、健康专家罗伯特・K・罗斯博士等。这些顾问将帮助OpenAI加强慈善事业，推动教育、健康和科学等领域的社会影响力。此举是OpenAI转型过程中加强社会责任的重要步骤。
+
+![](https://pic.chinaz.com/picmap/202502061719384092_4.jpg)
+
+---
+
+## 6. [Ghiblio：基于ChatGPT的吉卜力风格图像生成器](https://top.aibase.com/tool/ghiblio)   2025-04-16 08:47
+
+Ghiblio是一款基于ChatGPT 4o模型的吉卜力风格图像生成器，可将文字与图片转化为艺术插画，支持多种动画风格及批量生成。产品提供免费体验和多种付费方案，满足普通用户到专业创作者的需求。其功能包括角色转换、自然景观创作及高清图片下载服务。
+
+![](https://pic.chinaz.com/ai/2025/04/16/202504160847102191.jpg)
+
+---
