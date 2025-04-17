@@ -370,3 +370,181 @@ V社一名员工透露曾见过《半条命3》的开发房间，但无法确定
 ![](https://img.4gamers.com.tw/puku-clone-version/5c8e7f7c6d884f866a7ec93b33b9298270466d39.jpg) 
 
 ---
+# 新闻简报(更新时间:2025-04-18 05:45)
+
+## 1. [探索《Leila》的内心世界，踏上过去的旅程](https://news.xbox.com/en-us/2025/04/17/enter-leilas-mind-and-journey-into-her-past/)   2025-04-18 02:30
+
+由Ubik Studios开发的《Leila》是一款创新的叙事冒险游戏，玩家将进入一位中年女性的内心世界，体验她的人生过往。游戏通过解谜元素和传统动画风格展现其丰富情感故事，带玩家探索后悔与创伤如何塑造了现在的自己。《Leila》不仅提供沉浸式的故事体验，还旨在从女性视角传递共鸣。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/Leila-inline-asset1-94440bccaeed565e0c64.jpg)
+
+---
+
+## 2. [《Lords of the Fallen》2.0版本：为什么值得再次尝试](https://news.xbox.com/en-us/2025/04/17/why-lords-of-the-fallen-version-2-0-is-worth-your-time/)   2025-04-18 02:00
+
+《Lords of the Fallen》2.0版本现已推出，为原作带来了全面改进，包括无缝的合作模式、更流畅的战斗体验，以及重新设计的角色创建功能。玩家现在还可以通过全球匹配和更稳定的在线功能与朋友共享冒险。这个版本通过玩家反馈不断优化，成为一款真正值得推荐的魂类游戏。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/Lords-of-the-Fallen_Version-2.01-8a2a4d5eb498330dde97.jpg)
+
+---
+
+## 3. [掌握《Mandragora：Whispers of the Witch Tree》的战斗艺术](https://news.xbox.com/en-us/2025/04/17/mandragora-combat-guide/)   2025-04-18 01:00
+
+《Mandragora：Whispers of the Witch Tree》是一款黑暗奇幻动作RPG，玩家将在一个拥有六大职业的世界中探索并挑战40小时以上的故事内容。游戏强调策略性的战斗，同时融合了精心设计的天赋树和装备制作系统，为玩家提供丰富的角色发展选择。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/Mandragora-Key-art_3840x2160_logo-a3a1b50bf30d0594eb38.jpg)
+
+---
+
+## 4. [好评解谜冒险游戏《植物精灵》限时免费](https://www.4gamers.com.tw/news/detail/71330/botanicula-is-free-to-claim-on-egs-this-week)   2025-04-18 00:00
+
+由《机械迷城》和《银河历险记》团队打造的《植物精灵》现已在Epic Games Store限时免费领取。游戏以疗愈的画面和放松的音乐广受好评，玩家需要帮助小精灵保护母树的最后一颗光之种子，限免活动将持续至4月24日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1907a2a82c8d0a2da431d2e6a8eaf5b05e51a4b2.jpg)
+
+---
+
+## 5. [《Towerborne》推出以日本黄金周为主题的活动](https://news.xbox.com/en-us/2025/04/17/towerborne-golden-week-event/)   2025-04-18 00:00
+
+《Towerborne》黄金周限定活动“Shiro’s Golden Journey”将于4月29日上线，推出日本文化主题的任务、角色、奖励等内容。活动不仅体现了游戏的全球化设计理念，还新增了与NPC协作的新玩法。活动将持续至5月13日，玩家可以在此期间尽情体验。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/GoldenWeek_Wallpaper-No-Text-4k_1-0fd5649bd1bd9e303a39.jpg)
+
+---
+# 新闻简报(更新时间:2024-10-12 08:19)
+
+## 1. [老滚5设计师：B社不能随便换引擎 因创造引擎经过完美调试](https://www.3dmgame.com/news/202410/3906052.html)   2024-10-12 08:19
+
+前B社设计师布鲁斯·斯米顿表示，B社不会轻易更换游戏引擎，原因在于现有的创造引擎经过精心调试，已完全适应《上古卷轴》《辐射》等游戏的开发需求。他强调，引擎只是服务于游戏的工具，频繁更换引擎会拖慢项目进度。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728692257_301574.jpg)
+
+---
+
+## 2. [CDPR回应公司陷入困境传言：无稽之谈 停止阴谋论](https://www.3dmgame.com/news/202410/3906051.html)   2024-10-12 07:53
+
+针对外界关于CDPR陷入困境的传言，公司联合首席执行官Michal Nowakowski否认这些说法，并强调员工流失率处于最低水平。他还澄清公司招聘基于业绩和才能，而决定改用虚幻5引擎是为了提升开发效率。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728690710_488747.jpg)
+
+---
+
+## 3. [侦探冒险游戏《黄金偶像案》重制版11/12推出](https://www.3dmgame.com/news/202410/3906049.html)   2024-10-12 06:43
+
+经典侦探冒险游戏《黄金偶像案》重制版将于11月12日登陆多个平台，玩家将揭开15起离奇案件背后的真相。重制版以20世纪70年代为背景，加入了全新谜题和多样化角色。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728686443_254014.jpg)
+
+---
+
+## 4. [樱井政博游戏开发视频最终回深情缅怀岩田聪](https://www.3dmgame.com/news/202410/3906048.html)   2024-10-12 06:41
+
+樱井政博在其YouTube频道的最终视频中缅怀已故任天堂社长岩田聪，回忆了两人合作的点滴与深厚友谊。他感慨如果没有岩田聪，他的人生将截然不同。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728686386_312997.jpg)
+
+---
+
+## 5. [《暗喻幻想》同时在线Steam玩家数量超过6.1万人](https://www.3dmgame.com/news/202410/3906047.html)   2024-10-12 06:38
+
+《暗喻幻想：ReFantazio》在Steam上的同时在线玩家峰值达到61,838人，成为Atlus历史上表现最好的作品之一，并已在全球售出超100万套。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728686255_114778.jpg)
+
+---
+
+## 6. [Steam警告客户：你们购买的游戏只是游玩许可证](https://www.3dmgame.com/news/202410/3906050.html)   2024-10-12 06:37
+
+Valve在Steam购物车结算页面新增提示，明确告知玩家购买的只是游玩许可证，而非实际拥有游戏。这一改动引发玩家对数字版权的关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728689129_886368.jpg)
+
+---
+
+## 7. [前极乐迪斯科开发者成立了三个不同的新工作室](https://www.3dmgame.com/news/202410/3906045.html)   2024-10-12 06:33
+
+《极乐迪斯科》前开发者成立了三个新工作室，包括Dark Math Games、Longdue和Summer Eternal，分别开发新的RPG项目，延续叙事优先的游戏传统。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728686002_299859.jpg)
+
+---
+
+## 8. [《堡垒之夜》万圣节活动联动恐怖角色皮肤曝光](https://www.3dmgame.com/news/202410/3906044.html)   2024-10-12 06:31
+
+《堡垒之夜》万圣节活动“Fortnitemares 2024”将于10月12日上线，全新恐怖角色皮肤如“皮脸”和“比利人偶”加入，玩家可体验惊悚主题的全新玩法。
+
+![](https://img.3dmgame.com)   2024-10-12 06:22
+
+策略建造游戏《Overthrown》发布预告片，展示支持最多6人合作的混乱城市建设玩法。游戏将于今年秋季登陆Steam抢先体验和Xbox平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728685316_975609.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-18 05:45)
+
+## 1. [恐怖小丑来袭《断魂小丑》游戏版明年上市](https://www.3dmgame.com/news/202410/3906042.html)   2024-10-12 06:15
+
+像素风横版动作游戏《断魂小丑街机版》宣布将于2025年登陆Steam、PS、Xbox和Switch平台，游戏致敬80、90年代经典横版过关游戏，玩家将化身电影中的邪恶小丑Art，在电影场景中肆意破坏。游戏特点包括惊艳像素画面、多样关卡和怀旧芯片音乐。
+
+![](https://img.3dmgame.com/uploads/images/news/20241012/1728684927_124751.jpg)
+
+---
+
+## 2. [新动画《乐高漫威复仇者联盟：拆除任务》本月播出](https://www.3dmgame.com/news/202410/3906041.html)   2024-10-12 06:09
+
+迪士尼推出乐高漫威系列第十部动画《乐高漫威复仇者联盟：拆除任务》，讲述年轻超级英雄粉丝意外释放反派的故事。新作将于10月18日在迪士尼+播出。
+
+---
+
+## 3. [《古墓丽影》系列销量破1亿 本月庆祝周年纪念日](https://www.3dmgame.com/news/202410/3906040.html)   2024-10-11 23:43
+
+《古墓丽影》系列销量突破1亿套，成为重要里程碑。系列改编动画《古墓丽影：劳拉克劳馥传奇》已于10月10日上线，官方还宣布《古墓丽影4-6：复刻版》将于2025年2月14日发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20241011/1728661419_110594.jpg)
+
+---
+
+## 4. [《崩坏：星穹铁道》2.6版本PV 10月23日上线](https://www.3dmgame.com/news/202410/3906039.html)   2024-10-11 23:23
+
+《崩坏：星穹铁道》2.6版本即将上线，游戏PV展示了全新剧情和角色中文CV阵容。新版本将于10月23日正式推出。
+
+![](https://img.3dmgame.com/uploads/images/news/20241011/1728660154_151347.jpg)
+
+---
+
+## 5. [首发骁龙8Gen4！小米15发布时间曝光](https://www.3dmgame.com/news/202410/3906038.html)   2024-10-11 23:13
+
+小米15系列将于10月28日发布，覆盖多款机型，并全球首发骁龙8Gen4芯片。小米15 Ultra预计2025年初独立发布，售价将高于3999元。
+
+![](https://img.3dmgame.com/uploads/images/news/20241011/1728659625_944721.jpg)
+
+---
+
+## 6. [《古墓丽影4-6：复刻版》公布 明年2月14日登陆全平台](https://www.3dmgame.com/news/202410/3906037.html)   2024-10-11 22:09
+
+《古墓丽影4-6：复刻版》将于2025年2月14日发售，登陆全平台。重制版将支持经典与重制画面切换，售价97.2元。
+
+![](https://img.3dmgame.com/uploads/images/news/20241011/1728655737_183833.jpg)
+
+---
+
+## 7. [Free Play Days – NBA 2K25 and Skull and Bones](https://news.xbox.com/en-us/2025/04/17/free-play-days-04-17-2025/)   2025-04-17 23:00
+
+Xbox本周末免费畅玩活动上线，《NBA 2K25》和《Skull and Bones》将分别开放至4月20日和21日，玩家还能享受折扣购买。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/FreePlayDays_04-17-2025_1920
+# 新闻简报(更新时间:2025-04-18 05:45)
+
+## 1. [《瑪利歐賽車世界》詳情公開，眾多模式與賽道讓你尬車跑不完](https://www.4gamers.com.tw/news/detail/71328/mario-kart-world-direct)   2025-04-17 21:50
+
+任天堂在《瑪利歐賽車世界》直面会上公布了丰富的游戏内容。本作不仅带来了大量新赛道，包括怀旧赛道和连接点的复杂布局，还新增了「生存赛」模式，玩家需在每个关卡保持一定排名才能继续比赛。此外，自由模式允许玩家探索赛道并收集要素，同时支持倒带功能精进技术。游戏还加入了多个新道具和角色，并支持最多24人在线竞赛，提供多种互动选项。《瑪利歐賽車世界》将与Switch2同步上市。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1551432ed790c69c09a33d9c0f29cf0869b21360.jpg)
+
+---
+
+## 2. [Xbox Series X|S和Xbox One更新发布 提升硬盘存储空间](https://www.3dmgame.com/news/202504/3918497.html)   2025-04-17 21:28
+
+微软为Xbox Series X|S和Xbox One推出了新固件更新，主要提升硬盘存储空间管理能力。新功能包括支持通过云游戏串流自购游戏（需Game Pass Ultimate订阅）和优化存储空间的管理工具。玩家可以清理未使用内容、压缩游戏及删除重复物品，提升设备性能。此外，此更新进一步增强了用户体验，帮助玩家更方便地管理游戏库。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744896401_175134.webp)
