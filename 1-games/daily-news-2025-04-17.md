@@ -453,3 +453,374 @@ VTuber三毛貓みけねこ。纪念主流出道，将在日本及台北举办�
 ![](https://img.3dmgame.com/uploads/images/news/20250417/1744869956_118558_jpg_r.jpg)
 
 ---
+# 新闻简报 (更新时间: 2025-04-17 20:45)
+
+## 1. [RX 9060 XT有望下月亮相 AMD计划安排6月初上市](https://www.3dmgame.com/news/202504/3918492.html)   
+2025-04-17 19:40
+
+AMD确认基于RDNA 4架构的Radeon RX 9060系列将在第二季度发布。新显卡专注于高效能及低功耗，支持1080/1440P游戏。RX 9060 XT预计在Computex 2025期间发布，并在6月初上市，提供16GB和8GB两种型号。该显卡游戏频率大幅提升至2620MHz，预计售价300美元以上。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744889913_623069_jpg_r.jpg)
+
+---
+
+## 2. [建設模擬新作《AGRONOM》4/23開放Steam測試，運用可愛機器人管理火星農場](https://www.4gamers.com.tw/news/detail/71321/agronom-steam-playtest-launch-on-april-23rd)  
+2025-04-17 18:46
+
+CyberMages开发的新作《AGRONOM》将在4月23日开放Steam测试，玩家将运用AI机器人在火星上管理农场，打造自动化生产系统并完成订单任务。本作支持多种语言，并预计于2025年内正式推出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7fdd4b3ffa8a863392e460a27683918a4bf6c1ef.jpg)
+
+---
+
+## 3. [动画《赛马娘 灰髮灰姑娘》开播人氣衝高，单行本累积销量突破800万](https://www.4gamers.com.tw/news/detail/71327/umamusume-cinderella-comic-sales-volume)  
+2025-04-17 18:18
+
+改编自漫画的动画《赛马娘 灰髮灰姑娘》开播后，单行本销量突破800万。故事描写马娘小栗帽在地方和中央征战的背景。为庆祝销量突破，手遊《賽馬娘 Pretty Derby》也推出游戏奖励。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9d90df1c3671b7346b28f5fd34a2ecf547512455.jpeg)
+
+---
+
+## 4. [小米13从33楼掉到电梯井奇迹生还：触屏都能用](https://www.3dmgame.com/news/202504/3918491.html)  
+2025-04-17 17:50
+
+一位香港网友的小米13手机从33楼电梯井掉落后，竟然还能正常使用。手机的屏幕仅出现小面积坏点，触控功能和系统运行如常，再次展示了小米手机的耐用性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744879563_945261_jpg_r.jpg)
+
+---
+
+## 5. [老大哥在看着你 CriticalReflex宣布代理《警目如炬》](https://www.3dmgame.com/news/202504/3918490.html)  
+2025-04-17 17:49
+
+独立发行商CriticalReflex宣布代理超现实沉浸式模拟游戏《警目如炬》。玩家在巨型警察的高压监控下，设法逃离城市。游戏支持非线性行动和动态探索，玩家需与不同角色建立关系以完成任务。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744883213_576220_jpg_r.jpg)
+
+---
+
+## 6. [盛裝打扮迷因本尊結婚了！拉美傳奇YTR「fernanfloo」婚禮热唱《七龙珠》主题曲](https://www.4gamers.com.tw/news/detail/71326/fernanfloo-dresses-up-meme-evolved-when-he-got-married)  
+2025-04-17 17:43
+
+拉美网红Fernanfloo与交往多年的女友Sofía结婚，婚礼上热唱《七龙珠》主题曲。作为拥有4860万订阅的传奇人物，其婚礼引发粉丝热议，象征互联网时代的变迁。
+
+![](https://img.4gamers.com.tw/puku-clone-version/43f413e172f34df9e956f18b881fd0df4ccea1e5.jpg)
+
+---
+
+## 7. [《忍者龙剑传：Ragebound》第二名可操作角色公开 系列经典反派势力九守!](https://www.3dmgame.com/news/202504/3918489.html)  
+2025-04-17 17:39
+
+《忍者龙剑传：Ragebound》公布第二可操作角色“九守”，其融合现代兵器与恶魔之力，将与主角贤二共同面对挑战。游戏今年夏季发售，提供丰富的技能升级和动态冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744882688_928789_jpg_r.jpg)
+
+---
+
+## 8. [文創公司推「Windows 95 小畫家」牆面掛鏡，在鏡前整理儀容就是一种修图](https://www.4gamers.com.tw/news/detail/71325/drought-salling-windows-95-ui-paint-mirrow)  
+2025-04-17 17:33
+
+文创品牌Drought推出Windows 95小画家风格的挂镜，售价395美元。镜子外框模仿经典小画家UI设计，令人怀念其独特的复古风格。
+
+![](https://img.4gamers.com.tw/puku-clone-version/05a4b59fefa3784364f91cf931918fb467ede21e.jpg)
+
+---
+
+## 9. [美国芯片管制不影响 黄仁勋：英伟达继续与中国合作](https://www.3dmgame.com/news/202504/3918488.html)  
+2025-04-17 17:26
+
+英伟达CEO黄仁勋在北京表示，美国芯片管制不会影响英伟达与中国的合作，强调中国是重要市场。英伟达希望在人工智能领域与中国厂商持续深化合作。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250417/1744881984_831500.jpg)
+
+---
+
+## 10. [Switch2兼容名单更新 25%第三方游戏完美运行](https://www.3dmgame.com/news/202504/3918487.html)  
+2025-04-17 17:20
+
+任天堂更新Switch2兼容名单，确认25%的第三方游戏完美运行。部分功能需原版Joy-Con支持，而《任天堂Labo》等游戏因配件兼容问题无法完全体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744881481_272999_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-17 20:45)
+
+## 1. [《铁拳8》紧急更新上线 官方承诺大幅调整挽回差评](https://www.3dmgame.com/news/202504/3918486.html)   2025-04-17 17:19
+
+《铁拳8》因第二赛季糟糕更新引发玩家不满，官方今天发布紧急更新补丁，试图挽回差评。更新内容包括将最大体力从180提升到200，并削弱部分BUG级英雄。同时修复了一些平衡性问题，希望重新吸引玩家尝试本作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744881483_859734.png)
+
+---
+
+## 2. [《最后生还者》剧集与高尔夫广告并排宣传 故意的？](https://www.3dmgame.com/news/202504/3918485.html)   2025-04-17 16:42
+
+《最后的生还者》第二季首播，故事延续第一季五年后剧情。HBO在宣传时出现高尔夫球杆广告，引发玩家热议是否为官方恶趣味玩梗。首集收看人数达530万，同比第一季增长10%。制作人表示剧集将有意料之外的情节变化。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744879282_335352_jpg_r.jpg)
+
+---
+
+## 3. [调查显示年轻人看电影坐不住 坚持两小时难只想2倍速](https://www.3dmgame.com/news/202504/3918484.html)   2025-04-17 16:38
+
+一项调查显示，年轻人观影耐心下降，两个小时的电影成挑战。专家认为短视频平台的兴起改变了人们的内容摄取习惯，传统观影方式受到冲击。网友直言生活节奏过快，沉浸观影成奢侈。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744879097_663710.png)
+
+---
+
+## 4. [RTX 5060国行定价公布：2499元 5月正式上市](https://www.3dmgame.com/news/202504/3918483.html)   2025-04-17 16:26
+
+NVIDIA宣布RTX 5060显卡国行售价2499元，将于5月上市。显卡具有3840个CUDA核心、8GB GDDR7显存，支持DLSS 4技术，性能比上一代显卡提升两倍。美国市场起售价为299美元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744878340_933246_jpg_r.jpg)
+
+---
+
+## 5. [《影之刃零》制作人被中国传媒大学聘为教授！](https://www.3dmgame.com/news/202504/3918482.html)   2025-04-17 16:16
+
+《影之刃零》制作人梁其伟受聘为中国传媒大学客座教授，并展示相关聘书。游戏预计今年内公布发售日，使用虚幻5引擎，将登陆PC和PS5平台，讲述孤独侠客魂的冒险故事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744877770_906995.png)
+
+---
+
+## 6. [V社员工曝撞见《半条命3》开发房间 但不确定是否在开发](https://www.3dmgame.com/news/202504/3918481.html)   2025-04-17 16:07
+
+Valve员工Evgeniy Evstratiy透露曾偶然撞见《半条命3》开发房间，但无法确定游戏是否在开发。此消息增加了玩家对《半条命3》可能性的期待，但官方尚未发布任何确认信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744877044_467491.webp)
+
+---
+
+## 7. [第一人称沉浸体验，克苏鲁风钓鱼游戏《淵舟蝕影》Steam商店页面开张](https://www.4gamers.com.tw/news/detail/71320/cthulhu-mythos-fishing-game-dreadmoor-steam-page-open)   2025-04-17 16:48
+
+克苏鲁风格钓鱼游戏《淵舟蝕影》公开Steam商店页面，玩家将在危险水域中捕捉变异生物并探索失落文明遗迹。游戏支持中文界面，发售日期待定。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5c8e7f7c6d884f866a7ec93b33b9298270466d39.jpg)
+
+---
+
+## 8. [南韩啦啦队女神应援！偶像养成《TAIPEI12elve》双新角登场](https://www.4gamers.com.tw/news/detail/71323/so-net-taipei12elve-update-with-new-characters-linsen-song-shan)   2025-04-17 16:04
+
+偶像养成游戏《TP12》推出新角色“崧升”和“琳珊”，并发布全新广告PV，邀请韩国啦啦队女神河智媛出演。游戏结合AR探索与音乐养成，带来丰富体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/55afdf1e8794e921959618204fc3039c7bf01b03.jpg)
+
+---
+
+## 9. [猛男番代表《天使降临到我身边！》漫画完结](https://www.4gamers.com.tw/news/detail/71319/wataten-an-angel-flew-down-to-me-comic-finished-)   2025-04-17 16:00
+
+漫画《天使降临到我身边！》宣布完结，结束9年连载。故事讲述阿宅美也子与天使般的小花的互动。该作曾改编为动画，并推出剧场版。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2c0a9c093081526ccbcda259d1f4167b7a774442.jpeg)
+
+---
+
+## 10. [耳机品牌Beats by
+# 新闻简报(更新时间:2025-03-21)
+
+## 1. [平台解谜游戏《木偶往事》公布正式发售日期 4月23日登陆全平台](https://www.3dmgame.com/news/202503/3916893.html)   2025-03-21 17:12
+
+由 Flatter Than Earth 与 Daedalic Entertainment 联合打造的黑暗童话风格解谜平台游戏《木偶往事》宣布将于2025年4月23日发售，并登陆PC、PlayStation 5、Xbox Series X|S、Nintendo Switch和Steam Deck平台。游戏特色包括双主角协作玩法、魔线互动机制以及手工打造的戏剧舞台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742547755_230707_jpg_r.jpg)
+
+---
+
+## 2. [《inZOI》有16种死亡方式：交通事故 缺乏认同致死](https://www.3dmgame.com/news/202503/3916892.html)   2025-03-21 16:25
+
+《inZOI》的总监金亨俊透露，游戏将提供16种独特的死亡方式，包括交通事故、触电、溺水和缺乏认同致死等。此外，游戏还加入了“时光倒流”功能，让角色能够复生。这些设定旨在模拟现代社会的复杂性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742545469_870017_jpg_r.jpg)
+
+---
+
+## 3. [《星球大战：亡命之徒》获G.A.N.G年度最佳音乐](https://www.3dmgame.com/news/202503/3916891.html)   2025-03-21 16:09
+
+《星球大战：亡命之徒》在2025年的游戏音频网络协会大奖中表现突出，获得年度最佳音乐奖以及其他多个奖项。主席Brian Schmidt称赞游戏音频领域不断突破，为玩家提供真正沉浸式体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742542872_229406.jpg)
+
+---
+
+## 4. [曝《影之刃零》有三种难度模式 八个不同的结局](https://www.3dmgame.com/news/202503/3916885.html)   2025-03-21 15:32
+
+《影之刃零》提供三种难度选择：故事模式、普通模式和极限模式，并设计了八个不同的结局，玩家的选择将影响游戏进程。极限模式取消敌人预定连招，增加了玩家动作的反应挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742540517_577413_jpg_r.jpg)
+
+---
+
+## 5. [《光与影：33号远征队》新预告 少女玛埃尔出击](https://www.3dmgame.com/news/202503/3916889.html)   2025-03-21 15:26
+
+《光与影：33号远征队》发布新角色预告，介绍年轻成员玛埃尔的故事。她在孤儿时期渴望探索外面的世界，并将远征视为追寻自己命运的机会。游戏灵感来源于《最终幻想》，将于4月24日发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742541903_909626_jpg_r.jpg)
+
+---
+
+## 6. [《红铃的恸哭》将在6月5日登录Switch平台](https://www.3dmgame.com/news/202503/3916888.html)   2025-03-21 15:19
+
+开发商Voltage宣布，黑暗奇幻视觉小说《红铃的恸哭》将于6月5日登陆Switch平台，讲述吸血鬼猎人团结对抗吸血鬼的史诗故事。玩家将体验不同角色的命运以及人类与吸血鬼的斗争。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742544543_320197.png)
+
+---
+
+## 7. [ChatGPT再遭用户投诉：输入自己的名字被变成罪犯？](https://www.3dmgame.com/news/202503/3916887.html)   2025-03-21 15:18
+
+一名挪威男子在与ChatGPT交谈时发现AI编造了虚假的犯罪指控，称他杀害了儿子并被判刑。隐私组织Noyb已向欧洲数据保护监管机构投诉，要求OpenAI删除虚假数据并确保类似错误不再发生。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742541503_764700.png)
+
+---
+
+## 8. [可以玩的机甲动画！战术沙盒RPG《终末机兵》2025年内发售](https://www.3dmgame.com/news/202503/3916886.html)   2025-03-21 15:06
+
+由意大利开发商DESTINYbit打造的战术沙盒RPG《终末机兵》将于2025年内发售，支持中文。玩家可驾驶巨型机甲在废土世界中探索并与机械怪物战斗，游戏现已开放试玩DEMO。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742540691_459371.png)
+
+---
+
+## 9. [叠纸游戏《无限暖暖》GDC执行制作人演讲](https://www.3dmgame.com/news/202503/3916884.html)   2025-03-21 14:28
+
+叠纸游戏《无限暖暖》执行制作人冨永健太郎在GDC 2025发表演讲，分享团队克服语言障碍与代际障碍的经验，培养优秀关卡设计师并成功完成游戏开发任务。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742538471_165924_jpg_r.jpg)
+
+---
+
+## 10. [《inZOI(云族裔)》直播效果爆炸 不死鸟总监捏出“古神脸”](https://www.3dmgame.com/news/202503/3916883.html)   2025-03-21 14:26
+
+《inZOI》捏脸系统强大，知名主播不死鸟总监在直播中捏出了“古神”脸，引发观众爆笑。游戏现已开放试玩版，可通过观看直播或Steam下载体验创意工坊玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742538252_223737.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-17 20:45)
+
+## 1. [《鬼武者2：复刻版》新视频 新增修罗模式非常难](https://www.3dmgame.com/news/202503/3916882.html)   2025-03-21 14:22
+
+近日，《鬼武者2：复刻版》发布新视频，展示了新增“修罗模式”的高难度挑战。此模式中，玩家若受到敌人一击伤害，游戏即刻结束。据悉，《鬼武者2：复刻版》不仅保留经典玩法，还针对现代硬件进行了画面升级与操作优化，支持简体中文，将于5月23日发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742538012_679286_jpg_r.jpg)
+
+---
+
+## 2. [罗布乐思AI聊天审核效果不错 但没法替代真人](https://www.3dmgame.com/news/202503/3916881.html)   2025-03-21 14:11
+
+罗布乐思公司在GDC大会上透露，其AI语音聊天审核系统运行一年后效果显著，违规举报数量减少了一半。不过，语音安全负责人表示，在复杂情况下，真人审核仍优于AI。AI系统覆盖31个国家，但在某些罕见场景下仍需人类判断。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742537465_351238.png)
+
+---
+
+## 3. [欢乐团队对抗游戏《家有恶邻》限时开测！EA版定档4月17日](https://www.3dmgame.com/news/202503/3916880.html)   2025-03-21 13:57
+
+《家有恶邻》宣布将于4月17日登陆PC并开启抢先体验。游戏设定在“哈兹维尔”城市，两队玩家展开邻里大战。本次开放测试于3月21日至3月24日举行，EA版将提供八名角色及多种武器选择，玩家可摧毁对手房屋并保护自己的家园。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742536278_443573.png)
+
+---
+
+## 4. [《勇闯死人谷：暗黑之日》将于2025年4月10日登陆Steam](https://www.3dmgame.com/news/202503/3916879.html)   2025-03-21 13:57
+
+PikPok的生存策略游戏《勇闯死人谷：暗黑之日》宣布4月10日通过Steam抢先体验登陆PC平台。游戏背景设定在丧尸危机中，玩家需建立庇护所、搜寻物资并策划逃离计划。动态环境和分支剧情让每次冒险独一无二，售价定为86元。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250321/1742536430_939551.png)
+
+---
+
+## 5. [《方舟生存进化》十周年GDC公布重磅内容，全新DLC首曝](https://www.3dmgame.com/news/202503/3916878.html)   2025-03-21 13:57
+
+《方舟：生存进化》十周年庆活动在GDC展会上公布了全新海洋主题DLC《ARK:Aquatica》和剧情扩展《方舟：失落之地》。新DLC将引入水下生态系统、生物和装备，而“失落之地”将填补系列剧情空白，进一步扩展方舟世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742536374_309874.png)
+
+---
+
+## 6. [动作肉鸽《孤羊战纪》首测开启 零门槛畅玩未公开新章节！](https://www.3dmgame.com/news/202503/3916876.html)   2025-03-21 13:53
+
+《孤羊战纪》正式开启首次不限量删档测试，包含首章内容及新揭晓的第二章节。以高速连击与精准操作为核心，玩家将操控机械小羊在赛博末世中展开激烈战斗。随机生成地图与Roguelite机制为玩家提供独特冒险体验。
+
+---
+
+## 7. [可以升级Win11 24H2！微软终于解除发布之初就存在的限制](https://www.3dmgame.com/news/202503/3916874.html)   2025-03-21 13:26
+
+微软解除针对Windows 11 24H2的升级限制，更多用户可更新至最新版本。此前因兼容性问题，某些设备无法升级。微软改进后，受影响用户将在48小时内收到更新推送，建议重启设备以加快升级过程。
+
+![](https://img.3dmgame.com/uploads/images/news/20250321/1742534735_963876.png)
+
+---
+
+## 8. [ShiftUp融资3.2亿美元 《剑星》制作人跻身韩国富豪50强](https://www.3dmgame.com/news/202504/3918480.html)   2025-04-17 15:24
+
+韩国游戏开发商Shift Up完成3.2亿美元IPO，其创始人金亨泰跻身韩国富豪榜。《胜利女神：妮姬》与《剑星》大获成功，推动公司营收大幅增长。中国版《妮姬》已有500万预约量，即将上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744874527_259620_jpg_r.jpg)
+
+---
+
+## 9. [索尼收购在华家用游戏机合资公司股权 改名玩站匹五](https://www.3dm资公司主要从事家用游戏机业务，此次交易可能预示索尼加强在华市场的战略布局。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744873489_656037.png)
+
+---
+
+## 10. [Battle Aces亚洲测试现已开启，人皇SKY联手孙一峰中韩争霸再起](https://www.3dmgame.com/news/202504/3918478.html)   2025-04-17 15:05
+
+RTS新作《Battle Aces》亚洲测试正式启动，玩家可通过Steam申请参与测试。今晚20:00，中韩RTS电竞传奇SKY与孙一峰将对阵李帝东与Tossgirl，重燃经典对决。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744873516_813624.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-17 20:45)
+
+## 1. [VTuber三毛猫みけねこ。咖啡厅登台台湾及日本，梅雨季与喵粉约会纪念主流出道](https://www.4gamers.com.tw/news/detail/71318/mikenekoko-pop-up-cafe-in-taiwan-urban1-and-tokyo-osaka)   2025-04-17 14:53
+
+日本创作者经纪公司VAZ所属VTuber「みけねこ。」为纪念主流出道，将在台北、大阪、东京、新潟举办联名咖啡厅活动。《Mikeneko Cafe～与咪萪家的快乐梅雨约会～》将自4月28日起陆续展开。这次活动以沉浸式空间设计为特色，让粉丝感受与猫姊共度梅雨季的独特体验。活动采用预约制，入场票价为1500日元，内含特典明信片。此外，店内限时提供主题餐点与周边商品，消费满额更有机会获得独家贴纸。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4db77e11df7c66faee6e7189e6dec0b1f56fa0fc.webp)
+
+---
+
+## 2. [原标题真的有够长《无限扭蛋》轻小说改编动画今秋公开](https://www.4gamers.com.tw/news/detail/71316/backstabbed-in-a-backwater-dungeon-animation)   2025-04-17 14:44
+
+轻小说《无限扭蛋》改编电视动画将于今年秋季播出，讲述主角因队友背叛而意外召唤最强伙伴后展开复仇的故事。原作自2020年连载以来广受欢迎，改编漫画也备受期待。动画制作团队包括导演桜美かつし及J.C.STAFF等实力派成员，声优阵容则由玉城仁菜和长谷川育美领衔。
+
+![](https://img.4gamers.com.tw/puku-clone-version/488caf01e4ee30bc24888cb113b570152aa5d456.jpeg)
+
+---
+
+## 3. [毛骨悚然的新加坡式恐怖体验《惨痕》现已登陆Steam，限时9折优惠](https://www.3dmgame.com/news/202504/3918476.html)   2025-04-17 14:35
+
+新加坡KOEX工作室开发的第一人称恐怖解谜游戏《惨痕》正式上线Steam。在受新加坡怀旧建筑风格启发的梦魇世界中，玩家需探索阴森环境并解开失踪同学的谜团。游戏融合心理恐怖与丰富剧情，目前限时推出首发9折优惠，售价人民币33元。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250417/1744871652_395482.jpg)
+
+---
+
+## 4. [《AtmaSphere》Steam限时免费发布 经典滚球名作](https://www.3dmgame.com/news/202504/3918475.html)   2025-04-17 14:24
+
+Mazen Games开发的经典滚球游戏《AtmaSphere》现已在Steam限时免费发布，为玩家带来挑战性十足的物理规则闯关体验。游戏中，玩家需控制金属球穿越多变地形，最终成功抵达目的地。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744871017_503218.webp)
+
+---
+
+## 5. [《最后生还者2》剧集第二季 顽皮狗新作女主演员现身被吐槽](https://www.3dmgame.com/news/202504/3918474.html)   2025-04-17 14:15
+
+《最后生还者2》剧集第二季中，女演员Tati Gabrielle亮相引发玩家热议。Gabrielle此前参演过《神秘海域》电影，部分玩家吐槽剧集中角色形象与实际不符，但也有人对她的加盟表示期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744870397_868760_jpg_r.jpg)
+
+---
+
+## 6. [仅售29.9元！快节奏爬塔卡牌肉鸽《寻剑迷途》现已发售](https://www.3dmgame.com/news/202504/3918473.html)   2025-04-17 14:11
+
+《寻剑迷途》是一款快节奏爬塔卡牌游戏，现已登陆Steam，售价29.9元人民币。游戏融合牌组构建与地牢随机机制，提供丰富策略性战斗体验。玩家可通过关卡编辑器创作并分享自己的关卡。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744869956_118558_jpg_r.jpg)
