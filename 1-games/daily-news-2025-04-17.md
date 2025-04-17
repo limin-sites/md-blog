@@ -380,3 +380,76 @@ Nesting Games工作室由前育碧与《使命召唤》开发者成立，目标�
 ![](https://img.3dmgame.com/uploads/images/news/20250130/1738225101_924140_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-04-17 15:45)
+
+## 1. [ShiftUp融资3.2亿美元 《剑星》制作人跻身韩国富豪50强](https://www.3dmgame.com/news/202504/3918480.html)   2025-04-17 15:24
+
+韩国游戏开发商Shift Up完成3.2亿美元IPO，创始人金亨泰跻身韩国富豪50强。尽管股价下跌三分之一，其净资产仍达7.25亿美元。他创立的《胜利女神：妮姬》风靡全球，《剑星》获PS5平台用户评分9.2。Shift Up营收去年增长33%，《胜利女神：妮姬》中国版已收获500万预约量，即将上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744874527_259620_jpg_r.jpg)
+
+---
+
+## 2. [索尼收购在华家用游戏机合资公司股权 改名玩站匹五](https://www.3dmgame.com/news/202504/3918479.html)   2025-04-17 15:06
+
+索尼（中国）有限公司收购原上海东方明珠索乐文化发展有限公司股权，并将公司更名为“玩站匹五文化娱乐发展（上海）有限公司”。业内人士认为此举旨在加强索尼在中国的游戏机业务。公司名称的奇特命名引发网友热议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744873489_656037.png)
+
+---
+
+## 3. [Battle Aces亚洲测试现已开启，人皇SKY联手孙一峰中韩争霸再起](https://www.3dmgame.com/news/202504/3918478.html)   2025-04-17 15:05
+
+RTS游戏《Battle Aces》亚洲测试正式登陆Steam，今晚20:00将举行中韩电竞传奇对决，人皇SKY携手孙一峰对战韩国选手李帝东和TOSSGIRL。游戏由《星际争霸2》设计师领衔开发，主打快节奏对战与策略玩法。玩家可通过Steam Playtest申请参与测试。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744873516_813624.jpg)
+
+---
+
+## 4. [VTuber三毛貓みけねこ。咖啡廳登台灣及日本，梅雨季與喵粉約會紀念主流出道](https://www.4gamers.com.tw/news/detail/71318/mikenekoko-pop-up-cafe-in-taiwan-urban1-and-tokyo-osaka)   2025-04-17 14:53
+
+VTuber三毛貓みけねこ。纪念主流出道，将在日本及台北举办联名咖啡厅活动。活动主题为“与粉丝共度梅雨季”，提供限定餐点与周边商品。入场需预约，主食、甜点、饮品均有特色设计，活动时间涵盖4月28日至6月9日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4db77e11df7c66faee6e7189e6dec0b1f56fa0fc.webp)
+
+---
+
+## 5. [原標題真的有夠長《無限扭蛋》輕小說改編動畫今秋公開](https://www.4gamers.com.tw/news/detail/71316/backstabbed-in-a-backwater-dungeon-animation)   2025-04-17 14:44
+
+轻小说《无限扭蛋》改编动画将于今年秋季播出，讲述主人公莱特因队友背叛在迷宫深处获得强力伙伴并展开复仇的故事。原作曾获“成為小說家吧”平台夏季排名第一，动画制作由J.C.STAFF承接。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f76dd29f17b728326b4eac3b666293ed3acc58b.png)
+
+---
+
+## 6. [毛骨悚然的新加坡式恐怖体验《惨痕》 现已登陆Steam，限时9折优惠](https://www.3dmgame.com/news/202504/3918476.html)   2025-04-17 14:35
+
+新加坡KOEX工作室开发的恐怖解谜游戏《惨痕》正式发布，售价33元人民币，限时9折优惠。游戏结合心理恐怖与新加坡特有建筑风格，挑战玩家揭开黑暗秘密，采用虚幻引擎与动作捕捉技术提升沉浸感。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250417/1744871652_395482.jpg)
+
+---
+
+## 7. [《AtmaSphere》Steam限时免费发布 经典滚球名作](https://www.3dmgame.com/news/202504/3918475.html)   2025-04-17 14:24
+
+经典滚球游戏《AtmaSphere》现于Steam限时一周免费发布，玩家需控制金属球通过复杂地形和机关滚到终点。游戏注重物理规则与关卡设计，提供轻松又具挑战性的玩法体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744871017_503218.webp)
+
+---
+
+## 8. [《最后生还者2》剧集第二季 顽皮狗新作女主演员现身被吐槽](https://www.3dmgame.com/news/202504/3918474.html)   2025-04-17 14:15
+
+《最后生还者2》剧集第二季演员阵容曝光，Tati Gabrielle亮相引发争议。观众认为角色造型与演员形象差异明显。Gabrielle曾参演《神秘海域》电影，并因公开支持DEI政策被部分玩家批评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744870397_868760_jpg_r.jpg)
+
+---
+
+## 9. [仅售29.9元！快节奏爬塔卡牌肉鸽《寻剑迷途》现已发售](https://www.3dmgame.com/news/202504/3918473.html)   2025-04-17 14:11
+
+《寻剑迷途》正式登陆Steam平台，售价29.9元。游戏结合牌组构建与地牢探索机制，玩家可通过卡牌策略决定冒险旅程。三名角色、六座高塔以及丰富道具系统带来多样化玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250417/1744869956_118558_jpg_r.jpg)
+
+---
