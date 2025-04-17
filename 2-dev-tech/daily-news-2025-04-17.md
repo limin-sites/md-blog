@@ -353,3 +353,119 @@ API架构风格的选择不应仅基于流行趋势，而应结合实际需求�
 MCP官方Java SDK是一个强大工具，能帮助开发者实现Java应用与AI的无缝集成。它支持模型上下文协议（MCP），让开发者轻松操控AI功能，为应用开发提供了强大的技术支持。
 
 ---
+# 新闻简报 (更新时间: 2025-04-17 20:45)
+
+## 1. [计算机学写字--从编码到字体库 - Jay404](https://www.cnblogs.com/jay2home/p/18831312)   2025-04-17 19:54
+
+本文带你从计算机编码的起源——ASCII码入手，探索从二进制数字世界到文本的转化过程。早期的计算机使用8位二进制数表示128个字符，满足了英语世界的需求，但随着全球化发展，其他语言的需求推动了字符集的扩展和字体库的发展。
+
+---
+
+## 2. [一个神奇的JS代码，让浏览器在新的空白标签页运行我们 HTML 代码（createObjectURL 的妙用） - 独元殇](https://www.cnblogs.com/duyuanshang/p/18829312)   2025-04-17 19:34
+
+文章介绍了使用 JavaScript 的 `createObjectURL` 方法实现在线运行 HTML 的新途径。通过简单的代码逻辑，将用户输入的 HTML 显示在浏览器的新标签页中，无需复杂的工具支持。这为开发者提供了一种轻量级的测试解决方案。
+
+---
+
+## 3. [聊聊一体机与AI知识库 - 叶小钗](https://www.cnblogs.com/yexiaochai/p/18831365)   2025-04-17 18:03
+
+随着春节期间 AI 技术需求的火爆，一体机成为私有化部署的解决方案，以满足医疗、法律等领域的数据保密需求。本文探讨了 DeepSeek 一体机的背景及其在企业内部 AI 应用中的价值。
+
+---
+
+## 4. [Solon AI MCP Server 入门：Helloworld （支持 java8 到 java24。国产解决方案） - 带刺的坐椅](https://www.cnblogs.com/noear/p/18831333)   2025-04-17 17:45
+
+Solon框架推出基于MCP SDK的国产AI解决方案，支持Java版本从8到24，填补了国内Java开发者在AI领域的空白。文章详细介绍了如何使用Solon AI MCP框架进行开发，并提供了入门示例。
+
+---
+
+## 5. [多模态模型 Grounding DINO 初识 - 金色旭光](https://www.cnblogs.com/goldsunshine/p/18830755)   2025-04-17 17:38
+
+Grounding DINO 是一种零样本目标检测模型，通过结合 Transformer 和 Grounded Pre-Training，可以基于人类输入（如类别名称或表达方式）检测任意物体。它为目标检测领域带来了新的突破。
+
+---
+
+## 6. [张高兴的大模型开发实战：（五）使用 LLaMA Factory 微调与量化模型并部署至 Ollama - 张高兴](https://www.cnblogs.com/zhanggaoxing/p/18831270)   2025-04-17 17:24
+
+本文介绍了如何使用 LLaMA Factory 框架进行大语言模型的微调和量化，并部署至 Ollama平台。LLaMA Factory 提供了从预训练到指令微调的全栈解决方案，为开发者提供了更高效的模型开发工具。
+
+---
+
+## 7. [WinDebug查看C#程序运行内存中的数据库连接字符串 - BruceNeter](https://www.cnblogs.com/qwqwQAQ/p/18831182)   2025-04-17 16:49
+
+通过 WinDebug 工具，开发者可以轻松查看 C# 程序运行内存中的数据库连接字符串。文章提供了详细的操作步骤和演示，适合对内存调试和数据提取感兴趣的开发者学习。
+
+---
+
+## 8. [超实用！用FunctionCall实现快递AI助手 - 磊哥|www.javacn.site](https://www.cnblogs.com/vipstone/p/18831096)   2025-04-17 16:23
+
+本篇文章展示了如何利用 Function Call 技术实现一个快递 AI 助手，用户可以通过大语言模型查询快递信息。作者还分享了实现过程中的关键步骤和技术要点。
+
+---
+
+## 9. [重生之我是操作系统(十)----I/O管理 - 叫我安不理](https://www.cnblogs.com/lmy5215006/p/18828610)   2025-04-17 16:19
+
+文章详细讨论了操作系统的 I/O 管理功能，包括设备数据交换的机制和实现方法。它分析了如何通过隐藏设备差异实现高效、可靠的访问，为操作系统开发者提供了有价值的参考。
+
+---
+# 新闻简报 (更新时间: 2025-04-17 20:45)
+
+## 1. [SearXNG+MCP实现搜索引擎，想怎么搜就怎么搜 - 肖祥](https://www.cnblogs.com/xiao987334176/p/18830888)   2025-04-17 15:24
+
+MCP应用市场中，许多搜索引擎需要付费购买API密钥才能使用。然而，通过本地搭建SearXNG并结合Python调用，用户可以实现免费搜索功能，类似百度等传统搜索引擎。这种方法适合那些希望免去额外开销的技术爱好者。
+
+---
+
+## 2. [Spring Boot 根据配置决定服务（集群、单机）是否使用某些主件 - VipSoft](https://www.cnblogs.com/vipsoft/p/18830872)   2025-04-17 15:10
+
+文章介绍了如何根据配置在Spring Boot项目中决定是否启用某些组件，例如在集群模式下启用Nacos，而单机模式则禁用。通过调整YAML配置文件，可以灵活控制组件的启用与关闭。
+
+---
+
+## 3. [ESP-IDF教程1 开发环境 - OSnotes](https://www.cnblogs.com/lc-guo/p/18830819)   2025-04-17 14:48
+
+ESP32芯片的开发框架ESP-IDF由Espressif官方推出，是目前最全面的物联网开发工具之一。本文详细介绍了ESP-IDF的安装与使用，为初学者提供了清晰的入门指导。
+
+---
+
+## 4. [K8S 部署 Deepseek 要 3 天？别逗了！Ollama+GPU Operator 1 小时搞定 - Rainbond开源](https://www.cnblogs.com/rainbond/p/18830786)   2025-04-17 14:30
+
+企业数据的敏感性使得大模型私有化部署成为趋势。本文通过结合Ollama与GPU Operator，实现了快速部署DeepSeek等大模型，仅需1小时，显著提升效率并保障数据安全。
+
+---
+
+## 5. [4K分辨率视觉预训练首次实现！伯克利&英伟达多模态新SOTA，更准且3倍加速处理](https://www.51cto.com/article/813523.html)   2025-04-17 14:11
+
+伯克利与英伟达联合推出PS3视觉编码器，首次实现高效的4K分辨率视觉预训练，并推出多模态大模型VILA-HD。该技术在精确度与处理速度上都取得了突破性进展。
+
+---
+
+## 6. [o3全网震撼实测：AGI真来了？最强氛围编程秒杀人类，却被曝捏造事实](https://www.51cto.com/article/813524.html)   2025-04-17 14:09
+
+OpenAI的新模型o3在全网实测中表现惊艳，不仅能快速解决复杂编程问题，还展现了接近AGI的能力。然而，有部分用户指出其生成内容可能存在捏造事实的问题，引发讨论。
+
+---
+
+## 7. [Yes, We Do Want Humanoid Robots](https://app.daily.dev/posts/yes-we-do-want-humanoid-robots-vjlj5zaj6)   2025-04-13 06:03
+
+多家公司正在开发实用的类人机器人，用以协助家庭事务和照顾老人。由于环境设计更贴合人形，且模仿学习数据充足，类人机器人被认为比其他形态更适合日常使用，并能减轻社会接受的压力。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/995decef2f541b5346ba8411aabf848d?_a=AQAEuj9)
+
+---
+
+## 8. [JetBrains Terminal: A New Architecture](https://app.daily.dev/posts/jetbrains-terminal-a-new-architecture-j5w8pb6m3)   2025-04-08 22:13
+
+JetBrains推出新版终端架构，优化了性能并增强了跨平台兼容性。新架构采用标准核心，并利用IDE编辑器进行UI渲染，满足用户对透明度与可靠性的需求。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/c310ab9c81378cf3480d08a4c958981f?_a=AQAEuj9)
+
+---
+
+## 9. [(comic) Skipping the Small Talk](https://app.daily.dev/posts/comic-skipping-the-small-talk-qiiacoktg)   2025-04-16 00:21
+
+这篇漫画幽默地探讨了职场中跳过寒暄直接进入主题的情景，用轻松的方式展示工作日常，适合在紧张工作中放松心情。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/2006abf7a67e1d062105a66934a5d198?_a=AQAEuj9)
+
+---
