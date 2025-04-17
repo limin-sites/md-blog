@@ -69,3 +69,44 @@ Kubernetes v1.33版本发布，共包含64项增强功能，涵盖Pod调度优�
 本文介绍了一种使用 JavaScript 的 `createObjectURL` 方法，在浏览器的新空白标签页中直接运行 HTML 代码的巧妙解决方案。传统在线 HTML 运行方式通常通过代码框和 iframe 实现，而文章详细阐述了如何通过更简洁的方式实现类似功能。利用 `createObjectURL`，可以快速生成 URL，将 HTML 代码直接加载到新的标签页中。此方法不仅简化了操作，还为实现在线 HTML 预览提供了一种灵活的选择，适合开发者进行尝试和实践。  
 
 (无图片链接)
+# 新闻简报(更新时间:2025-04-18 05:45)
+
+## 1. [软件开发中的架构设计：系统思维的力量](https://app.daily.dev/posts/software-architecture-for-developers-cvzmiey2q)   2025-04-06 12:29
+
+软件架构不仅仅是层次和模式的组合，而是关于系统思维的运用。文章介绍了将架构视为动态、互联的系统的重要性，强调流动性和适应性。通过促进开发者之间的协作，优化数据流和增强自主性，开发者可以更清晰地理解架构设计的核心理念，从而构建更加稳定和高效的系统。这种方法对不同经验层次的开发者都具有帮助。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/3695fdd4428095665bdc1673b83b9b4d?_a=AQAEuj9)
+
+---
+
+## 2. [邮件自动回复助手实现教程](https://www.cnblogs.com/TS86/p/18831911)   2025-04-17 23:45
+
+本文详细介绍了如何利用Python的Rasa框架和SMTPlib库实现智能邮件自动回复助手，以解决现代办公中处理大量邮件的效率问题。教程涵盖了自然语言处理（NLP）模型的训练方法和邮件系统的集成步骤，帮助读者快速构建一个实用的自动化工具，从而显著提升工作效率。
+
+---
+
+## 3. [[not]exists与[not]in的区别](https://www.cnblogs.com/isnotyou/p/18831285)   2025-04-17 23:21
+
+作者分享了在处理业务查询时，使用`exists`替代`in`所带来的性能提升经验。通过实际案例分析，文章深入探讨了两者在数据库查询中的性能差异，并为开发者提供了优化查询速度的实用建议。适用于需要处理大规模数据的场景。
+
+---
+
+## 4. [Sentinel源码：FlowSlot流控原理剖析](https://www.cnblogs.com/mjunz/p/18831871)   2025-04-17 23:19
+
+本文深入探讨了Sentinel流控组件FlowSlot的实现原理，包括流控规则的快速失败、排队等待及预热效果等机制。通过系统性分析，帮助读者理解如何利用FlowSlot实现高效的请求限流，为构建稳定的系统提供了理论和实践支持。
+
+---
+
+## 5. [路径聚合网络PANet实战教程](https://www.cnblogs.com/DOMLX/p/18831868)   2025-04-17 23:18
+
+文章介绍了路径聚合网络PANet的原理及其在Pytorch中的代码实现。作为YOLOv5学习的前置知识，PANet通过特征金字塔网络和路径聚合结构优化了目标检测性能。教程提供了详细的代码示例，为计算机视觉领域的学习者提供了实用指导。
+
+---
+
+## 6. [FlexAppAI：Supabase与AI集成打造移动应用](https://app.daily.dev/posts/flexapp-idea-to-mobile-apps-with-supabase-and-ai-integrations-xawu6noa6)   2025-04-17 20:46
+
+FlexAppAI v0.2推出了Supabase集成和AI驱动开发功能，让开发者能够在短时间内构建完整的移动应用。通过AI生成代码、实时预览以及跨平台支持，该平台为开发者提供了便捷的应用构建体验。新版功能包括支持PostgreSQL数据库、文件存储和无服务器逻辑。FlexAppAI v0.2将于2025年4月21日正式上线。
+
+![](https://media.daily.dev/image/upload/s--ffYMo5Dj--/f_auto/v1744894014/posts/XAwU6nOA6)
+
+---
