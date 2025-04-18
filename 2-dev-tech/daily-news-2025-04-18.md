@@ -110,3 +110,80 @@ FlexAppAI v0.2推出了Supabase集成和AI驱动开发功能，让开发者能�
 ![](https://media.daily.dev/image/upload/s--ffYMo5Dj--/f_auto/v1744894014/posts/XAwU6nOA6)
 
 ---
+# 新闻简报(更新时间:2025-04-18 10:45)
+
+## 1. [『Plotly实战指南』--布局基础篇 - wang_yb](https://www.cnblogs.com/wang_yb/p/18832119)   2025-04-18 09:29
+
+在数据分析与可视化领域，图表的布局设计至关重要。本文详细讲解了如何使用Python库Plotly进行布局定制，从基础元素设置到坐标轴深度定制，通过代码与案例帮助读者掌握标签与坐标轴的核心布局方法。
+
+---
+
+## 2. [Web前端入门第 37 问：多图细说 CSS grid 网格布局（二）子元素相关属性 - 前端路引](https://www.cnblogs.com/linx/p/18832123)   2025-04-18 09:19
+
+本文是CSS Grid网格布局系列的第二篇，聚焦于子元素相关属性。通过图文讲解，详细展示了子元素的样式设置与实际应用，为开发者提供了易于理解的示例代码和实战技巧。
+
+---
+
+## 3. [UC伯克利：让推理模型少思考，准确率反而更高了！](https://www.51cto.com/article/813566.html)   2025-04-18 08:42
+
+UC伯克利的最新研究发现，要求AI模型跳过复杂的思考过程时，推理能力反而得到提升。这一突破可能对AI领域的发展带来深远影响，也引发了对模型训练策略的重新思考。
+
+---
+
+## 4. [ASP.NET Core 实战：基于 Jwt Token 的权限控制全揭露](https://www.51cto.com/article/813562.html)   2025-04-18 08:18
+
+基于JWT Token的权限控制是ASP.NET Core开发中的重要机制。本文深入解析了Token的生成和验证流程，结合角色和策略的应用，帮助开发者轻松实现复杂的权限控制逻辑。
+
+---
+
+## 5. [使用LangGraph构建你的第一个AI Agent-附完整代码](https://www.51cto.com/article/813560.html)   2025-04-18 08:01
+
+随着AI技术的飞速发展，AI Agent正在成为数字化转型的核心驱动力。本文介绍了LangGraph的使用方法，并附完整代码，帮助开发者构建适配性强、安全性高的AI应用。
+
+---
+
+## 6. [一文掌握 Spring 的启动扩展点](https://www.51cto.com/article/813557.html)   2025-04-18 05:50
+
+本文详解了Spring框架中常见的启动扩展点，包括InitializingBean接口和Aware系列接口，展示了如何将这些接口用于主流框架（如Dubbo、MyBatis）的整合，帮助开发者提高系统启动效率。
+
+---
+
+## 7. [与自命不凡的技术大咖打交道的六个技巧](https://www.cioage.com/article/813543.html)   2025-04-18 01:00
+
+技术大咖在IT运营中至关重要，但与他们合作可能充满挑战。本文通过案例分析，提供了六个实用技巧，帮助CIO和项目经理化解团队合作中的矛盾，实现效益最大化。
+
+![](https://s8.51cto.com/oss/202504/17/28c863c90899315acf8063ec2344b39dddae04.jpg)
+
+---
+
+## 8. [数字化转型失败的三大原因](https://www.51cto.com/article/813542.html)   2025-04-18 00:30
+
+全球37%的数字化转型项目以失败告终，研究揭示了三个主要原因：缺乏明确路线图、高管支持不足、以及企业在转型中丧失品牌特色。这些问题为企业提供了重要的反思方向。
+
+---
+
+## 9. [阿里、蚂蚁、腾讯纷纷推出 AI 组件库，React / Vue 全覆盖，AI 组件库超全汇总来啦！](https://www.51cto.com/article/813553.html)   2025-04-18 00:04
+
+阿里、蚂蚁和腾讯纷纷发布AI组件库，支持React和Vue技术栈，为开发者提供高效解决方案。本文汇总了常见的AI组件库资源，助力开发者快速上手。
+
+---
+
+## 10. [Jack Dorsey and Elon Musk would like to ‘delete all IP law’](https://app.daily.dev/posts/jack-dorsey-and-elon-musk-would-like-to-delete-all-ip-law--oncoomefe)   2025-04-13 23:12
+
+Jack Dorsey和Elon Musk展开了关于知识产权法的激烈讨论，Dorsey建议废除所有IP法，Musk表示赞同。讨论涉及IP法对AI发展的影响以及对创作者公平补偿的争议，观点分歧显著。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/eec1cdadb526a92419c31c8ede841f1e?_a=AQAEuj9)
+
+---
+# 新闻简报(更新时间:2025-04-18 10:45)
+
+## 1. [为了掌握设计模式，开发了一款Markdown 文本编辑器软件(已开源） - 渊渟岳](https://www.cnblogs.com/dennyLee2025/p/18832024)   2025-04-18 07:43
+
+【摘要】设计模式实战项目：Markdown 文本编辑器软件开发(已开源)
+
+一、项目简介  
+项目名称：YtyMark-java  
+本项目是一款基于 Java 语言和 JavaFX 图形界面框架开发的 Markdown 文本编辑器。项目不仅具备 Markdown 文本编写、预览、保存、导出等功能，还特别关注设计模式的应用，旨在提升开发者的代码质量和可维护性。这款工具的开源发布为学习设计模式和开发实用工具提供了绝佳案例。
+
+有关更多功能及代码实现，请点击阅读全文。
+
