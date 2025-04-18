@@ -641,3 +641,370 @@ Epic商城现可免费领取冒险游戏《植物精灵》，该作充满幽默�
 
 ![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/04/Leila-inline-asset1-94440bccaeed565e0c64.jpg)
 
+
+# 新闻简报(更新时间: 2025-04-18 15:45)
+
+## 1. [偷偷撤回？任天堂官网删除Switch2对VRR支持的描述](https://www.3dmgame.com/news/202504/3918543.html)   2025-04-18 15:25
+
+任天堂近期悄然从Switch2官网删除了有关可变刷新率(VRR)支持的描述，这一变化暗示该功能可能不会在新主机首发时提供。据悉，美国、加拿大和日本官网已移除相关内容，而英国官网仍保留相关说明。推测显示，VRR功能可能得益于NVIDIA G-Sync技术在掌机模式实现“超流畅无撕裂的游戏体验”。Switch2将于2025年6月5日推出，售价499.99美元。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744961020_569014.jpg)
+
+---
+
+## 2. [调查显示：玩家们游戏买的更少 玩得时间却更长](https://www.3dmgame.com/news/202504/3918542.html)   2025-04-18 15:18
+
+根据New Zoo的报告，2024年玩家游戏时间增长6%，但购买新游戏的数量下降。Steam玩家一年平均新增10款游戏，低于2021年的13款。玩家更倾向于投入时间在经典游戏，如《使命召唤》系列占总时间的11%。厂商在未来需加强宣传策略以吸引新用户。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744960711_738676_jpg_r.jpg)
+
+---
+
+## 3. [King Gnu演唱劇場版《名偵探柯南 獨眼的殘像》主題曲，內藏動畫經典「關門音效」](https://www.4gamers.com.tw/news/detail/71343/detective-conan-movie-28-one-eyed-flashback-theme-song)   2025-04-18 14:48
+
+《名侦探柯南》第28部剧场版《独眼的残像》今日上映，主题曲由King Gnu演唱，并融入经典动画关门音效。剧情围绕长野县警大和敢助的奇迹生还展开，毛利小五郎与柯南也将参与调查。电影将于6月25日在台湾上映。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9dda6c10687f5ea14259f3c74b300899a973c71e.jpg)
+
+---
+
+## 4. [《烈焰之刃》全新预告 手持神兵砍凶残怪物](https://www.3dmgame.com/news/202504/3918541.html)   2025-04-18 14:44
+
+505 Games发布《烈焰之刃》新预告，展示了游戏战斗机制及武器锻造玩法。玩家将跟随主角埃岚·德·利拉踏上冒险旅程。游戏将于5月22日发售，支持PS5、XSX/S和PC平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744958588_608427_jpg_r.jpg)
+
+---
+
+## 5. [怪兽再临！东宝宣布重启哥斯拉主机游戏开发计划](https://www.3dmgame.com/news/202504/3918539.html)   2025-04-18 14:43
+
+东宝正式宣布重返哥斯拉主机游戏开发领域，此举迎合当前授权游戏复兴浪潮。哥斯拉近年频繁跨界登场并迎来漫画领域的新篇章，东宝计划推出专属游戏系列以延续怪兽之王的传奇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744958276_166306.jpg)
+
+---
+
+## 6. [SE监制《尼尔：机械纪元》2B的长刀原比例实体化 精致酷炫](https://www.3dmgame.com/news/202504/3918540.html)   2025-04-18 14:43
+
+《尼尔：机械纪元》2B的长刀“白之契约”原比例实体化，长度达到139cm，设计精致，收藏与展示均适宜。该刀定价89100日元，材质轻量结实，供粉丝收藏与把玩。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744958529_254319.png)
+
+---
+
+## 7. [NVIDIA发布全新光追DEMO 体积达108GB](https://www.3dmgame.com/news/202504/3918538.html)   2025-04-18 14:40
+
+NVIDIA推出基于UE5的全路径光追DEMO Zorah，展示神经渲染、DLSS 4等技术。场景包含5亿多三角形及复杂材质，画质媲美电影。该DEMO适用于RTX 50系列显卡，需108GB硬盘空间。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250418/1744958373_909589.jpg)
+
+---
+
+## 8. [腾讯新作《荒野起源》实机预告 在放逐森林战斗](https://www.3dmgame.com/news/202504/3918537.html)   2025-04-18 14:34
+
+腾讯开放世界生存建造游戏《荒野起源》发布新实机预告，展示放逐森林场景及战斗画面。游戏将于4月22日开启“中子星测试”，并亮相2025腾讯游戏发布会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744958024_416472_jpg_r.jpg)
+
+---
+
+## 9. [《方块方舟》复活节版本上线，春日趣味冒险等你参与！](https://www.3dmgame.com/news/202504/3918536.html)   2025-04-18 14:29
+
+《方块方舟》复活节版本更新上线，推出节日限定生物“复活节兔子”，击败可获得银蛋币与金蛋币换取奖励。同时新增节日武器、装饰道具及染色物品，增添春日冒险乐趣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744957781_548797.jpg)
+
+---
+
+## 10. [《Minecraft》玩家用新座騎「快樂幽靈」開發最新式「快樂旋轉木馬」設施](https://www.4gamers.com.tw/news/detail/71342/happy-ghast-merry-go-round-minecraft)   2025-04-18 14:28
+
+《Minecraft》玩家利用新座骑“快乐幽灵”创造出旋转木马设施，画面充满欢乐氛围。“快乐幽灵”已在Java测试快照版本上线，预计今年夏季正式实装。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bbcf1b2ed1aa7dc8f4d4f0cb17a4e08ee44e84c2.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-18 15:45)
+
+## 1. [极好评硬派生存《潜淵症》Steam免费周末+对折特价，「暴风雨前的宁静」更新上线](https://www.4gamers.com.tw/news/detail/71341/barotrauma-free-weekend-and-half-price-sale-with-calm-before-the-storm-update) 2025-04-18 14:24
+
+《潜淵症》现于4月18日至21日开启Steam免费周末活动，同时推出-50%特价，活动截止至4月27日。此次更新增加了PvP新地图、画面升级、永久死亡模式改良以及修复了大量AI漏洞。游戏背景设定在木卫二的深海，玩家需合作操作潜艇并面对深海巨怪和内忧外患。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4229e0addd7e0561ca2a967b49a9be5ebe713385.png)
+
+---
+
+## 2. [《饿狼传说：群狼之城》动画宣传片发布](https://www.3dmgame.com/news/202504/3918535.html) 2025-04-18 14:22
+
+SNK新作《饿狼传说：群狼之城》将于4月24日发售，登陆PS4、PS5、XSX/S和PC。官方发布动画宣传片，由大张正己担任导演，视频中展示了各游戏角色的亮相。不知火舞的华丽换装吸引了玩家关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744957266_569222_jpg_r.jpg)
+
+---
+
+## 3. [Steam塔防黄油《模拟触手》发售，成为触手异种改造俘虏扩大巢穴](https://www.4gamers.com.tw/news/detail/71339/r18-game-latex-tentacles-launch-on-steam) 2025-04-18 14:01
+
+《模拟触手》是一款结合基地建设、塔防和横版过关的R18游戏，玩家将化身为触手异种，捕获人类壮大巢穴并完成改造。游戏内含丰富的玩法和CG，现已在Steam平台推出，并提供-10%优惠至5月2日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/635fd1c3e5c2d183cbd5aa5b43854653c693b2dc.jpg)
+
+---
+
+## 4. [好评农场冒险《Everafter Falls》2.0版更新上线](https://www.4gamers.com.tw/news/detail/71340/everafter-falls-2-0-patch-major-content-update) 2025-04-18 13:48
+
+《Everafter Falls》推出重磅2.0更新，新增9个任务、12道新料理食谱及多种道具，优化了图鉴收集和地牢探险体验。Steam平台现正以-25%优惠促销，活动截止至4月25日。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f4085920f485013f65cbe79cabdb2a5005ad9f35.jpg)
+
+---
+
+## 5. [《星球大战：法外狂徒》9月4日登陆Switch 2](https://www.3dmgame.com/news/202504/3918534.html) 2025-04-18 13:32
+
+育碧宣布经典游戏《星球大战：法外狂徒》将于9月4日登陆Switch 2平台，同时揭示第二个故事DLC“海盗宝藏”将于5月15日上线，继续丰富玩家的冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744954301_222924_jpg_r.jpg)
+
+---
+
+## 6. [经典玩具《危机一发》50周年规则调整](https://www.4gamers.com.tw/news/detail/71338/pop-up-pirate-rule-chang-to-win-by-popped-up-) 2025-04-18 12:38
+
+为庆祝50周年，《危机一发》宣布将游戏规则恢复为最初设定：让海盗跳出桶的玩家即为胜者。新款纪念版本将于7月推出，售价2750日元（约合新台币630元）。
+
+![](https://img.4gamers.com.tw/puku-clone-version/10adf7f8e8f467f324bce951dd306bc21fbe7ec5.png)
+
+---
+
+## 7. [3D调教游戏《黑暗调教 - 锁链支配》上线Steam](https://www.4gamers.com.tw/news/detail/71333/dark-dominance-chain-control-launch-on-steam) 2025-04-18 12:02
+
+《黑暗调教 - 锁链支配》是一款R18触摸点点击游戏，玩家可对角色进行自由调教并解锁多种场景。游戏支持繁体中文步兵版，现以-20%优惠发售，促销活动至4月30日结束。
+
+![](https://img.4gamers.com.tw/puku-clone-version/09d1437492241189c8820617189a26b3e8669385.jpg)
+
+---
+
+## 8. [hololive × 长崎蛋糕首度联名商品开售](https://www.4gamers.com.tw/news/detail/71334/hololive-collab-with-castella-brand-suzakiya-) 2025-04-18 12:00
+
+hololive与日本著名长崎蛋糕品牌“须崎屋”合作推出联名商品，包括限量蛋糕、波佐见烧瓷器及海报。商品现已开放预购，部分代购平台提供海外购买服务。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a0421fe24257fb6292ddea9c46c775b6e4677ad8.avif)
+
+---
+
+## 9. [中国脑机接口新突破！癫痫患者实现意念玩《黑神话》](https://www.3dmgame
+# 新闻简报(更新时间:2025-04-18 15:45)
+
+## 1. [老派RTS文艺复兴！《风暴崛起》豪华版现已解锁，4月25日正式上线](https://www.3dmgame.com/news/202504/3918531.html)   2025-04-18 11:52
+
+经典即时战略游戏《风暴崛起》豪华版已在Steam解锁，4月25日正式上线。该游戏由Slipgate Ironworks联合3D Realms打造，回归90年代RTS黄金时代，注重非对称阵营设计和动态战场视觉表现。豪华版售价199元，包含预购奖励和音乐原声带，而基础版售价159元，届时解锁。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744947484_237847.jpg)
+
+
+## 2. [游戏发行商称：“我们已进入后《博德之门3》时代”](https://www.3dmgame.com/news/202504/3918530.html)   2025-04-18 11:49
+
+《博德之门3》的成功引发了业内关注，发行商认为这部CRPG杰作证明玩家愿意为复杂的游戏体验买单。开发者和投资者可能受到启发，期待未来推出更多高质量的RPG作品，例如《永恒之柱3》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744947888_633942_jpg_r.jpg)
+
+
+## 3. [疑似Apple Vision Air电源线材曝光，或新增午夜蓝配色](https://www.4gamers.com.tw/news/detail/71335/apple-vision-air-cable-leaks)   2025-04-18 11:38
+
+Apple可能推出平价版MR设备Vision Air，相关电源线材曝光显示午夜蓝配色。相比Vision Pro，线材接头更小，功能可能有所简化。Vision Air预计在屏幕等规格上有所降低以控制成本。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2830ab1b729fc22e46a07158b6f7618a2ac9caaa.jfif)
+
+
+## 4. [AMD RX 9070 GRE更多规格曝光 精准填补空档](https://www.3dmgame.com/news/202504/3918529.html)   2025-04-18 11:16
+
+AMD RX 9070 GRE显卡将搭载Navi 48 XL芯片，配备12GB GDDR6显存，性能介于RX 9070 XT和RX 9070之间。显存带宽降至432GB/s，预计在中国市场首发。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744946152_145185.png)
+
+
+## 5. [卡梅隆呼吁善用AI：降低电影成本 提高制作效率](https://www.3dmgame.com/news/202504/3918528.html)   2025-04-18 11:16
+
+著名导演詹姆斯·卡梅隆认为，AI技术可以大幅降低电影制作成本，并提高效率。他加入Stability AI董事会，旨在探索将AI集成到电影特效制作中的可能性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744945059_890641_jpg_r.jpg)
+
+
+## 6. [免费放置型战争游戏《Age of War》登上Steam获好评，后因版权问题下架](https://www.4gamers.com.tw/news/detail/71332/a-recreation-of-the-beloved-flash-game-age-of-war-free-on-steam)   2025-04-18 11:15
+
+经典网页游戏《Age of War》免费复刻版在Steam上线一周后因版权问题下架。该游戏让玩家通过升级时代和单位进行策略对战，受到怀旧玩家的欢迎。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bed20c94475c889d1cdeac81261914644742afa9.jpg)
+
+
+## 7. [最高可享70%折扣 Xbox春季促销现已正式开启](https://www.3dmgame.com/news/202504/3918527.html)   2025-04-18 10:51
+
+Xbox春季促销活动开启，部分游戏折扣高达70%。包括《博德之门3》、《艾尔登法环》、《荒野大镖客2》等热门游戏参与活动，促销持续至4月30日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744944502_107759_jpg_r.jpg)
+
+
+## 8. [《严阵以待》今夏登陆PS5/Xbox 第一人称战术FPS](https://www.3dmgame.com/news/202504/3918526.html)   2025-04-18 10:47
+
+第一人称战术FPS游戏《严阵以待》将在今夏登陆PS5和Xbox平台。这款现代警匪题材游戏让玩家体验真实的特警战术和刺激的策略对抗。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744944448_123304.jpg)
+# 新闻简报(更新时间:2025-04-18 15:45)
+
+## 1. [美众议院议长称玩游戏是虚度光阴 年轻人应出门工作](https://www.3dmgame.com/news/202504/3918520.html)   2025-04-18 10:46
+
+美国众议院议长迈克·约翰逊在国会讨论医疗补助法案时表示，年轻男性通过玩游戏浪费时间，侵占弱势群体福利资源。他呼吁年轻人走出家门工作，并批评部分受益者逃避责任，沉迷于无生产力的活动。然而数据显示，游戏产业贡献了1200亿美元年产值，创造超50万个就业岗位。网友对此调侃其简化社会问题为游戏毒害。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744941191_244646_jpg_r.jpg)
+
+---
+
+## 2. [《堕落之主》2.0版本更新：跨平台合作玩法及多项优化](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-18 10:43
+
+《堕落之主》迎来2.0版本更新，新增跨平台合作玩法、免费好友通行证、战斗及移动系统优化等功能。玩家可共享主线剧情进度，优化后的战斗体验更流畅，同时加入专用跳跃按钮及改进的教程体验，为游戏冒险增添更多乐趣。
+
+![](https://static.willmao.com/feed_upload/2025-04-18/10-43-18-phpTtL36f.jpg)
+
+---
+
+## 3. [Xbox分发《极限竞速 地平线5》PS5版评测码](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-18 10:37
+
+Xbox官方向游戏博主和媒体提供了PS5版《极限竞速 地平线5》的评测码，评测报告将于4月26日解禁。游戏针对PS5 PRO进行了优化，并支持DS5自适应扳机功能。
+
+![](https://static.willmao.com/feed_upload/2025-04-18/10-37-16-php0EyzLm.jpeg)
+
+---
+
+## 4. [《禁闭求生》迎来新更新内容](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-18 10:35
+
+《禁闭求生》推出新更新，新增“离开游戏（AFK）”状态及滑索速度提升，同时对REMIX.D庭院进行了改动，游乐场模式也得到优化。更新还修复了部分漏洞，进一步提升玩家游戏体验。
+
+![](https://static.willmao.com/feed_upload/2025-04-18/10-34-58-phpOXMe6X.jpg)
+
+---
+
+## 5. [《Towerborne》将于4月29日上线并推出日本主题活动](http://nnas.sqngame.com:11201/xboxfan/news)   2025-04-18 10:33
+
+《Towerborne》将于4月29日在Xbox Series X|S平台上线，同时推出以日本为主题的“Shiro’s Golden Journey”活动。活动内容包括全新任务、角色及奖励，融入丰富的日本元素。
+
+![](https://static.willmao.com/feed_upload/2025-04-18/10-32-57-phpqQifmD.jpg)
+
+---
+
+## 6. [迪士尼官宣多部《星球大战》电影档期](https://www.3dmgame.com/news/202504/3918525.html)   2025-04-18 10:24
+
+迪士尼在《星球大战》庆典活动上宣布两部电影档期：《曼达洛人和古古》将于2026年5月22日上映，《星际战斗机》定档2027年5月28日。此外，迪士尼还透露多位导演正在制作新的《星球大战》三部曲及其他电影内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744943478_923480_jpg_r.jpg)
+
+---
+
+## 7. [NVIDIA新驱动576.02发布 RTX 5080性能提升7%](https://www.3dmgame.com/news/202504/3918524.html)   2025-04-18 10:15
+
+NVIDIA发布576.02新版驱动，为RTX 50系列显卡带来性能提升及功耗优化。RTX 5080在实际游戏测试中性能提升5-7%，空闲功耗显著降低。该驱动也对部分RTX 40系列显卡带来小幅性能优化。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250418/1744942460_884426.png)
+
+---
+
+## 8. [《霓虹深渊2》确定7月抢先体验](https://www.3dmgame.com/news/202504/3918523.html)   2025-04-18 10:14
+
+国产肉鸽动作续作《霓虹深渊2》将于7月17日登陆Steam抢先体验。游戏延续前作风格，提供快节奏战斗及丰富道具协同效果，带玩家探索赛博神话世界的全新冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744942444_478467.webp)
+
+---
+
+## 9. [《暗黑破坏神4》确认与《剑风传奇》展开联动](https://www.3dmgame.com/news/202504/3918519.html)   2025-04-18 10:14
+
+暴雪宣布《暗黑破坏神4》将与黑暗奇幻漫画《剑风传奇》展开联动，推出主题皮肤。此次联动将在4月-7月间上线，玩家将能体验与漫画风格融合的特别内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744941233_119761.webp)
+
+---
+
+## 10. [育碧将举办《全境封锁2》专场发布会](https://www.3dmgame.com/news/202504/3918521.html)   2025-04-18 10:13
+
+育碧宣布将于4月23日举办《全境封锁2》专场发布会，展示新DLC《布鲁克林之战》的详细信息及实机演示画面。活动将在YouTube平台直播，具体时间尚待公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744942269_623724_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-04-18 15:45)
+
+## 1. [甲亢哥参演《饿狼传说：群狼之城》宣传片：跟偶像C罗在游戏中碰面!](https://www.3dmgame.com/news/202504/3918522.html) 2025-04-18 10:13
+
+近日，《饿狼传说：群狼之城》与职业拳击赛事合作发布宣传片，知名网红“甲亢哥”与足球巨星C罗同时亮相。甲亢哥作为C罗铁粉，这次可谓圆梦游戏追星。宣传片展示了独特的游戏玩法与拳击手之间的互动，吸引了众多玩家的关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744942349_719014.png)
+
+---
+
+## 2. [英伟达回应美国芯片管制：严格遵守 不通过任何途径转售到中国](https://www.3dmgame.com/news/202504/3918517.html) 2025-04-18 09:43
+
+针对美国新规限制对华芯片出口，英伟达表示将严格遵守相关条例，并澄清新加坡账单地址并非中国大陆。英伟达CEO黄仁勋近日抵达北京，延续其与中国的合作使命。新规对芯片行业的影响仍在持续发酵。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250418/1744940544_156784.jpg)
+
+---
+
+## 3. [叮咚，我是来拆家的！《家有恶邻》抢先体验现已上线 首发38元](https://www.3dmgame.com/news/202504/3918516.html) 2025-04-18 09:40
+
+由Invisible Walls开发的《家有恶邻》现已在Steam上线抢先体验，售价38元。游戏以欢乐团队对抗为核心，玩家可化身拆迁队长，在社区展开激烈的邻里大战，同时解锁各种角色技能和武器。首发吸引了大量玩家参与测试。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744940411_645567_jpg_r.jpg)
+
+---
+
+## 4. [《守望先锋2》官宣联动《高达W》 4月29日内容上线](https://www.3dmgame.com/news/202504/3918515.html) 2025-04-18 09:39
+
+《守望先锋2》正式宣布与《新机动战记高达W》联动，联动内容将于4月29日上线。官方概念图暗示飞翼高达将成为马西的新皮肤，此次联动也吸引了高达迷和《守望先锋2》玩家的期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744940339_175238.png)
+
+---
+
+## 5. [对《黄昏血族》是多人游戏感到失望 NewBlood创始人痛批类塔科夫](https://www.3dmgame.com/news/202504/3918514.html) 2025-04-18 09:36
+
+New Blood创始人Dave Oshry对FromSoftware新作《黄昏血族》选择多人模式表示失望，并批评撤离射击类游戏的泛滥现象。《黄昏血族》融合了撤离类和大逃杀元素，但制作人宫崎英高承诺将满足PvP玩家需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744940054_612204.jpg)
+
+---
+
+## 6. [《鬼武者2：复刻版》全新视频 弹刀后瞬杀敌人](https://www.3dmgame.com/news/202504/3918513.html) 2025-04-18 09:28
+
+卡普空发布《鬼武者2：复刻版》新演示视频，展示主角防御一闪技能，玩家可在敌人攻击瞬间反击。游戏将在5月23日发售，并支持简体中文，为老玩家带来经典回忆。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744939681_745713_jpg_r.jpg)
+
+---
+
+## 7. [《环太平洋》前传剧集将上线亚马逊 《降临》编剧执笔](https://www.3dmgame.com/news/202504/3918512.html) 2025-04-18 09:27
+
+亚马逊Prime Video宣布开发《环太平洋》前传剧集，由《降临》编剧埃里克·海瑟尔创作剧本。该剧将以电影前传形式呈现，具体剧情尚未公开，预计将带来全新科幻冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744939402_479439.jpg)
+
+---
+
+## 8. [《夺宝奇兵：古老之圈》现已在PlayStation5主机平台开启抢先体验](https://www.3dmgame.com/news/202504/3918511.html) 2025-04-18 09:26
+
+《夺宝奇兵：古老之圈》现已在PS5主机上开启抢先体验，玩家可享受60帧画质、快速加载等功能。游戏新添长鞭技能，为冒险探索增添更多趣味。豪华版组合包还包括额外DLC内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744939419_998844_jpg_r.jpg)
+
+---
+
+## 9. [《马里奥赛车：世界》NS2捆绑包公布 游戏半价搭配](https://www.3dmgame.com/news/202504/3918510.html) 2025-04-18 09:09
+
+任天堂宣布Switch2捆绑包，将《马里奥赛车：世界》游戏以半价搭配出售。该捆绑包仅限日本地区，且限时生产至2025年底，有效降低玩家购入成本。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744938519_922971.jpg)
+
+---
+
+## 10. [动作游戏《Covenant》新预告 黑暗奇幻风格！](https://www.3dmgame.com/news/202504/3918509.html) 2025-04-18 09:01
+
+《Covenant》发布新预告，展示第一人称黑暗奇幻动作玩法。玩家将在相互连接的世界中探索古老英雄遗迹，解锁技能与装备。游戏支持单人及多人模式，具体发售日期尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250418/1744938063_724124_jpg_r.jpg)
+
+---
