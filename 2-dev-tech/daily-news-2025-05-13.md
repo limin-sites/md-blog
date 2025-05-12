@@ -93,3 +93,38 @@ OpenAI面临重大挑战，如果无法成功转型为公共利益公司，将�
 Bolt DIY是一个强大的开源AI辅助开发工具，支持多种大型语言模型(LLM)的选择，包括OpenAI、Anthropic、Ollama等。用户可以在浏览器中进行全栈Web开发，并为每个提示选择最适合的模型。文章详细解析了Bolt DIY从模型初始化到响应生成的技术流程。
 
 ![](https://www.cnblogs.com/jishuba/images/bolt_diy.jpg)
+# 新闻简报(更新时间:2025-05-13 05:45)
+
+## 1. [飞行中的引擎更换：生产环境数据库迁移的艺术与科学](https://www.cnblogs.com/Amd794/p/18873549)   2025-05-13 00:40
+
+生产环境数据库迁移是一个高风险的操作，需同时确保数据安全性和服务的持续性。文章详细解析了实现零停机迁移的关键技术和完整回滚方案的重要性，为开发者提供了实用的解决思路。
+
+---
+
+## 2. [2025年Android面试题含答案 - handsome黄](https://www.cnblogs.com/huangjialin/p/18873411)   2025-05-12 23:57
+
+面对就业市场的挑战，作者分享了自己在短时间内通过十几家公司面试的经验，并总结了当前Android开发面试的热门问题及答案。这些内容对求职者尤其是有经验的开发者具有很强的参考价值。
+
+---
+
+## 3. [理解 C# 中的各类指针 - 黑洞视界](https://www.cnblogs.com/eventhorizon/p/18873400)   2025-05-12 22:45
+
+本文深入讲解了C#语言中各类指针的使用，包括指向值类型变量、对象引用、非托管内存等场景的指针操作，帮助开发者更好地理解指针的作用及其在实际开发中的应用。
+
+---
+
+## 4. [Our Slack is dead. Long live Zulip!](https://app.daily.dev/posts/our-slack-is-dead-long-live-zulip--xksgq0nrh)   2025-05-09 04:48
+
+Changelog社区宣布从Slack迁移到Zulip，以提升沟通体验。文章详细说明了Zulip的开源特性、线程化系统以及开放社区的优势，强调了迁移后更高质量的互动和灵活的集成能力。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/f81d5ba885d06130a95a3dc491440443?_a=AQAEuj9)
+
+---
+
+## 5. [Rust Complete Bootcamp!](https://app.daily.dev/posts/rust-complete-bootcamp--xlhb8kzdd)   2025-05-06 22:35
+
+Rust语言的全面训练营课程上线，为开发者提供了从入门到精通的系统学习资源，帮助掌握这门备受关注的高性能编程语言。
+
+![](https://media.daily.dev/image/upload/s--VDukGCjf--/f_auto/v1722860399/public/Placeholder%2002)
+
+---
