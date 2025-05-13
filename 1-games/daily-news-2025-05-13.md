@@ -1149,3 +1149,358 @@ Steam生物收集节正式开幕，多款热门游戏推出折扣活动，包括
 ![](https://img.3dmgame.com/uploads/images/news/20250513/1747115316_578721.jpg)
 
 --- 
+# 新闻简报 (更新时间: 2025-05-13 20:45)
+
+## 1. [Capcom 2025财年财报：连续12年利润增长 收入创新高](https://www.3dmgame.com/news/202505/3919723.html)  
+2025-05-13 20:30  
+
+Capcom公布了2025财年财报，显示连续12年保持营业利润增长，综合收入和营业收入创历史新高。公司净销售额增长11.3%，营业收入增长15.2%。《怪物猎人：荒野》和经典游戏的销量表现强劲，年度游戏销量达5187万套，创公司历史新纪录。部分热门游戏销量数据：如《街头霸王6》售出467万套，《鬼泣5》售出913万套。此外，《生化危机》和《怪物猎人》系列继续领跑公司畅销榜。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747139098_244533_jpeg_r.jpeg)
+
+---
+
+## 2. [505 Games确认资助《明末：渊虚之羽》开发](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-05-13 20:13  
+
+505 Games在采访中透露，其全资支持了《明末：渊虚之羽》的开发，并且资助工作在游戏开发初期的2021年就已开始。该消息表明公司对该项目的高度重视。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/20-12-45-phpPQPFA5.jpg)
+
+---
+
+## 3. [《Palworld》即将推出Terraria联动更新](https://www.gamespot.com/articles/palworlds-next-major-update-is-a-terraria-crossover/1100-6531487/?ftag=CAD-01-10abi2f)  
+2025-05-13 20:07  
+
+《Palworld》开发商宣布游戏将迎来与《Terraria》的联动更新。这次更新将加入《Terraria》的怪物捕捉、训练和战斗机制，同时新增岛屿供玩家探索。此外，游戏艺术中还暗示了“克苏鲁之眼”等经典元素的加入。
+
+![](https://www.gamespot.com/a/uploads/scale_super/1639/16394540/4493377-tidesofterraria2.jpg)
+
+---
+
+## 4. [《Clair Obscur: Expedition 33》最初设定为蒸汽朋克僵尸世界](https://www.gamespot.com/articles/clair-obscur-expedition-33-was-almost-set-in-a-steampunk-victorian-world-with-zombies-and-aliens/1100-6531484/?ftag=CAD-01-10abi2f)  
+2025-05-13 20:02  
+
+《Clair Obscur: Expedition 33》最初计划设定在一个蒸汽朋克风格的维多利亚英格兰，包含僵尸和外星人元素。但在开发六个月后，投资方建议开发团队重新规划方向，最终形成了以法国美好年代为灵感的现有版本。
+
+---
+
+## 5. [Krispy Kreme推出《吃豆人》主题甜甜圈](https://www.gamespot.com/articles/krispy-kreme-announces-pac-man-donuts-and-they-look-delicious/1100-6531486/?ftag=CAD-01-10abi2f)  
+2025-05-13 19:58  
+
+为庆祝《吃豆人》45周年，Krispy Kreme推出三款主题甜甜圈，包括Pac-Man Party甜甜圈、Team Ghost甜甜圈和Strawberry Power Berry甜甜圈。这些甜甜圈现已在美国门店发售。
+
+---
+
+## 6. [RTX 5060显卡今晚8点上架](https://www.3dmgame.com/news/202505/3919722.html)  
+2025-05-13 19:43  
+
+英伟达RTX 5060系列显卡今晚8点正式上架，包括桌面和笔记本版本。该显卡面向主流用户，采用Blackwell架构，首批合作伙伴包括华硕、技嘉、微星等厂商。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747136652_936511_jpg_r.jpg)
+
+---
+
+## 7. [《Oblivion》重制版“修复”了经典笑点](https://www.gamespot.com/articles/oblivion-remastered-messes-up-a-good-joke/1100-6531481/?ftag=CAD-01-10abi2f)  
+2025-05-13 19:38  
+
+在《Oblivion》重制版中，一个标志性的拼写错误被修复，导致玩家失去了一个经典笑点。原作中店铺招牌的拼写错误是角色性格塑造的一部分，而该细节在重制版中被遗忘，引发玩家热议。
+
+---
+
+## 8. [CoD资深开发者：系列像《辛普森一家》，有时显得创意枯竭](https://www.gamespot.com/articles/call-of-duty-veteran-says-franchise-is-like-the-simpsons-it-feels-like-theyve-run-out-of-ideas-at-times/1100-6531480/?ftag=CAD-01-10abi2f)  
+2025-05-13 19:34  
+
+《使命召唤》初代开发者Chance Glasco在采访中表示，系列如今的创意枯竭让他联想到《辛普森一家》。尽管如此，他仍认为《使命召唤：战区》是一款值得一玩的作品。
+
+---
+
+## 9. [《魔兽世界：军团再临》重制活动正式确认](https://www.gamespot.com/articles/wow-legion-is-getting-the-remix-treatment-blizzard-confirms/1100-6531479/?ftag=CAD-01-10abi2f)  
+2025-05-13 19:24  
+
+暴雪在PAX East官方确认《魔兽世界》军团再临版本将迎来重制活动，团队正努力将原版的丰富内容和系统以全新方式呈现。活动的具体细节正在开发中。
+
+---
+
+## 10. [技嘉AI TOP 100 Z890全方位解决方案上市](https://www.4gamers.com.tw/news/detail/71742/gigabyte-ai-top-news)  
+2025-05-13 19:17  
+
+技嘉发布AI TOP 100 Z890解决方案，专为游戏玩家和AI开发者设计。该系统搭载Intel Core Ultra 9处理器、RTX 5090显卡及高性能存储设备，不仅支持高效游戏，还优化AI工作负载。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2506bd6aaa61819e30393297a97b246b554fead1.jpg) 
+
+---
+# 新闻简报 (更新时间: 2025-05-13 20:45)
+
+## 1. [技嘉推出STEALTH ICE系列AMD X870/B850背插主板與GeForce RTX 5090背插顯卡](https://www.4gamers.com.tw/news/detail/71741/gigabyte-stealth-ice-pc-diy)  
+2025-05-13 19:16  
+
+技嘉科技推出全新STEALTH ICE系列产品，包括AMD X870、B850主板和GeForce RTX 5090显卡，主打背插设计与纯白高颜值外观。同时，技嘉与多家品牌合作，为用户提供超过20款支持背插设计的机壳，进一步提升装机便利性和美学体验。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/c58c83b4ded7652da1770aa5feda9a41db7e86cf.png)  
+
+---
+
+## 2. [Fallout Renewed For A Third Season, But Heading To New Vegas First](https://www.gamespot.com/articles/fallout-renewed-for-a-third-season-but-heading-to-new-vegas-first/1100-6531478/?ftag=CAD-01-10abi2f)  
+2025-05-13 19:09  
+
+亚马逊宣布《Fallout》真人剧集续订第三季，第二季预计将于今年12月首播。《Fallout》第一季备受好评，成为Prime Video平台最成功的作品之一，展现了亚马逊对该系列的信心。  
+
+---
+
+## 3. [小米手机和平板在日本卖多少钱：15Ultra最高近万元](https://www.3dmgame.com/news/202505/3919721.html)  
+2025-05-13 18:07  
+
+小米旗舰机型15 Ultra在日本以19.98万日元（约9750元人民币）的高价发售，引发热议。其他产品如Redmi Note 14 Pro 5G则价格较为亲民。小米还在日本积极拓展线下渠道，加速品牌布局。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747126539_587328.jpg)  
+
+---
+
+## 4. [宝可梦第十世代传闻曝光：新御三家、新形态小火龙等](https://www.3dmgame.com/news/202505/3919720.html)  
+2025-05-13 17:50  
+
+网络传闻称《宝可梦》新作《宝可梦烈风/潮汐》将推出16座主岛和150余座小岛的冒险玩法，并引入火系山羊、草系蜗牛等全新御三家。游戏或取消道馆设定，改为岛屿试炼。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747129724_736154.jpg)  
+
+---
+
+## 5. [GEEKS RULE推《某种物质》联名T恤 小岛秀夫代言超酷](https://www.3dmgame.com/news/202505/3919719.html)  
+2025-05-13 17:49  
+
+创意机构GEEKS RULE推出经典恐怖电影《某种物质》联名T恤，并邀请小岛秀夫代言。该系列售价1.21万日元，将于5月16日发售，展示了独特的设计与气质。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747129640_183571.webp)  
+
+---
+
+## 6. [Steam紳士馬殺雞模擬《昔日女校霸來我的按摩店了》無修正版發售](https://www.4gamers.com.tw/news/detail/71753/massage-my-ex-bully-steam-now-on-sale)  
+2025-05-13 19:02  
+
+日本成人游戏《昔日女校霸来我的按摩店了》在Steam平台推出无修正版，玩家可以体验10周的按摩模拟过程，结合复仇与细腻互动，受到玩家好评。  
+
+![](https://thumbor.4gamers.com.tw/rUCjSNGOIyb9RcEA_L5LtFJyS7s=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fd612075d3ef82f6a7ac7d4be45
+# 新闻简报(更新时间:2024-11-04)
+
+## 1. [《明末：渊虚之羽》全新截图 面对隐藏的恐怖！](https://www.3dmgame.com/news/202411/3907778.html)  2024-11-04 09:40
+
+《明末：渊虚之羽》官方近日发布了新截图，并提问玩家是否敢于面对隐藏的恐怖。游戏以古蜀文明为背景，玩家将扮演女主无常，探索复活妹妹的途径及家族命运。玩家可使用多种武器与法术进行战斗，展现多样的战斗风格。游戏预计2025年发售，登陆PS5、XSX|S及PC平台，并首发加入Game Pass。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730684306_183824.jpg)
+
+---
+
+## 2. [《街霸6》制作人松本脩平新游戏节目 谈游戏开发哲学](https://www.3dmgame.com/news/202411/3907777.html)  2024-11-04 09:40
+
+《街霸6》制作人松本脩平将在11月19日参与新游戏节目，分享他的游戏开发哲学。他将讨论如何吸引玩家、推广IP以及现代游戏开发的关键。同时他还可能透露《街霸6》的最新资讯。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730684364_159238.jpg)
+
+---
+
+## 3. [《蟹蟹寻宝奇遇》开发商希望制作新作 但融资尚未成功](https://www.3dmgame.com/news/202411/3907776.html)  2024-11-04 09:37
+
+《蟹蟹寻宝奇遇》开发商Aggro Crab近日透露，其第三款游戏的融资计划失败，正在寻求投资者支持。此前，《蟹蟹寻宝奇遇》以其成功的魂类玩法获得热烈反响，但开发资金不足成为新作的阻碍。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730684065_549120.jpg)
+
+---
+
+## 4. [城市建造策略模拟游戏《特拉托亚尼：阿兹特克城》现已抢先体验推出 获好评](https://www.3dmgame.com/news/202411/3907775.html)  2024-11-04 09:31
+
+《特拉托亚尼：阿兹特克城》现已在Steam抢先体验推出，玩家可建造属于自己的阿兹特克文明城市，体验详细的社会模拟及资源管理系统。游戏目前仅支持英文，国区售价60.8元。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730683670_645957.jpg)
+
+---
+
+## 5. [游戏商与SBI公司接触 是为了改进游戏而不是毁灭游戏](https://www.3dmgame.com/news/202411/3907774.html)  2024-11-04 09:24
+
+SBI公司因被指责在游戏中强行加入DEI（多样性、公平性和包容性）元素而备受争议。但前员工表示，SBI的目标是帮助游戏商改进游戏，而非破坏叙事内容。然而，玩家仍对其干预表示怀疑。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730683351_783550.jpg)
+
+---
+
+## 6. [因奖励获取问题《使命召唤：黑色行动6》双倍经验活动现已延长](https://www.3dmgame.com/news/202411/3907773.html)  2024-11-04 09:11
+
+由于《使命召唤：黑色行动6》的双倍经验活动中存在奖励获取问题，Treyarch官方宣布将活动延长至北京时间11月6日凌晨2点，为玩家提供更多机会获取双倍奖励。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730682664_562769.jpg)
+
+---
+
+## 7. [《毒液3》国内票房破5亿 力压《死侍与金刚狼》](https://www.3dmgame.com/news/202411/3907772.html)  2024-11-04 09:06
+
+《毒液：最后一舞》中国内地票房突破5亿，超越《死侍与金刚狼》（4.03亿），成为2024年引进片票房榜第四。其票房表现有望超越去年的《银河护卫队3》，成为近年来表现最好的超英电影之一。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730681486_563615.jpg)
+
+---
+
+## 8. [《怒首领蜂最大往生》等即将于12月结束Switch版发布](https://www.3dmgame.com/news/202411/3907771.html)  2024-11-04 09:03
+
+经典弹幕射击游戏《怒首领蜂最大往生》和《圣战之翼》的Switch数字版将于12月2日下架，原因是授权到期。但实体版仍可购买，粉丝需抓紧时间下载。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730682159_271288.jpg)
+
+---
+
+## 9. [《星空》城市无加载Mod 无缝探索游戏城市太棒了](https://www.3dmgame.com/news/202411/3907770.html)  2024-11-04 08:44
+
+《星空》的“城市无加载”Mod让玩家能够无缝探索霓虹城，减少加载画面带来的割裂感。未来，该Mod将支持更多城市，进一步优化玩家的游戏体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730680990_486289.jpg)
+
+---
+
+## 10. [《野狗子》目标是提供原创体验 即使因此而有些粗糙](https://www.3dmgame.com/news/202411/3907769.html)  2024-11-04 08:30
+
+《野狗子》导演外山圭一郎表示，尽管游戏可能存在一些粗糙之处，但团队的目标是为玩家提供独特的原创体验。该作将于11月8日发售，登陆多个平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730680153_391536.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-13 20:33)
+
+## 1. [吉田直树：SE打算未来在Xbox平台同步发售游戏](https://www.3dmgame.com/news/202411/3907768.html)   2024-11-04 08:07
+
+《最终幻想》制作人吉田直树透露，SE计划未来在Xbox平台同步发售游戏，并希望Xbox玩家能享受到PS5独占游戏《最终幻想16》。SE还因销量未达预期而公布其多平台策略计划。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730678736_649387.jpg)
+
+---
+
+## 2. [任天堂Alarmo已可运行初代《毁灭战士》](https://www.3dmgame.com/news/202411/3907767.html)   2024-11-04 06:35
+
+任天堂推出的高端闹钟“Alarmo”被玩家破解，成功运行初代《毁灭战士》。这款闹钟本意是唤醒用户，但玩家通过编程证明其潜力，成为微型游戏平台。
+
+---
+
+## 3. [为啥任天堂这家游戏公司要推出音乐APP？](https://www.3dmgame.com/news/202411/3907766.html)   2024-11-04 06:18
+
+任天堂推出“Nintendo Music”移动应用，通过收听经典游戏音乐扩大IP影响力。该应用提供分类歌单和游戏截图，仅限Nintendo Switch Online会员使用，已在下载排行榜上取得佳绩。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730672249_443353.jpg)
+
+---
+
+## 4. [Switch《人中之龙》开始只是SEGA内部实验项目](https://www.3dmgame.com/news/202411/3907764.html)   2024-11-04 06:12
+
+SEGA的Switch版《人中之龙：极》原是内部实验项目，最终因电视剧联动机会获得正式发行并取得成功。这标志着SEGA对Switch平台布局更加灵活。
+
+![](https://img.3dmgame.com/uploads/images/news/20241025/1729846783_239720.jpg)
+
+---
+
+## 5. [魔物养成动作游戏《魔农传记》现已发售](https://www.3dmgame.com/news/202411/3907765.html)   2024-11-04 06:11
+
+Marvelous发布新作《魔农传记》，由《妖精的尾巴》作者真岛浩设计角色，融合策略养成与动作元素，现已登陆Switch、PS5和Steam平台。
+
+---
+
+## 6. [除了《宝可梦XY》之外原本还有《宝可梦Z》](https://www.3dmgame.com/news/202411/3907763.html)   2024-11-04 05:55
+
+Game Freak数据泄露显示，《宝可梦Z》原计划作为《宝可梦XY》的续作，以基格尔德为核心展开剧情。尽管未能面世，其设计理念将在未来《宝可梦传说：Z-A》中部分实现。
+
+![](https://img.3dmgame.com/uploads/images/news/20241104/1730670951_730349.jpg)
+
+---
+
+## 7. [外媒精选15款PS5平台最佳画质游戏 《黑神话：悟空》入选](https://www.3dmgame.com/news/202411/3907762.html)   2024-11-03 23:59
+
+外媒评选PS5平台最佳画质的15款游戏，《黑神话：悟空》、《艾尔登法环》、《战神：诸神黄昏》等入选，展示了PS5画面表现的卓越品质。
+
+![](https://img.3dmgame.com/uploads/images/news/20241103/1730649553_700928.jpg)
+
+---
+
+## 8. [《战地2042》Steam新史低 仅售19.84元](https://www.3dmgame.com/news/202411/3907761.html)   2024-11-03 23:24
+
+《战地2042》在Steam平台开启史低促销，仅售19.84元。玩家可体验这款标志性全面战争的第一人称射击游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20241103/1730647471_899090.jpg)
+
+---
+
+## 9. [雷军：小米SU7 Ultra斩男也斩女 很多女生喜欢开很强悍的车](https://www.3dmgame.com/news/202411/3907760.html)   2024-11-03 23:00
+
+雷军透露小米SU7 Ultra女性用户超预期。这款拥有1548马力的车型备受女性欢迎，成为大女主座驾。预订量已突破3680台，正式发售预计明年3月。
+
+![](https://img.3dmgame.com/uploads/images/news/20241103/1730646046_521410.jpg)
+
+---
+
+## 10. [台北动物园新生石虎命名候选名单出炉](https://www.4gamers.com.tw/news/detail/71748/taipei-zoos-newborn-leopard-cat-naming-contest-full-of-memes)   2025-05-13 17:33
+
+台北动物园公布新生石虎命名候选名单，迷因命名“野兽、仙贝”意外落榜，引发热议。最终命名将根据石虎宝宝所在位置决定。
+
+![](https://thumbor.4gamers.com.tw/9QbVZqWKcmY1ZveeQt3JaNDsTJU=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F37049ce8c89982c1b75ea1e4df588348ddf77b1b.jpg)
+
+---
+# 新闻简报（更新时间：2025-05-13 20:45）
+
+## 1. [Sony Xperia 1 VII发售，售价40,990元起，预购享三年保固](https://www.4gamers.com.tw/news/detail/71749/sony-xperia-1-vii-in-taiwan) 2025-05-13 17:31
+
+Sony全新旗舰手机Xperia 1 VII正式发布，并在台湾同步举行体验会，确认5月15日开启预购。新机主打三年保固服务，同时采用4800万像素主镜头和双微距镜头，售价为256GB版本40,990元新台币，512GB版本44,990元新台币。预购期间还将提供旧机折价优惠及赠品。
+
+![](https://thumbor.4gamers.com.tw/ehyVWu6UCF5wV7-Xx0z9hqYOQg4=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https://img.4gamers.com.tw/puku-clone-version/f78e7c310bd741a4c3c212ea588e03fb2dcb361c.jpg)
+
+---
+
+## 2. [尼古拉斯·凯奇版《暗影蜘蛛侠》发布首张定妆照](https://www.3dmgame.com/news/202505/3919718.html) 2025-05-13 17:10
+
+由尼古拉斯·凯奇主演的《暗影蜘蛛侠》剧集首度曝光。这部由索尼影业制作的剧集设定于1930年代纽约，讲述一位中年私家侦探的超级英雄故事。剧集计划于2026年在Prime Video上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747127610_214152.jpg)
+
+---
+
+## 3. [日本同人誌商店Melonbooks将年内进驻台北西门町](https://www.4gamers.com.tw/news/detail/71747/melonbooks-in-taiwan) 2025-05-13 16:58
+
+日本著名同人誌商店Melonbooks宣布将在台北开设首家海外分店，并将参与5月底的acosta!台北活动以进行宣传。这一消息也引发了与竞争对手“虎之穴”的趣味互动。
+
+![](https://img.4gamers.com.tw/puku-clone-version/17469766eab0be4e2f2312ca0f56a2d8e56f8fa0.jpeg)
+
+---
+
+## 4. [Win11新功能：检测电脑配置是否支持游戏](https://www.3dmgame.com/news/202505/3919717.html) 2025-05-13 16:55
+
+Windows 11新增FAQ页面，可帮助用户判断电脑配置是否适合游戏运行。功能目前面向Insider用户开放，预计近期正式版用户也可使用。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747126482_244111.png)
+
+---
+
+## 5. [Neil Druckmann指导《星际 异端先知》主演应对网络暴力](https://www.4gamers.com.tw/news/detail/71746/tati-gabrielle-eveals-neil-druckmann-coaching-on-overcoming-online-harassment) 2025-05-13 16:33
+
+《星际 异端先知》主演Tati Gabrielle透露，Naughty Dog总裁Neil Druckmann一直在指导她应对网络反弹声量。这款游戏预计探索宗教与信仰主题，目前尚未公布发售时间。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5bc47f7407ce8f84cdf28b1e759393109f8c7ecc.jpg)
+
+---
+
+## 6. [《死亡搁浅2》引入昼夜循环系统](https://www.3dmgame.com/news/202505/3919716.html) 2025-05-13 16:22
+
+小岛秀夫透露《死亡搁浅2》的昼夜循环系统将为游戏带来全新挑战，如夜间潜行与动态光影效果。游戏提供自然时间流逝体验，玩家可通过返回私人房间等方式调整时间。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747124467_500113_jpg_r.jpg)
+
+---
+
+## 7. [FPS游戏《炮灰军团》首次公开试玩即将上线](https://www.3dmgame.com/news/202505/3919715.html) 2025-05-13 16:13
+
+独立游戏《炮灰军团》宣布5月16日上线首个公开试玩Demo，玩家将体验多人实时战术防御玩法。本作以低模风格与荒诞氛围塑造独特战场。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250513/1747123828_533310.png)
+
+---
+
+## 8. [《地心归途》全新版本“幽深之海”上线](https://www.3dmgame.com/news/202505/3919714.html) 2025-05-13 16:12
+
+沙盒冒险游戏《地心归途》推出全新版本，新增深海探索内容及魔物娘互动系统。玩家需在氧气和水压限制下挑战深海环境，并可制作装备应对新威胁。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747123883_704622_jpg_r.jpg)
+
+---
