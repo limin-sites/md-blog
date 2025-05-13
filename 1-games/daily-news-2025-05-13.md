@@ -740,3 +740,316 @@ Ninth Exodus工作室推出的科幻风格佣兵战斗模拟游戏《Peripeteia�
 ## 10. [UK software sales for the week ending May 10th, 2025](https://gonintendo.com/contents/48336-uk-software-sales-for-the-week-ending-may-10th-2025) 2025-05-13 01:15
 
 英国本周软件销量榜公布，具体排名和数据暂未披露。更多详情请关注后续报道。
+# 新闻简报 (更新时间: 2025-05-13 10:45)
+
+## 1. [实验体Roguelite《原点计划》预告Steam限免，两度被停售再次回归](https://www.4gamers.com.tw/news/detail/71728/bio-prototype-return-to-steam-free-for-limited-time)   2025-05-13 10:14
+
+《原点计划》（Bio Prototype）宣布将在5月20日至7月20日期间在Steam限时免费领取，玩家可永久游玩。这款游戏主打Roguelite成长要素，玩家通过连接器官与神经系统来提升能力。此前因违规赠送序号及其他原因，该游戏曾经历两次停售。开发商表示，目前已完成相关法律纠纷处理，并通过限免活动表达诚意。所有领取游戏的用户将获得续作捆绑包的折扣券。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2da6033f71d7fc7082f7cf1f704e9b7b3908cdf2.jpg)
+
+---
+
+## 2. [Steam验证服务公司遭黑客攻击，可能导致数据泄露](https://www.3dmgame.com/news/202505/3919684.html)   2025-05-13 10:10
+
+为Steam等平台提供两步验证服务的Twilio公司疑似遭遇黑客攻击，导致部分数据泄露。据悉，泄露数据包括两步验证码信息、发送状态、时间戳等。虽然此次事件未涉及Steam平台本身，但用户仍需提高警惕，避免点击不明链接。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747100833_409387_jpg_r.jpg)
+
+---
+
+## 3. [《幻兽帕鲁》与《泰拉瑞亚》大型联动更新！今夏上线](https://www.3dmgame.com/news/202505/3919683.html)   2025-05-13 10:04
+
+开发商Pocketpair宣布，《幻兽帕鲁》将与冒险游戏《泰拉瑞亚》进行联动更新，名为《幻兽帕鲁：潮起泰拉瑞亚》。玩家可以捕捉、培育《泰拉瑞亚》中的怪物，与它们互动。此外，还将新增帕鲁种类、全新岛屿等内容。更多细节将陆续公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747101717_930579.jpg)
+
+---
+
+## 4. [下血本！任天堂计划花10亿美元宣传Switch 2](https://www.3dmgame.com/news/202505/3919682.html)   2025-05-13 09:59
+
+任天堂为Switch 2制定了创历史的推广计划，计划投入近10亿美元广告费用，较上一财年增长62%。预计新主机首年销量将达到1500万台，并推出大量独家游戏，如《黄昏血族》。此外，《赛博朋克2077》等热门游戏的移植表现也备受好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747101440_257407_jpg_r.jpg)
+
+---
+
+## 5. [《天国：拯救2》5月15日重磅更新，首部付费DLC上线](https://www.3dmgame.com/news/202505/3919681.html)   2025-05-13 09:58
+
+《天国：拯救2》首部付费DLC《生死绘梦》将于5月15日上线，玩家可体验全新剧情内容。此外，还将新增赛马玩法和马上弓箭系统，支持玩家自定义盾牌设计。DLC支持在游戏任意阶段触发，并同步推出15%的折扣优惠。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747101371_884706.jpg)
+
+---
+
+## 6. [Epic商城返点由5%提升至20%，截止到8月31日](https://www.3dmgame.com/news/202505/3919680.html)   2025-05-13 09:45
+
+Epic商城宣布将福利返点比例提升至20%，有效期为5月13日至8月31日。《堡垒之夜》、《火箭联盟》和《糖豆人：终极淘汰赛》三款游戏的返点比例将永久保持20%。Epic希望通过这一政策进一步增强玩家体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747100669_796161.png)
+
+---
+
+## 7. [《inZOI》在线数暴降后持续走低，官方推出模组和载具功能](https://www.3dmgame.com/news/202505/3919679.html)   2025-05-13 09:44
+
+生活模拟游戏《inZOI》在线人数持续下降，官方公布五月至八月更新路线图，将推出基础模组支持系统和载具功能。此外，八月版本将加入犯罪被捕及入狱改造等玩法，进一步完善善恶度系统。开发团队期待通过更新挽回玩家流失。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747100024_852987.png)
+
+---
+
+## 8. [《妮姬》新角色阿尔卡娜登场，长裙姐姐漂亮](https://www.3dmgame.com/news/202505/3919678.html)   2025-05-13 09:37
+
+《妮姬：胜利女神》将于5月15日更新推出新SSR角色“阿尔卡娜”，她是一名开朗的神秘守护者，拥有强大的辅助能力。玩家可通过特殊招募获得她，并体验全爆裂时间内提供火力支援的战斗魅力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747100226_136356_jpg_r.jpg)
+
+---
+
+## 9. [《烈焰之刃》将在5月22日发售前上线游戏DEMO](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-13 09:33
+
+华纳兄弟宣布《烈焰之刃》将在5月22日正式发售前推出游戏试玩Demo。玩家将有机会提前体验游戏的核心玩法，为正式上线做好准备。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/09-19-20-phpfkYRtX.jfif)
+
+---
+# 新闻简报(更新时间:2025-05-13 10:45)
+
+## 1. [《幻兽帕鲁：潮起泰拉瑞亚》将于今年夏季上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-13 09:33
+
+《幻兽帕鲁：潮起泰拉瑞亚》宣布今年夏季上线，带来全新地图、全新幻兽帕鲁以及强大的新BOSS挑战。开发团队透露游戏将进一步丰富玩法细节，玩家可以组建自己的“帕鲁小队”迎接冒险。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/09-15-14-php50h8Sr.jpg)
+
+---
+
+## 2. [电影《F1：赛道风云》曝正式预告 布拉德·皮特演绎F1车手燃擎开跑](https://www.3dmgame.com/news/202505/3919677.html)   2025-05-13 09:32
+
+布拉德·皮特主演的赛车电影《F1：赛道风云》发布正式预告及新海报，讲述了退役F1车手桑尼·海耶斯重返赛场的故事。影片采用IMAX技术拍摄，真实还原F1赛场氛围，预计于6月27日北美上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747099922_720528.png)
+
+---
+
+## 3. [《星刃》开发商将在今年6月底之前公布新作 代号“女巫计划”](https://www.3dmgame.com/news/202505/3919675.html)   2025-05-13 09:28
+
+韩国Shift Up即将公布新作“女巫计划”，预计2027年发售。新作将为跨平台发行，与此前的《星刃》不同，Shift Up希望通过该游戏拓展全新IP。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747099268_591862_jpg_r.jpg)
+
+---
+
+## 4. [《艾尔登法环：黑夜君临》揭露剧情与世界观新细节](https://www.3dmgame.com/news/202505/3919676.html)   2025-05-13 09:26
+
+《艾尔登法环：黑夜君临》公布全新剧情设定，聚焦“Night Lord”灾厄对交界地的侵蚀。玩家将扮演“夜行者”抵抗灾厄，游戏支持多人合作模式，预计于5月30日正式发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747099534_265340_jpg_r.jpg)
+
+---
+
+## 5. [《毁灭战士：黑暗时代》豪华版今日震撼解锁！](https://www.3dmgame.com/news/202505/3919674.html)   2025-05-13 09:22
+
+《毁灭战士：黑暗时代》豪华版正式解锁，融合中世纪奇幻与系列标志性战斗，豪华版包含战役DLC、数字设定集等内容。游戏支持PC和主机平台，售价349元起。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747099321_950491.png)
+
+---
+
+## 6. [《烈焰之刃》免费试玩版即将上线 独特魂类游戏体验](https://www.3dmgame.com/news/202505/3919673.html)   2025-05-13 09:14
+
+《烈焰之刃》宣布即将推出免费试玩版，包含核心玩法体验。游戏主打锻造系统与战斗联动，玩家需在魔幻大陆中直面强敌。正式版将于5月22日发售，登陆多平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747098605_961760.png)
+
+---
+
+## 7. [《刺客信条：影》若是采用烘焙光照 将需要整整两年时间、产生2TB数据](https://www.3dmgame.com/news/202505/3919672.html)   2025-05-13 09:05
+
+《刺客信条：影》技术演讲披露，若采用传统烘焙光照技术将耗时两年并产生2TB数据。开发团队采用实时光线追踪技术，既提升游戏表现也大幅简化开发流程。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747097548_766745.webp)
+
+---
+
+## 8. [《辐射》真人剧第二季确定12月播出 第三季已经立项](https://www.3dmgame.com/news/202505/3919670.html)   2025-05-13 09:03
+
+亚马逊改编剧集《辐射》第二季拍摄完毕，确定于12月播出。同时，第三季也已立项。第一季大获成功吸引了大量粉丝，第二季有望延续热潮。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747097922_694807.jpg)
+
+---
+
+## 9. [星刃制作人大赞《光与影：33号远征队》：这是我的年度游戏](https://www.3dmgame.com/news/202505/3919671.html)   2025-05-13 09:01
+
+《星刃》制作人金亨泰高度评价热门RPG《光与影：33号远征队》，称其为“年度最佳游戏”。该作发售12天销量突破200万份，在Steam上获特别好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747098049_345278_jpg_r.jpg)
+
+---
+
+## 10. [《艾尔登法环：黑夜君临》超长实机演示 合作打怪！](https://www.3dmgame.com/news/202505/3919669.html)   2025-05-13 08:48
+
+《艾尔登法环：黑夜君临》发布超长实机演示，展示Boss战及合作机制。游戏将于5月30日发售，提炼核心玩法并融入Rougelike元素。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747097239_309808_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-13 10:45)
+
+## 1. [《侏罗纪世界：重生》新剧照 "寡姐"新冒险开启](https://www.3dmgame.com/news/202505/3919668.html)  
+2025-05-13 08:37
+
+《侏罗纪世界：重生》发布最新剧照，斯嘉丽·约翰逊饰演的秘密行动专家佐拉·贝内特亮相。该作故事设定在《侏罗纪世界3》事件五年后，人类需获取恐龙DNA以制作拯救药物。电影将于7月2日在北美上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747096633_307415_jpg_r.jpg)
+
+---
+
+## 2. [《毁灭战士：黑暗时代》N卡新驱动 4倍性能提升](https://www.3dmgame.com/news/202505/3919666.html)  
+2025-05-13 08:16
+
+《毁灭战士：黑暗时代》发布英伟达新驱动，支持多个RTX技术，性能提升高达4倍。高级版玩家今日即可抢先体验。新驱动还修复了其他游戏的稳定性问题，并新增了7款G-sync显示器支持。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747095237_887564_jpg_r.jpg)
+
+---
+
+## 3. [《恶意不息》CEO怒斥差评疯子：因没有DEI遭憎恨](https://www.3dmgame.com/news/202505/3919667.html)  
+2025-05-13 08:25
+
+Moon Studios总裁托马斯·马勒回应《恶意不息》因政治性差评遭攻击。他表示，部分玩家因未见跨性别角色而疯狂打差评，并澄清工作室并未面临财务危机。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747095894_331361_jpg_r.jpg)
+
+---
+
+## 4. [三星Galaxy S25 Edge发布：超薄设计，强化耐用性](https://www.4gamers.com.tw/news/detail/71727/samsung-launches-galaxy-s25-edge-silm-smart-phone)  
+2025-05-13 08:00
+
+三星推出超薄旗舰Galaxy S25 Edge，厚度仅5.8mm，重量163g，搭载最新的Snapdragon 8 Elite处理器和康宁Gorilla Glass Ceramic 2玻璃，耐用性与抗裂能力显著提升。售价1099美元起，5月23日全球发货。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-05/2025-05-13_084700.png?versionId=mT3sdhw0YiCdxhEiZiaoMeo0O9Bo6iKe)
+
+---
+
+## 5. [毁灭战士 Twitch 掉宝活动开启](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-05-13 08:03
+
+《毁灭战士》Twitch掉宝活动正式启动，玩家可通过观看直播赢取游戏内奖励，参与方式与详细内容可在官方平台查询。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/07-37-14-phpSYeZxv.jpg)
+# 新闻简报 (更新时间: 2025-05-13 10:45)
+
+## 1. [《辐射》系列剧续订第三季，第二季将于2025年12月推出](http://nnas.sqngame.com:11201/xboxfan/news)  2025-05-13 08:03
+
+《辐射》系列剧宣布续订第三季，同时确认第二季将于2025年12月上线。这部剧改编自经典游戏《辐射》，第一季推出后备受关注，第二季预计将延续第一季的故事线并进一步发展角色和剧情。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/07-31-43-phpbSxkUB.jpg)
+
+---
+
+## 2. [《星际：异端先知》女主谈网暴：尼尔叫我忽略它](https://www.3dmgame.com/news/202505/3919665.html)  2025-05-13 07:54
+
+塔蒂·加布里埃因在《星际：异端先知》中饰演女主乔丹·A·蒙而遭受网暴，她在采访中透露，顽皮狗负责人尼尔·德鲁克曼教她如何应对这些负面言论，并鼓励她专注于创作优秀作品。这款游戏及其主角因颠覆传统形象受到广泛讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747094017_295079_jpg_r.jpg)
+
+---
+
+## 3. [《星刃》PC版新预告泄露 将于6月11日发售](https://www.3dmgame.com/news/202505/3919664.html)  2025-05-13 07:26
+
+《星刃》PC版的发售日期被意外泄露为6月11日，并展示了一系列改进，包括支持NVIDIA DLSS 4和AMD FSR 3技术以及超宽屏显示。此外，游戏还增加了新的Boss战和25套女主伊芙的新服装，同时支持中文配音。
+
+![](https://img.3dmgame.com/uploads/images/news/20250513/1747092312_199740_jpg_r.jpg)
+
+---
+
+## 4. [Capcom分享《街头霸王6》中Elena的主题曲《Beats in My Heart》](https://gonintendo.com/contents/48356-capcom-shares-beats-in-my-heart-elena-s-theme-for-street-fighter-6)  2025-05-13 07:56
+
+Capcom公开了《街头霸王6》中Elena的主题曲《Beats in My Heart》，为游戏玩家带来更多音乐体验。这首曲目以轻快的旋律和独特节奏，展现了角色的活力和个性。
+
+---
+
+## 5. [Mad Bullets Kit零售版公布](https://gonintendo.com/contents/48355-mad-bullets-kit-retail-bundle-revealed)  2025-05-13 07:47
+
+经典射击游戏《Mad Bullets》宣布推出零售版套装，包含游戏和两个Joy-Con手枪形控制器，预计将于2025年7月11日正式发售。这款套装旨在为玩家提供更具沉浸感的游戏体验。
+
+---
+
+## 6. [Touhou Luna Nights实体版公布，包含收藏家版](https://www.gamespot.com/articles/fan-favorite-metroidvania-touhou-luna-nights-finally-getting-a-physical-release-including-a-collectors-edition/1100-6531464/?ftag=CAD-01-10abi2f)  2025-05-12 23:46
+
+备受好评的类银河战士恶魔城游戏《Touhou Luna Nights》将于2025年7月11日推出实体版，包括标准版和五周年收藏版。收藏版包含游戏本体、钢铁盒、原声音乐CD等多种周边，售价90美元。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4492468-81twr4o7nl._ac_sl1500.jpg)
+
+---
+
+## 7. [Switch射击游戏《Mad Bullets》推出新套装，附带Joy-Con手枪](https://www.gamespot.com/articles/switch-rail-shooter-mad-bullets-getting-a-new-bundle-with-two-joy-con-revolvers/1100-6531428/?ftag=CAD-01-10abi2f)  2025-05-13 07:16
+
+Switch平台的《Mad Bullets》宣布推出包含两支Joy-Con手枪的新套装，预计将于2025年7月11日发售。这款游戏以其独特的西部主题和幽默风格广受欢迎，新套装将进一步提升玩家的互动体验。
+
+![](https://www.gamespot.com/a/uploads/original/1702/17023653/4491238-81pscx4rkl._sl1500%281%29.jpg)
+
+---
+# 新闻简报 (更新时间: 2025-05-13 10:45)
+
+## 1. [《FBC: Firebreak》将于5月15日至5月19日进行封闭测试，支持跨平台联机](http://nnas.sqngame.com:11201/xboxfan/news)   
+2025-05-13 06:56
+
+《FBC: Firebreak》是一款备受期待的游戏，将于5月15日至5月19日进行封闭测试，测试期间支持跨平台联机功能。这意味着玩家可以通过不同的设备共同体验游戏内容。这次封闭测试将为游戏的正式上线铺垫，并进一步完善多平台的联机体验。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/06-55-56-phppuYM8A.jpg)
+
+---
+
+## 2. [微软为《极限竞速：地平线5》推出特别涂装，象征跨平台联机](http://nnas.sqngame.com:11201/xboxfan/news)   
+2025-05-13 06:33
+
+《极限竞速：地平线5》推出了一款特别涂装，由绿色渐变到蓝色，象征Xbox与PlayStation玩家之间的团结。这一跨平台联机功能自4月25日上线以来，吸引了众多玩家共同体验游戏。官方此次与兰博基尼合作，纪念这一历史性时刻。
+
+![](https://static.willmao.com/feed_upload/2025-05-13/06-17-41-phpGeOlv5.jpeg)  
+![](https://static.willmao.com/feed_upload/2025-05-13/06-17-41-phpTvg4Tz.jpeg)
+
+---
+
+## 3. [《新极限竞速：地平线5》涂装庆祝PS5与Xbox玩家共同体验](https://www.gamespot.com/articles/new-forza-horizon-5-livery-celebrates-both-ps5-and-xbox-players/1100-6531473/?ftag=CAD-01-10abi2f)   
+2025-05-13 06:39
+
+《极限竞速：地平线5》首次登陆PS5，正式支持跨平台联机，为庆祝更多玩家共同游戏，特别推出了Xbox与PlayStation结合的涂装。该涂装专属兰博基尼Revuelto车型，可通过完成Horizon Realms的任务解锁。
+
+---
+
+## 4. [Dbrand大促销：Steam Deck、iPhone、PS5等设备保护壳最高50%折扣](https://www.gamespot.com/articles/dbrand-sale-save-up-to-50-on-cases-for-steam-deck-iphone-ps5-and-other-gadgets/1100-6531467/?ftag=CAD-01-10abi2f)   
+2025-05-13 00:55
+
+Dbrand即日起至5月23日举行促销活动，提供众多设备保护壳和皮肤高达50%的折扣，包括Steam Deck、iPhone、PS5等热门设备。这次促销涵盖30,000多种商品，为消费者提供多样的选择和定制功能。
+
+---
+
+## 5. [Team Fortress 2迎来更新，修复多个问题](https://store.steampowered.com/news/244323/)   
+2025-05-13 03:32
+
+Team Fortress 2发布最新更新，修复了包括HUD动画漏洞、Mann vs. Machine模式下的自动收集货币问题等多个技术问题。这次更新旨在提升玩家体验，改善游戏运行稳定性。
+
+---
+
+## 6. [《SHINOBI: Art of Vengeance》发布“Oboro Village”关卡预告片](https://gonintendo.com/contents/48354-shinobi-art-of-vengeance-stage-introduction-oboro-village-trailer)   
+2025-05-13 03:31
+
+《SHINOBI: Art of Vengeance》展示了“Oboro Village”关卡的预告片，揭示了游戏场景及其充满挑战的内容。这款游戏的独特画风和关卡设计吸引了玩家关注。
+
+---
+
+## 7. [《FANTASY LIFE i: The Girl Who Steals Time》发布“My Gallery”音乐视频](https://gonintendo.com/contents/48353-fantasy-life-i-the-girl-who-steals-time-my-gallery-music-video)   
+2025-05-13 03:29
+
+《FANTASY LIFE i: The Girl Who Steals Time》发布了“My Gallery”音乐视频，为玩家展示了游戏的艺术风格及其独特的音乐元素，吸引了大量玩家期待。
+
+---
+
+## 8. [Play Nintendo探讨《Splatoon 3》单人模式玩法](https://gonintendo.com/contents/45109-play-nintendo-checks-out-splatoon-3-s-single-player-campaign-update)   
+2025-05-13 03:28
+
+Play Nintendo深入分析了《Splatoon 3》的单人模式，为玩家揭秘游戏的故事情节和独特玩法。这次更新展示了游戏在单人模式中的潜力和其吸引力。
+
+---
