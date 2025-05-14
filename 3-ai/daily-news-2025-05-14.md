@@ -438,3 +438,262 @@ OpenAI 正计划在阿联酋建设数据中心，以增强中东业务。这一�
 
 ![](https://upload.chinaz.com/2025/0514/6388280587158857508420999.png) 
 
+
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [我用Gamma做了3个PPT后悟了：效率是真高，但价格是真贵！](https://www.jiqizhixin.com/articles/2025-05-14-7)   2025-05-14 19:10
+
+Gamma是一款AI驱动的PPT制作工具，通过智能生成功能快速生成高质量幻灯片。其支持多种内容形式如图片、视频及网页嵌入，并允许用户进行个性化编辑和优化。尽管工具使用便捷，但配套的生成积分和订阅费用较高，可能对预算有限的用户构成挑战。
+
+![](https://image.jiqizhixin.com/uploads/editor/2b8629ae-665e-4851-a476-f3f72c4274a3/640.png)
+
+---
+
+## 2. [ImageFusion AI](https://top.aibase.com/tool/imagefusion-ai)   2025-05-14 18:04
+
+ImageFusion AI是一款图像融合工具，利用AI技术快速合成多张图片，生成高质量的视觉效果。其功能包括图像合并、高质量输出、风格转移和商业用途许可，适合数字艺术家、营销人员及摄影师等用户，提供免费和付费版本以满足不同需求。
+
+![](https://pic.chinaz.com/ai/2025/05/14/25051406052604352804.jpg)
+
+---
+
+## 3. [AgentCPM-GUI](https://top.aibase.com/tool/agentcpm-gui)   2025-05-14 17:57
+
+AgentCPM-GUI是开源的手机端语言模型代理，可根据屏幕截图自动执行任务。其优势包括高效GUI元素理解、增强的推理能力和对中文应用的精准支持，适用于开发者和需要高效操作移动应用的用户。
+
+![](https://pic.chinaz.com/ai/2025/05/14/25051405573239115883.jpg)
+
+---
+
+## 4. [清华携手面壁智能重磅开源！首款中文APP专精GUI Agent，覆盖高德、B站、小红书](https://www.aibase.com/zh/news/18058)   2025-05-14 17:55
+
+清华大学与面壁智能推出全球首个中文APP优化的开源GUI Agent，覆盖高德地图、大众点评、哔哩哔哩等30余款应用。该工具通过高效推理和本地化适配，显著提升移动端智能交互体验。
+
+![](https://upload.chinaz.com/2025/0514/6388284206155792105085422.png)
+
+---
+
+## 5. [英伟达将向沙特阿拉伯供应18,000块人工智能芯片](https://www.aibase.com/zh/news/18057)   2025-05-14 17:46
+
+英伟达宣布向沙特供应18,000块最新AI芯片，用于建立500兆瓦的数据中心。此举旨在推动沙特人工智能和云计算基础设施建设，标志着沙特在科技领域迈出重要一步。
+
+![](https://pic.chinaz.com/picmap/202308090826138648_0.jpg)
+
+---
+
+## 6. [PixVerse V4.5视频模型发布！20+电影镜头+多图融合，5秒打造好莱坞大片！](https://www.aibase.com/zh/news/18056)   2025-05-14 17:40
+
+PixVerse推出V4.5视频模型，新增电影级镜头控制、多图参考及复杂动作优化功能。该模型在5秒内生成高品质视频，适用于影视制作、广告营销和社交媒体内容创作。
+
+![](https://pic.chinaz.com/picmap/202408221047592930_0.jpg)
+
+---
+
+## 7. [腾讯Q1营收1800亿元同比增长13%，AI激发全域业务活力](https://www.aibase.com/zh/news/18055)   2025-05-14 16:56
+
+腾讯2025年第一季度营收1800亿元，同比增长13%。AI技术的应用显著提升了广告、增值服务和企业服务等核心业务的盈利能力，为公司多元化发展提供支持。
+
+---
+
+## 8. [DanceGRPO：首个统一视觉生成的强化学习框架](https://www.jiqizhixin.com/articles/2025-05-14-6)   2025-05-14 16:48
+
+DanceGRPO框架实现了强化学习在视觉生成领域的统一应用，覆盖文本生成图像、视频及图像生成视频等多种任务。其在多类基础模型和奖励模型上的出色表现，为生成式AI开辟了新路径。
+
+![](https://image.jiqizhixin.com/uploads/editor/afb9bfdb-88c2-4bf8-85c2-6648b0db285d/640.png)
+
+---
+
+## 9. [OpenMemory MCP发布！AI记忆本地共享，Claude、Cursor一键同步效率翻倍！](https://www.aibase.com/zh/news/18054)   2025-05-14 16:41
+
+OpenMemory MCP是一款开源工具，实现AI交互内容的本地存储和跨工具共享。通过统一记忆层，用户在各类AI工具间实现上下文无缝同步，显著提升工作流程效率。
+
+![](https://upload.chinaz.com/2025/0514/6388283751362496065637637.png)
+
+---
+
+## 10. [AI自我进化神器！Self-Refine让GPT-4输出飙升20%，无需训练即可搞定！](https://www.aibase.com/zh/news/18053)   2025-05-14 16:22
+
+Self-Refine方法通过自我批评和反思提升大语言模型（LLM）输出质量，无需额外训练即可显著优化性能。这一创新框架适用于代码优化、对话生成等多种任务。
+
+![](https://upload.chinaz.com/2025/0514/6388283647346947115006020.png)
+
+---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [AI日报：腾讯AI智能编程插件CodeBuddy；字节推Seed1.5-VL多模态模型；Manus母公司否认15亿美元融资传闻](https://www.aibase.com/zh/news/18052)   2025-05-14 16:20
+
+腾讯推出CodeBuddy3.0插件，与微信小程序开发工具深度整合，支持代码补全和智能提示；字节跳动发布Seed1.5-VL多模态模型，参数仅20B但性能领先；Manus母公司蝴蝶效应否认15亿美元融资传闻，强调专注产品研发。
+
+![](https://upload.chinaz.com/2025/0514/6388281462306470755566503.png)
+
+---
+
+## 2. [阶跃星辰开源 3D 大模型 Step1X-3D](https://www.aibase.com/zh/news/18051)   2025-05-14 16:15
+
+阶跃星辰发布开源3D大模型Step1X-3D，参数量达4.8B，能够生成高保真、可控的3D内容。该模型解耦几何与纹理表征，提升3D内容生成的精度和控制性，为3D创作提供技术支持。
+
+![](https://upload.chinaz.com/2025/0514/6388283612146551151904621.png)
+
+---
+
+## 3. [Sam Altman重磅揭秘：OpenAI未来将打造AI操作系统，语音+定制模型引爆未来！](https://www.aibase.com/zh/news/18050)   2025-05-14 16:07
+
+OpenAI CEO Sam Altman透露公司计划打造操作系统级AI平台，整合语音交互和定制化模型，推动AI融入日常生活。Altman特别提到年轻一代使用ChatGPT作为生活顾问和操作系统的趋势，凸显AI生产力平台的潜力。
+
+![](https://pic.chinaz.com/picmap/202502061723412816_0.jpg)
+
+---
+
+## 4. [CometAPI](https://top.aibase.com/tool/cometapi)   2025-05-14 16:17
+
+CometAPI是一个AI模型API聚合平台，提供统一访问GPT、Midjourney、Claude等多个模型的功能，适用于电商、金融和在线教育等领域，支持实时监控API调用，提升开发效率。
+
+![](https://pic.chinaz.com/ai/2025/05/14/202505141622435662.jpg)
+
+---
+
+## 5. [Screenify](https://top.aibase.com/tool/screenify)   2025-05-14 12:03
+
+Screenify是一款智能AI面试工具，能够全自动筛选和评估候选人，通过类似真人对话的方式简化招聘流程。它支持定制化筛选标准，并与ATS系统集成，减少招聘成本。
+
+![](https://pic.chinaz.com/ai/2025/05/14/25051404272861175800.jpg)
+
+---
+
+## 6. [ScoutDB](https://top.aibase.com/tool/scoutdb)   2025-05-14 11:31
+
+ScoutDB是一个针对MongoDB的GUI工具，支持自然语言查询和数据关系可视化，帮助用户以90%的速度提升数据浏览效率，适合数据分析师和开发者。
+
+![](https://pic.chinaz.com/ai/2025/05/14/202505141132405455.jpg)
+
+---
+
+## 7. [StockBits.AI](https://top.aibase.com/tool/stockbits-ai)   2025-05-14 10:58
+
+StockBits.AI是一站式平台，提供股票和加密市场的实时跟踪、分析及社区交易功能，帮助用户做出更明智的投资决策，并支持个性化交易提醒和技术指标图表展示。
+
+![](https://pic.chinaz.com/ai/2025/05/14/202505141102405031.jpg)
+
+---
+
+## 8. [ImageGPT](https://top.aibase.com/tool/imagegpt)   2025-05-13 18:02
+
+ImageGPT是一个集成多种先进AI模型的图像生成和编辑平台，支持AI背景移除、卡通效果生成等功能，为设计师和摄影师提供高效的图像处理工具。
+
+![](https://pic.chinaz.com/ai/2025/05/13/202505131807304242.jpg)
+
+---
+
+## 9. [Bugster](https://top.aibase.com/tool/bugster)   2025-05-13 16:30
+
+Bugster是一款AI驱动的自动化测试工具，可将用户流程转化为自动化测试，减少测试维护工作并提高软件发布速度，适合快速迭代的开发团队。
+
+![](https://pic.chinaz.com/ai/2025/05/13/202505131632408443.jpg)
+
+---
+
+## 10. [Aladin](https://top.aibase.com/tool/aladin)   2025-05-13 10:07
+
+Aladin是一
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [Mendel Lab：AI推动代码审查与团队协作](https://top.aibase.com/tool/mendel-lab) 2025-05-13 10:05
+
+Mendel利用人工智能优化开发团队的工作流程，自动化代码审查与性能跟踪，从而提高代码部署效率。它支持多种功能，如自动化代码分析、实时性能见解、智能存储库管理等，帮助团队更高效地交付代码。Mendel适用于开发团队和工程师，特别是在复杂项目中表现突出。
+
+![](https://pic.chinaz.com/ai/2025/05/13/202505131007258932.jpg)
+
+---
+
+## 2. [谷歌Gemma AI模型下载量突破1.5亿，引多模态功能热议](https://www.aibase.com/zh/news/18049) 2025-05-14 15:58
+
+谷歌推出的Gemma AI模型凭借强大的多模态功能和支持100种语言的能力，吸引了全球开发者关注。截至目前，下载量已突破1.5亿。Gemma在处理文本、图像等复杂任务中表现优异，但其非标准许可条款引发了部分开发者对商业应用的担忧。
+
+![](https://pic.chinaz.com/picmap/202402221038136007_0.jpg)
+
+---
+
+## 3. [Perplexity AI融资5亿美元，估值达到140亿美元挑战搜索巨头](https://www.aibase.com/zh/news/18048) 2025-05-14 14:54
+
+Perplexity AI正进行新一轮5亿美元融资，估值已达到140亿美元，旨在挑战谷歌和OpenAI的搜索市场地位。其核心技术包括生成式AI搜索工具、实时信息摘要和"代理式搜索"功能，应用场景从学术研究到企业分析广泛覆盖。
+
+![](https://pic.chinaz.com/picmap/202005221631385342_10.jpg)
+
+---
+
+## 4. [Anthropic即将推出AI模型Claude Neptune，与GPT-5直接竞争](https://www.aibase.com/zh/news/18047) 2025-05-14 14:49
+
+Anthropic正在研发的新AI模型Claude Neptune已进入内部安全测试阶段，重点测试其在越狱攻击防御中的表现。Claude Neptune预计将在5月底或6月初发布，其多模态与安全特性将为市场竞争注入新动力。
+
+![](https://upload.chinaz.com/2025/0514/6388283097441738281930624.png)
+
+---
+
+## 5. [清华大学与面壁智能推出端侧GUI Agent: AgentCPM-GUI](https://www.aibase.com/zh/news/18046) 2025-05-14 14:49
+
+清华大学THUNLP实验室与面壁智能联合发布AgentCPM-GUI，这款端侧智能体支持中英文操作，可精准识别主流APP界面元素，通过AI技术提高用户任务执行效率。其创新技术如推理前思考（RFT）增强了任务规划与执行成功率。
+
+---
+
+## 6. [字节跳动发布Seed1.5-VL多模态模型，性能创新高](https://www.aibase.com/zh/news/18045) 2025-05-14 14:46
+
+字节跳动发布Seed1.5-VL多模态模型，凭借仅20B参数取得了38项任务的SOTA表现。该模型支持图像问答、视觉推理等高性能任务，推理成本低廉且便捷性高，已在火山引擎全面开放API供开发者使用。
+
+![](https://upload.chinaz.com/2025/0514/6388283076223928695066259.png)
+
+---
+
+## 7. [谷歌开发全链路软件开发AI代理，开发效率提升3倍](https://www.aibase.com/zh/news/18044) 2025-05-14 14:45
+
+谷歌正在开发一款覆盖开发全流程的AI代理，集成任务规划、代码生成与文档自动化等功能，旨在大幅提升软件生命周期内的效率。该工具或将在5月20日的I/O大会上进一步亮相。
+
+![](https://upload.chinaz.com/2025/0514/6388283069510929422965105.jpg)
+
+---
+
+## 8. [Manus母公司蝴蝶效应否认15亿美元融资传闻](https://www.aibase.com/zh/news/18043) 2025-05-14 14:11
+
+针对媒体报道的15亿美元融资传闻，蝴蝶效应（Butterfly Effect）发布声明予以否认，强调其目前专注于产品研发和用户体验优化，并保留法律追责权利。
+
+![](https://upload.chinaz.com/2025/0514/6388283157553710059686215.png)
+
+---
+
+## 9. [生成式AI方法DiffSMol登Nature子刊，1秒生成药物分子](https://www.jiqizhixin.com/articles/2025-05-14-5) 2025-05-14 14:11
+
+俄亥俄州立大学开发的DiffSMol基于生成式AI技术，仅需1秒即可生成药物分子，性能与FDA批准药物相当。该方法实现了药物发现的精确、高效化，可能显著缩短药物研发周期。
+
+![](https://image.jiqizhixin.com/uploads/editor/527f257a-2972-47e0-84db-1cdfa1024809/640.png)
+
+---
+
+## 10. [AI驱动肺部3D重建技术提升手术设计精度](https://www.jiqizhixin.com/articles/2025-05-14-4) 2025-05-14 14:09
+
+北大人民医院等研究团队开发的AI驱动肺部3D重建技术显著提高了解剖变异识别与手术设计的精度，误差减少41%，用户满意度达99%。该系统为复杂手术规划提供了重要支持。
+
+![](https://image.jiqizhixin.com/uploads/editor/eb9b16d5-
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [字节最强多模态模型登陆火山引擎！Seed1.5-VL靠20B激活参数狂揽38项SOTA](https://www.jiqizhixin.com/articles/2025-05-14-3)   2025-05-14 13:40
+
+字节跳动发布了其最新的视觉–语言多模态大模型Seed 1.5-VL，该模型在火山引擎全面开放API，开发者可以利用其构建AI视觉助手等应用。Seed1.5-VL尽管只有20B的激活参数，却在60个公开评测基准中取得了38项SOTA表现，尤其在视频理解和视觉推理等方面表现出色。它还具备极低的推理成本，输入价格仅为每千tokens 0.003元。模型通过先进的视觉编码模块与多模态大语言模型的结合，在多模态理解领域取得了显著突破。
+
+![](https://image.jiqizhixin.com/uploads/editor/d6c04f9d-b00e-41a7-a2ac-a0c6c1e4e57e/640.png)
+
+---
+
+## 2. [叶子豪、陈天奇等人开源项目FlashInfer入选，MLSys2025最佳论文奖公布](https://www.jiqizhixin.com/articles/2025-05-14-2)   2025-05-14 13:34
+
+MLSys2025最佳论文奖揭晓，华盛顿大学等团队的FlashInfer项目获奖。FlashInfer是一款高效灵活的注意力推理引擎，专为大语言模型（LLM）设计，具有优化内存访问、灵活定制和高效调度等特点。实验显示，在多种推理场景下，FlashInfer显著降低了延迟并提升了推理速度。此外，瑞典查尔摩斯大学的《The Hidden Bloat in Machine Learning Systems》也获奖，该研究提出了减少机器学习系统臃肿的新方法，有效提升了内存使用效率。
+
+![](https://image.jiqizhixin.com/uploads/editor/0f9a7bdf-0539-497d-ac8d-8170437718ac/640.png)
+
+---
+
+## 3. [ICML 2025 | 如何在合成文本数据时避免模型崩溃？](https://www.jiqizhixin.com/articles/2025-05-14)   2025-05-14 13:28
+
+ICML 2025展示了由上交大等团队提出的Token-Level Editing技术，旨在解决在合成数据训练中可能导致的“模型崩溃”问题。该方法通过对训练数据中的特定token进行微调，而非直接生成全新数据，从而避免模型对特定特征过拟合。实验表明，这种方法在预训练、持续预训练和监督微调阶段均显著提升了模型性能，同时在多个任务中表现出强鲁棒性。
+
+![](https://image.jiqizhixin.com/uploads/editor/6f3bdbe4-9435-411e-8960-0980cfcbafcf/640.png)
+
+---
