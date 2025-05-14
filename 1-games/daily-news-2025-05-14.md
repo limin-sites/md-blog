@@ -600,3 +600,289 @@ Switch 2新增了一项便捷功能，当出现错误提示时，屏幕将显示
 ![](https://www.gamespot.com/a/uploads/scale_super/1170/11703765/4531503-switch2.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-14 10:45)
+
+## 1. [战锤2025颅骨节预告片发布 将开启一折促销！](https://www.3dmgame.com/news/202505/3919746.html)   2025-05-14 09:49
+
+Games Workshop宣布将于5月23日举办“战锤颅骨节2025”发布会，届时将带来多款战锤游戏新内容，包括《战锤40K：星际战士2》等。同时，从5月22日起将推出持续一周的促销活动，战锤系列最高折扣达90%。活动由演员拉胡尔·寇利主持，并表示对此次活动充满期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747187177_464987.png)
+
+
+## 2. [《上古卷轴4：重制版》某玩家因Bug“服刑”19年引发热议](https://www.3dmgame.com/news/202505/3919743.html)   2025-05-14 09:48
+
+一位玩家在《上古卷轴4：重制版》中因Bug“服刑”19年，引发社区讨论。玩家因多次盗窃与袭击被判6990天刑期。评论区对此展开热议，并指出游戏可能存在持有被盗物品累积罪名的Bug。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747186710_951431_jpg_r.jpg)
+
+
+## 3. [《沉没之城》复刻版突然发售 虚幻5重置经典](https://www.3dmgame.com/news/202505/3919745.html)   2025-05-14 09:46
+
+Frogwares推出《沉没之城》复刻版，采用虚幻5引擎重制，画质显著提升。外媒分享了新版与原版的对比截图，显示细节和光照大幅改进。已购买原版的玩家可免费升级。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747187171_825840.png)
+
+
+## 4. [《毁灭战士：黑暗时代》Steam获玩家“特别好评”](https://www.3dmgame.com/news/202505/3919744.html)   2025-05-14 09:46
+
+《毁灭战士：黑暗时代》在Steam上开启抢先体验，获得85%的好评率。官方还公布了4K/60FPS的推荐配置，建议使用RTX 4080显卡+32GB内存。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747187152_281464_jpg_r.jpg)
+
+
+## 5. [卡普空公布最新财报 生化危机销量遥遥领先](https://www.3dmgame.com/news/202505/3919741.html)   2025-05-14 09:30
+
+卡普空发布财报，《生化危机》累计销量达1.7亿套，位居榜首。公司暗示《生化危机9》开发中，并透露消息称将采用开放世界设定。此外，《大神》续作也在开发中。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747185958_579024.jpg)
+
+
+## 6. [《霍格沃茨之遗》NS2版玩法预告发布 画质提升明显](https://www.3dmgame.com/news/202505/3919740.html)   2025-05-14 09:26
+
+《霍格沃茨之遗》Switch 2版发布预告片，显示画质大幅提升。该版本将于6月5日与Switch 2同步发售，并为Switch老版玩家提供折扣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747185913_998834_png_r.webp)
+
+
+## 7. [日本Switch用户女性玩家占比近一半 简单易上手](https://www.3dmgame.com/news/202505/3919739.html)   2025-05-14 09:25
+
+调查显示，近一半的日本Switch用户为女性，远高于PlayStation和PC。Switch因易上手、价格实惠和适宜家庭娱乐受到青睐。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747185881_694699.jpg)
+# 新闻简报(更新时间:2025-05-14 10:45)
+
+## 1. [《F1 25》4K、8K和全景光追PC配置公开](https://www.3dmgame.com/news/202505/3919738.html)   2025-05-14 09:17
+
+EA公布了《F1 25》的详细PC配置需求，涵盖4K、8K分辨率及全景光追模式。8K分辨率下需要RTX 4090或RTX 5090显卡，16GB显存及32GB内存。全景光追模式还提供了1080P分辨率支持。此次配置信息为玩家提供了更清晰的硬件指导。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747185360_368096_jpg_r.jpg)
+
+---
+
+## 2. [《绝地潜兵2》最新更新上线 新强敌武器定制等](https://www.3dmgame.com/news/202505/3919737.html)   2025-05-14 09:14
+
+《绝地潜兵2》发布了01.003.000更新，新增三种光能族强敌角色，并加入武器定制功能，可调整射击精度和弹匣容量等。此外，开发团队还优化了商城体验，并修复了已知问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747185222_429903_jpg_r.jpg)
+
+---
+
+## 3. [《勇者斗恶龙12》或登陆Switch 2 制作人看好兼容性](https://www.3dmgame.com/news/202505/3919742.html)   2025-05-14 09:14
+
+《勇者斗恶龙》系列创始人堀井雄二透露，《勇者斗恶龙12》有望登陆Switch 2平台，并强调团队正全力开发新作。堀井还表示本作将致敬椙山浩一和鸟山明两位大师。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747186565_349467.jpg)
+
+---
+
+## 4. [《无主之地4》开发商盛赞Switch 2：性能强大的平台](https://www.3dmgame.com/news/202505/3919735.html)   2025-05-14 08:47
+
+Gearbox创始人盛赞Switch 2的开发体验，称其性能强大且适合制作《无主之地4》。这是系列首次同步登陆任天堂平台，预计将带来更优质的玩家体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747183281_852208_jpg_r.jpg)
+
+---
+
+## 5. [冯骥与《星刃》制作人金亨泰微博互关 未来有合作？](https://www.3dmgame.com/news/202505/3919736.html)   2025-05-14 08:55
+
+《黑神话：悟空》制作人冯骥与《星刃》制作人金亨泰在微博上互关，引发玩家热议。金亨泰还参观了《黑神话》艺术展，并获赠签名版游戏盘和原画集。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747184034_240313.jpg)
+
+---
+
+## 6. [《星刃》PC版全新服装图赏 看着都很漂亮养眼](https://www.3dmgame.com/news/202505/3919734.html)   2025-05-14 08:43
+
+《星刃》PC版将于6月11日发售，新增25套服装设计，并优化了Boss战体验。游戏支持中文配音，玩家对新服装的设计表示期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747183327_808847.jpg)
+
+---
+
+## 7. [无人深空制作人调侃《GTA6》延期被嘲：你的新作呢？](https://www.3dmgame.com/news/202505/3919733.html)   2025-05-14 08:35
+
+《无人深空》制作人Sean Murray调侃《GTA6》延期，引发网友反击，质疑其自身新作进展。玩家对其在社交媒体上的言论褒贬不一，引发热议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747182877_387910_jpg_r.jpg)
+
+---
+
+## 8. [《毁灭战士：黑暗时代》成本世代加载速度最快的游戏](https://www.3dmgame.com/news/202505/3919732.html)   2025-05-14 08:24
+
+《毁灭战士：黑暗时代》凭借极快的加载速度赢得玩家好评。数毛社分析显示，该游戏几乎不需要加载画面，成为本世代加载速度最快的游戏之一。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747182100_305658.webp)
+
+---
+# 新闻简报 (更新时间: 2025-05-14 10:45)
+
+## 1. [《碟中谍8》新剧照和幕后照 IMF小队上天下海](https://www.3dmgame.com/news/202505/3919731.html)   
+2025-05-14 08:15
+
+近日，《碟中谍8：最终清算》曝光了一组新剧照和幕后照片，展示了IMF小队上天下海的精彩场景。这部电影承接《碟中谍7》的剧情，聚焦于伊森·亨特与团队寻找并摧毁智体的任务。导演与主演汤姆·克鲁斯计划通过这两部续集为伊森·亨特的角色画上句号。本片将于2025年5月23日在北美上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747181683_459458_jpg_r.jpg)
+
+---
+
+## 2. [《光与影：33号远征队》早期版本视频曝光 变化巨大](https://www.3dmgame.com/news/202505/3919730.html)   
+2025-05-14 08:07
+
+《光与影：33号远征队》早期开发版本视频近日在Reddit论坛上曝光，展示了从最初的2A级游戏到当前版本的巨大变化。视频内容包括雪地探索、蒸汽朋克风格城市以及回合制战斗画面。开发团队透露，游戏最初设定为维多利亚时代的蒸汽朋克风格，后因灵感来源改变而重新调整方向。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747181148_328634_jpg_r.jpg)
+
+---
+
+## 3. [《德州电锯杀人狂》停更 不再有新内容支持](https://www.3dmgame.com/news/202505/3919729.html)   
+2025-05-14 08:03
+
+开发商Gun Interactive宣布，《德州电锯杀人狂》将不再获得额外内容更新，但游戏仍可正常游玩。这款非对称在线多人游戏自2023年8月推出以来广受玩家喜爱，开发商认为游戏已达到“完整”状态，未来将专注于其他新项目。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747180910_554880.webp)
+
+---
+
+## 4. [曝《地平线3》将于2027年发售 成为PS6首发大作](https://www.3dmgame.com/news/202505/3919728.html)   
+2025-05-14 07:48
+
+知名爆料人透露，《地平线3》预计2027年发布，可能成为PS6的首发大作。《地平线3》将延续《西之绝境》的剧情，围绕“复仇女神(Nemesis)”展开冒险。此外，《地平线》的多人游戏版本预计会在《地平线3》之前上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747180036_725552.jpg)
+
+---
+
+## 5. [《霍格沃茨之遗》Switch 2版开启数字预购并发布游戏演示](https://gonintendo.com/contents/48383-hogwarts-legacy-switch-2-digital-pre-orders-live-gameplay-trailer-shared)   
+2025-05-14 07:16
+
+《霍格沃茨之遗》Switch 2版本现已开放数字预购，并发布了最新的游戏演示视频。玩家可抢先体验这款备受期待的魔法世界探索游戏，感受全新的画质和性能提升。
+
+---
+
+## 6. [如何在《我的世界》中获取线和蜡烛](https://www.gamespot.com/articles/how-to-find-minecraft-string/1100-6531485/)   
+2025-05-14 06:55
+
+《我的世界》玩家可以通过击杀蜘蛛、拆除蛛网或探索地下遗迹等方式获取线，用于制作蜡烛等物品。本文详细介绍了获取线的多种方法以及蜡烛制作和染色的技巧，帮助玩家轻松打造理想的光源装饰。
+
+![](https://www.gamespot.com/a/uploads/scale_super/1850/18507742/4493366-minecraft-string.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-14 10:45)
+
+## 1. [《指环王》主题农场模拟游戏《Tales of the Shire》将推出实体版](https://www.gamespot.com/articles/cozy-lord-of-the-rings-farming-sim-tales-of-the-shire-getting-physical-release-on-ps5-switch/1100-6531521/?ftag=CAD-01-10abi2f)   
+2025-05-14 06:32  
+
+《Tales of the Shire: A Lord of the Rings Game》将于7月29日登陆PS5、Switch、Xbox Series X|S和PC平台。除了数字版外，游戏还将推出实体版，售价40美元，现已开启预购。实体版包含游戏光盘、一张20x16英寸的地图以及游戏原声数字下载码。此外，玩家将在游戏中扮演霍比特人，种植土地并探索中土世界的生活乐趣。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4494029-talesmod.jpg)
+
+
+## 2. [《Minecraft》新增与现有生物、怪物全览](https://www.gamespot.com/articles/all-new-and-existing-minecraft-mobs-animals-and-monsters/1100-6531290/?ftag=CAD-01-10abi2f)  
+2025-05-14 06:40  
+
+《Minecraft》中新增了许多生物和实体，如Allay，它是一种小型蓝色仙子状生物，可在掠夺者前哨站或林地府邸找到。Allay能帮助玩家搜寻相同物品，并具有自我复制能力。文章还介绍了其他生物的特性及获取方式。
+
+![](https://www.gamespot.com/a/uploads/original/1850/18507742/4486737-minecraft-mobs%281%29.jpg)
+
+
+## 3. [《Team Fortress 2》更新发布](https://store.steampowered.com/news/244390/)  
+2025-05-14 06:22  
+
+《Team Fortress 2》发布了新更新，修复了部分玩家无法创建好友专属服务器的问题。此外，新增了服务器可见性和隐私设置选项，并修复了Linux系统下的退出崩溃问题。
+
+
+## 4. [《白雪公主》限量钢铁书蓝光版现已接受预购](https://www.gamespot.com/articles/preorders-for-the-snow-white-limited-steelbook-edition-blu-ray-are-available-now/1100-6531369/?ftag=CAD-01-10abi2f)  
+2025-05-14 05:59  
+
+迪士尼真人版电影《白雪公主》的4K限量钢铁书版将于6月24日推出，售价45美元。该版本包含电影本体、蓝光光盘和数字版，以及一系列幕后制作特辑。电影虽然评价褒贬不一，但钢铁书版预计会成为收藏家关注的焦点。
+
+![](https://www.gamespot.com/a/uploads/original/1701/17013431/4493517-snowwhitesteelbookfull.jpg)
+
+
+## 5. [《俄罗斯方块永恒》实体版预购火热](https://www.gamespot.com/articles/tetris-forever-physical-edition-preorders-are-selling-out-fast/1100-6531507/?ftag=CAD-01-10abi2f)  
+2025-05-14 01:08  
+
+《Tetris Forever》的实体版将于8月28日登陆PS5和Switch，售价35美元。此次实体版涵盖了超过15款经典《俄罗斯方块》游戏，并新增了全新的多人游戏模式“时间穿越”。收藏版已售罄，标准版预购火热进行中。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4493503-81ckhaxjpil._sl1500.jpg)
+
+
+## 6. [Nintendo Switch 2配件阵容亮相](https://www.gamespot.com/articles/hori-switch-2-accessories-include-the-consoles-first-third-party-pro-controller/1100-6531499/?ftag=CAD-01-10abi2f)  
+2025-05-13 23:15  
+
+由Hori推出的多款Nintendo Switch 2配件现已开放预购，其中包括首款第三方Pro手柄Horipad Turbo、便携包、屏幕保护膜等。这些配件提供了更多实用功能，同时价格相较官方配件更为实惠。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4493456-61tn6jfkt4l._sl1500.jpg)
+# 新闻简报(更新时间:2025-05-14 10:45)
+
+## 1. [《战地6》剧情灵感来源于电影与电视剧](https://www.gamespot.com/articles/battlefield-6s-campaign-is-inspired-by-this-movie-and-tv-show/1100-6531514/?ftag=CAD-01-10abi2f)   
+2025-05-14 03:09
+
+《战地6》的剧情灵感来自电视剧《女狮》和电影《内战》。创意总监Roman Campos-Oriola表示，电视剧《女狮》中由佐伊·索尔达娜饰演的CIA特工角色为游戏提供了灵感。而高级制作人Philippe Ducharme提到，电影《内战》中对记者记录战争的视角也为游戏剧情设计提供了重要参考。
+
+---
+
+## 2. [《最终幻想》艺术家天野喜孝为《万智牌》创作全新艺术作品](https://www.gamespot.com/articles/iconic-final-fantasy-artist-yoshitaka-amano-creates-new-art-for-magic-the-gathering-collab/1100-6531517/?ftag=CAD-01-10abi2f)   
+2025-05-14 02:06
+
+《最终幻想》艺术家天野喜孝首次为《万智牌》创作艺术作品，他的标志性风格将呈现《最终幻想》系列中的传奇角色。天野表示，这次创作挑战了常规规则，尤其是在角色凯夫卡的设计中通过混乱的场景和色彩展现角色的“混沌”特质。
+
+---
+
+## 3. [持Visa卡即可获取最新Ubisoft DLC](https://www.gamespot.com/articles/youll-need-a-visa-card-to-grab-the-latest-ubisoft-dlc/1100-6531515/?ftag=CAD-01-10abi2f)   
+2025-05-14 03:22
+
+育碧与Visa合作推出专属DLC，持Visa卡的玩家可在《舞力全开2025》中解锁特别舞蹈动作。育碧表示，这只是双方合作的开端，未来还将推出更多联合品牌营销活动，包括游戏代码和独家奖励。
+
+---
+
+## 4. [《万智牌》隐约揭示《最终幻想7》正史](https://www.gamespot.com/articles/magic-the-gathering-may-have-weighed-in-on-final-fantasy-7-canon/1100-6531516/?ftag=CAD-01-10abi2f)   
+2025-05-14 03:21
+
+《万智牌》发布的《最终幻想7》主题卡牌中，默认版本的“秘密约会”卡片展示了克劳德与蒂法在黄金碟游乐场约会的场景。这一默认设计可能暗示蒂法是正史中的约会对象，也可能仅是设计团队的偏好。
+
+![](https://www.gamespot.com/a/uploads/scale_super/3/37852/4493549-secret-rendezvous-combined.jpg)
+
+---
+
+## 5. [《我的世界》电影将推出家庭娱乐版](https://www.minecraft.net/article/a-minecraft-movie-digital%20#new_tab)   
+2025-05-14 03:00
+
+《我的世界》官方宣布即将推出电影家庭娱乐版，让玩家在家中体验全新的《我的世界》冒险。
+
+---
+
+## 6. [视频游戏公司在AI争议中对演员罢工做出让步](https://www.gamespot.com/articles/video-game-companies-make-key-ai-concession-in-latest-offer-to-end-actors-strike/1100-6531513/?ftag=CAD-01-10abi2f)   
+2025-05-14 02:56
+
+视频游戏公司在解决SAG-AFTRA演员罢工问题上做出关键AI让步，取消了AI生成演员数字形象的无限使用权买断条款。这一调整更符合演员的正常报酬模式，标志着谈判的重要进展。
+
+---
+
+## 7. [任天堂警告Switch 2面临关税负面影响](https://www.gamespot.com/articles/switch-2-nintendo-warns-of-substantial-negative-impact-from-tariffs/1100-6531512/?ftag=CAD-01-10abi2f)   
+2025-05-14 02:52
+
+任天堂预计即将发布的Switch 2因关税问题将面临数十亿日元的利润损失。公司将根据最新的美中关税协议调整策略，以缓解经济影响。
+
+---
+
+## 8. [《我的世界》推出李小龙主题DLC](https://gonintendo.com/contents/48381-bruce-lee-dragon-fury-dlc-now-available-for-minecraft)   
+2025-05-14 02:53
+
+以李小龙为主题的《我的世界》DLC“龙之怒”现已上线，玩家可以在游戏中体验这位功夫巨星的经典风采。
+
+---
+
+## 9. [《FANTASY LIFE i》发布新音乐视频与真人剧集宣传](https://gonintendo.com/contents/48380-fantasy-life-i-the-girl-who-steals-time-just-a-magician-s-apprentice-music-video)   
+2025-05-14 02:43
+
+LEVEL-5为游戏《FANTASY LIFE i: The Girl Who Steals Time》推出了“魔法师的学徒”音乐视频及真人剧集，展现了丰富多彩的游戏世界。
+
+---
+
+## 10. [《宝可梦》推出帕底亚三人组木偶剧视频](https://gonintendo.com/contents/48379-pokemon-kids-tv-shares-the-paldea-trio-puppet-theater-video)   
+2025-05-14 02:38
+
+《宝可梦》官方发布了“帕底亚三人组”木偶剧视频，展示了木偶表演与宝可梦角色的有趣结合，深受粉丝喜爱。
+
+---
