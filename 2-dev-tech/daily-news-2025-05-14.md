@@ -649,3 +649,88 @@ Cursor 的系统提示泄露提供了关键启发：AI 的“聪明”并非神�
 今天咱们就聊聊，为什么你的网站加载还是这么慢——并介绍一个神奇的技巧：流式 HTML（Streaming HTML）。
 
 ---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [一套基于 Bootstrap 和 .NET Blazor 的开源企业级组件库 - 追逐时光者](https://www.cnblogs.com/Can-daydayup/p/18876539)   
+2025-05-14 20:16  
+
+今天大姚分享了一套基于 Bootstrap 和 .NET Blazor 的开源企业级组件库：Bootstrap Blazor。这是一个无缝整合了 Bootstrap 样式和 Blazor 框架的工具，适用于企业级应用开发，且遵循 Apache 开源协议。组件库的功能与应用场景在开发者中引起了广泛关注。
+
+---
+
+## 2. [3D Gaussian Splatting 查看工具 splatviz - Milton](https://www.cnblogs.com/milton/p/18876455)   
+2025-05-14 19:03  
+
+Milton介绍了一款用于 3D Gaussian Splatting 的查看工具——splatviz。此工具需要满足显卡 CUDA 架构要求（>=7.x），在高性能显卡上运行顺畅，但低端显卡可能会遇到限制。此外，文章还介绍了它在实际应用中的性能表现。
+
+---
+
+## 3. [windows11 安装CUDA Toolkit，Python，Anaconda，PyTorch并使用DeepSeek 多模态模型 Janus-Pro识别和生成图片 - 肖祥](https://www.cnblogs.com/xiao987334176/p/18876317)   
+2025-05-14 18:55  
+
+肖祥分享了一篇详细教程，讲解如何在受限网络环境下，在 Windows 11 系统中安装 CUDA Toolkit、Python、Anaconda 和 PyTorch，并成功使用 DeepSeek 模型进行多模态图片识别与生成。这对受限环境下的开发者具有实际参考价值。
+
+---
+
+## 4. [hashicorp/raft模块实现的raft集群存在节点跨集群身份冲突问题 - 川川籽](https://www.cnblogs.com/yzhch/p/18876343)   
+2025-05-14 17:58  
+
+文章分析了使用 hashicorp/raft 模块构建集群时，因节点跨集群导致身份冲突的问题，并详细描述了测试场景和解决措施。此问题的发现为开发者优化集群稳定性提供了宝贵的经验。
+
+---
+
+## 5. [【保姆级教程】：开源 Qwen3 本地化部署实操详细教程 - 小白跃升坊](https://www.cnblogs.com/xiaobaiysf/p/18875723)   
+2025-05-14 16:07  
+
+这篇文章提供了一份极为详尽的教程，包括如何借助 1Panel、Ollama 和 MaxKB 等工具完成 Qwen3 模型的本地化部署。教程从安装环境到实际操作步骤一应俱全，适合初学者参考。
+
+---
+
+## 6. [Poe 发布 AI 模型报告：GPT-4o 独占鳌头，Gemini 推理异军突起，快手可灵黑马搅局！](https://www.51cto.com/article/815572.html)   
+2025-05-14 15:06  
+
+Poe 平台发布的 AI 模型报告显示，GPT-4o 继续领跑市场，而 Gemini 模型以其强大的推理能力迅速崛起。此外，快手推出的可灵模型成为一匹黑马，对市场格局产生了冲击。
+
+---
+
+## 7. [字节最强多模态模型登陆火山引擎！Seed1.5-VL靠20B激活参数狂揽38项SOTA](https://www.51cto.com/article/815575.html)   
+2025-05-14 15:05  
+
+字节跳动推出的视觉-语言多模态大模型 Seed1.5-VL，通过 20B 激活参数夺得了 38 项 SOTA，展现了国际顶尖水平。此模型的发布标志着字节在多模态技术领域的进一步突破。
+
+---
+
+## 8. [SpringAI更新：废弃tools方法、正式支持DeepSeek！ - 磊哥](https://www.cnblogs.com/vipstone/p/18875900)   
+2025-05-14 14:55  
+
+SpringAI 推出了最新 M8 版本更新，其中废弃了 tools 方法并正式支持 DeepSeek 模型，进一步提升了其 AI 能力的深度与广度。这次更新也凸显了其快速迭代能力。
+
+---
+# 新闻简报 (更新时间: 2025-05-14 20:45)
+
+## 1. [最佳动画库GSAP现已免费](https://app.daily.dev/posts/best-animation-library-is-free-now---gsap-mgdk8xexk)  
+2025-05-13 14:41
+
+GSAP（GreenSock Animation Platform）宣布现已免费提供，包括之前需要付费的所有插件和附加功能。作为网页动画开发领域的领先工具，GSAP的免费化意味着更多开发者可以无成本地使用其强大的功能。此外，Webflow被提及为GSAP的技术支持核心骨架。这一消息无疑对动画设计师和前端开发者来说是个巨大福利。
+
+![](https://media.daily.dev/image/upload/s--hEB8eXzw--/f_auto/v1747111701/posts/EpFqwMR7d?_a=BAMClqUq0)
+
+---
+
+## 2. [直接使用HTML](https://app.daily.dev/posts/just-fucking-use-html-nlqawb4vo)  
+2025-05-13 07:54
+
+该文章提倡开发者不要盲目依赖复杂的框架，而是回归基础，直接使用纯HTML进行开发。作者认为现代框架常带来冗余和不可靠性，耗费了性能和开发时间，而HTML则因其简洁、高效和稳定性成为值得推荐的选择。文章旨在提醒开发者保持开发工作的简易性，同时追求高效的网页设计。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/fdd6b6a314835770d0dc2bbe4b14dd17?_a=AQAEuj9)
+
+---
+
+## 3. [PulpMiner - 将任意网页转化为实时JSON API](https://app.daily.dev/posts/pulpminer---converts-any-webpage-into-realtime-json-api--2unpdzz2o)  
+2025-05-09 15:04
+
+PulpMiner是一款创新工具，能够将任何网页转化为结构化的实时JSON API。无需编写复杂的爬虫代码，用户只需输入网页URL并指定所需的JSON格式，即可创建由人工智能驱动的API。这款工具提供灵活的定价方案和简单的设置方式，为开发者和数据分析人员提供了极大的便利。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/97baac5e4baee3cdc7a323a48c045482?_a=AQAEuj9)
+
+---
