@@ -365,3 +365,322 @@ Epic Games承认虚幻5引擎在性能上存在问题，并计划优化着色器
 ![](https://img.3dmgame.com/uploads/images/news/20250221/1740115548_101129_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-15 05:45)
+
+## 1. [Nintendo Switch 2手柄GL/GR按钮可自定义功能曝光](https://www.gamespot.com/articles/nintendo-switch-2-controllers-gl-gr-buttons-are-more-customizable-than-we-thought/1100-6531549/?ftag=CAD-01-10abi2f)   2025-05-15 05:25
+
+Switch 2手柄上的GL和GR按钮可以根据玩家需求进行自定义映射，并支持每款游戏单独设置。玩家可通过按住主界面按钮进入快捷设置菜单调整映射，这些设置会自动保存并适用于后续游戏。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4494675-doomcontroller.jpg)
+
+---
+
+## 2. [GTA 6粉丝发现截图中的儿童角色](https://www.gamespot.com/articles/gta-6-sleuths-think-theyve-spotted-a-kid-in-a-screenshot/1100-6531548/?ftag=CAD-01-10abi2f)   2025-05-15 04:40
+
+在近日发布的GTA 6截图中，粉丝认为发现了一个疑似儿童角色。这可能是系列首次出现儿童角色，虽然预计不会让儿童在游戏世界中自由活动，但这一变化仍引发了热议。
+
+---
+
+## 3. [Doom主题Xbox手柄热销](https://www.gamespot.com/articles/doom-limited-edition-xbox-controller-where-to-buy-amazon-walmart-best-buy-target-gamestop/1100-6530902/?ftag=CAD-01-10abi2f)   2025-05-15 04:09
+
+Doom主题Xbox手柄正在热销，目前已在Amazon和Walmart售罄，但Best Buy和Target仍有库存，售价为80美元。此手柄搭配Doom: The Dark Ages游戏发布，受到玩家追捧。
+
+---
+
+## 4. [Xbox推出“Floral Collection”设备系列](https://news.xbox.com/en-us/2025/05/14/designed-for-xbox-floral-collection-controller/)   2025-05-15 04:00
+
+Xbox推出全新“Floral Collection”设备系列，包括手柄、耳机和存储扩展卡，设计融合花卉图案和高性能。售价从42.99美元到339.99美元不等，现已开售。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/05/Floral-Collection-cebaa0b89aff725140e3-1024x576.jpg)
+
+---
+
+## 5. [《波斯王子：时之砂》重制版将于2026年3月底前发布](https://www.gamespot.com/articles/the-prince-of-persia-sands-of-time-remake-will-launch-by-march-2026-ubisoft-says/1100-6531547/?ftag=CAD-01-10abi2f)   2025-05-15 04:01
+
+育碧宣布《波斯王子：时之砂》重制版将于2026年3月底前发布。这款游戏自2020年宣布以来经历了多次开发波折，目前由育碧蒙特利尔工作室负责制作。
+
+---
+
+## 6. [《塞尔达传说》大师剑复制品再度补货](https://www.gamespot.com/articles/zelda-master-sword-replica-cosplay-bandai-namco-tears-of-the-kingdom-collectible-amazon/1100-6523376/?ftag=CAD-01-10abi2f)   2025-05-15 03:30
+
+Bandai Namco推出的《塞尔达传说》42英寸大师剑复制品现已补货，并享受小幅折扣，售价186美元（原价200美元）。这款收藏品以精美设计和高品质深受粉丝喜爱。
+
+---
+
+## 7. [SNK CEO松原健二辞职转任顾问](https://www.4gamers.com.tw/news/detail/71780/snk-ceo-kenji-matsubara-becomes-advisor)   2025-05-15 03:28
+
+SNK宣布CEO松原健二辞职并转任顾问。官方声明感谢其过去对公司发展的贡献，但未解释具体辞职原因。有玩家猜测与新作《餓狼傳説》市场表现不佳有关。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9bc65530f7b598c6dfd11f47fd0d93dd6c94f1e2.png)
+
+---
+
+## 8. [NBA 2K25“第七赛季”将于5月16日开启](https://gonintendo.com/contents/48421-nba-2k25-season-7-starts-may-16th-2025)   2025-05-15 03:24
+
+NBA 2K25的第七赛季即将于5月16日上线，为玩家带来全新赛事和奖励内容。
+
+---
+
+## 9. [Hello Kitty岛冒险更新推出新预告片](https://gonintendo.com/contents/48420-hello-kitty-island-adventure-s-friends-furniture-and-frozen-peaks-update-gets-a-new)   2025-05-15 03:21
+
+Hello Kitty岛冒险推出新版本“Friends, Furniture, and Frozen Peaks”，发布最新预告片，展示趣味内容。
+
+---
+
+## 10. [《约会万物》发布“认识Cameron”预告片](https://gonintendo.com/contents/48418-date-everything-meet-cameron-trailer)   2025-05-15 03:18
+
+《约会万物》游戏发布新预告片“认识Cameron”，让玩家更深入了解游戏角色设定和故事背景。
+
+---
+# 新闻简报(更新时间:2025-05-15 05:45)
+
+## 1. [官方Xbox播客与《托尼·霍克职业滑板3+4》开发者对谈](https://gonintendo.com/contents/48417-official-xbox-podcast-sits-down-with-the-tony-hawk-s-pro-skater-3-4-devs-for-fresh)   2025-05-15 03:16
+
+官方Xbox播客近期与《托尼·霍克职业滑板3+4》的开发团队展开了一次深入对谈，分享了关于游戏制作背后的故事和全新见解。这款经典滑板游戏的最新版本受到玩家期待，播客内容聚焦于游戏创意、技术挑战以及未来的发展方向。
+
+---
+
+## 2. [7'scarlet角色“Yuzuki”预告片发布](https://gonintendo.com/contents/48416-7-scarlet-yuzuki-character-trailer)   2025-05-15 03:14
+
+视觉小说《7'scarlet》发布了全新预告片，聚焦于角色“Yuzuki”的细节和背景。预告片展示了Yuzuki的独特魅力，承诺将为玩家带来更加深刻的故事体验。
+
+---
+
+## 3. [《FANTASY LIFE i: The Girl Who Steals Time》发布新音乐视频及游戏画面](https://gonintendo.com/contents/48415-fantasy-life-i-the-girl-who-steals-time-life-s-work-music-video-fresh-gameplay)   2025-05-15 03:11
+
+《FANTASY LIFE i: The Girl Who Steals Time》推出了一支全新音乐视频，同时展示了更多游戏画面。视频中体现了游戏的奇幻主题和独特玩法，为玩家提供了一次深入了解游戏世界的机会。
+
+---
+
+## 4. [《Brawlhalla Fest 2025》正式上线](https://gonintendo.com/contents/48414-brawlhalla-fest-2025-now-live)   2025-05-15 03:09
+
+《Brawlhalla Fest 2025》现已开启，为期四周的活动将为玩家带来激烈的格斗乐趣和丰富的奖励内容。游戏社区正在热烈参与，活动详情可通过官方渠道获取。
+
+---
+
+## 5. [全新《钢铁侠》游戏：概念图、平台及更多信息](https://www.gamespot.com/articles/iron-man-release-date-trailer-story/1100-6531545/?ftag=CAD-01-10abi2f)   2025-05-15 03:07
+
+EA与Marvel合作开发的全新《钢铁侠》游戏由蒙特利尔的Motive工作室负责制作。该项目仍处于早期开发阶段，但已透露了游戏的概念艺术、平台支持以及与《战地6》的潜在联系。这款游戏将延续《死灵空间》重制版开发团队的高质量制作传统。
+
+---
+
+## 6. [进入《Everspace 2: Wrath of the Ancients》的五大须知](https://news.xbox.com/en-us/2025/05/14/taking-flight-into-everspace-2-wrath-of-the-ancients/)   2025-05-15 03:00
+
+《Everspace 2》的最新扩展包《Wrath of the Ancients》现已上线，为玩家带来了新的星系探索、任务线和强大的装备选项。玩家将踏入一个充满危险与机遇的宇宙，解锁全新飞船并迎接全新挑战。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/05/EVERSPACE-2-Wrath-of-the-Ancients-5-things-to-know-blog-image-5-5dfc82e6bfea3ac0c3f0.jpg)
+
+---
+
+## 7. [《皮克敏Bloom》杜塞尔多夫樱花挑战活动公布](https://gonintendo.com/contents/48413-pikmin-bloom-dusseldorf-sakura-challenge-announced)   2025-05-15 02:50
+
+《皮克敏Bloom》即将推出杜塞尔多夫樱花挑战活动，为玩家提供一个全新互动体验。活动细节将在游戏内更新，有兴趣的玩家可以提前准备。
+
+---
+
+## 8. [Eevee主题背包正式上架宝可梦中心](https://gonintendo.com/contents/48412-penny-s-eevee-themed-backpack-is-now-available-at-the-pokemon-center)   2025-05-15 02:48
+
+宝可梦中心推出了以Eevee为主题的全新背包，吸引了众多粉丝关注。这款背包设计精美，是宝可梦爱好者日常旅行的理想选择。
+
+---
+
+## 9. [《宝可梦卡牌：猩红&紫罗兰—宿命对手》预览四种Ogerpon形态](https://gonintendo.com/contents/48411-preview-four-different-ogerpon-in-pokemon-tcg-scarlet-violet-destined-rivals)   2025-05-15 02:45
+
+宝可梦卡牌游戏新系列《猩红&紫罗兰—宿命对手》发布了Ogerpon的四种形态预览，为玩家展示未来即将登场的卡牌设计及战术可能性。
+
+---
+
+## 10. [宝可梦化石博物馆将在芝加哥菲尔德博物馆首次亮相北美](https://gonintendo.com/contents/48410-pokemon-fossil-museum-to-debut-in-north-america-at-chicago-s-field-museum)   2025-05-15 02:44
+
+宝可梦化石博物馆展览将在芝加哥的菲尔德博物馆首次亮相北美，为参观者提供一个了解宝可梦与古生物学结合的独特机会。展览将展示一些深受粉丝喜爱的化石宝可梦模型。
+# 新闻简报(更新时间:2025-05-15 05:45)
+
+## 1. [《地铁》系列迎来15周年 《地铁》新作正在开发中](https://www.3dmgame.com/news/202503/3916510.html) 2025-03-17 08:38
+
+4A Games庆祝《地铁》系列15周年，确认原著作者Dmitry Glukhovsky将合作开发下一款《地铁》游戏。官方表示，过去15年间《地铁》从小说改编成全球知名游戏品牌，同时宣布开发新的《地铁》作品及一款未公布的全新IP。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742171797_466513_jpg_r.jpg)  
+
+---
+
+## 2. [《明末：渊虚之羽》性感新截图 清凉女主爬梯](https://www.3dmgame.com/news/202503/3916512.html) 2025-03-17 08:50
+
+国产动作RPG《明末：渊虚之羽》发布性感新截图，展示女主角的清凉造型。官方通过社交媒体吸引关注，粉丝数量接近3万，并计划揭开更多游戏秘密。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742172528_701767_jpg_r.jpg)  
+
+---
+
+## 3. [万代推出全新PS水晶立标 轻按发出经典PS启动音效](https://www.3dmgame.com/news/202503/3916513.html) 2025-03-17 09:13
+
+万代推出PS水晶立标，按下后可播放经典PlayStation启动音效。这款亚克力材质立标将于7月正式发售，售价3300日元，现已开启预购。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742173939_377688.png)  
+
+---
+
+## 4. [《寂静岭f》通过ESRB评级 游戏十分血腥暴力](https://www.3dmgame.com/news/202503/3916514.html) 2025-03-17 09:27
+
+《寂静岭f》通过ESRB评级，游戏被定为M级（17+），包含血腥暴力及部分裸露内容。玩家将在20世纪60年代的日本小镇中面对超自然威胁。具体发售日期待定。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742174742_255036_jpg_r.jpg)  
+
+---
+
+## 5. [《天国：拯救2》官方Mod支持上线 物理晃动Mod吸睛](https://www.3dmgame.com/news/202503/3916515.html) 2025-03-17 09:37
+
+《天国：拯救2》更新1.2版本，新增Mod支持及理发功能。玩家可调整游戏机制、外观并体验创意Mod，其中包括“鸡变恐龙”及物理晃动等趣味内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742175315_679785.jpg)  
+
+---
+
+## 6. [艺术总监揭秘《彼得·杰克逊的金刚：官方游戏》 因导演儿子不喜欢而连夜修改](https://www.3dmgame.com/news/202503/3916516.html) 2025-03-17 09:37
+
+育碧艺术总监透露，《金刚：官方游戏》因导演彼得·杰克逊的儿子不满金刚设计，导致开发团队连夜修改。此外，游戏开发因时间紧张，仅用两年完成，与电影同步上线。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742175449_605374.jpg)  
+
+---
+
+## 7. [惊悚冒险《逃离后室》更新要素 即将追加新地图以及多结局](https://www.3dmgame.com/news/202503/3916517.html) 2025-03-17 09:43
+
+惊悚游戏《逃离后室》即将推出更新，新增Grassrooms和Level 974地图，以及多线结局。游戏支持1-4人合作探索恐怖密室，目前在Steam平台广受好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742175722_300130.jpg)  
+
+---
+
+## 8. [外媒：为什么《怪物猎人：荒野》没有像《龙腾世纪：影障守护者》那样扑街?](https://www.3dmgame.com/news/202503/3916518.html) 2025-03-17 09:44
+
+外媒分析《怪物猎人：荒野》简化核心玩法大获成功，而《龙腾世纪：影障守护者》则因削减太多内容导致销量不佳。《荒野》三天销售超800万套，而后者仅售出150万套。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742175668_129095_jpg_r.jpg)
+# 新闻简报(更新时间:2025-03-17 08:36)
+
+## 1. [《英雄无敌：上古纪元》新预告 经典回归让人震撼](https://www.3dmgame.com/news/202503/3916511.html)   2025-03-17 08:36
+
+近日，开发商Unfrozen发布了《魔法门之英雄无敌：上古纪元》的最新预告与开发者日记，展示了城镇界面、战斗画面以及新增的中立城镇机制等内容。《上古纪元》预计于2025年第二季度开启抢先体验，将带来6个独特阵营，每个阵营拥有专属玩法、生物及英雄。这款游戏不仅延续了经典，还融入了现代设计，为玩家呈现全新的冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742172342_897146_jpg_r.jpg)
+
+---
+
+## 2. [《刺客信条：影》水墨画风格海报 很神秘很威严](https://www.3dmgame.com/news/202503/3916509.html)   2025-03-17 08:27
+
+育碧官方发布了《刺客信条：影》的水墨风海报，展示了日本背景下的神秘与威严的氛围。游戏将于3月20日发售，登陆PS5、XSX|S和PC平台。玩家预购即可免费获得DLC“淡路之爪”，售价分别为348元（标准版）和448元（数字豪华版）。
+
+![](https://img.3dmgame.com/uploads/images/news/20250317/1742171254_284952_jpg_r.jpg)
+
+---
+
+## 3. [今天是《战神3》发售15周年 国外玩家发视频追忆这款经典](https://www.3dmgame.com/news/202503/3916508.html)   2025-03-16 21:41
+
+《战神3》迎来15周年纪念，国外玩家纷纷发布视频与截图怀念这款经典游戏。2010年发售的这部作品至今被称赞为拥有出色的Boss战设计，并在当时获得多家媒体的高分评价。尽管有传言称索尼可能高清复刻《战神》系列，但至今未有官方消息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742132357_653409_jpg_r.jpg)
+
+---
+
+## 4. [《寂静岭f》简体中文官网上线 高中生女主深水雏子介绍](https://www.3dmgame.com/news/202503/3916507.html)   2025-03-16 21:24
+
+Konami为《寂静岭f》开启简体中文官网，并详细介绍了女主深水雏子的背景：一位被社会规训摆布的青春期少女，生活在昭和时期的偏远山村“戎之丘”。这款新作现已开放加入愿望清单，期待为玩家呈现独特的恐怖体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742131369_851884.jpg)
+
+---
+
+## 5. [《沙丘》《星战》建模师Andrew Hodgson加盟暴雪 参与开发游戏](https://www.3dmgame.com/news/202503/3916506.html)   2025-03-16 20:43
+
+曾参与《沙丘》、《星球大战》等大片制作的建模师Andrew Hodgson宣布加盟暴雪娱乐。其在硬表面建模领域的专业背景将为暴雪未来的游戏项目注入新活力，进一步提升过场动画的细节表现和真实感。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742129042_329983.jpg)
+
+---
+
+## 6. [专业到位！《怪物猎人：荒野》性感NPC Gemma Cosplay](https://www.3dmgame.com/news/202503/3916505.html)   2025-03-16 20:24
+
+知名Coser @Lil_G_cosplay 以专业水准重现了《怪物猎人：荒野》中性感NPC Gemma的形象。从服装细节到表情神态，完美还原了游戏角色，引发玩家热烈讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742127764_104729.jpg)
+
+---
+
+## 7. [机械师新款曙光16 Pro上架 国补到手价11999元](https://www.3dmgame.com/news/202503/3916504.html)   2025-03-16 19:40
+
+机械师发布新款曙光16 Pro游戏笔记本，搭载RTX 5080显卡与AMD Ryzen 9 7945HX处理器，优化电竞性能。售价为13999元，享受国补后到手价为11999元。这款笔记本还配备300Hz刷新率屏幕和高效散热系统。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742127091_392210_jpg_r.jpg)
+
+---
+
+## 8. [《Sand》即将进入抢先体验阶段 厂商提醒玩家谨防诈骗](https://www.3dmgame.com/news/202503/3916503.html)   2025-03-16 17:35
+
+开放世界PvPvE游戏《Sand》将于2025年4月3日进入抢先体验阶段。开发团队提醒玩家注意近期出现的诈骗邮件，确保通过官方渠道获取游戏信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112820_435047_jpg_r.jpg)
+
+---
+
+## 9. [《如龙0》迎来10周年 老外粉丝称赞通过游戏学到日本商务礼仪](https://www.3dmgame.com/news/202503/3916502.html)   2025-03-16 17:20
+
+经典游戏《如龙0》迎来10周年庆祝。一位老外玩家分享了通过游戏学习到日本商务礼仪的趣事，称这让他在实际商务会议中获益匪浅。《如龙0》自2015年发售以来，一直以其精彩剧情与真实细节深受玩家喜爱。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742116726_280790.png)
+
+---
+
+## 10. [《空洞骑士》玩家每天打一次BOSS 只为等待《丝之歌》](https://www.3dmgame.com/news/202503/3916501.html)   2025-03-16 17:07
+
+一位《空洞骑士》玩家连续1258天每天击败一次大黄蜂，只为等待续作《丝之歌》的发布。这一坚持成为玩家热议的话题，反映出玩家对游戏的热爱以及对续作的期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112628_168041_jpg_r.jpg)  
+# 新闻简报(更新时间:2025-05-15 05:45)
+
+## 1. [《机甲战士5：部落》推出新DLC 加入新机甲和新战役](https://www.3dmgame.com/news/202503/3916500.html)  
+2025-03-16 16:36  
+
+《机甲战士5：部落》推出全新资料片《幽灵熊：闪暴》，计划于2025年4月发布。玩家将指挥“幽灵熊部落”参与12个任务的全新战役，并首次控制“元素战士”动力装甲步兵。此外，新增四款全能机甲和四款战斗机甲，包括“夜陀螺”和“科迪亚克”等。《幽灵熊：闪暴》将在多个平台发售，价格参考前作《战争试炼》。开发者希望通过更丰富的内容提升玩家体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742112124_745446_jpg_r.jpg)  
+
+---
+
+## 2. [各大厂商扎堆出超频版显卡 原因现实又无奈](https://www.3dmgame.com/news/202503/3916499.html)  
+2025-03-16 16:18  
+
+显卡市场超频版的泛滥背后，是厂商为增加利润空间的无奈之举。由于GPU和显存成本占显卡总成本的80%，厂商通过提升出厂频率推出“超频版”显卡以提高售价。这种策略虽然增加了盈利，但也导致电商平台上“建议零售价”的显卡经常缺货或价格上涨。
+
+![](https://img.3dmgame.com/uploads/images/news/20250316/1742113072_756314.png)  
+
+---
+
+## 3. [Afro Samurai 系列及电影钢书收藏版大幅折扣](https://www.gamespot.com/articles/afro-samurai-series-movie-steelbook-collection-gets-great-discount/1100-6525140/?ftag=CAD-01-10abi2f)  
+2025-05-15 02:00  
+
+亚马逊目前大幅折扣售卖《Afro Samurai》系列和2009年续集电影的钢书收藏版。原价40美元的蓝光合集现售价28美元，同时漫画套装也降至25美元。这部经典动漫作品以其独特风格和全明星制作团队广受喜爱，特别版还包括幕后花絮和演员访谈等丰富内容。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4391902-afrosamuraisteelbook.png)  
+
+---
+
+## 4. [《Mortal Kombat 1》推出终极版现已上市](https://www.gamespot.com/articles/mortal-kombat-1-gets-the-definitive-edition-treatment-and-its-out-now/1100-6531544/?ftag=CAD-01-10abi2f)  
+2025-05-15 01:35  
+
+《Mortal Kombat 1：终极版》现已登陆PC、Switch、PS5和Xbox Series X|S平台。终极版包括主游戏、“Khaos Reigns”扩展故事、新增角色的两款DLC，以及电影风格的角色皮肤。Switch版售价60美元，其他平台售价70美元，对已有玩家提供升级选项。
+
+---
+
+## 5. [Square Enix将“积极推进”多平台开发 包括Switch 2](https://gonintendo.com/contents/48404-square-enix-to-aggressively-pursue-multiplatform-development-switch-2-included)  
+2025-05-15 01:41  
+
+Square Enix宣布将更加积极地推进多平台游戏开发计划，并确认未来项目将适配任天堂Switch 2平台。这一策略旨在进一步扩大玩家覆盖面，同时为玩家提供更多跨平台体验。  
+
+--- 
+
+## 6. [《龙之信条III HD-2D重制版》表现超预期 Square Enix暗示更多Switch 2项目](https://gonintendo.com/contents/48403-square-enix-says-dragon-quest-iii-hd-2d-remake-exceeded-expectations-hints-at-dragon)  
+2025-05-15 01:31  
+
+Square Enix透露，《龙之信条III HD-2D重制版》市场表现超出预期，并暗示可能为Switch 2开发更多《龙之信条》相关作品。HD-2D风格的成功让玩家对未来作品充满期待。  
+
+--- 
