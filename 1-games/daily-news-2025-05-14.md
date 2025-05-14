@@ -886,3 +886,334 @@ LEVEL-5为游戏《FANTASY LIFE i: The Girl Who Steals Time》推出了“魔法
 《宝可梦》官方发布了“帕底亚三人组”木偶剧视频，展示了木偶表演与宝可梦角色的有趣结合，深受粉丝喜爱。
 
 ---
+# 新闻简报(更新时间:2025-05-14 15:45)
+
+## 1. [2025 indiePlay中国独立游戏大赛报名开始！](https://www.3dmgame.com/news/202505/3919767.html)   2025-05-14 14:27
+
+2025 indiePlay中国独立游戏大赛正式开启报名，截止日期为7月18日。作为全球知名的独立游戏赛事，indiePlay吸引了众多国内外开发者参与。今年将特别设立“轻游梦选”奖项，由腾讯游戏自研工具轻游梦工坊提供支持。大赛入围作品将于11月22-23日在上海世博展览馆展示，并在23日晚举行颁奖典礼。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747203650_954520.png)
+
+---
+
+## 2. [《光与影：33号远征队》超难小游戏受《FF10》启发，总监称“想骂就骂我吧”](https://www.4gamers.com.tw/news/detail/71767/clair-obscur-expedition-33-gestral-final-fantasy-10)   2025-05-14 14:23
+
+《光与影：33号远征队》凭借其独特的设计成为2025 TGA年度热门游戏。游戏中“刷头精海滩”提供了各种高难度小游戏，包括排球赛、限时跑酷等，总监Guillaume Broche表示灵感来自《FF10》经典小游戏。他坦言，这种设计旨在为玩家提供挑战与乐趣。
+
+![](https://img.4gamers.com.tw/puku-clone-version/38db3729aa015d4b9b86b23fd24e864aeab364bb.jpg)
+
+---
+
+## 3. [特摄经典新电影《牙狼：TAIGA》定档10月17日上映](https://www.3dmgame.com/news/202505/3919766.html)   2025-05-14 14:08
+
+《牙狼》系列迎来新电影《牙狼：TAIGA》，聚焦牙狼主角冴岛钢牙父亲年轻时的冒险故事。电影将于10月17日上映，由小西辽生饰演冴岛大河。导演雨宫庆太表示《牙狼》的核心精神将延续，希望这部作品带来新的希望。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747202819_915109.png)
+
+---
+
+## 4. [《SAKAMOTO DAYS 坂本日常》第二季度7月中Netflix上线](https://www.4gamers.com.tw/news/detail/71762/sakamoto-days-animation-2nd-part)   2025-05-14 14:03
+
+《坂本日常》动画第二季度将于7月14日登陆Netflix。本季度将聚焦坂本与特务部队ORDER之间的三方混战。新主题曲由Kroi演唱，角色阵容包括杉田智和、佐仓绫音等知名声优。
+
+![](https://img.4gamers.com.tw/puku-clone-version/43263b97d7a683878626c4fe00cf0db904c0e716.png)
+
+---
+
+## 5. [新《超级马里奥兄弟》动画电影定名《超级马里奥世界》](https://www.3dmgame.com/news/202505/3919765.html)   2025-05-14 14:03
+
+任天堂与照明娱乐合作打造的新动画电影《超级马里奥世界》定档2026年4月3日北美首映，日本地区4月24日上映。宫本茂承诺电影将呈现一个充满阳光与乐趣的故事，延续前作《超级马里奥兄弟大电影》的辉煌。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747202531_477503_jpg_r.jpg)
+
+---
+
+## 6. [黄毛绅士新作《NTR偶像-梦想的约束》确认无法上架Steam](https://www.4gamers.com.tw/news/detail/71768/ntr-idol-promise-of-dreams-pull-down-from-steam)   2025-05-14 13:59
+
+《NTR偶像-梦想的约束》因审核问题无法在Steam平台上架。开发团队正在规划其他发行方式。这款3D绅士游戏因其独特的剧情与玩法备受期待，目前仍有望在年内发布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/31d29c208ffc28196a06e777d736212435cdb96b.jpg)
+
+---
+
+## 7. [捷元Genuine与Intel Core Ultra AI好礼活动开启](https://www.4gamers.com.tw/news/detail/71757/genuine-intel-core-ultra)   2025-05-14 13:44
+
+捷元推出多款搭载Intel Core Ultra处理器的电脑，支持高效AI运算。凡购买捷元Intel Core Ultra处理器或相关产品，可获赠一年版“相片大师365”软件，助力用户开启创意旅程。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2db79a943dfcb5b57161bb2455c7f75c393842fd.png)
+
+---
+
+## 8. [《SD钢弹 G世代 永恒》欢庆400万下载送菅井诗子](https://www.4gamers.com.tw/news/detail/71766/sd-gundam-g-generation-eternal-4-millions-downloads)   2025-05-14 13:32
+
+手机游戏《SD钢弹 G世代 永恒》全球下载突破400万，玩家完成新手教程可获赠钻石及人气角色菅井诗子。菅井诗子因其在《GQuuuuuuX》动画中的表现备受喜爱。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7d3aaf4455818664fb45a154b2fbd867f0217f45.png)
+
+---
+
+## 9. [EA Motive谈《战地》新作单人战役开发理念](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-14 11:33
+
+EA Motive透露新《战地》单人战役灵感来源于《母狮》和《内战》等心理刻画作品，强调普通人处在非凡境地的动态变化。团队希望平衡引人入胜的慢节奏叙事与系列标志性激烈战斗场面。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/11-16-29-php7b8ZwW.png)
+# 新闻简报(更新时间:2025-05-14 15:45)
+
+## 1. [世嘉发布真岛吾朗生日庆祝视频](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-14 10:33
+
+世嘉公司为旗下经典人物真岛吾朗发布了一段庆祝生日的视频，视频中展示了多张相关图片，向这个深受玩家喜爱的角色致敬。这一视频再度勾起了粉丝们对《如龙》系列的回忆，也引发了热烈讨论。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/10-14-52-phpd1VHJy.jpg)
+
+---
+
+## 2. [Nintendo SAN FRANCISCO推出迷你角色雕像](https://gonintendo.com/contents/48391-nintendo-san-francisco-to-offer-mini-character-sculptures)   2025-05-14 12:35
+
+任天堂宣布将在旧金山推出迷你角色雕像，这些小型手办以其精致的细节展现了经典游戏角色的魅力，吸引了众多收藏爱好者的关注和期待。
+
+---
+
+## 3. [《鬼武者2：武士的命运》重制版新游戏片段曝光](https://gonintendo.com/contents/46545-new-gameplay-clips-shared-for-onimusha-2-samurai-s-destiny-remaster-update)   2025-05-14 12:33
+
+《鬼武者2：武士的命运》重制版发布了新的游戏片段，展示了令人兴奋的战斗场景。这些片段为玩家提供了更多关于重制版的细节，让人们对游戏的正式发布更加期待。
+
+---
+
+## 4. [《Super Engine GT Turbo SPEC》今日登陆Switch](https://gonintendo.com/contents/48390-super-engine-gt-turbo-spec-launches-on-switch-today)   2025-05-14 12:29
+
+《Super Engine GT Turbo SPEC》正式登陆Nintendo Switch平台，游戏以其高速赛车体验吸引了热爱速度与激情的玩家。
+
+---
+
+## 5. [Nintendo SAN FRANCISCO推出Switch OLED定制配件](https://gonintendo.com/contents/48389-nintendo-san-francisco-to-offer-custom-joy-con-dock-wrist-strap-colors-for-switch)   2025-05-14 12:23
+
+任天堂在旧金山开设的体验店宣布为Switch OLED提供全新的定制选项，包括Joy-Con手柄、底座和腕带颜色的个性化选择，为玩家提供更多创意搭配方案。
+
+---
+
+## 6. [Toaplan推出街机游戏合集Vol.1和Vol.2](https://gonintendo.com/contents/48388-toaplan-arcade-collection-vol-1-and-vol-2-announced-for-switch)   2025-05-14 12:19
+
+Toaplan宣布将在Switch平台推出两款街机游戏合集，收录了多款经典街机游戏，让玩家在家中即可享受复古街机的乐趣。
+
+---
+
+## 7. [AZKi代言日本OTOTEN 2025音响展](https://www.4gamers.com.tw/news/detail/71765/hololive-vtuber-azki-ototen2025)   2025-05-14 12:07
+
+hololive虚拟主播AZKi宣布将代言日本最大消费音响展OTOTEN 2025，并将在活动现场设置特定展位播放她的原创及团员歌曲。活动将于6月21日至22日在东京国际论坛举行。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bd95f2755ab21b7c97341e0ddff3d958c07a27fb.jpg)
+
+---
+
+## 8. [爱奇艺开放院线电影分账合作](https://www.3dmgame.com/news/202505/3919764.html)   2025-05-14 12:00
+
+爱奇艺宣布新增院线电影分账合作通道，允许上映不超过90天的新片通过平台进行在线首播。这一政策为独立制片人和小型制片公司提供了更多机会，同时也为观众带来了更便捷的观影体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747194535_109634.jpg)
+
+---
+
+## 9. [《无主之地4》开发6年 预算超前作两倍](https://www.3dmgame.com/news/202505/3919763.html)   2025-05-14 11:59
+
+Gearbox Entertainment透露，《无主之地4》开发已历时6年，预算为《无主之地3》的两倍。新作将于9月12日上线，包括Xbox、PS5、PC和Switch 2平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747195089_419489.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-14 15:45)
+
+## 1. [线条小狗官方游戏《线条小狗：动物温泉》正式上线！温泉×萌物的双重治愈！](https://www.3dmgame.com/news/202505/3919762.html)   2025-05-14 11:56
+
+轻松休闲的桌面放置型游戏《线条小狗：动物温泉》现已在Steam平台上线，售价26元，首发优惠价23.4元。玩家可与可爱的线条小狗共同经营小动物温泉馆，享受治愈氛围。游戏支持同步系统时间和窗口调整功能，提供逼真的陪伴感。正式版还新增40多种动物访客和多样化设施，打造专属温泉体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747194888_174177_png_r.webp)
+
+---
+
+## 2. [小高和刚拼了命带货的《百日战纪》，玩起来究竟怎么样](https://www.yystv.cn/p/12847)   2025-05-14 11:55
+
+小高和刚倾注心血的《百日战纪》以100小时的体量和多达21条分支路线引发关注。尽管游戏剧情评价两极分化，但部分路线如“真相大白篇”获得好评。游戏的SRPG战棋玩法新颖，但在二周目后显现重复性问题。尽管如此，仍有玩家支持这款充满个性的作品。
+
+![](https://alioss.yystv.cn/doc/12847/84fe72709577d7887134b8919fafc803.appmsg_mw680water)
+
+---
+
+## 3. [Steam合作烹饪《猎厨狂欢》5/22发售，东南亚热带餐车准备上路！](https://www.4gamers.com.tw/news/detail/71760/sedap-a-culinary-adventure-official-launch-on-may-22nd)   2025-05-14 11:45
+
+新加坡团队kopiforge开发的合作烹饪游戏《猎厨狂欢》（SEDAP!）将于5月22日登陆Steam。游戏背景设定在东南亚风格的卡雅岛，玩家需在餐车中挑战收集食材和制作美食的任务，共有42个关卡和50多种东南亚菜肴可探索。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0098bdfc64e2f60b0be9d7887ea50f38f9793b96.jpg)
+
+---
+
+## 4. [《高达：跨时之战》新版夏亚红扎古钢普拉确定12月发售](https://www.3dmgame.com/news/202505/3919761.html)   2025-05-14 11:45
+
+万代宣布，《高达：跨时之战》的新版HG 1/144夏亚红扎古钢普拉将于12月发售，售价2420日元。这款新版模型在静冈模玩展示大会亮相，其设计细节与旧版有所区别，吸引了众多高达粉丝的关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747194208_434878_png_r.webp)
+
+---
+
+## 5. [Unity威胁撤销《DayZ》开发者工作室的软件授权](https://www.3dmgame.com/news/202505/3919759.html)   2025-05-14 11:43
+
+Unity因“许可证使用数据问题”威胁撤销RocketWerkz工作室的软件授权，后者对此表示指控毫无依据。Unity要求工作室整改许可证问题，但多项指控被证实不实。开发者质疑Unity数据采集方式，并担忧此举将对小型团队造成冲击。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747194127_916004_jpg_r.jpg)
+
+---
+
+## 6. [《最终幻想7：重生》艾达王装蒂法Mod 好身材更有韵味](https://www.3dmgame.com/news/202505/3919760.html)   2025-05-14 11:42
+
+《最终幻想7：重生》的最新Mod为蒂法添加了艾达王的服装，展现出冷艳与成熟的全新形象。该Mod已在Nexus平台上线，玩家可以下载体验蒂法的新造型。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747194198_965268_jpg_r.jpg)
+
+---
+
+## 7. [Google为Android推新Material 3 Expressive UI界面](https://www.4gamers.com.tw/news/detail/71763/google-launches-material-3-exprssive-ui-for-android)   2025-05-14 11:38
+
+Google推出Material 3 Expressive UI，提升Android设备的视觉一致性和交互体验。该界面增加了细腻动画和即时更新功能，同时优化性能以延长续航。新界面将在Android 16和Wear OS 6中上线。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d4c13ed76746c7e6cbcddc1b6b29296ee704e32e.webp)
+
+---
+
+## 8. [《奥日》总监谈《GTA6》定价 不应超过69美元](https://www.3dmgame.com/news/202505/3919758.html)   2025-05-14 11:27
+
+《奥日》系列总监托马斯·马勒表示，《GTA6》的合理定价应为69美元。然而，随着80美元定价趋势逐渐显现，行业可能迎来进一步涨价。玩家反应和购买意愿或将成为关键。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747193122_975968.png)
+
+---
+
+## 9. [国产单机游戏销量榜曝光：《黑神话》3000万份](https://www.3dmgame.com/news/202505/3919757.html)   2025-05-14 11:28
+
+据非官方统计，截至2025年4月，《黑神话：悟空》销量达3000万份，位居国产单机销量榜首。《鬼谷八荒》和《波西亚时光》分别位列第三和第四。《无限机兵》销量约为53.4万至60万份。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747193011_514676.jpg)
+
+---
+
+## 10. [EA Motive谈《战地》新作单人战役的创作灵感](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-14 11:17
+
+EA Motive透露，《战地》新作单人战役受到《母狮》等注重心理和角色刻画作品的启发。团队结合《死亡空间》重制经验，平衡紧张叙事与系列标志性高强度战斗，致力于打造引人入胜的单人体验。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/11-16-29-php7b8ZwW.png)
+# 新闻简报(更新时间:2025-05-14 15:45)
+
+## 1. [联想笔记本电脑一季度线上销量销额双第一 领先华为苹果](https://www.3dmgame.com/news/202505/3919755.html) 2025-05-14 11:12
+
+2025年第一季度，中国大陆笔记本电脑线上零售市场销量达251万台，同比上涨20.9%，销额达158亿元，同比上涨34.6%。联想系凭借丰富的产品矩阵和AIPC技术夺得销量和销额双榜榜首，远超华为、苹果等品牌。华硕系与机械革命分别占据第二和第四名，游戏本销量渗透率高达70%。华为OLED产品销量同比增长20倍，市占率接近50%。惠普销量同比下降24%，跌出销额榜前五。洛图科技预测第二季度市场将继续增长。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747192293_713480.png)
+
+---
+
+## 2. [前IW组开发者：《使命召唤》系列创意枯竭了！](https://www.3dmgame.com/news/202505/3919754.html) 2025-05-14 11:11
+
+前Infinity Ward开发者Chance Glasco在采访中表示，《使命召唤》系列的发展轨迹出现了创意枯竭的问题，“有点像《辛普森一家》，持续太久而缺乏新意”。他认为《使命召唤：现代战争2》是系列巅峰之作，但对回归制作游戏不感兴趣。他强调现代设定比二战题材更具吸引力，同时表达对《战区》的持续喜爱。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747192271_816615_jpg_r.jpg)
+
+---
+
+## 3. [《战地6》单人战役将革新叙事 以小人物视角书写史诗](https://www.3dmgame.com/news/202505/3919756.html) 2025-05-14 11:08
+
+EA旗下Motive工作室透露，《战地6》单人战役将通过小人物视角展现史诗叙事，灵感来自CIA行动剧集《特别行动：母狮》和电影《美国内战》。制作人强调将深入刻画个体苦难，突破系列以往的宏大战场叙事模式，同时保持硬核战斗体验。多人模式将融入叙事元素，进一步推动游戏的创新。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747192369_751725_png_r.webp)
+
+---
+
+## 4. [聲優小倉唯穿過的「廢棄衣物」遭非法轉賣155萬日圓，官方出動律師並報警](https://www.4gamers.com.tw/news/detail/71761/voice-actress-yui-ogura-used-clothes-illegally-sold-1-55-million-yen) 2025-05-14 11:02
+
+日本人氣聲優小倉唯近日被捲入非法轉賣事件，其外包處理的廢棄衣物遭第三方非法拍賣，售價高達155万日圆。官方已回收物品并采取法律行动，同时呼吁网民避免散布相关谣言或进行不负责任的臆测。官方表示将加强内部管理体制，以保障声优权益。
+
+![](https://img.4gamers.com.tw/puku-clone-version/eb76dee7dcee14ec963f0e4e2e4bb6cbe9b5d8e1.jpg)
+
+---
+
+## 5. [Volition曾想开发《博德之门》风格《哈利波特》RPG](https://www.3dmgame.com/news/202505/3919753.html) 2025-05-14 11:02
+
+Volition团队曾在2001年之前尝试开发一款基于《哈利波特》的RPG游戏，采用类似《博德之门》的俯视角设计。尽管制作了初步Demo，但项目最终搁浅。该游戏设想通过PS1画风展现哈利波特的魔法世界，遗憾未能面世，成为游戏开发史上的一段未解之谜。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747191721_227747_jpg_r.jpg)
+
+---
+
+## 6. [《Helldivers 2》：光能者正朝超級地球逼近，全新敵人類型降臨](https://blog.zh-hant.playstation.com/2025/05/14/20250514-helldivers2/) 2025-05-14 11:00
+
+《Helldivers 2》发布全新更新，介绍新的敌人类型，包括“魟舰”和“血肉暴徒”，对玩家构成更大威胁。新增武器自定义功能，允许玩家调整武器性能和外观。此外，新战斗外观图案即将上线，超級商店也将扩充军备，助力玩家迎战光能者的侵袭。
+
+![](https://live.staticflickr.com/65535/54507366342_1ca82333da_h.jpg)
+
+---
+
+## 7. [誤打誤撞走上職業，人氣繪師空罐王：過去累積的努力會成就自己](https://www.4gamers.com.tw/news/detail/67985/illustrator-cankingsketch-interview-with-erolabs-events) 2025-05-14 11:00
+
+人氣繪師空罐王分享其职业生涯经历，从未有明确目标到成为知名绘师。他强调兴趣与毅力的重要性，同时提到在日本工作的文化冲击对其技术和合作能力的提升。对于年轻绘师，他建议持续练习、学习新技术，并通过社群平台拓展影响力。
+
+![](https://thumbor.4gamers.com.tw/bijZs77PYcagptLdYAYpWMxgF0g=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fdcd87eb1fb922e4541f9e9ef769768939e4a648d.jpg)
+
+---
+
+## 8. [潔癖感度3000倍！不洗手就會死的烹飪模擬遊戲《Clean Freak! Perfect Cook!》將登Steam](https://www.4gamers.com.tw/news/detail/71759/mysophobia-perfection-cooking-indie-game) 2025-05-14 10:56
+
+日本开发者推出脑洞烹饪模拟游戏《Clean Freak! Perfect Cook!》，主角拥有洁癖感度3000倍，必须不断洗手以维持状态完成料理。游戏融合生存挑战与烹饪模拟元素，预计登陆Steam平台。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4bda0c59c132b813b3b767804e4fcf410cc05d8e.jpg)
+
+---
+
+## 9. [《雾锁王国》第六弹免费更新发布 黑夜探索新内容](https://www.3dmgame.com/news/202505/3919752.html) 2025-05-14 10:49
+
+《雾锁王国》发布第六弹免费更新“Thralls of Twilight”，新增夜间探索内容和强化道具“杰姆”。玩家可体验更危险的夜间敌人和独特设施，同时改善游戏平
+# 新闻简报(更新时间:2025-05-14 15:45)
+
+## 1. [任天堂NS2销量预测保守 或动态调整价格](https://www.3dmgame.com/news/202505/3919751.html)   2025-05-14 10:46
+
+任天堂在其最新财报中预测Switch 2首年销量为1500万台，相较分析师的乐观预测显得较为保守。任天堂社长古川俊太郎回应称，该目标参考初代Switch的初期销量节奏制定。此外，软件销量也有望突破前代同期纪录。然而，由于关税政策可能带来的利润损失和硬件利润率下降，未来或将评估价格调整机制。尽管Switch 2较高定价可能带来销售压力，任天堂已加大产能以应对市场需求波动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747190652_263544.png)
+
+---
+
+## 2. [PS5过热酿成EVO日本总决赛重大事故 比赛结果引争议](https://www.3dmgame.com/news/202505/3919750.html)   2025-05-14 10:38
+
+EVO日本2025《罪恶装备-奋战-》总决赛因PS5过热导致设备故障，引发选手技术问题和赛后争议。选手RedDitto在关键局中设备失灵，比赛用机PS5的散热系统稳定性备受质疑。部分玩家呼吁重新引入多平台比赛设备以提升赛事公平性。目前，EVO官方尚未对事件作出正式回应，但相关讨论仍在电竞社区持续升温。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747190284_597868.jpg)
+
+---
+
+## 3. [微软宣布裁员3%，包括游戏在内的所有部门或受波及](https://www.4gamers.com.tw/news/detail/71758/microsoft-announces-plans-to-lay-off-thousands-more-workers)   2025-05-14 10:37
+
+微软宣布裁员3%，预计影响约6840名员工，涉及所有部门与职位。此次裁员的原因是应对市场波动并优化组织结构。去年微软游戏部门曾裁员1900人，包括Xbox与Bethesda工作室。本次裁员的具体影响范围尚未公布，分析指微软试图通过改革在激烈市场中保持竞争优势。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0911f01b14210fdb520a73d9a52369f9d22e47bc.jpg)
+
+---
+
+## 4. [R星知情人士称《GTA6》延期“绝对有必要”，为保留酷炫内容](https://www.4gamers.com.tw/news/detail/71756/rockstar-insider-gta-6-delay-necessary)   2025-05-14 10:19
+
+《GTA6》延期至2026年，R星内部人士表示这是为确保游戏完整性和质量的必要举措。此前开发团队为赶工曾计划删除部分内容，但延期让团队得以保留“酷炫内容”。消息称R星内部环境已改善，减少了员工过度加班的情况。尽管粉丝对延期支持居多，但部分玩家担心游戏可能会进一步推迟。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3cd7ad7f47537733ca424b74c91230078fbcf848.jpg)
+
+---
+
+## 5. [《影之刃零》制作人：单机游戏开发者之间无需竞争](https://www.3dmgame.com/news/202505/3919748.html)   2025-05-14 10:13
+
+《影之刃零》制作人梁其伟在采访中表示，单机游戏领域存在“共赢效应”，一款成功的游戏能带动整个类型的关注度和销量。相比之下，多人游戏则面临“赢家通吃”困局。梁其伟认为，这一现象正在推动更多厂商转向单机游戏开发，以满足玩家需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747188652_359973_png_r.webp)
+
+---
+
+## 6. [被取消的银河战士《Harmony》游戏实机画面遭泄露](https://www.3dmgame.com/news/202505/3919747.html)   2025-05-14 10:08
+
+Retro Studios被取消的3D平台游戏《Harmony》实机画面近日曝光，但玩家对此评价两极分化。游戏以红发女英雄为主角，玩法核心为通过歌唱操控自然元素。尽管画面展示了创新玩法，但作品未达到Retro Studios一贯水准。与此同时，玩家更加期待工作室正在开发的《银河战士Prime4：超越》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747188436_527217_jpg_r.jpg) 
+
+--- 
