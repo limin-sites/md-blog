@@ -1217,3 +1217,327 @@ Retro Studios被取消的3D平台游戏《Harmony》实机画面近日曝光，�
 ![](https://img.3dmgame.com/uploads/images/news/20250514/1747188436_527217_jpg_r.jpg) 
 
 --- 
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [索尼财报：PS5销量达到7780万台 明年销量还会继续下滑](https://www.3dmgame.com/news/202505/3919786.html)   2025-05-14 20:29
+
+根据索尼2024财年Q4财报，PS5出货量现已达到7780万台，但季度出货量从2023财年的450万台下降至280万台。2024财年全年PS5销量也从前一年的2080万台下降至1850万台，反映出硬件销量进入周期末期的趋势。索尼预测2025财年PS5销量将进一步下滑，但通过第一方游戏《羊蹄山之魂》等销售增长，预计营业利润反而增加16%。此外，PS4和PS5软件销量从2.864亿增长至3.033亿，其中数字下载比例达76%。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747225621_980393_jpg_r.jpg)
+
+---
+
+## 2. [传《生化危机9》100%会在今年公布 2026年发售](https://www.3dmgame.com/news/202505/3919785.html)   2025-05-14 20:12
+
+据爆料人士Dusk Golem透露，《生化危机9》预计将在今年公布，并于2026年发售。Capcom可能会选择在夏季游戏祭或年底TGA发布新作。由于《GTA6》定档2026年5月，《生化危机9》可能会避开撞档，推迟至2026年下半年发售。此外，该系列此前曾因开发时间需求而内部延期，新作被称为系列最具野心的作品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747224652_653844_jpg_r.jpg)
+
+---
+
+## 3. [AMD和英特尔已开始新一代GPU开发工作](https://www.3dmgame.com/news/202505/3919784.html)   2025-05-14 19:40
+
+尽管现有GPU产品刚刚上市，AMD和英特尔已启动新一代显卡研发。据报道，英特尔的Xe4-HPG和AMD的UDNA架构进入早期开发阶段。AMD计划将消费者的RDNA架构与数据中心的CDNA架构统一为UDNA，并预计首款基于UDNA架构的GPU将在2026年第二季度量产，而索尼下一代PlayStation 6也将采用该架构。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747223896_464065.jpg)
+
+---
+
+## 4. [MADHOUSE製作《淡島百景》動畫2026年公開](https://www.4gamers.com.tw/news/detail/71776/awashima-hundred-views-animation-release-in-2026)   2025-05-14 18:29
+
+志村贵子漫画《淡岛百景》将改编成动画，于2026年公开，由MADHOUSE制作。本作聚焦淡岛歌剧学校中追逐梦想的少女们，描绘了她们复杂情感的青春群像剧。原作曾获日本文化厅媒体艺术祭漫画部门优秀赏，制作团队包括导演浅香守生，角色设计濱田邦彦等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/be197596ea1865aed05ff41b4b37f346ebca9c2b.jpg)
+
+---
+
+## 5. [2025年了！杀毒软件到底有没有必要安装](https://www.3dmgame.com/news/202505/3919782.html)   2025-05-14 18:07
+
+在2025年，安装第三方杀毒软件的必要性显著降低。现代操作系统如Windows 11配备了可靠的内置安全系统，但对于使用旧版系统或执行高风险操作的用户，第三方杀毒软件仍然有用。企业用户则建议继续使用专业的杀毒软件以确保安全。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747212806_584544.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [Fami通新作评分公布：《幻想生活i》36分进入白金殿堂](https://www.3dmgame.com/news/202505/3919783.html) 2025-05-14 18:05
+
+日本游戏杂志《Fami通》最新一期评分揭晓，《幻想生活i：转圈圈的龙与窃取时间的少女》以36分的高分进入白金殿堂。此外，《盟军敢死队：起源》获得30分评价。两款游戏分别展现了各自的特色与吸引力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747217259_731711_jpg_r.jpg)
+
+---
+
+## 2. [Square Enix宣布3年“重启”计划](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-14 18:03
+
+Square Enix公布为期三年的“重启”计划，专注于多平台开发，目标从数量转向质量，旨在优化游戏开发流程并提升用户体验。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/17-49-17-phpoVmMPT.jfif)
+
+---
+
+## 3. [《MiSide》与《心跳文学院》联合举办粉丝创作大赛](https://www.4gamers.com.tw/news/detail/71774/miside-and-doki-doki-literature-club-team-up-with-creative-contest) 2025-05-14 17:56
+
+心理恐怖游戏《MiSide》与《心跳文学院》联合推出粉丝创作大赛，邀请玩家以图片、动画、梗图和诗歌形式参与创作。奖品包括游戏序号及Discord Nitro订阅资格。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9339baaf2ed74d715c7f9a485e6db579cf8cddcf.jpg)
+
+---
+
+## 4. [《上古卷轴4》重制版登顶美日PS5下载榜](https://www.3dmgame.com/news/202505/3919781.html) 2025-05-14 17:52
+
+《上古卷轴4》重制版在美日PS5商店下载榜中超越了长期霸榜的《怪物猎人：荒野》，成为4月最受欢迎的游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747216266_288897.jpg)
+
+---
+
+## 5. [《博德之门3》配音演员盛赞拉瑞安工作室](https://www.3dmgame.com/news/202505/3919780.html) 2025-05-14 17:42
+
+《博德之门3》吉斯洋基战士莱埃泽尔的配音演员Devora Wilde称赞拉瑞安工作室停止开发DLC并转向新项目的决定“极其明智”，期待工作室未来的全新挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747215685_732267_jpg_r.jpg)
+
+---
+
+## 6. [环保游戏推动玩家行为改变](https://www.3dmgame.com/news/202505/3919779.html) 2025-05-14 17:24
+
+PlanetPlay与联合国开发计划署发布的报告显示，49%的玩家因参与环保主题游戏改变了生活习惯，展现了游戏在推动环境保护中的潜力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747214869_348281_png_r.webp)
+
+---
+
+## 7. [新版《灵异教师神眉》动画与漫画番外篇即将上线](https://www.4gamers.com.tw/news/detail/71773/jigoku-sensei-nube-new-comic-series) 2025-05-14 17:26
+
+经典漫画《灵异教师神眉》全新动画系列将于7月开播，同时推出短期连载漫画《灵异教师神眉 PLUS》，为粉丝带来更多惊喜。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a8dc09f214e756db8f2e62dbedd46f4d26740187.jpeg)
+
+---
+
+## 8. [技嘉AORUS MASTER 16笔电获COMPUTEX 2025奖项](https://www.4gamers.com.tw/news/detail/71769/gigabyte-ai-pc-aorus-master-16-computex) 2025-05-14 17:03
+
+技嘉全新旗舰笔电AORUS MASTER 16凭借其AI计算性能和沉浸式体验获得COMPUTEX 2025 Best Choice Award，展现其在AI PC领域的领先地位。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c2d9734de518d4745d7365a1ea69348575992465.png)
+
+---
+
+## 9. [Square Enix与TBS电视台合作开发新IP](https://www.4gamers.com.tw/news/detail/71772/square-enix-and-tbs-television-announce-collaboration-to-develop-original-ip-game) 2025-05-14 16:59
+
+Square Enix宣布与TBS电视台合作开发全新原创IP游戏，同时决定中止《王国之心》手手游开发，将资源集中于《王国之心4》。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1065044b3afcdf13209b3d164522f3c9b7630b51.webp)
+
+---
+
+## 10. [英伟达与联发科进军PC处理器领域](https://www.3dmgame.com/news/202505/3919778.html) 2025-05-14 16:54
+
+英伟达和联发科将在Computex展会上发布“N1”系列Arm芯片，预计将在2026年大规模出货，多家知名厂商已计划推出相关设备。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747212816_826169.png)
+
+---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [《地狱之刃》开发商新作疑曝光 模糊照片引社区热议](https://www.3dmgame.com/news/202505/3919777.html)  
+2025-05-14 16:36  
+
+在《地狱之刃2：塞娜的传说》推出后，开发商Ninja Theory似乎正在筹备全新项目。其官方Instagram发布了一张模糊屏幕照片，引发了社区的猜测。粉丝认为新作可能回归经典动作冒险风格，甚至有人预测是《DMC：鬼泣》的续作。传闻还指出该工作室可能将《地狱之刃2》移植至PS5平台，目前官方尚未证实相关消息。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747211847_175350.png)  
+
+---
+
+## 2. [Take-Two注册新商标 或为《GTA6》外新项目](https://www.3dmgame.com/news/202505/3919776.html)  
+2025-05-14 16:33  
+
+Take-Two互动在欧洲注册了“Small Axe”商标，覆盖领域包括电子游戏程序、周边商品及移动端应用。虽然具体项目未公开，但业内预测可能是全新开放世界IP。商标名称或暗示创新特质，类似去年泄露的《Project Ethos》。目前Take-Two对《GTA6》外的其他项目保持高度保密。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747211539_132388_jpg_r.jpg)  
+
+---
+
+## 3. [药丸屏时代终结！iPhone18 Pro屏幕迎来革命性巨变](https://www.3dmgame.com/news/202505/3919775.html)  
+2025-05-14 16:09  
+
+据市场调研机构透露，2026年推出的iPhone 18 Pro将配备屏下Face ID技术，告别药丸屏设计，进入单挖孔屏时代。苹果还计划调整产品发布节奏，一年两次更新。此外，iPhone 18系列可能分为秋季和春季两批发布。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747210069_853679_jpg_r.jpg)  
+
+---
+
+## 4. [TikTok推出生成式AI功能「AI Alive」，将静态图片转换短视频](https://www.4gamers.com.tw/news/detail/71770/ai-alive-bringing-your-photos-to-life-on-tiktok-stories)  
+2025-05-14 16:07  
+
+TikTok推出新功能「AI Alive」，可将静态图片生成短视频，附带动态效果和音效。用户上传图片并输入提示，即可生成视频并分享至限时动态。同时，生成的视频会标注“AI生成”以确保内容透明度。官方将对上传内容进行审核，确保符合平台政策。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/e63beac7d475690e4e40179686b6bb302780b296.png)  
+
+---
+
+## 5. [《特种部队》首款3A大作开发中 主角酷炫造型曝光](https://www.3dmgame.com/news/202505/3919774.html)  
+2025-05-14 16:04  
+
+孩之宝携手Atomic Arcade工作室开发的《特种部队》游戏近日曝光主角“蛇眼”的角色模型图。该模型展示了精致的盔甲、武士刀和步枪细节。游戏仍在开发中，具体发售日期尚未公布。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747209817_954871_jpg_r.jpg)  
+
+---
+
+## 6. [SE宣布与TBS电视台罕见合作 打造完全原创新IP游戏](https://www.3dmgame.com/news/202505/3919773.html)  
+2025-05-14 16:01  
+
+Square Enix与日本TBS电视台宣布合作，计划开发全新原创游戏IP。这是双方首次合作，将结合各自优势，共同推动游戏行业创新。据悉，TBS电视台去年成立游戏部门，而SE也强调未来将专注于原创IP的发展。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747209641_964758.png)  
+
+---
+
+## 7. [任天堂社长谈Switch2销量预估：价格是主要影响因素](https://www.4gamers.com.tw/news/detail/71764/nintendo-president-says-switch-2-price-a-key-factor-in-lower-than-expected-sales-projection)  
+2025-05-14 15:45  
+
+任天堂预测Switch2首年销量为1500万台，比分析师预期低。社长古川俊太郎表示，价格是影响初期销量的主要因素，并透露Switch2硬件研发始于2019年，定价综合考虑成本及市场接受度。此外，Switch2还将支持GameCube经典游戏及语音聊天功能。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/fbd6faccfe073d8d9cc101d0acde986651c1a10c.png)  
+
+---
+
+## 8. [《鬼武者2复刻版》新视频 介绍杂贺孙市和修罗模式等](https://www.3dmgame.com/news/202505/3919772.html)  
+2025-05-14 15:42  
+
+卡普空发布《鬼武者2：复刻版》新视频，展示新角色杂贺孙市及修罗模式。游戏新增解谜幻梦空间，玩家可通过谜题收集“美人图”。该作将于5月23日发售，登陆多个平台并支持简体中文。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747208220_684778_jpg_r.jpg)  
+
+---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [知名游戏慈善机构曝丑闻 创始人被控长期职场霸凌](https://www.3dmgame.com/news/202505/3919770.html)  
+2025-05-14 14:53
+
+知名游戏无障碍慈善机构AbleGamers的创始人Mark Barlet被指控在管理期间存在性别歧视、种族主义及滥用慈善资金等问题。尽管Barlet坚称指控为捏造，但外部调查已促使其离职。事件引发广泛关注，同时暴露了非营利组织内部的管理漏洞。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747205912_855532_png_r.webp)  
+
+---
+
+## 2. [粉丝心碎 《王国之心：Missing-Link》项目确认终止开发](https://www.3dmgame.com/news/202505/3919771.html)  
+2025-05-14 15:23
+
+史克威尔艾尼克斯宣布取消《王国之心：Missing-Link》的开发计划，原因是难以提供长期令人满意的服务体验。不过，系列正统续作《王国之心4》仍在积极开发中。这一消息让期待已久的粉丝感到失望。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747207137_210692_jpg_r.jpg)  
+
+---
+
+## 3. [重拳出击！动视正式起诉《使命召唤》外挂开发者](https://www.3dmgame.com/news/202505/3919768.html)  
+2025-05-14 14:37
+
+动视向法院起诉外挂开发者Ryan Rothholz及其分销网络，要求经济赔偿及禁令救济。动视表示，外挂严重破坏了玩家体验，威胁到《使命召唤》系列的核心竞争力。这是动视打击外挂的又一重要行动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747204510_547589.jpg)  
+
+---
+
+## 4. [2025 indiePlay中国独立游戏大赛报名开始！](https://www.3dmgame.com/news/202505/3919767.html)  
+2025-05-14 14:27
+
+2025 indiePlay中国独立游戏大赛报名正式开启，截止日期为7月18日。活动面向全球独立开发者，旨在通过多维度奖项激励创意与创新。11月22-23日将举办颁奖典礼及入围作品展示。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747203650_954520.png)  
+
+---
+
+## 5. [《光与影：33号远征队》超难小游受《FF10》启发](https://www.4gamers.com.tw/news/detail/71767/clair-obscur-expedition-33-gestral-final-fantasy-10)  
+2025-05-14 14:23
+
+《光与影：33号远征队》中的超难小游引发关注，其设计灵感来源于《最终幻想10》。游戏总监Guillaume Broche表示，这些挑战虽然刁钻，却充满开发者的“爱与恶趣味”，为玩家提供了独特的体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/38db3729aa015d4b9b86b23fd24e864aeab364bb.jpg)  
+
+---
+
+## 6. [《警区》多平台正式发售 沙盒世界打击犯罪模拟](https://www.3dmgame.com/news/202505/3919769.html)  
+2025-05-14 14:57
+
+Fallen Tree Games推出的沙盒犯罪模拟游戏《警区》正式登陆PC、PlayStation 5及Xbox Series X|S。本作以1983年的阿维诺市为背景，玩家在霓虹美学的城市中打击犯罪，揭开阴谋。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747205749_107458.png)  
+
+---
+
+## 7. [Famitsu评分揭晓：《幻想生活i》获高分评价](https://gonintendo.com/contents/48392-famitsu-review-scores-for-issue-1898)  
+2025-05-14 15:36
+
+《幻想生活i：转圈圈的龙和偷取时间的少女》获得Famitsu评分36/40。其丰富的冒险、制作及慢生活元素受到好评，但部分玩家可能对儿童向剧情有所保留。游戏通关时间约30-40小时。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/14-19-56-phpV9Leo3.jfif)  
+
+---
+# 新闻简报(更新时间:2025-05-14 20:45)
+
+## 1. [特摄经典新电影《牙狼：TAIGA》定档10月17日上映](https://www.3dmgame.com/news/202505/3919766.html)   2025-05-14 14:08
+
+日本特摄经典《牙狼》系列迎来新作《牙狼：TAIGA》，将于10月17日上映。本片聚焦主角冴島鋼牙父亲冴島大河年轻时的冒险故事，由小西遼生主演。导演雨宫庆太表示，这部电影将继承牙狼系列的精髓，致力于让这一经典IP焕发新生。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747202819_915109.png)
+
+---
+
+## 2. [《SAKAMOTO DAYS 坂本日常》第二季度7月中Netflix上线](https://www.4gamers.com.tw/news/detail/71762/sakamoto-days-animation-2nd-part)   2025-05-14 14:03
+
+改编自铃木祐斗漫画的动画《SAKAMOTO DAYS 坂本日常》第二季度将于7月14日登陆Netflix。本季度将展开更复杂的剧情，包括与“×”集团的战斗和特务部队“ORDER”之间的三方混战。此外，Kroi演唱的新主题曲也将亮相。
+
+![](https://img.4gamers.com.tw/puku-clone-version/43263b97d7a683878626c4fe00cf0db904c0e716.png)
+
+---
+
+## 3. [新《超级马里奥兄弟》动画电影定名《超级马里奥世界》](https://www.3dmgame.com/news/202505/3919765.html)   2025-05-14 14:03
+
+任天堂与照明娱乐联合制作的新动画电影正式定名为《超级马里奥世界》，计划于2026年4月3日在美国上映，日本地区则定档4月24日。本片将拓展马里奥世界的故事，继续以轻松有趣的风格吸引观众。
+
+![](https://img.3dmgame.com/uploads/images/news/20250514/1747202531_477503_jpg_r.jpg)
+
+---
+
+## 4. [黄毛绅士新作《NTR偶像-梦想的约束》确认无法上架Steam](https://www.4gamers.com.tw/news/detail/71768/ntr-idol-promise-of-dreams-pull-down-from-steam)   2025-05-14 13:59
+
+《NTR偶像-梦想的约束》因未通过Steam平台审核，发行商芒果派对表示将另寻其他发行途径。该3D NTR游戏以偶像培养为主题，融合探索与剧情互动，目前仍在积极调整中，年内或有进一步消息。
+
+![](https://img.4gamers.com.tw/puku-clone-version/31d29c208ffc28196a06e777d736212435cdb96b.jpg)
+
+---
+
+## 5. [捷元Genuine x Intel Core Ultra AI好礼送给你](https://www.4gamers.com.tw/news/detail/71757/genuine-intel-core-ultra)   2025-05-14 13:44
+
+捷元推出多款搭载Intel Core Ultra处理器的电脑，并提供客制化服务。活动期间购买指定产品可获赠价值1500元的“相片大师365”一年版。Intel Core Ultra的优异AI性能将助力用户开启创意旅程。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2db79a943dfcb5b57161bb2455c7f75c393842fd.png)
+
+---
+
+## 6. [《SD钢弹 G世代 永恒》庆祝400万下载送王牌驾驶员](https://www.4gamers.com.tw/news/detail/71766/sd-gundam-g-generation-eternal-4-millions-downloads)   2025-05-14 13:32
+
+手机游戏《SD钢弹 G世代 永恒》全球下载量突破400万，官方赠送《GQuuuuuuX》中的人气驾驶员“菅井诗子”。此外，玩家完成新手教程后还可领取3000钻石奖励。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7d3aaf4455818664fb45a154b2fbd867f0217f45.png)
+
+---
+
+## 7. [EA Motive探讨《战地》新作单人战役的灵感来源](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-14 11:33
+
+EA Motive团队分享了即将推出的《战地》新作单人战役的开发理念，灵感来自注重心理和角色刻画的作品，如剧集《母狮》和电影《内战》。团队希望在叙事与高强度战斗之间找到平衡，带给玩家耳目一新的体验。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/11-16-29-php7b8ZwW.png)
+
+---
+
+## 8. [世嘉发布真岛吾朗生日庆祝视频](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-14 10:33
+
+世嘉为庆祝《如龙》系列人气角色真岛吾朗的生日发布特别视频，并展示多张相关图片，吸引了大批粉丝的关注。
+
+![](https://static.willmao.com/feed_upload/2025-05-14/10-14-52-phpd1VHJy.jpg)
+
+---
