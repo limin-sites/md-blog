@@ -540,3 +540,164 @@ Meta 的 FAIR 团队与佐治亚理工学院联合推出了一款名为 CATransf
 ![](https://upload.chinaz.com/2025/0515/6388289379987842931913161.png) 
 
 ---
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [2026款零跑C10上市：以四大进阶重塑14万级家用SUV价值标杆](https://www.jiqizhixin.com/articles/2025-05-15-11)   2025-05-15 16:11
+
+零跑汽车推出2026款零跑C10，售价区间为12.28万-14.28万，提供纯电与增程两种动力选择，续航可达605km至1190km。新车搭载LEAP3.5技术架构，升级智能化功能，并提供多项终身免费质保与购车礼遇。零跑计划在全球市场扩展本地化制造，进一步推动销量增长。
+
+![](https://image.jiqizhixin.com/uploads/editor/a14e1678-e45c-4f1a-8f7f-319e04c5322c/1747307205509.png)
+
+---
+
+## 2. [DeepSeek-V3再发论文，低成本训练大模型的秘密揭开了](https://www.jiqizhixin.com/articles/2025-05-15-10)   2025-05-15 17:44
+
+DeepSeek发布关于V3模型的新技术论文，探讨硬件与模型设计的协同。论文阐述了FP8低精度计算、硬件驱动模型创新及未来硬件开发方向，展示了低成本高效训练大模型的可能性。这项研究为AI大模型的硬件适应性提供了重要启示。
+
+![](https://image.jiqizhixin.com/uploads/editor/f25ab462-3bd8-4bbb-9f54-ba7cba0b5311/640.png)
+
+---
+
+## 3. [淘宝天猫推出 AI 图生视频功能，商家制作视频效率大幅提升！](https://www.aibase.com/zh/news/18093)   2025-05-15 17:34
+
+淘宝天猫上线“图生视频”AI工具，商家只需上传商品图片即可生成短视频，每月可节省千元成本，制作周期缩短至10天内。同时推出“脚本成片”和“搭配视频”功能，提升商家内容制作效率，助力618大促活动。
+
+![](https://upload.chinaz.com/2025/0515/6388292725378740684880473.png)
+
+---
+
+## 4. [「边思考、边搜索、边写作」WebThinker开启AI搜索&研究新纪元！](https://www.jiqizhixin.com/articles/2025-05-15-9)   2025-05-15 17:23
+
+WebThinker深度研究智能体赋能大模型自主搜索、导航网页及撰写报告。其独特的“自主思考-搜索-写作”策略结合强化学习训练，大幅提升复杂推理与研究任务能力，在多个领域取得显著突破。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWibssf2sy58y26bgaWibGrnLjLHpdHsvHXMeKZlHicPTKLPMcKdKnTxDYoibXfk8vicSNJWsgoib3bGL8KQ/640?wx_fmt=png&from=appmsg)
+
+---
+
+## 5. [vivo发布 “蓝极星计划”，全球招募顶尖博士，薪资无上限](https://www.aibase.com/zh/news/18092)   2025-05-15 16:04
+
+vivo启动“蓝极星计划”，计划招募约100名高科技领域博士，涵盖人工智能、芯片设计等方向，提供丰富资源与薪资上不封顶待遇，旨在推动技术研发和创新，提升公司市场竞争力。
+
+![](https://pic.chinaz.com/picmap/201901021020456907_0.jpg)
+
+---
+
+## 6. [中国零售信贷智能风控市场报告：蚂蚁数科市场份额第一](https://www.jiqizhixin.com/articles/2025-05-15-8)   2025-05-15 15:55
+
+IDC报告显示，2024年中国零售信贷智能风控市场规模达65.41亿元，蚂蚁数科以15.7%的市场份额排名第一。其AI智能建模工具助力机构提升风控效率，推动行业数字化转型。
+
+![](https://image.jiqizhixin.com/uploads/editor/c3785ad1-42b2-4b84-b339-8e7fbe488eea/1747295602710.png)
+
+---
+
+## 7. [高考AI志愿规划师之争：靠谱AI指责优志愿虚假宣传](https://www.aibase.com/zh/news/18091)   2025-05-15 15:52
+
+靠谱AI指责优志愿在其大模型产品备案时间上涉嫌虚假宣传，并要求撤回不实表述。此事件表明AI志愿填报服务市场竞争激烈，用户需关注服务的真实性与可靠性。
+
+![](https://pic.chinaz.com/picmap/201908011133109898_1.jpg)
+
+---
+
+## 8. [​百度投资 2 亿在山东成立新 AI 科技公司，业务布局再升级](https://www.aibase.com/zh/news/18089)   2025-05-15 15:39
+
+百度宣布成立百度（山东）科技有限公司，注册资本2亿元，专注于人工智能应用开发及系统集成服务。此举标志百度在AI领域的持续深耕，也为山东科技发展提供新机遇。
+
+![](https://upload.chinaz.com/2025/0515/6388292031511755957257402.png)
+
+---
+
+## 9. [Meta开源分子数据集OMol25、原子通用模型UMA，加速分子、材料、神经科学进展](https://www.jiqizhixin.com/articles/2025-05-15-7)   2025-05-15 15:31
+
+Meta发布OMol25数据集及UMA模型，为分子、材料和神经科学研究提供高精度支持。研究还揭示了人类大脑语言学习与AI模型的相似性，推动跨学科合作与创新。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/XLCp9HBkwLlcOkGBHkY7jhYB8l6PGrbXwjAia9upaZ9uc87akEvKK9AscM1SheiaVL7G5c4ibr74eN76xBz3rNYicA/640?wx_fmt=jpeg)
+
+---
+
+## 10. [腾讯元宝浏览器插件尝鲜版上线Chrome](https://www.aibase.com/zh/news/18088)   2025-05-15 15:28
+
+腾讯元宝推出浏览器插件尝鲜版，支持Chrome用户便捷实现网页翻译、总结和收藏等功能，并随时通过侧边栏获取智能解答，提升网页浏览与信息处理效率。
+
+![](https://upload.chinaz.com/2025/0515/6388291968208250931649758.png)
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [Picsman](https://top.aibase.com/tool/picsman) 2025-05-15 15:16
+
+Picsman是一款专为电商和个人用户设计的AI驱动在线照片编辑工具，提供背景移除、对象去除、照片增强等功能。凭借简单易用的界面和强大的功能，它受到用户青睐，适合需要快速编辑图片的用户。Picsman采用免费试用的定价策略，方便用户体验其核心功能。
+
+![](https://pic.chinaz.com/ai/2025/05/15/25051503163758681762.jpg)
+
+---
+
+## 2. [腾讯宣布混元图像2.0将于5月16日全新发布](https://www.aibase.com/zh/news/18087) 2025-05-15 15:01
+
+腾讯混元大模型团队宣布，其新一代多模态图像生成工具“混元图像2.0”将于5月16日上午11时通过全球直播发布。此次升级旨在推动AI驱动的视觉生产迈向新阶段，强调“更智能、更开放、更中国”的理念，为创作者和企业用户提供更强大的支持。
+
+![](https://upload.chinaz.com/2025/0515/6388291802835779477655249.png)
+
+---
+
+## 3. [ghiblitattoo](https://top.aibase.com/tool/ghiblitattoo) 2025-05-15 15:00
+
+Ghibli Tattoo Generator是一款基于AI的纹身设计平台，用户可根据自己的想法生成吉卜力风格的独特纹身。其特点包括设计唯一性、多样性以及隐私保护。该平台提供多个定价方案，适合吉卜力电影爱好者及纹身艺术追求者。
+
+![](https://pic.chinaz.com/ai/2025/05/15/25051503003009305129.jpg)
+
+---
+
+## 4. [超越OpenAI、ElevenLabs，MiniMax新一代语音模型屠榜！人格化语音时代来了](https://www.jiqizhixin.com/articles/2025-05-15-6) 2025-05-15 14:43
+
+MiniMax推出新一代语音模型“Speech-02”，在国际权威语音评测榜单上击败OpenAI和ElevenLabs，显著提升语音克隆保真度、跨语言合成能力，并大幅降低成本。该模型实现零样本语音克隆，性能和效率均居行业顶尖，成为音频领域的重要破局者。
+
+![](https://image.jiqizhixin.com/uploads/editor/6a51549f-7068-4305-83c1-3d0cf9c4542c/640.png)
+
+---
+
+## 5. [AI将开展原创研究？OpenAI首席科学家称AI今年内或可近乎自主地产出成果](https://www.jiqizhixin.com/articles/2025-05-15-5) 2025-05-15 14:40
+
+OpenAI首席科学家Jakub Pachocki在采访中透露，AI可能会在今年内实现近乎自主的原创研究能力，特别是在软件工程和硬件设计领域。他预测未来AI将在各学科中发挥重大作用，并对通用人工智能的发展表示乐观。
+
+![](https://image.jiqizhixin.com/uploads/editor/bbecaf52-e843-437c-ac80-c736b3339f82/640.jpeg)
+
+---
+
+## 6. [比专家模型快35倍，浙大侯廷军开发Token-Mol 1.0：基于LLM的token化药物设计](https://www.jiqizhixin.com/articles/2025-05-15-4) 2025-05-15 14:38
+
+浙江大学侯廷军团队开发了Token-Mol 1.0模型，通过LLM实现药物设计的token化。该模型在分子构象生成、性质预测和药物生成任务上表现优异，性能比传统扩散模型快35倍，为药物研发带来突破性进展。
+
+![](https://image.jiqizhixin.com/uploads/editor/48
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [ICML 2025 | 大模型深度思考新范式：交替「推理-擦除」解决所有可计算问题](https://www.jiqizhixin.com/articles/2025-05-15-2)   2025-05-15 14:23
+
+研究团队提出了一种全新的深度思考范式PENCIL，结合「生成-擦除」机制，比传统CoT（长链思维链）更高效地解决复杂推理任务。该方法通过动态擦除不必要的中间结果，降低了上下文窗口限制，显著提高了计算效率和推理准确率。PENCIL已在高难度任务如NP-Complete问题中表现出色，并被证明能以最优空间和时间解决所有可计算问题。
+
+![](https://image.jiqizhixin.com/uploads/editor/f197f14d-1aa9-46a6-9ed1-3333ba78ffa0/640.png)
+
+---
+
+## 2. [Poe 报告：可灵大模型视频生成量约占30%份额 领先Runway](https://www.aibase.com/zh/news/18086)   2025-05-15 14:07
+
+快手旗下可灵2.0模型在文生视频领域迅速崛起，已占据30%市场份额，领先Runway和谷歌Veo2。自今年4月发布以来，该模型以高质量视频生成技术吸引了大量用户，全球用户突破2200万，累计生成1.68亿个视频。可灵的动态画面质量和语义响应能力继续保持全球领先。
+
+![](https://pic.chinaz.com/picmap/202311231137397139_4.jpg)
+
+---
+
+## 3. [谷歌AlphaEvolve发布！Gemini自进化AI破解数学难题，优化芯片与数据中心，训练速度飙升32.5%！](https://www.aibase.com/zh/news/18085)   2025-05-15 13:48
+
+谷歌DeepMind推出AlphaEvolve，结合Gemini大语言模型与进化算法，自动优化复杂算法，助力数据中心节能、芯片设计提效及AI训练加速。该系统在数学领域也有突破，发现新算法并解决经典难题。AlphaEvolve通过自进化技术标志着AI新纪元。
+
+![](https://upload.chinaz.com/2025/0515/6388291367025877248161854.png)
+
+---
+
+## 4. [Stability AI开源341M超轻量文字转语音模型，手机本地可跑，音频生成仅需8秒！](https://www.aibase.com/zh/news/18084)   2025-05-15 11:58
+
+Stability AI开源了一款341M参数的文字转语音模型，通过ARC后训练和乒乓采样技术，实现超快生成速度。在H100 GPU上，仅需75毫秒即可生成12秒音频；在普通手机上，7秒即可完成。该模型高效轻量，可大规模应用于创意音频生成场景。
+
+![](https://upload.chinaz.com/2025/0515/6388291554558970836324554.jpg)
+
+---
+
+## 5. [瑞士电信巨头 Swisscom 加盟国家人工智能研究所，推动生成式 AI 发展](https://www.aibase.com/zh/news/18083)   2025-05-15 11:
