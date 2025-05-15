@@ -1333,3 +1333,291 @@ KRAFTON针对新游《inZOI》的AI生成内容争议发表声明，强调所有
 
 ![](https://img.4gamers.com.tw/puku-clone-version/1f7e16093a9b8d84e460ec735dc9394e3731d035.jpg)  
 ---
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [Alienware Aurora 16X开启预约 国补价12499元](https://www.3dmgame.com/news/202505/3919848.html)  2025-05-15 19:40  
+
+数天前，Alienware推出全新16X游戏本，采用创新设计语言，首发配置包括英特尔酷睿Ultra 9 275HX、32GB内存和RTX 5060显卡，售价12499元。产品还配备先进Cryo-Chamber散热系统和高性能电竞屏幕，融合人体工学与科幻设计，为游戏玩家提供优质体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747309711_711356_jpg_r.jpg)
+
+---
+
+## 2. [《碧蓝航线》联动主题咖啡厅开幕！](https://www.4gamers.com.tw/news/detail/71808/more-fun-cafe-x-azurlane-2025-summer-repo)  2025-05-15 19:07  
+
+《碧蓝航线》联动咖啡厅今日开幕，玩家可在台北美好年代餐厅体验角色主题餐点并获赠随餐特典。活动期间还将贩售周边产品，消费满额有额外惊喜礼品，展现了游戏与线下活动的完美结合。
+
+![](https://thumbor.4gamers.com.tw/6fIwmEVl6sakbYxPFBtKgvoQAmE=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fb71906025ef957bbf89bbc6ff0a2bbc4fda44f89.jpg)
+
+---
+
+## 3. [鎧俠将于COMPUTEX 2025展示突破性存储技术](https://www.4gamers.com.tw/news/detail/71806/kioxia-computex-2025)  2025-05-15 18:51  
+
+COMPUTEX 2025将展示鎧俠创新存储解决方案，包括旗舰企业级SSD和高性能个人存储设备。其最新技术如光学接口SSD和第8代BiCS FLASH技术为AI和数据中心提供强大支持。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9653656ad59d2251cd17269c7dd4a1490688adc0.png)
+
+---
+
+## 4. [小高和刚原案动作RPG《TRIBE NINE》宣布停更](https://www.4gamers.com.tw/news/detail/71805/tribe-nine-service-will-end-on-november-27-for-ios-android-and-pc)  2025-05-15 18:37  
+
+《TRIBE NINE：战极死游》宣布即日起停止更新，并将于11月27日终止服务。该游戏上线不足三个月，由于运营困难未能满足玩家期待，官方表达歉意并停止相关付费项目销售。
+
+![](https://img.4gamers.com.tw/puku-clone-version/04c368224a9517381d628edb163812a3f85604d1.png)
+
+---
+
+## 5. [FANTHFUL推出《游戏王 怪兽之决斗》官方授权周边](https://www.3dmgame.com/news/202505/3919847.html)  2025-05-15 18:22  
+
+FANTHFUL推出《游戏王》主题周边，包括Q版毛绒挂件、亚克力立牌和主题桌垫等，结合经典角色与卡牌设计，现已开启预售，8月正式发售，还提供限量预售特典。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747304183_143568_jpg_r.jpg)
+
+---
+
+## 6. [KONAMI新公司专注街机游戏 开发负责人为DJ YOSHITAKA](https://www.4gamers.com.tw/news/detail/71803/konami-arcade-games)  2025-05-15 18:19  
+
+KONAMI成立新公司“KONAMI Arcade Games”，专注街机游戏开发，由音游作曲家DJ YOSHITAKA担任社长。此举旨在优化街机业务管理，推动音乐游戏和街机领域的进一步发展。
+
+![](https99/fsp-computex-2025-ai-news)  2025-05-15 18:18  
+
+全汉企业将在COMPUTEX 2025展示多领域创新电源方案，包括AI驱动的高效电源和绿色储能技术，与研华科技等合作伙伴共同推进智慧应用升级。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5c944dd800225f.png)
+
+---
+
+## 8. [FANTHFUL推出《血源诅咒》主题官方授权周边](https://www.3dmgame.com/news/202505/3919846.html)  2025-05-15 18:15  
+
+为庆祝《血源诅咒》发售10周年，FANTHFUL推出官方授权周边，包括黑色T恤、Q版毛绒挂件和热变色陶瓷杯等，展现游戏独特艺术风格，现已开启预售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747303909_416411_jpg_r.jpg)
+# 新闻简报 (更新时间: 2025-05-15 20:45)
+
+## 1. [300万奖池已就位 轻游梦工坊邀你零代码搭爆款](https://www.3dmgame.com/news/202505/3919845.html)   2025-05-15 18:10
+
+《轻游梦工坊》宣布开启全国游戏创作大赛，300万元总奖池刷新赛事记录。活动不限创作者背景，无需代码基础，配有丰富教程和资源库，助力参赛者创作。单项奖奖金最高达20万元，参赛作品需在8月31日前提交，10月将举行颁奖仪式。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747303801_861081_png_r.webp)
+
+---
+
+## 2. [Ubisoft宣布多款IP新作延期以打磨品质](https://www.4gamers.com.tw/news/detail/71802/ubisoft-has-delayed-its-significant-ips-to-improve-game-quality)   2025-05-15 18:06
+
+Ubisoft因《刺客教条暗影者》的成功经验，决定为多款新作延长开发周期，确保高质量。尽管财报显示营收下滑，公司计划未来几年推出《极地战嚎》新作、《纵横谍海》重制等大IP作品。此外，将与腾讯合作成立新子公司以推动旗下品牌发展。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3ee2a3a98c24d7e8adfe2f570ddca46239a569df.jpg)
+
+---
+
+## 3. [松延动力新一代女机器人面部表情逼真](https://www.3dmgame.com/news/202505/3919844.html)   2025-05-15 18:02
+
+松延动力推出新仿生人“小诺”，支持高度逼真的面部表情及多模态互动，具备32自由度灵活性。小诺可实现个性化定制，适应不同场景需求。公司还计划在双足机器人领域发力，其产品线已涵盖高动态运动及情感表达方向。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747300939_415591_jpg_r.jpg)
+
+---
+
+## 4. [科乐美宣布成立新公司 专注街机娱乐](https://www.3dmgame.com/news/202505/3919843.html)   2025-05-15 17:52
+
+科乐美宣布成立新公司“科乐美街机游戏”，将于10月1日正式启航。新公司由原“科乐美娱乐事业部”转并，聚焦街机娱乐领域。西村宜隆担任首任社长，他曾开发多款人气音乐游戏，未来将带领团队推出更多创新作品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747302704_106910_jpg_r.jpg)
+
+---
+
+## 5. [《战神》20周年票选：宙斯获封系列最强反派](https://www.3dmgame.com/news/202505/3919842.html)   2025-05-15 17:43
+
+为纪念《战神》系列20周年，玩家票选出最强反派，宙斯以82.6%支持率战胜奥丁，夺得桂冠。活动吸引超25万玩家参与投票，同时系列还举办了艺术特展和开发者座谈会，揭秘系列制作背后的故事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747302151_763331_jpg_r.jpg)
+
+---
+
+## 6. [苹果20周年iPhone外观曝光 将引入四边弯曲设计](https://www.3dmgame.com/news/202505/3919841.html)   2025-05-15 16:59
+
+苹果计划在2027年推出全新设计的iPhone，采用“四边弯曲”显示技术，实现无边框外观。这将是iPhone X以来最大设计变革，配备16nm制程显示驱动芯片，进一步提升屏幕效果及能效。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747299486_716369.png)
+
+---
+
+## 7. [KK对战平台新图推荐：次元觉醒与无限玩法](https://www.3dmgame.com/news/202505/3919840.html)   2025-05-15 16:50
+
+KK对战平台推出三张人气新图：《終の空》融合二次元与策略玩法，《刷不完的怪》带来塔防与进化乐趣，《三生视界2》实现肉鸽生存与成长策略双结合。多样化地图满足玩家不同需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747299006_199119.png)
+
+---
+
+## 8. [《绝地潜兵2》CEO喊话EA 希望联动《死亡空间》](https://www.3dmgame.com/news/202505/3919839.html)   2025-05-15 16:44
+
+Arrowhead工作室CEO表示希望与EA合作推出《死亡空间》主题联动内容，包括经典工程装甲及武器等。同时透露对《战锤40K》联动也有浓厚兴趣，或将为玩家带来更多惊喜。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747298591_872103_jpg_r.jpg)
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [RTX 5090移动版是笑话：4K仅比4090快3%，1080p/1440p原地踏步](https://www.3dmgame.com/news/202505/3919838.html)   2025-05-15 16:38
+
+知名博主Jarrod’s Tech测试发现，尽管RTX 5090移动版在硬件规格上有所提升，但在实际游戏性能上，与上一代RTX 4090的差异极小。在测试的25款游戏中，RTX 5090在4K分辨率下仅比RTX 4090快3%，而在1080p和1440p分辨率下甚至原地踏步。 
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747298253_810304.jpg)
+
+---
+
+## 2. [Steam基地建設《Darfall》首周极度好评，《魔兽争霸3》英雄结合《亿万僵尸》生存策略](https://www.4gamers.com.tw/news/detail/71798/steam-darfall-is-warcraft-3-meets-they-are-billions)   2025-05-15 16:35
+
+斯洛伐克独立游戏团队SquareNite开发的生存策略游戏《Darfall》融合了基地建设与即时战略玩法，首周收获极度好评。游戏设定在一个魔族与不死族横行的世界，玩家将率领幸存者重建家园并抵御怪物袭击。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2f5d8dd6b039be8514a6b3268fc6e1d637660cb5.jpg)
+
+---
+
+## 3. [2025东京电玩展主视觉公布：玩不尽的无限游乐场](https://www.4gamers.com.tw/news/detail/71801/tokyo-game-show-2025-main-visual-unveiled-)   2025-05-15 16:29
+
+东京电玩展主办方公布了2025年的主视觉图及新Logo。今年展会将以“无限游乐场”为主题，由插画师ざしきわらし创作。展会将于9月25日至28日在千叶幕张展览馆举行。
+
+![](https://img.4gamers.com.tw/puku-clone-version/eedb8f721d0020f81ea14dc5e59ca712ffedcc34.jpg)
+
+---
+
+## 4. [华硕将推白色系RTX 50显卡、电供系列，ROG、TUF Gaming、ASUS全都有份](https://www.4gamers.com.tw/news/detail/71800/asus-launches-white-color-for-all-gaming-brands)   2025-05-15 16:27
+
+华硕宣布将在RTX 50系列显卡中推出白色版本，包括ROG Astral、TUF Gaming BTF和ASUS Prime系列。此外，还将推出配套的白色电源供用户打造统一风格的主机。
+
+![](https://img.4gamers.com.tw/puku-clone-version/6a9e058fcfb1989902c3cbbd71aa5115b60244e4.webp)
+
+---
+
+## 5. [任天堂社长承认：Switch2定价高导致预期销量偏低](https://www.3dmgame.com/news/202505/3919836.html)   2025-05-15 16:16
+
+任天堂社长古川俊太郎表示，Switch2的定价较高，可能影响早期普及度。尽管如此，公司将通过软硬件捆绑销售等措施力争达到1500万台的销量目标，并提升产能以应对需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747296010_304988_jpg_r.jpg)
+
+---
+
+##[](https://img.3dmgame.com/uploads/images/news/2025057296732_212685_jpg_r.jpg)
+
+---
+
+## 7. [LOL大魔王Faker忙代言，成韩国八道即食面形象大使](https://www.3dmgame.com/news/202505/3919835.html)   2025-05-15 15:59
+
+《英雄联盟》职业选手Faker成为韩国八道即食面形象大使。这位电竞界传奇人物以其卓越的比赛成绩和影响力广受认可，此次代言展现了他对速食面的喜爱。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747295907_605727.png)
+
+---
+
+## 8. [索泰或将在台北电脑展发布“进阶版Zone掌机”](https://www.3dmgame.com/news/202505/3919834.html)   2025-05-15 15:46
+
+据报道，索泰将在台北电脑展上发布运行Manjaro Linux系统的新款Zone掌机。该产品将搭载AMD锐龙AI 9 HX 370 APU，并可能为掌机生态带来新的可能性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747295142_208155.jpg)
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [《毁灭战士4》废案曝光 艺术家泄露早期地狱都市设定](https://www.3dmgame.com/news/202505/3919833.html)  
+2025-05-15 15:35
+
+《毁灭战士4: Hell on Earth》的早期设定图曝光，艺术家Thao Le展示了运用idTech 5引擎打造的地狱都市设定，以及现代化重构的《雷神之锤》场景。这些截图揭示了项目中宏大的动态环境设计与主题核心：废弃与毁灭的城市风貌。尽管项目因缺乏系列传统特质而被取消，这些曝光的设计仍让玩家一窥游戏发展的独特轨迹。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747294643_973226_jpg_r.jpg)
+
+---
+
+## 2. [SE公布三年重组计划 聚焦游戏开发与业务增长转型](https://www.3dmgame.com/news/202505/3919832.html)  
+2025-05-15 14:52
+
+SE公司宣布三年内将重塑开发体系，设立AI研发部门并统一管理未来游戏项目。通过优化资源配置与全平台发行策略，公司计划弥补《最终幻想16》等大作未达预期的市场表现。重组还将强化经典IP重制，探索多元化增长机遇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747291998_379662_png_r.webp)
+
+---
+
+## 3. [《罪恶装备》开发商亚克系统宣布被黑数据泄露 具体还在调查](https://www.3dmgame.com/news/202505/3919831.html)  
+2025-05-15 14:47
+
+亚克系统宣布公司服务器遭非法入侵，导致部分数据泄露，但未发现涉及玩家个人信息的风险。公司承诺将彻底调查事件，同时加强数据安全管理，并呼吁外界勿使用疑似泄露数据。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747291635_322972.png)
+
+---
+
+## 4. [东京电玩展2025主视觉图正式公开 主题“玩无止境”](https://www.3dmgame.com/news/202505/3919830.html)  
+2025-05-15 14:42
+
+东京电玩展2025以“玩无止境的游乐场”为主题，公布了由插画师座敷わらし创作的主视觉图，同时启用全新标志。展会将于9月25日至28日在千叶幕张展览馆举行，并新增拍照打卡点与礼品企划。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747291254_847691.jpg)
+
+---
+
+## 5. [《超人》7月9日IMAX台灣同步上映，新預告超人升空痛扁怪獸](https://www.4gamers.com.tw/news/detail/71796/superman-movie-release-in-2025)  
+2025-05-15 14:38
+
+詹姆斯冈恩执导的全新《超人》电影将于7月9日上映，新预告中曝光了超人与露薏丝的甜蜜互动以及对抗巨型怪兽的激烈场景。本作展现了“最亲民”的超人形象，粉丝直呼期待。
+
+![](https://img.4gamers.com.tw/puku-clone-version/df615be3d09b7ed67a1ac2f9c1386c62d1700683.jpg)
+
+---
+
+## 6. [接肢合作射击《SWAPMEAT》Steam测试5/16开跑](https://www.4gamers.com.tw/news/detail/71788/roguelite-tps-swapmeat-steam-playtest-released)  
+2025-05-15 14:13
+
+Roguelite射击新作《SWAPMEAT》将于5月16日开展封闭测试。玩家可通过“换肉系统”与外星敌人交换身体部位来获取特殊能力。本作支持单人及四人合作模式，探索独特的玩法体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b3fb12f6eee6b9b2e0e5c3a2359a8472561030b7.jpg)
+
+---
+
+## 7. [Switch2底座模式不支持VRR 开发者文档证实硬件限制](https://www.3dmgame.com/news/202505/3919828.html)  
+2025-05-15 14:06
+
+Switch2在底座模式下无法支持可变刷新率（VRR），原因可能是HDMI接口限制及带宽不足。这一限制可能影响游戏帧率优化，任天堂或需推出新版底座或通过软件优化弥补不足。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288968_567220_jpg_r.jpg)
+
+---
+
+## 8. [小岛秀夫将前往悉尼电影节 对谈导演乔治·米勒](https://www.3dmgame.com/news/202505/3919829.html)  
+2025-05-15 14:02
+
+小岛秀夫将与乔治·米勒在悉尼电影节展开全球独家对谈，探讨电影与电子游戏的创意融合。这场活动将在《死亡搁浅2》发布前夕举行，门票已开放销售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747289028_374476_jpg_r.jpg) 
+
+---
+# 新闻简报(更新时间:2025-05-15 20:45)
+
+## 1. [世嘉宣布将在罗布乐思打造《如龙》VR空间游戏](https://www.3dmgame.com/news/202505/3919827.html)   2025-05-15 14:00
+世嘉宣布与GeekOut合作，在罗布乐思平台推出《如龙》VR空间游戏，旨在向全球玩家传递《如龙》系列的独特魅力。官方表示，该系列自2005年推出以来，凭借正义与痞气的角色设定，吸引了众多玩家。此次合作预计将进一步扩大玩家群体。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288761_328217.png)
+
+---
+
+## 2. [育碧推迟多款重点游戏以确保质量](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-15 13:58
+育碧宣布推迟《刺客信条：影》等多款重点游戏的发布，以争取更多开发时间，确保游戏品质。受影响的游戏包括《孤岛惊魂》等五大品牌。公司预计将在2026-27财年和2027-28财年推出多款重量级内容。
+
+![](https://static.willmao.com/feed_upload/2025-05-15/13-57-52-phpkQh2go.webp)
+
+---
+
+## 3. [Steam独立游戏《剥皮人》将转付费维持运营](https://www.4gamers.com.tw/news/detail/71794/last-chance-to-get-the-flayed-man-for-free-at-steam)   2025-05-15 13:58
+英国独立团队Snoring Dog Games开发的像素冒险游戏《剥皮人》宣布将于5月17日转为付费，以支撑工作室运营。开发者透露尽管游戏好评不断，但经济回报有限，转付费是为确保游戏存续的必要之举。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f4677c5631db0708504095ce455d2dd72132e591.jpg)
+
+---
+
+## 4. [Steam拉面店模拟游戏《Ramen Shop Simulator》推出试玩版](https://www.4gamers.com.tw/news/detail/71793/ramen-shop-simulator-demo-looks-cozy)   2025-05-15 13:58
+由瑞典团队开发的《Ramen Shop Simulator》在Steam上线试玩版，玩家可体验经营深夜拉面店的乐趣。游戏以细腻的日式街角氛围为特色，允许玩家自由装饰店铺，打造自己的理想拉面店。
+
+![](https://img.4gamers.com.tw/puku-clone-version/38593723ce49c422a8ec2e3076b4ada9233a9e18.jpg)
+
+---
+
+## 5. [KK对战平台推出520活动，地图商品低至7折](https://www.3dmgame.com/news/202505/3919826.html)   2025-05-15 18:10
+KK官方对战平台举办520主题活动，玩家可享受地图商品7折优惠，还有多重消费奖励活动。活动将持续至5月21日，为玩家带来多样福利。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288370_
