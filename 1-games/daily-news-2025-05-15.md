@@ -1060,3 +1060,276 @@ EA与漫威联合推出的新《钢铁侠》游戏由蒙特利尔的Motive Studi
 ![](https://img.3dmgame.com/uploads/images/news/20250317/1742171797_466513_jpg_r.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-15 15:45)
+
+## 1. [《任天堂明星大乱斗》非官方交友App刚要公测即遭勒停，任天堂出手了](https://www.4gamers.com.tw/news/detail/71795/dating-app-for-smash-players-claims-nintendo-sent-cease)   2025-05-15 14:32
+
+一款名为《Smash Together》的非官方交友应用，旨在为《任天堂明星大乱斗》玩家提供交友平台，原定于5月15日公测，却在5月14日收到停止通知（疑似任天堂发函）。该应用将玩家游戏兴趣与现实恋爱需求结合，允许展示游戏数据并提供聊天功能。然而，由于未获授权且交友软件的争议性，特别是海外相关社群曾爆发多起性丑闻，任天堂采取了强硬态度。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a1589e214c9e34d503e13c41ed64c1d83c55ce35.jpg)
+
+---
+
+## 2. [接肢合作射击《SWAPMEAT》Steam测试5/16开跑，装上外星敌人身体部位获得特殊能力](https://www.4gamers.com.tw/news/detail/71788/roguelite-tps-swapmeat-steam-playtest-released)   2025-05-15 14:13
+
+由美国独立工作室One More Game开发的多人合作Roguelite射击新作《SWAPMEAT》宣布将于5月16日开启封闭测试。玩家可通过掠夺外星敌人的身体部位来获得特殊能力，游戏支持单人及四人合作模式。本次测试增加了新星系、Boss、生态群落及战斗系统改进等内容。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b3fb12f6eee6b9b2e0e5c3a2359a8472561030b7.jpg)
+
+---
+
+## 3. [Switch2底座模式不支持VRR 开发者文档证实硬件限制](https://www.3dmgame.com/news/202505/3919828.html)   2025-05-15 14:06
+
+尽管Switch2掌机模式支持可变刷新率(VRR)，但开发者文档显示其底座模式并不支持该功能。原因可能是使用了过时HDMI接口或带宽限制，这可能迫使开发者在底座模式下选择传统的30fps或60fps方案。未来任天堂或需推出新版底座以解决该问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288968_567220_jpg_r.jpg)
+
+---
+
+## 4. [小岛秀夫将前往悉尼电影节 对谈导演乔治·米勒](https://www.3dmgame.com/news/202505/3919829.html)   2025-05-15 14:02
+
+小岛秀夫与《疯狂的麦克斯》导演乔治·米勒将于悉尼电影节展开全球独家对谈，探讨电影与电子游戏之间的创意融合。该活动为《死亡搁浅2》发布前的重要宣传之一，将于6月14日在悉尼市政厅举行。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747289028_374476_jpg_r.jpg)
+
+---
+
+## 5. [世嘉宣布将在罗布乐思打造《如龙》VR空间游戏](https://www.3dmgame.com/news/202505/3919827.html)   2025-05-15 14:00
+
+世嘉与GeekOut合作，在罗布乐思平台上打造《如龙》VR空间游戏。该计划旨在将《如龙》系列的精彩世界带给更多玩家，目前更多详情尚待公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288761_328217.png)
+
+---
+
+## 6. [Steam像素黑暗冒险《剥皮人》将转付费，延续工作室命脉至少到7月](https://www.4gamers.com.tw/news/detail/71794/last-chance-to-get-the-flayed-man-for-free-at-steam)   2025-05-15 13:58
+
+英国独立团队Snoring Dog Games开发的《剥皮人》宣布将于5月17日转为付费模式。开发者表示，当前免费模式无法维持工作室运营，付费模式成为唯一可行选择，以确保游戏能继续存续并支持新作开发。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f4677c5631db0708504095ce455d2dd72132e591.jpg)
+
+---
+
+## 7. [Steam拉面屋模拟《Ramen Shop Simulator》Demo释出，一人独自经营的深夜拉面食堂](https://www.4gamers.com.tw/news/detail/71793/ramen-shop-simulator-demo-looks-cozy)   2025-05-15 13:58
+
+日本街巷风格的拉面店经营游戏《Ramen Shop Simulator》推出了免费Demo版。玩家可在游戏中体验独自经营深夜拉面店的乐趣，装饰店铺并烹饪各种拉面，游戏氛围与画风深受好评。
+
+![](https://img.4gamers.com.tw/puku-clone-version/38593723ce49c422a8ec2e3076b4ada9233a9e18.jpg)
+
+---
+
+## 8. [KK官方对战平台520甜蜜献礼，地图商品钜惠低至7折起！](https://www.3dmgame.com/news/202505/3919826.html)   2025-05-15 13:53
+
+KK官方对战平台推出520主题活动，包括U币消费奖励与地图商品折扣最低至7折。活动时间为5月14日至5月21日，玩家可通过平台享受多重优惠。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747288370_473729.png)
+
+---
+
+## 9. [男邦声优小笠原仁、秋谷启斗&《碧蓝航线》声优藤本彩花、吉冈麻耶来台举办见面会](https://www.4gamers.com.tw/news/detail/71785/early-wing-2025-meeting-in-taipei)   2025-05-15 13:39
+
+日本声优事务所EARLY WING将于6月28日至29日在台北举办粉丝见面会，包括小笠原仁、秋谷启斗、藤本彩花及吉冈麻耶四位声优将与粉丝互动，并进行现场演唱。
+
+![](https://img.4gamers.com.tw/puku-clone-version/9699565740d76f8529334529dcd00467d18412a7.jpg)
+# 新闻简报 (更新时间: 2025-05-15 15:45)
+
+## 1. [Nexon 2025Q1营收超预期 DNF手游带动主力IP增长](https://www.3dmgame.com/news/202505/3919825.html)   2025-05-15 13:35
+
+韩国游戏巨头Nexon公布2025年第一季度财报，旗下三大IP《地下城与勇士》《冒险岛》和《FC ONLINE》表现亮眼。《地下城与勇士》IP收入同比增长60%，主要受《DNF手游》在中国市场的强劲表现推动，同时《第一狂战士：卡赞》的全球发行也取得成功。第一季度Nexon收入达1139亿日元，同比增长5%。虽然净利润下降，但公司总裁李政宪强调Nexon的抗风险能力和增长潜力，包括与腾讯的合作进展及未来新作计划。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747287541_601851_png_r.webp)
+
+---
+
+## 2. [公布最新财报和三年重启计划后，SE股价暴涨](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-15 13:33
+
+SE公司近日公布最新财报以及三年重启计划，引发市场高度关注，其股价当天迎来显著上涨。
+
+![](https://static.willmao.com/feed_upload/2025-05-15/13-27-16-phpRAtgIq.png)
+
+---
+
+## 3. [TIEBREAK+ - Ace Edition courts Switch owners today](https://gonintendo.com/contents/48440-tiebreak-ace-edition-courts-switch-owners-today)   2025-05-15 13:11
+
+Switch平台迎来新作《TIEBREAK+ - Ace Edition》，游戏以网球主题为核心，为玩家提供丰富的竞技体验。
+
+---
+
+## 4. [EA宣布永久结束远程工作政策](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-15 10:33
+
+EA宣布将逐步结束远程工作政策，全面实施每周至少三天办公室工作的制度。CEO安德鲁·威尔逊强调面对面的工作有助于激发创造力和创新。然而，部分员工对此政策调整表示担忧，包括通勤时间增加、育儿问题及健康状况受到影响。
+
+![](https://static.willmao.com/feed_upload/2025-05-15/09-38-52-php4tfBnv.png)
+
+---
+# 新闻简报 (更新时间: 2025-05-15 15:45)
+
+## 1. [腾讯：已经囤了很多GPU 足够训练未来几代模型](https://www.3dmgame.com/news/202505/3919824.html)   2025-05-15 11:56
+
+腾讯在其2025年第一季度财报中披露，基于对AI领域的大力投入，本季度资本开支同比增长91%，达到274.8亿元。公司购置了大量GPU，资本支出高达107亿美元，占同期收入的12%。腾讯高管表示，目前持有的高端芯片足够支持未来几代AI模型训练，并计划深度整合AI与游戏业务。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747281186_194988.jpg)
+
+---
+
+## 2. [初音未來世界巡迴10週年聯名FANFANS CAFÉ期間限定登場](https://www.4gamers.com.tw/news/detail/71789/fanfans-cafe-hatsune-miku-expo-10th-anniversary)   2025-05-15 12:17
+
+FANFANS CAFÉ 推出初音未来世界巡回10周年主题联名咖啡厅，活动将在台北、西门、台中和高雄等地举行，粉丝可体验独特的次世代感空间与特别设计的原创餐点。同时，活动还提供限定周边商品和收藏礼品，吸引众多初音爱好者参与。
+
+![](https://thumbor.4gamers.com.tw/4T9Xn2SilhxuwT9fA3FiokcP0S8=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F3359a5af083e3e37560bb8435ca45e1f3ad64857.jpg)
+
+---
+
+## 3. [小島秀夫再臨台灣，宣布7月6日來台宣傳《死亡擱淺2》](https://www.4gamers.com.tw/news/detail/71790/hideo-kojima-will-come-to-taiwan-in-july-to-promote-death-stranding-2)   2025-05-15 12:29
+
+知名游戏制作人小岛秀夫宣布将开展《死亡搁浅2：冥滩之上》全球巡回活动，其中包含台北站，时间定于7月6日。此次续作中，玩家将与主角山姆共同踏上新的冒险旅程，探索人类的生存与未来。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8e106bc75d0e1e5b461124360a20b2ccd9d7611b.jpg)
+
+---
+
+## 4. [純黑鏡面玻璃、超扁平底座，華碩ROG推兩款32吋WOLED螢幕](https://www.4gamers.com.tw/news/detail/71792/rog-launches-two-new-32inches-woled-monitor)   2025-05-15 12:47
+
+华硕在COMPUTEX 2025上发布两款32英寸WOLED显示器，分别支持4K 240Hz和1080P 480Hz刷新率。新款显示器采用全新设计的超扁平底座和高透光性镜面玻璃，提供更深邃的暗部表现和锐利的画质。
+
+![](https://img.4gamers.com.tw/puku-clone-version/174a9b9cc9f61edd211611b9ba7354db3bf97194.jpg)
+
+---
+
+## 5. [警匪動作沙盒《The Precinct》首發Steam極度好評，新人警察血戰街頭為父報仇](https://www.4gamers.com.tw/news/detail/71791/the-precinct-police-action-sandbox-game-steam-overwhelmingly-positive-upon-release)   2025-05-15 12:54
+
+由Kwalee发行的《The Precinct》警匪动作沙盒游戏上线首日即获Steam高度好评。游戏背景设定在虚构的1980年代美国城市，玩家将扮演一名新晋警官，为追查父亲遇害真相，与地下势力展开激烈对抗。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1762890f7ef909df3538f2fcab14ef437adbea18.png)
+
+---
+
+## 6. [Arcade Archives: Nebulasray launches on Switch today](https://gonintendo.com/contents/48434-arcade-archives-nebulasray-launches-on-switch-today)   2025-05-15 12:59
+
+经典街机游戏《Nebulasray》现已在Switch平台上线，玩家可以重温这款经典射击游戏带来的怀旧体验。
+
+--- 
+
+## 7. [Take a peak inside Nintendo SAN FRANCISCO for its opening day](https://gonintendo.com/contents/48432-take-a-peak-inside-nintendo-san-francisco-for-its-opening-day)   2025-05-15 12:48
+
+任天堂旧金山店今日开业，吸引众多粉丝前来参观。店内展示了丰富的任天堂产品及互动体验。
+
+--- 
+
+## 8. [Beyblade X: EVOBATTLE announced for Switch](https://gonintendo.com/contents/48431-beyblade-x-evobattle-announced-for-switch)   2025-05-15 12:39
+
+Switch平台新作《Beyblade X: EVOBATTLE》正式公布，玩家可期待全新的战斗体验。
+# 新闻简报(更新时间:2025-05-15 11:55)
+
+## 1. [售价24美元的U盘矿机，助力每一个挖比特币的梦想](https://www.yystv.cn/p/12852)   2025-05-15 11:55
+
+一种名为“Lucky Miner USB stick”的迷你挖矿设备引发关注，其售价仅24美元，集储存与挖矿功能于一体。然而，该设备算力极低，挖到比特币的概率仅为210.7万亿分之一。尽管如此，它凭借独特的设计吸引了极客群体，并成为办公桌上的炫酷摆件。去年，一位矿工通过类似设备竟然成功挖到价值20.6万美元的比特币，进一步引发了人们的兴趣。
+
+![](https://alioss.yystv.cn/doc/12852/33a430bdd2567eae3275163ccea7c60e.appmsg_mw680water)
+
+---
+
+## 2. [20小时全成就通关，DOOM新作真成“无脑爽游”了？](https://www.yystv.cn/p/12851)   2025-05-15 11:55
+
+《毁灭战士：黑暗时代》正式版发布，难度降低使得玩家能够轻松完成20小时的主线任务。新作引入防守反击机制，加强战斗爽感，同时减少繁琐操作。尽管游戏时间较短，玩家仍给予高度评价，期待未来推出更多额外内容。
+
+![](https://alioss.yystv.cn/doc/12851/c57f608808d79415012a8cb5a2730077.appmsg_mw680water)
+
+---
+
+## 3. [《忍者龙剑传4》新实机演示 激情挑战让人热血沸腾](https://www.3dmgame.com/news/202505/3919823.html)   2025-05-15 11:50
+
+Team NINJA发布《忍者龙剑传4》实机演示，展示了新主角八云的“血鸦形态”技能。此外，隼龙也作为可玩角色登场，为剧情增添更多内容。游戏将于2025年秋季发售，支持PS5、XSX|S及PC平台首发。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747280887_810810_jpg_r.jpg)
+
+---
+
+## 4. [吉卜力名作《萤火虫之墓》首次登陆Netflix 今后还将有更多](https://www.3dmgame.com/news/202505/3919822.html)   2025-05-15 11:46
+
+吉卜力工作室经典电影《萤火虫之墓》成功登陆Netflix日本地区。该影片讲述了兄妹在战争中的艰难求生故事。未来Netflix将引入更多吉卜力作品，为观众提供丰富内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747280777_249557.png)
+
+---
+
+## 5. [缺席玩家的数字救星？日本软银申请AI跑团替身专利](https://www.3dmgame.com/news/202505/3919821.html)   2025-05-15 11:43
+
+软银提交了一项AI专利，旨在解决桌游玩家缺席问题。通过角色学习、会话分析及反应生成，该技术可模拟玩家行为，提供真实互动体验。然而，是否能满足桌游的核心价值仍有待验证。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747280413_762535.jpg)
+
+---
+
+## 6. [治愈海岛种田《星砂岛物语》新PV发布 骑乘系统展示](https://www.3dmgame.com/news/202505/3919820.html)   2025-05-15 11:25
+
+《星砂岛物语》发布最新预告片，展示动物骑乘系统及比赛玩法。玩家可体验骑猪、绵羊等的乐趣。游戏预计于今年冬季在多平台上线，提供自由DIY及种田生活。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747279254_977829.jpg)
+
+---
+
+## 7. [关税战冲击下的“牌佬”，到底能多惨](https://www.yystv.cn/p/12850)   2025-05-15 11:30
+
+特朗普关税政策对TCG产业造成严重冲击，《万智牌》及相关周边价格上涨，评级服务暂停。中美最新会谈达成初步协议，未来仍存在不确定性，厂商与玩家需提前应对可能的反复局势。
+
+![](https://alioss.yystv.cn/doc/12850/e5ac66188ac8f197779251340fbe0588.appmsg_mw680water)
+
+---
+# 新闻简报(更新时间:2025-05-15 15:45)
+
+## 1. [转人工怎么这么难！人民日报痛批智能客服不智能](https://www.3dmgame.com/news/202505/3919819.html)  
+2025-05-15 11:17
+
+人民日报发文批评智能客服存在沟通效率低、转人工困难等问题，指出部分企业利用“半拉子”工程逃避用户诉求。文章呼吁优化接入流程，提高人工客服响应率，特别关注老年人和残障人士的需求，并建议消费者通过投诉渠道维护权益。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747279006_625671.png)  
+---
+
+## 2. [《王国之心4》释出新游戏画面，“米奇国王”将成可操作角色](https://www.4gamers.com.tw/news/detail/71786/square-enix-shares-new-screenshots-for-kingdom-hearts-iv)  
+2025-05-15 11:11
+
+Square Enix公开《王国之心4》的全新画面，包括现代东京场景和米奇国王作为可操作角色的细节。随着游戏开发的最新进展，官方承诺将为玩家带来符合期待的游戏体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bd74baf9ed03de0f718745a37d4a4c02df605e38.jpg)  
+---
+
+## 3. [索尼宣布17亿美元股票回购计划 股价应声上涨3.6%](https://www.3dmgame.com/news/202505/3919818.html)  
+2025-05-15 11:09  
+
+索尼宣布启动17亿美元规模的股票回购计划，旨在提升资本使用效率。消息公布后，索尼股价上涨3.6%。此外，索尼计划分拆金融业务，并将其归类为中断业务。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747278542_657005.jpg)  
+---
+
+## 4. [小岛工作室将举办“死亡搁浅WORLD STRAND TOUR 2”活动 7月12日上海站](https://www.3dmgame.com/news/202505/3919813.html)  
+2025-05-15 11:02  
+
+为纪念即将发售的《死亡搁浅2：冥滩之上》，小岛工作室将在全球12个城市展开巡回活动，上海站时间为7月12日。活动将邀请特别嘉宾并开展丰富现场活动。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747276003_369568_jpg_r.jpg)  
+---
+
+## 5. [网飞《刺客信条》真人剧编剧首曝 《星战》《行尸》编剧联手](https://www.3dmgame.com/news/202505/3919817.html)  
+2025-05-15 10:55  
+
+Netflix的《刺客信条》真人剧集编剧阵容曝光，包括《星战：侍者》和《行尸走肉》编剧。剧集计划于2025-2026年电视季推出，更多细节尚未公开。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747277617_425237.jpg)  
+---
+
+## 6. [韩国KRAFTON声明：新游《inZOI》AI学习内容均获许可](https://www.3dmgame.com/news/202505/3919816.html)  
+2025-05-15 10:49  
+
+KRAFTON针对新游《inZOI》的AI生成内容争议发表声明，强调所有学习内容均来自获得许可的开源技术，且严格遵循商业开发许可，并承诺快速审查潜在侵权问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250515/1747277227_189417.jpg)  
+---
+
+## 7. [《Cookie Clicker》5月推出家用主机版本](https://www.4gamers.com.tw/news/detail/71783/cookie-clicker-official-console-announcement-ps5-xbox-switch-and-switch2)  
+2025-05-15 10:40  
+
+经典点击游戏《Cookie Clicker》将于5月22日登陆PS5、Xbox和Switch平台。这款2013年推出的游戏因其简单有趣的玩法深受玩家喜爱，此次跨平台扩展将吸引更多用户。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1f7e16093a9b8d84e460ec735dc9394e3731d035.jpg)  
+---
