@@ -244,3 +244,262 @@ NVIDIA在最新驱动中移除了对POPCNT指令的限制，使其RTX 5090显卡
 ## 8. [沙特肝帝Hakoom放弃PS5 转投PC和Steam怀抱](https://www.3dmgame.com/news/202505/3919919.html)   2025-05-16 16:46
 
 因PSN账户
+# 新闻简报(更新时间:2025-05-17 05:45)
+
+## 1. [Samsung MicroSD Express卡为Switch 2重新上架](https://www.gamespot.com/articles/nintendo-switch-2-storage-microsd-express-cards-samsung-sandisk-lexar/1100-6530578/?ftag=CAD-01-10abi2f)   2025-05-17 04:48
+
+三星为Nintendo Switch 2推出的官方授权256GB microSD Express存储卡再次上架，现已在Best Buy和Target等多家零售商处有售。这款存储卡售价60美元，将与Switch 2主机一同于6月5日发售。Switch 2对存储需求的提升使得Express卡成为关键选择，目前市面上支持的卡数量有限且供不应求。除了三星，SanDisk也提供128GB和256GB容量的Express卡，价格分别为50美元和72美元。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4481834-samsung.png)
+
+---
+
+## 2. [1000xRESIST官方周边系列发布](https://gonintendo.com/contents/48546-1000xresist-official-merch-line-launched)   2025-05-17 03:37
+
+1000xRESIST官方周边系列现已正式推出。粉丝们可以期待全新设计的商品，为他们的收藏增添更多选择。
+
+---
+
+## 3. [Capcom Fighting Collection 2实体版首日销量火爆](https://www.gamespot.com/articles/where-to-buy-capcom-fighting-collection-2-physical-edition-comic-book-amazon-ps4-nintendo-switch/1100-6528240/?ftag=CAD-01-10abi2f)   2025-05-17 03:34
+
+《Capcom Fighting Collection 2》实体版已于多平台发售，售价40美元，并附赠独家漫画书。然而，由于需求量大，特别是PS4版本的库存迅速售罄。实体版仅适用于PS4和Nintendo Switch，首批实体版的赠品为由Udon Entertainment制作的Capcom vs. SNK主题漫画。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4439513-capcomfightingcollection2.png)
+
+---
+
+## 4. [《宝可梦儿童电视》发布《摇篮曲》MV](https://gonintendo.com/contents/48545-pokemon-kids-tv-shares-the-cradle-song-with-pokemon-music-video)   2025-05-17 03:31
+
+《宝可梦儿童电视》推出了全新的《摇篮曲》音乐视频，伴随着温馨的旋律，带来轻松愉悦的观赏体验。
+
+---
+
+## 5. [《幻想生活i：偷时少女》发布“星空餐厅”音乐视频](https://gonintendo.com/contents/48544-fantasy-life-i-the-girl-who-steals-time-starless-restaurant-music-video)   2025-05-17 03:30
+
+Level-5发布了《幻想生活i：偷时少女》的全新“星空餐厅”音乐视频，为玩家展示了更多游戏的场景与氛围。
+
+---
+
+## 6. [《我的世界》电影幕后花絮发布](https://gonintendo.com/contents/48543-a-minecraft-movie-building-the-world-of-minecraft-behind-the-scenes-featurette)   2025-05-17 03:28
+
+《我的世界》电影带来了“建设我的世界”幕后花絮，展示了电影如何一步步构建出游戏中的经典方块世界。
+
+---
+
+## 7. [Pokémon GO Fest推出Jersey City特别活动](https://gonintendo.com/contents/48542-evolve-your-go-fest-experience-in-jersey-city-with-the-all-new-premier-access-add-on)   2025-05-17 03:06
+
+Pokémon GO Fest在Jersey City推出全新“高级体验”附加活动，为玩家提供更多互动与奖励。
+
+---
+
+## 8. [《宝可梦集换式卡牌：猩红&紫罗兰——宿命对决》推出传奇卡牌](https://gonintendo.com/contents/48541-blast-off-into-pokemon-tcg-scarlet-violet-destined-rivals-with-legendary-promo-cards)   2025-05-17 03:04
+
+《宝可梦集换式卡牌》最新扩展包“宿命对决”正式发布，带来了全新的传奇卡牌系列，吸引了众多收藏家和玩家。
+
+---
+
+## 9. [北美国际锦标赛期间特别赠礼活动](https://gonintendo.com/contents/48540-get-wolfe-glick-s-incineroar-and-other-special-gifts-during-the-2025-north-america)   2025-05-17 03:02
+
+在2025年北美国际锦标赛期间，玩家将有机会获得特别版炽焰咆哮虎和其他独家礼品。
+
+---
+
+## 10. [《宝可梦集换式卡牌》阿罗拉九尾特别活动上线](https://gonintendo.com/contents/48539
+# 新闻简报（更新时间：2025-05-17 05:45）  
+
+## 1. [《33 Immortals》第四次测试将于5月20日开启](https://news.xbox.com/en-us/2025/05/16/33-immortals-try-out-new-features-in-the-fourth-playtest-from-may-20/)  
+2025-05-17 03:00  
+
+《33 Immortals》将从5月20日开始进行为期六天的第四次测试。这款支持33人协作的动作类Roguelike游戏将首次向Xbox One用户开放测试，内容包括新增的控制绑定以及多项装备平衡调整。玩家还可通过Xbox Insider Hub报名参加测试，名额有限，先到先得。  
+
+---
+
+## 2. [《Cladun X3》更新至版本1.0.3](https://gonintendo.com/contents/48538-cladun-x3-updated-to-ver-1-0-3)  
+2025-05-17 02:52  
+
+经典地牢探索游戏《Cladun X3》发布了1.0.3版本更新。具体更新内容请访问官网查看。  
+
+---
+
+## 3. [《弹丸论破》创作者公布新作《Shuten Order》](https://gonintendo.com/contents/48537-danganronpa-creator-reveals-shuten-order-for-switch)  
+2025-05-17 02:48  
+
+《弹丸论破》系列的创作者宣布了全新游戏《Shuten Order》，这款作品将登陆任天堂Switch平台，更多信息将在稍后公开。  
+
+---
+
+## 4. [Take-Two：文明VII仍需更多开发，但前景看好](https://gonintendo.com/contents/48536-take-two-says-there-s-more-work-to-be-done-with-civ-vii-but-believes-it-will)  
+2025-05-17 02:40  
+
+Take-Two表示，《文明VII》尚未完成开发，仍需进一步完善，但他们对这款策略游戏的未来表现充满信心。  
+
+---
+
+## 5. [任天堂Switch 2将支持可变刷新率功能](https://gonintendo.com/contents/47036-nintendo-switch-2-will-feature-variable-refresh-rate-support-update)  
+2025-05-17 02:39  
+
+全新一代任天堂Switch 2主机确认将支持可变刷新率（VRR），这一技术将显著提升游戏画面的流畅度和体验。  
+
+---
+
+## 6. [任天堂东京店完成装修，新增展示内容](https://gonintendo.com/contents/48535-nintendo-tokyo-completes-renovations-adds-new-displays-and-more)  
+2025-05-17 02:31  
+
+任天堂东京店完成翻新工程，新增多个全新展区和商品展示，吸引了大批粉丝前往参观。  
+
+---
+
+## 7. [传言：Switch 2版《堡垒之夜》将支持鼠标模式](https://gonintendo.com/contents/48534-rumor-fortnite-to-support-mouse-mode-on-switch-2)  
+2025-05-17 02:17  
+
+据传言，Switch 2版《堡垒之夜》将加入鼠标模式，进一步缩小与PC玩家之间的操作差距。  
+
+---
+
+## 8. [《银河战士Prime 4：超越》展示滚动球模式新玩法](https://gonintendo.com/contents/48533-check-out-morphball-gameplay-from-metroid-prime-4-beyond)  
+2025-05-17 02:12  
+
+《银河战士Prime 4：超越》最新展示了滚动球模式的玩法，进一步提升了游戏的探索自由度。  
+
+---
+
+## 9. [《Ravenswatch》将于5月27日推出免费DLC“罗密欧与朱丽叶”](https://gonintendo.com/contents/48532-ravenswatch-gets-free-romeo-and-juliet-dlc-may-27th-2025)  
+2025-05-17 02:04  
+
+《Ravenswatch》确认将在5月27日上线免费DLC“罗密欧与朱丽叶”，为玩家带来全新角色与剧情体验。  
+
+---
+
+## 10. [Switch 2新增手柄定位功能](https://www.gamespot.com/articles/nintendo-switch-2-will-help-you-find-your-joy-con-if-it-falls-into-the-couch/1100-6531613/?ftag=CAD-01-10abi2f)  
+2025-05-17 02:23  
+
+Switch 2将新增“手柄搜索”功能，用户可通过主菜单选择丢失的Joy-Con手柄，设备随后会发出震动与响铃，帮助玩家快速找到。  
+
+--- 
+# 新闻简报 (更新时间: 2025-05-17 05:45)
+
+## 1. [Switch 2推出《勇气默示录》重制版，唤起3DS时代的怀旧](https://www.gamespot.com/articles/switch-2s-bravely-default-remaster-rings-in-the-3ds-nostalgia-era-with-a-great-version-of-a-great-rpg/1100-6531611/?ftag=CAD-01-10abi2f)  
+2025-05-17 01:50  
+
+Switch 2即将推出《勇气默示录：飞翔仙女》的高清重制版，这款经典RPG曾在十多年前风靡3DS平台。游戏保留了其标志性的职业系统以及“Brave”和“Default”战斗机制，为玩家提供多样化的策略选择。该作品被认为是JRPG历史中的经典之作，此次重制将为新老玩家带来全新的游戏体验。
+
+---
+
+## 2. [《堡垒之夜》新增AI达斯·维达NPC，可语音互动](https://www.gamespot.com/articles/where-to-find-ai-darth-vader-in-fortnite/1100-6531612/?ftag=CAD-01-10abi2f)  
+2025-05-17 01:49  
+
+《堡垒之夜》加入了一位全新AI达斯·维达NPC，能够用已故詹姆斯·厄尔·琼斯的声音与玩家交流。这位NPC不仅能与玩家对话，还会在战斗中协助玩家。然而，他的语音系统偶尔会出现一些意外的“有趣”内容，给游戏增添了不少娱乐性。
+
+---
+
+## 3. [Xbox推出更多主界面个性化选项](https://news.xbox.com/en-us/2025/05/16/xbox-insiders-get-new-ways-to-personalize-home/)  
+2025-05-17 02:02  
+
+Xbox Insider用户本周获得了主界面定制的新功能，包括隐藏系统应用、将最近使用的游戏固定到首页以及减少显示图块数量。这些改进旨在使主界面更加简洁和个性化，为玩家提供更好的使用体验。
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/05/Customize-Your-Home-Settings-2d606ec3975e4cd96a05.jpeg)
+
+---
+
+## 4. [《堡垒之夜》AI达斯·维达上线后竟直接“爆粗”](https://gonintendo.com/contents/48531-fortnite-update-adds-ai-darth-vader-who-started-cursing-players-out-instantly)  
+2025-05-17 01:45  
+
+AI版达斯·维达上线后意外开始对玩家使用不太适合儿童的语言。这一现象迅速引发玩家热议，尽管问题不大，但似乎强化了“黑暗面”的主题。
+
+---
+
+## 5. [《Maniac》将于5月22日登陆Switch](https://gonintendo.com/contents/48530-rogue-lite-crime-action-game-maniac-heads-to-switch-may-22nd-2025)  
+2025-05-17 01:43  
+
+Rogue-lite犯罪动作游戏《Maniac》将于本月22日正式登陆Nintendo Switch平台。玩家将化身罪犯，体验紧张刺激的犯罪冒险。
+
+---
+
+## 6. [8BitDo发布全新街机手柄系列](https://gonintendo.com/contents/48529-8bitdo-reveals-their-arcade-controller-range)  
+2025-05-17 01:38  
+
+8BitDo推出了全新的街机手柄系列，为玩家提供更加沉浸式的游戏体验，延续其一贯的高品质游戏配件传统。
+
+---
+
+## 7. [Retroid Pocket 5掌机现已在亚马逊开售](https://www.gamespot.com/articles/retroid-pocket-5-gaming-handheld-is-now-available-at-amazon/1100-6531586/?ftag=CAD-01-10abi2f)  
+2025-05-17 01:05  
+
+Retroid Pocket 5掌机现已在亚马逊上架，售价为259
+# 新闻简报 (更新时间: 2025-05-17 05:45)
+
+## 1. [Mario Kart Mini RC Karts 现特价 $14.49](https://www.gamespot.com/articles/mario-kart-mini-rc-karts-with-cool-display-cases-are-only-14-49-right-now/1100-6531603/?ftag=CAD-01-10abi2f)   2025-05-17 00:25
+
+Nintendo官方授权的Mario Kart Mini RC赛车现仅售$14.49（原价$30），包括Mario、Yoshi和Peach三款车型。这些迷你赛车配备展示盒，可存储遥控器与赛车。适合Nintendo粉丝收集或作为趣味礼物。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4496296-61pruv5apsl._ac_sl1000.jpg)
+
+---
+
+## 2. [达斯·维德曾在《堡垒之夜》中短暂爆粗](https://www.gamespot.com/articles/darth-vader-could-say-the-f-word-in-fortnite-for-a-brief-time/1100-6531608/?ftag=CAD-01-10abi2f)   2025-05-16 23:46
+
+《堡垒之夜》中使用AI生成的达斯·维德语音曾意外爆粗，引发玩家热议。Epic Games迅速修复此问题。该事件展现了AI语音生成的潜在风险及趣味性。
+
+---
+
+## 3. [《鬼入镜3》将于2026年发布](https://www.4gamers.com.tw/news/detail/71837/dread-out-3-announcement)   2025-05-17 00:21
+
+印尼恐怖游戏系列《鬼入镜》宣布第三部作品《鬼入镜3》，预计2026年发行。玩家将继续扮演女主角Linda探索超自然废墟，以手机拍摄功能对抗鬼魂。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5391026f95c7f0e04e4089dc0aeb39a76c9b0a7f.jpg)
+
+---
+
+## 4. [《美国末日》和《玩具总动员》的惊悚跨界](https://www.gamespot.com/articles/the-last-of-us-meets-toy-story-in-this-grisly-crossover/1100-6531607/?ftag=CAD-01-10abi2f)   2025-05-16 23:55
+
+一位艺术家将《玩具总动员》角色与《美国末日》元素结合，制作了令人毛骨悚然的跨界模型。Buzz被感染，Woody化身坚毅战士，展示了创意的独特魅力。
+
+---
+
+## 5. [Take-Two透露GTA6开发时间](https://www.gamespot.com/articles/gta-6-began-development-later-than-you-might-think/1100-6531604/?ftag=CAD-01-10abi2f)   2025-05-16 23:50
+
+Take-Two确认《GTA6》开发始于2020年，距《荒野大镖客2》发布后两年。该消息揭示了游戏制作周期的复杂性及Rockstar对质量的追求。
+
+---
+
+
+# 新闻简报(更新时间:2025-05-17 05:45)
+
+## 1. [Take-Two回应80美元游戏争议，并解释为何《Mafia: The Old Country》仅售50美元](https://www.gamespot.com/articles/take-two-reacts-to-80-games-and-explains-why-mafia-the-old-country-is-only-50/1100-6531598/?ftag=CAD-01-10abi2f)  
+2025-05-16 21:56
+
+Take-Two CEO Strauss Zelnick在最近的财报会议上表示，公司更注重为消费者创造价值，而不仅仅是设定高价格。尽管有传闻称《GTA 6》可能售价高达100美元，但Take-Two强调价格由旗下各品牌独立决定。例如，《Mafia: The Old Country》售价50美元，而其他游戏可能会更高。Rockstar Games也将自行决定《GTA 6》的价格。  
+
+---
+
+## 2. [捷克总理收到《王国风云2》豪华收藏版礼物](https://www.gamespot.com/articles/czech-prime-minister-gifted-a-huge-kingdom-come-2-collectors-edition/1100-6531593/?ftag=CAD-01-10abi2f)  
+2025-05-16 21:55
+
+捷克总理彼得·菲亚拉收到了《王国风云：拯救2》的豪华收藏版礼物。Kuttenberg市长向菲亚拉赠送了这款由位于布拉格的Warhorse工作室开发的高评价RPG游戏。Warhorse表示对游戏在捷克国内的认可感到自豪，并感谢社会的支持。  
+
+---
+
+## 3. [任天堂美国总裁：Switch 2供货将满足美国市场需求](https://www.gamespot.com/articles/switch-2-supply-should-be-ready-for-demand-in-us-says-nintendo-of-america-boss/1100-6531600/?ftag=CAD-01-10abi2f)  
+2025-05-16 21:17
+
+任天堂美国总裁道格·鲍泽表示，Switch 2在美国的供应计划能够满足消费者需求，尽管预购在6月5日的发布时迅速售罄。他强调公司已制定详细的生产和供应计划，确保在假日季节持续供应。  
+
+---
+
+## 4. [传闻：《荒野大镖客2》将登陆Switch 2并推出次世代升级补丁](https://www.3dmgame.com/news/202505/3919936.html)  
+2025-05-16 21:44
+
+据消息人士透露，《荒野大镖客2》将在2025年晚些时候登陆Switch 2，同时还将为PS5和Xbox Series X|S推出次世代升级补丁。这一计划可能会与Switch 2版本同步发布，也可能在稍后上线。然而，受行业动荡影响，计划存在变数。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747402995_297157.jpg)
+
+---
+
+## 5. [下周Xbox发布新游戏预告](https://news.xbox.com/en-us/2025/05/16/next-week-on-xbox-new-games-for-may-19-to-23/)  
+2025-05-16 22:00
+
+Xbox宣布将在5月19日至23日推出多款新游戏，包括《RoadCraft》、《Cipher Monk》、《Fantasy Life i: The Girl Who Steals Time》等。这些游戏涵盖了灾后重建模拟、数字解谜以及慢节奏RPG冒险等多种类型，旨在满足不同玩家的需求。  
+
+![](https://xboxwire.thesourcemediaassets.com/sites/2/2025/05/NWOX_HERO-68115b01f86fac2a6b53-scaled.jpg)  
+
+---
