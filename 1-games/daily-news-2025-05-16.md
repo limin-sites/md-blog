@@ -842,3 +842,347 @@ LEGO与《堡垒之夜》的联动内容“LEGO Fortnite Odyssey: Rapid Survival
 任天堂分享了其与西雅图水手队合作Switch 2的幕后故事。此次跨界合作结合了游戏与棒球文化，为双方的粉丝带来了独特的联动体验。
 
 ---
+# 新闻简报 (更新时间: 2025-05-16 15:45)
+
+## 1. [《星刃》PC版新衣展示视频 太性感让玩家激动不已](https://www.3dmgame.com/news/202505/3919903.html)   2025-05-16 15:29
+
+《星刃》PC版将于6月12日发售，国区标准版售价268元。官方公布了展示视频，介绍了25套全新服装，其中红裙造型尤其引人注目，搭配开衩长裙与高跟鞋，使角色更显性感。新版本还支持NVIDIA DLSS 4与AMD FSR 3技术，以及DualSense手柄触觉反馈等功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747379965_442132.jpg)
+
+---
+
+## 2. [《绝地潜兵2》开发商新作将脱离索尼独立发行](https://www.3dmgame.com/news/202505/3919906.html)   2025-05-16 15:28
+
+Arrowhead工作室宣布下一款游戏将全额自主投资，以保持创作自由。尽管与索尼合作推出《绝地潜兵2》，双方未来或仍可能合作，但工作室坚守独立的决心未动摇。新作代号Game6，目前尚未公布具体信息。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747380495_365952.jpg)
+
+---
+
+## 3. [第三人称动作刷宝冒险新游《至高天 Empyreal》现已登陆PC与主机平台](https://www.3dmgame.com/news/202505/3919904.html)   2025-05-16 15:24
+
+《至高天》正式登陆Steam、PS5和Xbox Series X|S，售价¥108，首发折扣10%。游戏融合角色扮演与技术型战斗，通过精准操作与探索解锁强大能力。玩家还可创建个性化角色，完成NPC任务线，挑战终极头目并分享战利品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747380138_813225_jpg_r.jpg)
+
+---
+
+## 4. [高玩打造《GTA5》超级画质MOD 宣称可提前体验跳票六代](https://www.3dmgame.com/news/202505/3919902.html)   2025-05-16 15:01
+
+MOD开发者Razed推出《GTA5》超级画质MOD“NaturalVision Enhanced”，对画质进行了全面升级。该MOD号称可让玩家提前体验《GTA6》的视觉效果，吸引了大量粉丝关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747378838_313846.jpg)
+
+---
+
+## 5. [Steam资源管理《铁匠大师》开设中世纪铁匠铺，抢先体验获得极度好评](https://www.4gamers.com.tw/news/detail/71813/economy-management-game-blacksmith-master-released)   2025-05-16 14:57
+
+中世纪模拟经营游戏《铁匠大师》以超细节的模拟和策略管理在Steam上获得极度好评。玩家可打造武器、盔甲等物品并完成来自王国的订单，同时经营自己的铁匠铺并探索更多新商品。
+
+![](https://img.4gamers.com.tw/puku-clone-version/1192e020de21c5de1ac71a7c3a91ba8cceb60300.jpg)
+
+---
+
+## 6. [《推币勇者》&《中国式网游》联动即将开启！](https://www.3dmgame.com/news/202505/3919901.html)   2025-05-16 14:53
+
+《推币勇者》将于5月23日与《中国式网游》联动推出捆绑包，购买可享15%折扣。玩家将与老王一起挑战推币目标，体验双倍乐趣。联动内容支持关闭，玩家可自由选择。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747378390_546233_png_r.webp)
+
+---
+
+## 7. [小高和刚监制的《TRIBE NINE：战极死游》宣布停服](https://www.3dmgame.com/news/202505/3919899.html)   2025-05-16 14:51
+
+手游《TRIBE NINE：战极死游》将于2025年11月27日正式停服。开发团队表示遗憾并承诺退还部分付费内容。游戏曾创下全球1000万下载量记录，但最终未能实现长期运营。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747378244_108141_jpg_r.jpg)
+
+---
+
+## 8. [《幻想水浒传2》动画将分季制作 制作人力求还原原作](https://www.3dmgame.com/news/202505/3919900.html)   2025-05-16 14:49
+
+《幻想水浒传2》动画版确认将分季制作，力求完整呈现经典剧情。制作团队承诺忠实还原角色及多结局系统，动画由科乐美动画负责，计划今年三月发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747378291_834352.webp)
+
+---
+
+## 9. [《马拉松》遭控抄袭 Bungie认错：前员工未授权使用画师设计素材](https://www.4gamers.com.tw/news/detail/71823/bungie-responds-to-artist-plagiarism-accusation-marathon)   2025-05-16 14:37
+
+《马拉松》因抄袭指控引发争议，Bungie承认前员工未经授权使用画师N2的设计素材，并承诺进行全面调查与整改，同时将加强未来的审查机制以避免类似事件。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c4b17e991dfb1a70a2778b8e839176cee890af74.jpg)
+
+---
+
+## 10. [倒计时7天！东方古风模拟经营游戏《筑城与探险》即将正式上线Steam！](https://www.3dmgame.com/news/202505/3919898.html)   2025-05-16 14:35
+
+《筑城与探险》将于5月22日免费上线Steam。玩家将从废墟重建城市，通过探险、贸易等方式发展繁荣度，并探索禹甸大陆的神秘部族与地形，打造世外桃源。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747376433_504670.gif)
+# 新闻简报 (更新时间: 2025-05-16 15:45)
+
+## 1. [差点成为羊蹄山之“魂” 游客擅闯游戏同名雪山被困](https://www.3dmgame.com/news/202505/3919897.html) 2025-05-16 14:24
+
+一对英国情侣在攀登日本北海道羊蹄山时因准备不足被困，最终动用警方直升机救援。羊蹄山是即将发售的PS5游戏《羊蹄山之魂》的命名来源。这对游客因着装严重不当，男性仅穿长袖衬衫和短裤，女性穿短袖和单薄长裤，且无登山经验。二人攀至海拔约1750米的九合目后报警，救援耗资约3000美元，引发民众不满，并推动地方政府考虑立法要求获救者承担救援费用。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747376480_632884.jpg)
+
+---
+
+## 2. [KK官方对战平台《黑暗时代》火热上线！爆爽地牢刷宝，重温当年经典!](https://www.3dmgame.com/news/202505/3919896.html) 2025-05-16 14:16
+
+KK官方对战平台推出新地图《黑暗时代》，融合ORPG玩法及深度养成系统。玩家将化身英雄，通过技能搭配、装备淬炼与策略战斗挑战暗黑地牢。地图提供多种职业选择，装备系统支持淬炼与开光，随机生成的地下城副本更具挑战性。游戏以暗黑叙事深化剧情，为玩家带来沉浸式冒险体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747376162_391325.png)
+
+---
+
+## 3. [美任社长谈Switch2 新型游戏卡 仍会重视线下零售终端](https://www.3dmgame.com/news/202505/3919895.html) 2025-05-16 14:11
+
+美国任天堂社长Doug Bowser接受采访时谈到Switch2的新型游戏卡“Key Cards”，这种卡片兼具数字化与实体化特性。玩家通过插入卡片下载游戏内容，但部分游戏仍保留传统实体数据形式。他强调实体游戏卡是重要商业手段，任天堂将继续支持线下零售终端，以维护与零售商的合作关系。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747375757_568578.png)
+
+---
+
+## 4. [Capcom Fighting Collection 2 throws down on Switch today](https://gonintendo.com/contents/48526-capcom-fighting-collection-2-throws-down-on-switch-today) 2025-05-16 14:08
+
+Capcom Fighting Collection 2今日登陆Switch，为玩家带来全新的对战体验。
+
+---
+
+## 5. [Neon Apex: Beyond the Limit speeds onto Switch today](https://gonintendo.com/contents/48525-neon-apex-beyond-the-limit-speeds-onto-switch-today) 2025-05-16 14:06
+
+赛车游戏《Neon Apex: Beyond the Limit》今日登陆Switch，带来激烈竞速体验。
+
+---
+
+## 6. [Kulebra and the Souls of Limbo tackles unfinished business on Switch today](https://gonintendo.com/contents/48524-kulebra-and-the-souls-of-limbo-tackles-unfinished-business-on-switch-today) 2025-05-16 14:03
+
+《Kulebra and the Souls of Limbo》今日登陆Switch，探索未完成的冒险。
+
+---
+
+## 7. [SYNESTHESIA tickles the senses on Switch today](https://gonintendo.com/contents/48523-synesthesia-tickles-the-senses-on-switch-today) 2025-05-16 14:01
+
+《SYNESTHESIA》今日登陆Switch，为玩家带来感官挑战。
+
+---
+
+## 8. [NBA 2K25 "Season 7" starts today](https://gonintendo.com/contents/48522-nba-2k25-season-7-starts-today) 2025-05-16 13:59
+
+《NBA 2K25》第七赛季今日开启，篮球迷们准备好迎接新的挑战吧。
+
+---
+
+## 9. [Not Not 2 makes makes its way to Switch today](https://gonintendo.com/contents/48521-not-not-2-makes-makes-its-way-to-switch-today) 2025-05-16 13:58
+
+《Not Not 2》今日登陆Switch，别错过这款独特的益智游戏。
+
+---
+
+## 10. [Pokémon TCG: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection Launches Today](https://gonintendo.com/contents/48520-pokemon-tcg-scarlet-violet-prismatic-evolutions-super-premium-collection-launches) 2025-05-16 13:56
+
+《宝可梦集换式卡牌游戏：绯红与紫罗兰—棱彩进化超级豪华版》今日发售，收藏爱好者们抓紧机会吧。
+
+---
+# 新闻简报(更新时间:2025-05-16 15:45)
+
+## 1. [《王国之心》新系列毛绒玩偶发布](https://gonintendo.com/contents/48519-new-series-of-kingdom-hearts-plush-dolls-revealed)   2025-05-16 13:50
+
+《王国之心》系列粉丝迎来惊喜，新一批充满柔软质感的毛绒玩偶正式发布。这些玩偶以经典角色为设计灵感，既保留了原作的细腻风格，又兼具收藏价值，迅速引发广泛关注。
+
+---
+
+## 2. [前RARE公司艺术家谈《大金刚》视觉改造：粉丝应“拥抱变化”](https://gonintendo.com/contents/47066-ex-rare-donkey-kong-artist-says-fans-should-embrace-change-with-dk-s-visual-revamp)   2025-05-16 13:41
+
+《大金刚》的视觉风格再次改造，引发粉丝热议。前RARE公司艺术家呼吁粉丝们接受变化，认为新设计是对角色的创新表达，可能为系列带来新的活力。
+
+---
+
+## 3. [福冈宝可梦中心将搬迁，预计2025年夏季重开](https://gonintendo.com/contents/47139-pokemon-center-fukuoka-to-relocate-will-reopen-summer-2025)   2025-05-16 13:38
+
+福冈的宝可梦中心宣布计划搬迁至更宽敞的场地，并将于2025年夏季重新开放。新中心预计提供更丰富的商品和活动，为粉丝带来升级体验。
+
+---
+
+## 4. [《皮克敏Bloom》新增“球型钥匙链装饰皮克敏”](https://gonintendo.com/contents/48518-new-ball-keychain-decor-pikmin-join-pikmin-bloom)   2025-05-16 13:35
+
+《皮克敏Bloom》手游新增充满运动气息的“球型钥匙链装饰皮克敏”。这一更新为玩家提供了新的收集目标，同时增强游戏的趣味性与互动性。
+
+---
+
+## 5. [任天堂旧金山开业日：道格·鲍泽致辞，马里奥亮相](https://gonintendo.com/contents/48517-see-doug-bowser-s-speech-mario-s-appearance-more-from-nintendo-sf-s-opening-day)   2025-05-16 13:29
+
+任天堂旧金山新店开业活动举办得热闹非凡，任天堂美国总裁道格·鲍泽发表了致辞，经典角色马里奥也现身助阵。现场充满欢乐氛围，吸引了众多粉丝。
+
+---
+
+## 6. [《Ninjala》动画第166集上线](https://gonintendo.com/contents/48516-ninjala-anime-episode-166-now-available-to-stream)   2025-05-16 13:28
+
+《Ninjala》动画第166集现已上线，本集围绕“WNA Icebreaker”展开剧情，继续讲述刺激的冒险故事。粉丝们可通过官方平台观看最新内容。
+
+---
+
+## 7. [横版游戏《Coneru: Dimension Girl》将于5月29日登陆Switch](https://gonintendo.com/contents/48515-side-scroller-coneru-dimension-girl-heads-to-switch-in-japan-may-29th-2025)   2025-05-16 13:21
+
+日本市场即将迎来横版动作游戏《Coneru: Dimension Girl》，该作将于5月29日正式登陆Switch平台，玩家将展开充满挑战的冒险旅程。
+
+---
+
+## 8. [GameStop向排队购买《宝可梦TCG》限量卡组的顾客致敬](https://gonintendo.com/contents/48514-gamestop-pays-tribute-to-customers-camping-out-for-pokemon-tcg-scarlet-violet)   2025-05-16 13:14
+
+GameStop向不辞辛劳排队购买《宝可梦TCG：绯红与紫罗兰》限量卡组的顾客致敬，并表示感谢。这些忠实玩家展现了对游戏的热爱和支持。
+
+---
+
+## 9. [《幻想水浒传》动画化项目正式公布](https://gonintendo.com/contents/45980-suikoden-anime-adaption-announced-update)   2025-05-16 13:11
+
+经典RPG《幻想水浒传》宣布动画化项目，该系列将首次以动画形式呈现。消息一经公布，便引发粉丝们的期待与讨论。
+
+---
+
+## 10. [日本Switch在线服务5月推出四
+# 新闻简报(更新时间:2025-05-16 15:45)
+
+## 1. [《烈焰之刃》试玩DEMO现已上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 10:33
+
+《烈焰之刃》游戏试玩DEMO现已上线，各位玩家可以抢先体验这款备受期待的游戏带来的精彩冒险。  
+![](https://static.willmao.com/feed_upload/2025-05-16/10-12-24-phpSsUEKb.webp)
+
+---
+
+## 2. [《蓝精灵大电影》主题曲《Friend of mine》，由欧美音乐天后蕾哈娜献唱](https://www.3dmgame.com/news/202505/3919894.html)   2025-05-16 13:52
+
+蕾哈娜为动画电影《蓝精灵大电影》献唱主题曲《Friend of mine》，这是她时隔三年的新歌。同时，蕾哈娜还为蓝妹妹配音，并担任影片制片人。影片的配音阵容包括尼克·奥弗曼、娜塔莎·雷昂等知名演员，电影定于7月18日在北美上映。
+
+---
+
+## 3. [快节奏肉鸽游戏《迷失混沌王国：永恒之骰》将于6月17日多平台同步上线](https://www.3dmgame.com/news/202505/3919892.html)   2025-05-16 13:44
+
+瑞典发行商Thunderful宣布，快节奏肉鸽游戏《迷失混沌王国：永恒之骰》将于6月17日登陆Steam、PS5、Xbox Series X|S和Switch等平台。本作融合了策略与运气的玩法，玩家将化身亚历山德拉女王，与骰子伙伴一起冒险。预购已开启，特别版还提供抢先体验资格等多项福利。  
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747374220_465692.png)
+
+---
+
+## 4. [亚洲限定特典！《星舰铳犬》PS5&NS实体版 9月11日正式发售](https://www.3dmgame.com/news/202505/3919893.html)   2025-05-16 13:43
+
+科幻复古视觉小说《星舰铳犬》将于9月11日推出PS5和Switch实体版，售价4950日元。亚洲版独家内容包括亚克力周边、艺术设定集和原声音乐下载码等限定特典。  
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747374390_513678.png)
+
+---
+
+## 5. [重磅更新！《一起开火车2》迎来全新地图与联动船员，《Among Us》角色同步登列](https://www.3dmgame.com/news/202505/3919891.html)   2025-05-16 13:38
+
+《一起开火车2》推出新地图“疯狂迷宫”、全新车厢)   2025-05-16 13:36
+
+《天国：拯救 II》的首个剧情扩展包《生死绘梦》正式上线，带来全新的故事任务和“盾牌绘画”功能。此外，1.3版本更新也同步推出，包括免费赛马玩法等内容，进一步丰富玩家体验。  
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747373777_956785.png)
+
+---
+
+## 7. [PICO平台再升级：流程全自动，生态更开放，个人开发者更友好](https://www.3dmgame.com/news/202505/3919889.html)   2025-05-16 13:35
+
+PICO平台宣布开发者平台全面升级，支持个人开发者入驻并提供全流程自助化服务，从注册到收益结算均可在线完成。新机制降低了开发门槛，进一步激发XR内容生态活力。  
+![](https://img.3dmgame.com/uploads/images/xiaz/20250516/1747373715_616190.png)
+
+---
+
+## 8. [《羊蹄山战鬼》取材之旅系列文](https://blog.zh-hant.playstation.com/2025/05/16/20250516-goy/)   2025-05-16 13:35
+
+Sucker Punch团队分享了为新作《羊蹄山战鬼》前往北海道取材的经历，揭示了如何通过实地考察将北海道的自然美景和文化融入游戏设计，展现了对当地历史与文化的尊重。  
+![](https://live.staticflickr.com/65535/54516512581_75539c649d_o.jpg)
+
+---
+
+## 9. [《剑星》官方确认不用绑定PSN账号，传Steam完全版在132个国家禁售](https://www.4gamers.com.tw/news/detail/71821/stellar-blade-confirmation-no-need-to-bind-psn-account-but-blocked-in-132-countries)   2025-05-16 13:13
+
+《剑星》PC版即将上线，但部分玩家反映Steam版在多国禁售。官方确认游戏无需绑定PSN账号，玩家可选择Steam完全版或基础版进行体验。禁售原因尚未明确。  
+![](https://img.4gamers.com.tw/puku-clone-version/5eb4f2aa69eb9be61b815e7f8f8863aad3bbdce7.jpg)
+
+---
+
+## 10. [小岛秀夫透露重病经历：重新评估人生并留下创意遗嘱](http://
+# 新闻简报 (更新时间: 2025-05-16 15:45)
+
+## 1. [为什么说野生的碎碎冰不能乱吃？](https://www.yystv.cn/p/12856)  2025-05-16 13:00
+
+近期，网络上关于“野生碎碎冰”的讨论引发关注。有人在野外发现碎碎冰包装完好，但这些实际上可能是养殖场用于给猪降温的工具，且并非食物。这类冷知识被归入“中华美食规则怪谈”，提醒人们“看起来像食品的东西未必能吃”。类似的传闻还有“塔吊下的冰红茶”和“铁轨上的牛肉粒”，它们均被赋予了特别的用途。
+
+![](https://alioss.yystv.cn/doc/12856/0142316dda64ddbe4592f9f15ca30884.appmsg_mw680water)
+
+---
+
+## 2. [育碧公布2024-25财报：危急存亡之秋](https://www.yystv.cn/p/12855)  2025-05-16 12:55
+
+育碧发布最新财报，显示亏损8260万欧元，而净预订额同比下降20.5%。尽管《刺客信条：影》表现优异，但《星球大战：亡命之徒》等部分作品表现不佳。育碧计划通过延长开发周期提升作品质量，并宣布未来将有重要品牌内容发布。此外，育碧推进集团转型，与腾讯建立战略合作以实现长期增长。
+
+![](https://alioss.yystv.cn/doc/12855/3c3746a20568e0fadcb93761d51d5b14.appmsg_mw680water)
+
+---
+
+## 3. [八年时间打造的民间“CS1.6重制版”，一昔被V社打入冷宫？](https://www.yystv.cn/p/12854)  2025-05-16 12:50
+
+由社区团队开发的“CS1.6重制版”模组在即将发布前被V社叫停。V社对模组使用知识产权的严格限制，加上其未提供明确许可，使得项目最终被迫放弃。开发团队公开了其开发历程，反映出民间创作在与大公司互动时面临的诸多难题。
+
+![](https://alioss.yystv.cn/doc/12854/98a3987d2bd4c76db44202ea008babe1.appmsg_mw680water)
+
+---
+
+## 4. [《家庭教師HITMAN REBORN!》期间限定快闪店开幕](https://www.4gamers.com.tw/news/detail/71819/katekyo-hitman-reborn-pop-up-store)  2025-05-16 12:37
+
+《家庭教師 HITMAN REBORN!》快闪店在台北松山文创园区正式开幕，活动将持续至6月1日。现场提供多款限定周边商品，包括徽章、立牌等，还有角色立牌供粉丝拍照打卡。这次活动带领粉丝重温经典动画回忆。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3acd86336519aa5b91c68105ab61f65db1c48d29.jpg)
+
+---
+
+## 5. [Arm架构的Xbox设备正在打造中，高通人资招募现端倪](https://www.4gamers.com.tw/news/detail/71820/qualcomm-hr-might-hints-next-gen-xbox-go-with-arm)  2025-05-16 12:22
+
+高通近期招聘信息显示，下一代Xbox设备可能采用Arm架构，并搭载Snapdragon芯片。此举或旨在降低功耗，或开发掌机类新产品。此消息表明微软可能在探索新的技术方向，以优化设备性能及游戏开发生态。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2387492a7d970ace7e4953b015ea123bd14ddde8.jpg)
+
+---
+
+## 6. [《Pokémon Sleep》第1次“新月日”解放达克莱伊](https://www.4gamers.com.tw/news/detail/71818/pokemonsleep-new-moon-day-1-event-update)  2025-05-16 12:02
+
+《Pokémon Sleep》宣布首次活动“新月日”，期间幻兽达克莱伊及其他宝可梦登场几率提升。玩家可以通过特定道具解锁达克莱伊的能力，活动将于5月26日至29日举行。
+
+![](https://img.4gamers.com.tw/puku-clone-version/de17220abc600c4dbeea06ec9411987ed66ccb43.jpg)
+
+---
+
+## 7. [AMD RX9060 XT确认5月21日发布](https://www.3dmgame.com/news/202505/3919888.html)  2025-05-16 11:58
+
+AMD宣布RX9060 XT将于台北电脑展正式发布。显卡采用双风扇设计，TDP预计在200W以内，并将与NVIDIA RTX 5060 Ti展开竞争。AMD不会直接销售公版显卡。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747367548_873204.jpg)
+
+---
+
+## 8. [2025轻游梦工坊全国游戏创作大赛正式开幕](https://www.yystv.cn/p/12853)  2025-05-16 11:55
+
+由腾讯公司联合主办的游戏创作大赛正式启动，旨在降低游戏开发门槛，推动创意普及。赛事总奖池达300万元，采用零代码编辑器《轻游梦工坊》作为创作工具，为参赛者提供技术支持及孵化资源。
+
+![](https://alioss.yystv.cn/doc/12853/1df698becf113bba4292813acc0597b7.png_mw680water)
+
+---
+
+## 9. [比眨眼还快，机器人0.103秒还原魔方破世界纪录](https://www.3dmgame.com/news/202505/3919887.html)  2025-05-16 11:52
+
+美国普渡大学学生团队开发的机器人以0.103秒还原魔方，刷新世界纪录。该系统通过精密算法和工业级硬件实现亚毫秒级控制，远超此前日本0.305秒的成绩。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747367523_243243.png)
+
+---
+
+## 10. [当制作人误入游戏世界，《昭昭天命》现已正式发售](https://www.3dmgame.com/news/202505/3919886.html)  2025-05-16 11:38
+
+动作冒险解谜游戏《昭昭天命》正式上线，售价20元。玩家将扮演游戏开发者，在自己创造的游戏世界中探寻命运真相。游戏采用复古快节奏关卡及多分支剧情叙事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747366650_306219_png_r.webp)
+
+---
