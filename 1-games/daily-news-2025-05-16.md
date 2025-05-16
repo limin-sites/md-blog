@@ -539,3 +539,306 @@ JSAUX推出了一款适用于Switch 2的可折叠4通道Joy-Con充电底座，�
 ![](https://www.gamespot.com/a/uploads/square_medium/1601/16018044/4495656-ramboreportsquare.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-16 10:45)
+
+## 1. [索尼又锁区！过百国家无法游玩《星刃》](https://www.3dmgame.com/news/202505/3919865.html)   2025-05-16 09:28
+
+由Shift Up开发、索尼发行的动作游戏《星刃》PC版即将在Steam上线，但因区域锁政策，132个国家和地区的玩家将无法通过正规渠道购买，包括大量未开通PSN服务的地区。此外，《星刃》PC版首次启用D加密技术，这一技术可能对性能造成影响。索尼尚未就区域锁政策作出官方说明。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747358389_964602.png)
+
+---
+
+## 2. [《GTA6》开发始于2020年 开发成本超10亿美元](https://www.3dmgame.com/news/202505/3919864.html)   2025-05-16 09:14
+
+Take-Two确认《GTA6》于2020年正式启动开发，开发成本超过10亿美元，成为史上最昂贵的游戏之一。相比行业平均的2-3亿美元，《GTA6》的预算高出近3倍，或将导致售价上涨，媒体预测可能达到80至100美元。游戏预计开发周期超8年，发售日期尚未公布。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747357977_270988.webp)
+
+---
+
+## 3. [《光与影：33号远征队》总监对FF8情有独钟：不识字时就玩](https://www.3dmgame.com/news/202505/3919863.html)   2025-05-16 09:09
+
+《光与影：33号远征队》总监Guillaume Broche回忆童年时与哥哥玩《最终幻想8》的经历，即使不识字也沉浸其中。他表示，《光与影：33号远征队》是对JRPG的致敬，同时融入了法国文化元素，展现了两种文化的交流。他希望玩家能从游戏中感受到团队的真诚和热情。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747357681_948285_jpg_r.jpg)
+
+---
+
+## 4. [任天堂公布《马里奥赛车：世界》细节 望远镜观察美丽世界](https://www.3dmgame.com/news/202505/3919862.html)   2025-05-16 09:07
+
+任天堂新主机护航大作《马里奥赛车：世界》将采用开放世界设计，并引入望远镜系统，玩家可通过望远镜探索赛道与风景细节，为比赛做好准备。本作强调互动和探索，将为玩家带来全新飙车体验。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747357627_318304.png)
+
+---
+
+## 5. [松鼠哥新图：Xbox Studios 2025年发行游戏阵容](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 09:24
+
+Xbox Studios公布了2025年游戏阵容，包括《誓言》、《午夜之南》、《上古卷轴IV：湮没 重制版》、《战争机器：重装上阵》等大作。同时，一些经典游戏将登陆PS5平台，如《极限竞速：地平线5》和《帝国时代II：决定版》。  
+
+![](https://static.willmao.com/feed_upload/2025-05-16/09-22-40-phppiFxan.jfif)
+
+---
+
+## 6. [《微软飞行模拟 2024》重大更新推出](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 09:19
+
+《微软飞行模拟 2024》Sim Update 2现已上线，更新内容包括数百项修复与改进，进一步提升了游戏性能与玩家体验。  
+
+![](https://static.willmao.com/feed_upload/2025-05-16/09-19-08-phpYPWoR0.jfif)
+
+---
+# 新闻简报(更新时间:2025-05-16 10:45)
+
+## 1. [动画电影《鲁邦三世：不死身的血族》正式PV公开](https://www.3dmgame.com/news/202505/3919861.html)   2025-05-16 08:41
+
+《鲁邦三世》全新2D动画电影《鲁邦三世：不死身的血族》发布正式PV，传奇大盗鲁邦三世将于6月27日在日本上映。电影由小池健执导，高桥悠也撰写剧本，故事围绕鲁邦三世试图夺取神秘岛屿中的巨额宝藏展开。片中还将有多位知名声优参与配音。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747355809_582513_jpg_r.jpg)
+
+---
+
+## 2. [印尼恐怖游戏《小镇惊魂3》新预告及截图 美女太动人](https://www.3dmgame.com/news/202505/3919860.html)   2025-05-16 08:35
+
+印尼开发的恐怖冒险游戏《小镇惊魂3》上架Steam，计划2026年发售。游戏以印尼都市传说为灵感，讲述高中生琳达利用手机对抗怨灵的冒险故事。本作支持非线性剧情，还提供丰富的服装解锁选项。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747355665_555842_jpg_r.jpg)
+
+---
+
+## 3. [《星刃》PC版采用了D加密 首发支持DLSS 4和多帧生成](https://www.3dmgame.com/news/202505/3919859.html)   2025-05-16 08:22
+
+动作游戏《星刃》PC版现已开启预购，计划6月12日发售。游戏采用虚幻4引擎开发，支持DLSS 4、多帧生成、超宽屏等技术，并提供丰富的中文和日语配音选项。玩家还可体验与PS5手柄兼容的触觉反馈和自适应扳机功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747354762_159864_jpg_r.jpg)
+
+---
+
+## 4. [《英雄联盟》或将加入WASD键位移动控制选项](https://www.3dmgame.com/news/202505/3919858.html)   2025-05-16 08:18
+
+数据挖掘显示，《英雄联盟》可能新增WASD键位控制选项，允许玩家通过键盘进行移动操作。此消息引发了玩家对操作方式改进的期待，但尚未获得官方确认。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747354623_315725.jpg)
+
+---
+
+## 5. [Steam新作喜加一：免费领取多人派对游戏《呆呆大乱斗》](https://www.3dmgame.com/news/202505/3919857.html)   2025-05-16 07:59
+
+多人派对游戏《呆呆大乱斗》在Steam上限时免费领取，活动截止至5月16日晚9点。游戏支持最多20人联机，结合快节奏战斗与轻度肉鸽成长要素，让玩家体验独特的竞技乐趣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747353375_412769_jpg_r.jpg)
+
+---
+
+## 6. [《艾尔登法环：黑夜君临》守护者预告 大鹏鸟战个痛快](https://www.3dmgame.com/news/202505/3919856.html)   2025-05-16 07:50
+
+《艾尔登法环：黑夜君临》发布“守护者”角色预告，展示了角色的特殊能力如“旋风”和“救世之翼”。该游戏将于5月30日上线，结合了Rougelike与大逃杀玩法的独特体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747352952_386378_jpg_r.jpg)
+
+---
+
+## 7. [Epic喜加二 《死亡岛2》《快乐游戏》免费领取](https://www.3dmgame.com/news/202505/3919855.html)   2025-05-16 07:09
+
+Epic本周限时免费送出两款游戏：《死亡岛2》和《快乐游戏》，领取时间截至5月22日23:00。下周将有三款神秘游戏限免，值得期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747350551_932380_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-16 10:45)
+
+## 1. [利奇和凯莉·麦考密克将制作《战争机器》电影](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-16 07:03
+
+网飞宣布，由利奇（Leitch）和凯莉·麦考密克（Kelly McCormick）携手制作《战争机器》电影。这部作品备受期待，由两位经验丰富的电影制作人操刀，或将成为又一部游戏改编电影杰作。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-26-55-phpQtn55f.jpg)
+
+---
+
+## 2. [Xbox云游戏新增多款游戏](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-16 07:03
+
+Xbox云游戏“流式传输自己的游戏”功能迎来新更新，新增游戏包括《武装突袭：Reforger》、《兄弟：双子传说》、《城堡破坏者重制版》、《茶杯头》等经典和新作，为玩家提供更多选择。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-43-55-phpK6BDA9.jpg)
+
+---
+
+## 3. [高通芯片与下一代Xbox的传闻澄清](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-16 07:03
+
+高通的一则招聘信息引发外界猜测下一代Xbox可能采用Arm架构。然而，Windows Central消息确认，下一代Xbox硬件仍将基于AMD架构，以确保与现有游戏的兼容性。此外，未来或推出类似Switch设计的掌机设备。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-41-34-phpeUs9K8.webp)
+
+---
+
+## 4. [Take-Two谈《侠盗猎车手6》的宏伟目标](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-16 07:03
+
+Take-Two表示，《侠盗猎车手6》将在宏伟目标和复杂程度上超越以往作品。开发团队承诺带来超出玩家预期的娱乐体验，令人期待。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-35-38-phprPD6uf.jpg)
+
+---
+
+## 5. [Take-Two对《侠盗猎车手6》2026年推出充满信心](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-16 07:03
+
+Take-Two CEO施特劳斯·泽尼克表示，对《侠盗猎车手6》能在2026年5月26日如期推出充满信心，并强调公司在按时推出游戏上的可靠记录。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-33-18-phpdYHeB5.jpg)
+
+---
+
+## 6. [《星刃》Steam售价268元，配置需求公布](https://www.3dmgame.com/news/202505/3919854.html) 2025-05-16 06:58
+
+《星刃》PC版预购开启，Steam国区售价268元，完整版358元。游戏将于6月12日发售，支持DLSS 4和FSR 3，适配DualSense手柄，配置需求包括最低1080P到最高4K。奖励内容丰富，支持中文配音。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747353917_611916_jpg_r.jpg)
+
+---
+
+## 7. [EA宣布全面回归办公室工作](https://www.gamespot.com/articles/ea-announces-full-return-to-office-effectively-ending-remote-work/1100-6531579/?ftag=CAD-01-10abi2f) 2025-05-16 06:35
+
+EA宣布终止远程工作政策，要求员工每周至少三天在办公室工作。CEO表示，此举旨在促进创造力与连接，推动突破性成果。部分远程角色将逐步被淘汰。
+
+---
+
+## 8. [Jade Raymond离开Haven Studios，《Fairgames》推迟至2026年春季](https://www.gamespot.com/articles/jade-raymond-leaves-fairgame-studio-game-now-delayed-to-spring-2026/1100-6531583/?ftag=CAD-01-10abi2f) 2025-05-16 06:03
+
+Haven Studios创始人Jade Raymond因游戏《Fairgames》测试反响不佳而离职，该游戏推迟至2026年春季。PlayStation感谢她的贡献，并强调她的领导力对工作室的成立至关重要。
+# 新闻简报(更新时间:2025-05-16 10:45)
+
+## 1. [《侠盗猎车手6》（GTAVI）发布延期原因揭晓](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 06:30
+
+Take-Two首席执行官施特劳斯·泽尼克透露《侠盗猎车手6》的发布延期原因。他表示，相较于原定2025年的初始发行日期，延期时间不到6个月。施特劳斯强调，这一决定是为了让Rockstar Games有更多时间实现其创意构想，从而确保游戏质量。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-30-11-php6afH6S.jpg)
+
+---
+
+## 2. [Netflix将制作《战争机器》电影](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 06:27
+
+导演利奇与制片人凯莉·麦考密克将为Netflix制作《战争机器》电影。这标志着这一经典游戏即将以全新形式呈现给观众。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-26-55-phpQtn55f.jpg)
+
+---
+
+## 3. [《宣誓》1.4版本更新上线](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 06:23
+
+《宣誓》1.4版本更新今日上线，新增“蜘蛛恐惧症安全模式”、经济与战利品调整、支持Xbox键鼠输入等多项改进。同时，路线图披露了夏季和秋季的未来更新，包括新游戏+模式、新武器及角色预设等。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/06-21-59-phpJFUp3d.jpg)
+
+---
+
+## 4. [Valve确认Steam数据未泄露](https://www.gamespot.com/articles/no-your-steam-data-was-not-leaked-valve-confirms/1100-6531581/?ftag=CAD-01-10abi2f)   2025-05-16 05:35
+
+Valve公司确认Steam用户数据未泄露，近日传闻的泄露事件源于与Steam无关的短信服务商。虽然涉及一些电话号码，但与Steam账号相关的信息均未受影响。
+
+---
+
+## 5. [Dark Horse推出H.P. Lovecraft漫画优惠](https://www.gamespot.com/articles/hp-lovecraft-manga-gou-tanabe-dark-horse-book-deals-amazon/1100-6525137/?ftag=CAD-01-10abi2f)   2025-05-16 05:03
+
+Dark Horse的H.P. Lovecraft漫画改编作品在亚马逊上进行促销，包括《疯狂山脉》和《深潜的阴影》等经典作品，折扣高达50%。这是爱好者补充收藏的绝佳机会。
+
+---
+
+## 6. [Take-Two对Switch 2平台信心十足](https://gonintendo.com/contents/48498-take-two-feels-really-good-about-switch-2-ceo-is-a-big-believer-in-the-platform)   2025-05-16 06:08
+
+Take-Two首席执行官表达了对任天堂Switch 2平台的看好，称其为未来互动内容的重要载体。他对该平台的潜力充满信心。
+
+---
+
+## 7. [《SHINOBI: Art of Vengeance》幕后预告片发布](https://gonintendo.com/contents/48500-shinobi-art-of-vengeance-behind-the-studio-vol-1-trailer)   2025-05-16 06:18
+
+新作《SHINOBI: Art of Vengeance》发布幕后预告片，展示了游戏制作团队的创意和理念，为玩家揭秘开发过程中的点滴细节。
+
+---
+
+## 8. [《Pikmin Bloom》旧金山特别地点上线](https://gonintendo.com/contents/48499-nintendo-san-francisco-a-permanent-special-spot-for-pikmin-bloom-players)   2025-05-16 06:16
+
+任天堂宣布《Pikmin Bloom》在旧金山设立永久“特别地点”，吸引玩家体验独特的游戏互动环节。
+
+---
+
+## 9. [PureArts与2K Games推出《无主之地》联名产品](https://gonintendo.com/contents/48497-purearts-2k-games-reveal-first-borderlands-collaboration)   2025-05-16 05:07
+
+PureArts与2K Games首次合作推出《无主之地》主题限量产品，仅限量250份，吸引粉丝收藏热潮。
+
+---
+
+## 10. [《Fantasy Life i》音乐视频发布](https://gonintendo.com/contents/48496-fantasy-life-i-the-girl-who-steals-time-the-rocking-chair-dream-music-video)   2025-05-16 05:05
+
+《Fantasy Life i》发布了主题音乐视频《摇椅梦》，让人感受游戏的独特温馨氛围，引发玩家期待。
+
+---
+# 新闻简报 (更新时间: 2025-05-16 10:45)
+
+## 1. [LEGO Fortnite Odyssey: Rapid Survival现已登陆《堡垒之夜》](https://gonintendo.com/contents/48495-lego-fortnite-odyssey-rapid-survival-now-available-in-fortnite)  
+2025-05-16 05:02
+
+LEGO与《堡垒之夜》的联动内容“LEGO Fortnite Odyssey: Rapid Survival”现已上线。这一全新模式为玩家带来了独特的生存挑战，融合了LEGO经典元素和《堡垒之夜》的标志性玩法，吸引了大量玩家的关注。
+
+---
+
+## 2. [《班班花园0》现已登陆Switch](https://gonintendo.com/contents/48494-garten-of-banban-0-now-available-on-switch)  
+2025-05-16 05:00
+
+备受期待的《班班花园0》正式推出Switch版本，作为该系列的起点，这部作品带领玩家探索神秘的世界，揭示隐藏的故事背景。玩家们纷纷表示期待这一新作的精彩表现。
+
+---
+
+## 3. [《黎明杀机》新模式“2v8：鬼脸”预告片发布](https://gonintendo.com/contents/48492-dead-by-daylight-2v8-ghost-face-trailer)  
+2025-05-16 04:57
+
+《黎明杀机》发布了新模式“2v8：鬼脸”的预告片，这一模式将增加更多对抗场景和策略元素，让玩家体验前所未有的紧张感。预告片中展示了经典角色“鬼脸”的惊悚出场。
+
+---
+
+## 4. [《马里奥赛车世界》新功能：双筒望远镜登场](https://www.gamespot.com/articles/mario-kart-worlds-new-unexpected-feature-binoculars/1100-6531580/?ftag=CAD-01-10abi2f)  
+2025-05-16 04:56
+
+任天堂公布了《马里奥赛车世界》的全新功能：双筒望远镜。玩家可以在开放世界中的特定位置找到望远镜，通过它观察周围环境，发现隐藏内容和风景。该功能或将成为探索秘密的关键工具。
+
+---
+
+## 5. [《弹球尖塔》将于2025年5月29日登陆Switch](https://gonintendo.com/contents/48491-pinball-spire-comes-to-switch-may-29th-2025)  
+2025-05-16 04:55
+
+独特的弹球冒险游戏《弹球尖塔》确认将于5月29日登陆Switch平台。游戏融合了弹球玩法与冒险元素，为玩家提供了全新的游戏体验。
+
+---
+
+## 6. [科乐美称《幻想水浒传I&II HD复刻版》销量“极其强劲”](https://gonintendo.com/contents/48490-konami-says-suikoden-i-ii-hd-remaster-sales-have-been-extremely-strong)  
+2025-05-16 04:38
+
+科乐美近日表示，《幻想水浒传I&II HD复刻版》自发售以来销量表现非常出色，标志着经典RPG的复兴。玩家们对复刻版的高清画质和优化内容赞誉有加。
+
+---
+
+## 7. [史克威尔艾尼克斯经典翻唱专辑开放预购](https://gonintendo.com/contents/48489-square-enix-vocal-covers-timeless-classics-album-available-to-pre-order)  
+2025-05-16 04:27
+
+史克威尔艾尼克斯宣布，其最新音乐专辑《经典翻唱：永恒经典》现已开放预购。该专辑收录了多个经典游戏的翻唱歌曲，受到粉丝热烈期待。
+
+---
+
+## 8. [《赛博朋克2077：终极版》更多游戏画面公开](https://gonintendo.com/contents/48488-check-out-more-gameplay-for-cyberpunk-2077-ultimate-edition)  
+2025-05-16 04:21
+
+《赛博朋克2077：终极版》公开了更多游戏画面，展示了Switch 2平台的优化效果和新内容。这一版本吸引了新老玩家的高度关注。
+
+---
+
+## 9. [任天堂解释为何在旧金山开设新零售店](https://gonintendo.com/contents/48487-nintendo-explains-how-they-landed-on-san-francisco-for-their-latest-retail-space)  
+2025-05-16 04:13
+
+任天堂透露了选择旧金山作为其新零售店所在地的原因。作为美国西海岸的文化中心，旧金山的地理优势和玩家群体吸引了任天堂的关注，这一新店或将成为玩家的新据点。
+
+---
+
+## 10. [任天堂和西雅图水手队合作的幕后故事](https://gonintendo.com/contents/48486-nintendo-explains-how-their-switch-2-collab-with-the-seattle-mariners-came-to-be)  
+2025-05-16 04:08
+
+任天堂分享了其与西雅图水手队合作Switch 2的幕后故事。此次跨界合作结合了游戏与棒球文化，为双方的粉丝带来了独特的联动体验。
+
+---
