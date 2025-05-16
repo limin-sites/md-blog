@@ -1186,3 +1186,380 @@ AMD宣布RX9060 XT将于台北电脑展正式发布。显卡采用双风扇设�
 ![](https://img.3dmgame.com/uploads/images/news/20250516/1747366650_306219_png_r.webp)
 
 ---
+# 新闻简报(更新时间:2025-05-16 20:45)
+
+## 1. [RUMOR: Red Dead Redemption 2 coming to Switch 2](https://gonintendo.com/contents/48527-rumor-red-dead-redemption-2-coming-to-switch-2)   2025-05-16 19:51
+
+《荒野大镖客2》可能登陆任天堂Switch 2的传闻引发玩家热议。虽官方未确认，但这一消息令Switch平台粉丝倍感期待。Switch 2的具体性能和支持游戏阵容目前尚未公开。
+
+---
+
+## 2. [微星推出B850M GAMING PLUS WIFI主板 纯白PCB](https://www.3dmgame.com/news/202505/3919932.html)   2025-05-16 19:40
+
+微星发布新款主板B850M GAMING PLUS WIFI，采用纯白PCB设计，支持DDR5-8600内存规格。主板升级了显卡槽位置和散热装甲设计，供电效率也有所提升，售价1199元，现已开启预约。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747396053_859652_jpg_r.jpg)
+
+---
+
+## 3. [《星露谷物语》主题展览将于上海举办](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 19:15
+
+《星露谷物语》中文版食谱问世，制作人ConcernedApe宣布将在上海举办主题展览，展期为5月31日至6月2日，门票售价88元，活动预计吸引大批粉丝参与。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/19-14-46-phpaq2oOU.jpg)
+
+---
+
+## 4. [Nexon谈《第一狂战士 卡赞》表现](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-16 19:08
+
+Nexon在财报会议上表示，《第一狂战士 卡赞》全球首发后备受好评，虽然收入低于预期，但该游戏实现了战略性目标，将《地下城与勇士》引入全球市场。
+
+![](https://static.willmao.com/feed_upload/2025-05-16/19-08-03-php6gEWAs.jpg)
+
+---
+
+## 5. [JK聊天日常番《在美食广场，明天见。》将于7月登场](https://www.4gamers.com.tw/news/detail/71836/see-you-tomorrow-at-the-food-court-animation)   2025-05-16 18:47
+
+成家慎一郎漫画改编的电视动画《在美食广场，明天见。》将于7月播出，主题曲由Oisicle Melonpan演唱。故事讲述两位性格迥异的女高中生的日常对话与友情。
+
+![](https://img.4gamers.com.tw/puku-clone-version/965fe22fd8c42dfb4089d0e2c3a26c25fab17f04.jpeg)
+
+---
+
+## 6. [Bungie回应《Marathon》艺术素材盗用指控](https://www.gamespot.com/articles/bungie-responds-to-marathon-art-theft-claims/1100-6531591/?ftag=CAD-01-10abi2f)   2025-05-16 17:19
+
+Bungie承认其即将推出的游戏《Marathon》中存在盗用艺术素材的问题。艺术家Antireal指控其2017年的设计被未经授权使用，Bungie表示将全面审查相关资产。
+
+![](https://www.gamespot.com/a/uploads/original/1850/18507742/4496212-marathon-assets%281%29.jpg)
+
+---
+
+## 7. [技嘉科技于COMPUTEX 2025展示AI创新](https://www.4gamers.com.tw/news/detail/71830/gigabyte-computex-2025)   2025-05-16 18:33
+
+技嘉科技将在COMPUTEX 2025展会上推出以AI为核心的多项创新技术，包括AI笔记本、电竞显示器和新一代主机板。展品强调高效能与美学设计，活动将于5月19日率先发布新品。
+
+![](https://img.4gamers.com.tw/puku-clone-version/95541d67e48fa37d75146cc8fa473ed3e7a3f280.png)
+
+---
+
+## 8. [中世纪铁匠铺模拟游戏《铁匠大师》现已发售](https://www.3dmgame.com/news/202505/3919931.html)   2025-05-16 18:26
+
+《铁匠大师》现已登陆Steam、GOG和Epic平台，售价79元，支持中文。玩家可通过锻造和经营铁匠铺逐步发展业务，游戏提供近100种物品和多层店铺扩展系统。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747391061_880984.jpg)
+
+---
+
+## 9. [MMORPG手游《万灵物语》将于5月22日推出](https://www.4gamers.com.tw/news/detail/71833/midgard-rising-mmo-rpg-annoucement)   2025-05-16 18:18
+
+萌宠系手游《万灵物语》宣布5月22日上线，并邀请中职啦啦队Wendy和Dora担任代言人。游戏已突破30万事前预约，官方加码iPhone奖励以及游戏内丰厚礼包。
+
+![](https://img.4gamers.com.tw/puku-clone-version/cd45fcbfa16f100ff874fcbe052f78e597b9aabc.jpg)
+# 新闻简报(更新时间:2025-05-16 20:451)
+
+## 1. [转向骁龙ARM架构 Xbox下一代主机或弃用AMD芯片](https://www.3dmgame.com/news/202505/3919929.html)   2025-05-16 18:14
+
+微软计划在下一代Xbox主机中采用高通ARM架构骁龙芯片，放弃使用AMD x86架构。这一转变可能使新主机具备更接近PC与主机混合形态的特性，甚至支持第三方PC游戏商店。据悉，新主机预计2027年发布，将成为微软最具前瞻性的游戏系统之一。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747390198_196526.jpg)
+
+---
+
+## 2. [NVIDIA驱动移除POPCNT限制，GeForce RTX 5090也能用在20年前电脑](https://www.4gamers.com.tw/news/detail/71834/nvidia-driver-removes-popcnt-limit)   2025-05-16 18:14
+
+NVIDIA最新驱动移除了对POPCNT指令的限制，使RTX 5090显卡可以兼容2008年的Core 2 Quad处理器。然而，由于硬件和软件的严重代差，实际使用中仍存在大量兼容性问题。
+
+![](https://img.4gamers.com.tw/puku-clone-version/420e9790b7da828127642808907d952c8a747104.jpg)
+
+---
+
+## 3. [雷军官宣小米自研手机SoC芯片玄戒O1！5月下旬发布](https://www.3dmgame.com/news/202505/3919930.html)   2025-05-16 18:12
+
+小米宣布其首款自研手机SoC芯片“玄戒O1”将在5月下旬发布，预计搭载于小米15S Pro机型。芯片基于台积电N4P制程工艺，性能对标骁龙8 Gen2，同时支持UWB技术，进一步提升手机与汽车的联动体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747388540_952022.jpg)
+
+---
+
+## 4. [《彻夜之歌》动画第二季7月开播，全新主视觉公开](https://www.4gamers.com.tw/news/detail/71832/call-of-the-night-animation-season-2-release-in-july-2025)   2025-05-16 17:38
+
+改编自琴山漫画的《彻夜之歌》动画第二季将于7月开播，剧情将改编自原作漫画“烟盒篇”。官方尚未公布主题曲演唱者，粉丝期待Creepy Nuts的回归。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f6872549f69af0014d1c6e96a53b3e115557318.jpeg)
+
+---
+
+## 5. [腾讯混元图像2.0发布 实时生图毫秒级速度与超写实画质](https://www.3dmgame.com/news/202505/3919928.html)   2025-05-16 17:36
+
+腾讯发布实时生成图像模型“混元图像2.0”，支持毫秒级响应，生成质量媲美真实照片。该模型还支持通过语音输入提示词，适用于直播和移动创作场景。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747388014_460157.jpg)
+
+---
+
+## 6. [业界专家DFC最新预测 Switch 2在2025年销量可达1600万](https://www.3dmgame.com/news/202505/3919927.html)   2025-05-16 17:35
+
+DFC预测，任天堂Switch 2将在2025年实现1600万台销量，并可能在2029年前突破1亿台大关，巩固其在主机市场的统治地位。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747387908_180110.png)
+
+---
+
+## 7. [动画电影《聊斋：兰若寺》定档预告 7月12日全国上映](https://www.3dmgame.com/news/202505/3919926.html)   2025-05-16 17:28
+
+追光动画电影《聊斋：兰若寺》宣布将于7月12日全国上映，影片改编自《聊斋志异》，通过多个精彩故事展现独特的中式志怪奇缘。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747387685_682710.jpg)
+
+---
+
+## 8. [NS2卡带实物在日本多家门店上架 均为空壳仅供参考](https://www.3dmgame.com/news/202505/3919925.html)   2025-05-16 17:21
+
+日本多家零售门店已开始展示Switch 2游戏盒和卡带样品，尽管实物均为空壳，但标志着任天堂已进入发售前的宣传准备阶段。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747387250_434171_jpg_r.jpg)
+
+---
+
+## 9. [系列最低分！《爱 死亡和机器人》第四季豆瓣开分5.2 网友：想象力枯竭](https://www.3dmgame.com/news/202505/3919924.html)   2025-05-16 17:19
+
+网飞科幻动画剧集《爱 死亡和机器人》第四季豆瓣开分仅5.2分，创系列最低。有网友评论称创作力明显下降，远不及前三季水准。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250516/1747387147_836473.png)
+
+---
+
+## 10. [《沙丘：觉醒》全球测试收官，6月10日即将全球上线](https://www.3dmgame.com/news/202505/3919923.html)   2025-05-16 17:15
+
+开放世界生存游戏《沙丘：觉醒》完成全球测试，将于6月10日正式上线。游戏以其高度还原的“沙丘”IP及丰富的MMO玩法备受期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747386925_999202.png)
+
+---
+# 新闻简报(更新时间:2025-05-16 20:45)
+
+## 1. [彩虹社歌姬双人组「Nornis」迎3周年，3D迷你演唱会及天文馆特别合作登场](https://www.4gamers.com.tw/news/detail/71831/nijisanji-vtuber-nornis-3rd-anniversary)   2025-05-16 17:10
+
+由彩虹社VTuber戌亥床与町田千麻组成的双人组「Nornis」宣布将举行3周年纪念企划“Twinkling jewels”。活动包括6月23日的3D迷你演唱会YouTube免费直播，以及6月27日至7月13日与东京天文馆的特别放映合作。此外，活动期间观众可获得限量入场特典，周边商品也将同步上线。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3fb91f4a5ff228588b9dc4fc7de47d3d096fc765.webp)
+
+---
+
+## 2. [《GTA6》女主角露西娅同人图引热议](https://www.3dmgame.com/news/202505/3919922.html)   2025-05-16 17:10
+
+《GTA6》的女主角露西娅因其独特造型吸引了大量关注，粉丝们甚至在Reddit论坛为“露西娅臀部”建立子版块。同时，许多同人艺术家创作了大量相关作品，展示了角色的魅力。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747386590_934946.jpg)
+
+---
+
+## 3. [Switch 2最终规格公布，起初不支持VRR功能](https://www.gamespot.com/articles/switch-2-specs-reveal-docked-vrr-is-not-supported-at-launch/1100-6531589/?ftag=CAD-01-10abi2f)   2025-05-16 17:10
+
+任天堂Switch 2的最终规格确认不支持在底座模式下开启可变刷新率(VRR)。尽管该功能曾被提及，但随后被移除。这一限制可能会在未来通过固件更新解决。
+
+---
+
+## 4. [《洛奇英雄传：反抗命运》展示互动姿势视频，物理效果出色](https://www.3dmgame.com/news/202505/3919921.html)   2025-05-16 16:56
+
+《洛奇英雄传：反抗命运》发布了新的演示视频，展示了游戏中的互动动作效果，包括“大字躺”“活动身体”等动作。游戏使用虚幻引擎开发，将于6月在Steam开启内测。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747385756_499777_jpg_r.jpg)
+
+---
+
+## 5. [中国电信5G-A套餐5月17日商用，速度比5G快10倍](https://www.3dmgame.com/news/202505/3919920.html)   2025-05-16 16:54
+
+中国电信宣布，5G-A套餐将于5月17日正式商用。相比5G，5G-A下载速度提升至万兆，上传速度也达到了千兆，适用于高带宽、低延迟场景需求。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747385626_401691.png)
+
+---
+
+## 6. [沙特肝帝Hakoom放弃PS5，转投PC与Steam](https://www.3dmgame.com/news/202505/3919919.html)   2025-05-16 16:46
+
+因PSN账号被封，著名玩家Hakoom宣布放弃PS5并转向PC与Steam。他在视频中展示了更换设备的过程，表示对新平台充满期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747385005_257844.jpg)
+
+---
+
+## 7. [玩家请愿要求任天堂撤销对《幻兽帕鲁》的诉讼](https://www.3dmgame.com/news/202505/3919917.html)   2025-05-16 16:35
+
+因玩法与宝可梦相似，《幻兽帕鲁》遭到任天堂诉讼，引发玩家不满。请愿活动已获得200多人签名，呼吁任天堂停止“扼杀创造力”的行为。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747384434_284457_jpg_r.jpg)
+
+---
+
+## 8. [多人猫咪派对游戏《奇喵派对》5月21日登陆Steam](https://www.3dmgame.com/news/202505/3919916.html)   2025-05-16 16:31
+
+《奇喵派对》是一款猫咪主题多人跑酷派对游戏，将于5月21日登陆Steam。游戏设有6大关卡，支持在线多人模式，并提供丰富的猫咪自定义功能。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747384107_185521.jpeg)
+
+---
+
+## 9. [战锤SKULL节5月22日回归，多款新作情报将揭晓](https://www.3dmgame.com/news/202505/3919918.html)   2025-05-16 16:27
+
+战锤SKULL节将于5月22日举行，展示包括《战锤40K：星际战士2》《全面战争：战锤》等多款作品的重磅更新与独家情报。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747384885_928780_png_r.webp)
+
+---
+
+## 10. [《最终幻想7》蒂法Mod换上《光与影》吕涅同款服装](https://www.3dmgame.com/news/202505/3919915.html)   2025-05-16 16:26
+
+《最终幻想7》蒂法新Mod为其换上了《光与影：33号远征队》角色吕涅的套装。这套服装帅气且时尚，并带有物理效果，吸引了大量玩家关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747383934_587905_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-16 20:45)
+
+## 1. [多人混战《呆呆大乱斗》现已上线Steam 首日限时免费领取入库！](https://www.3dmgame.com/news/202505/3919914.html)   2025-05-16 16:26
+
+独立工作室Glowfish Interactive和Rangatang推出的多人乱斗游戏《呆呆大乱斗（Nubs!: Arena）》现已上线Steam，玩家可在发售后的前24小时内免费领取。本作融合了Roguelite成长机制、浮夸动作和混乱场景，支持4至20人在线对战，亦可本地最多4人畅玩。游戏包含多种武器与道具，玩家可自定义角色并体验快节奏战斗。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747383840_640222_png_r.webp)
+
+---
+
+## 2. [Stellar Blade PC版规格与发售日期公布](https://www.gamespot.com/articles/stellar-blade-pc-specs-and-release-date-confirmed/1100-6531590/?ftag=CAD-01-10abi2f)   2025-05-16 16:23
+
+曾为PlayStation独占的《Stellar Blade》将于2025年6月11日登陆PC平台。开发商Shift Up确认PC版支持NVIDIA DLSS 4、AMD FSR 3等技术，以及宽屏显示和4K画质。虽然推荐使用PS5 DualSense手柄，玩家也可自定义键位。
+
+---
+
+## 3. [《明末：渊虚之羽》新BOSS战视频公布](https://www.3dmgame.com/news/202505/3919913.html)   2025-05-16 16:13
+
+动作角色扮演游戏《明末：渊虚之羽》将于2025年7月24日发售。官方发布新Boss战“食人妖女·陆红柳”视频，展示了游戏核心战斗机制。该游戏背景设定于明末巴蜀之地，玩家需化身失忆女侠，通过强化武器与技能对抗疫病催生的妖怪。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747383142_317173.jpg)
+
+---
+
+## 4. [《英雄无敌：上古纪元》更新展示新城镇与天使设计](https://www.3dmgame.com/news/202505/3919912.html)   2025-05-16 16:01
+
+《英雄无敌：上古纪元》官方发布新预告视频，展示游戏中的新圣殿城镇和天使单位的设计。游戏改进了城镇界面和冒险模式，同时支持玩家在随机生成地图上探索或创建自己的冒险世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250516/1747382431_396844_jpg_r.jpg)
+
+---
+
+## 5. [苹果阻止Epic提交，Fortnite继续缺席iOS](https://www.gamespot.com/articles/fortnite-wont-be-coming-to-ios-soon-as-apple-blocks-epics-app-store-submission/1100-6531588/?ftag=CAD-01-10abi2f)   2025-05-16 16:51
+
+Epic Games宣布，苹果已“阻止”其在App Store的提交，导致《Fortnite》仍无法在全球范围内回归iOS平台。Epic称苹果未在正常审核时间内回应，致使游戏上线受阻。
+
+---
+
+## 6. [海盗船CORSAIR K70 PRO TKL磁力轴键盘体验评测](https://www.4gamers.com.tw/news/detail/71771/corsair-k70-pro-tkl-keyboard-review)   2025-05-16 16:30
+
+海盗船推出的K70 PRO TKL磁力轴键盘专为FPS玩家设计，支持0.1-4.0mm触发点调节，搭载8K回报率与Rapid Trigger功能，同时兼具日常打字需求。该键盘外观精致，支持iCUE软件自定义设置。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ddfb21b66d92f81cdde7c1863d223e2d465cf6a5.jpg)
+
+---
+
+## 7. [hololive猫又小粥达成200万订阅里程碑](https://www.4gamers.com.tw/news/detail/71825/hololive-vtuber-nekomata-okayu-reach-2-million-youtube-subscribers)   2025-05-16 16:28
+
+hololive旗下VTuber猫又小粥在耐久歌回直播中成功突破YouTube频道200万订阅。她感谢粉丝的支持与包容，并表示会继续努力为大家带来更多精彩内容。同时，她的第二场个人演唱会将于5月底举行。
+
+![](https://img.4gamers.com.tw/puku-clone-version/e71251e3d3859de01546eb55668a78de75e7a1ee.jpg)
+
+---
+
+## 8. [Arm调整处理器命名，聚焦不同平台开发](https://www.4gamers.com.tw/news/detail/71829/arm-rename-the-cpu-for-different-platform)   2025-05-16 16:21
+
+Arm公司宣布对其处理器产品进行重新命名，以便开发者更好地定位不同平台资源。新命名包括Arm Neoverse（基建）、Arm Niva（PC）、Arm Lumex（移动设备）等，性能等级则分为Ultra、Premium等五类。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f7f07ba09946170eef77d835dcd079a0e0dfbaf6.jpg)
+
+---
+
+## 9. [快节奏肉鸽游戏《迷失兰登：永恒骰子》6月17日多平台上线](https://www.4gamers.com.tw/news/detail/71828/lost-in-random-the-eternal-die-launch-date-announcement)   2025-05-16 16:19
+
+暗黑童话风格的动作肉鸽游戏《迷失兰登：永恒骰子》将于6月17日登陆多平台。玩家可预购特定版本获得抢先体验资格及额外奖励。本作融合策略与动作战斗，为玩家提供随机性与挑战性并存的游戏体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/74ea6537a4b25927cafb05408b7d5cae54fb1fbb.png)
+# 新闻简报(更新时间:2025-05-16 20:45)
+
+## 1. [台灣角川確定代理《CLAMP展官方畫集 COLOR KURO+SHIRO》，年底在台全面上市](https://www.4gamers.com.tw/news/detail/71826/clamp-color-kuro-shiro-release-in-taiwan)  2025-05-16 16:08
+
+日本創作團體CLAMP的35週年紀念展官方畫集《COLOR KURO+SHIRO》將由台灣角川代理，預計於2025年底全面上市。該畫集收錄了兩百多幅彩色原畫，分為黑白主題兩冊，是對CLAMP過往創作精華的總結，亦是粉絲們的重要收藏品。
+
+![](https://img.4gamers.com.tw/puku-clone-version/d48c70ddf905da5523a12f3abf27dee1dcb665ae.png)
+
+---
+
+## 2. [手遊《文明帝國：同盟時代》雙平台總預約破120萬，加碼實體抽獎活動開跑](https://www.4gamers.com.tw/news/detail/71824/civilization-eras-allies-over-1-million-pre-registrations-event)  2025-05-16 15:46
+
+《文明帝國：同盟時代》雙平台預約突破120萬，官方加碼推出實體抽獎活動，玩家有機會贏得iPhone、AirPods Pro等大獎。遊戲計劃吸引更多玩家參與，預約人數目標為200萬。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b453bd817fedf66b277ef8c996b50b39007caaf3.jpg)
+
+---
+
+## 3. [修復被遺忘的老舊電玩卡帶，懷舊風模擬遊戲《Cozy Game Restoration》將登Steam](https://www.4gamers.com.tw/news/detail/71822/cozy-game-restoration-deploy-on-steam-at-jluy)  2025-05-16 15:38
+
+《Cozy Game Restoration》是一款模擬修復遊戲，玩家將修復破損的遊戲卡帶，體驗懷舊與創造的樂趣。該遊戲預計於2025年7月登陸Steam，並將提供超過100種收藏卡帶。
+
+![](https://img.4gamers.com.tw/puku-clone-version/5e021da1e1ce35307e3a2e12cadebeff35e8bd44.jpg)
+
+---
+
+## 4. [育碧确定《波斯王子：时之砂》重制版于2026年推出](https://www.3dmgame.com/news/202410/3906514.html)  2024-10-18 09:49
+
+育碧宣布，《波斯王子：时之砂》重制版将于2026年发布。此次重制将对角色设定、摄影机操作和控制系统进行重大调整，并借鉴《黑暗之魂》等游戏的灵感，适应新世代主机技术。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729216126_376616.jpg)
+
+---
+
+## 5. [经典视觉小说《夜勤病栋》Steam页面上线 发售日待定](https://www.3dmgame.com/news/202410/3906515.html)  2024-10-18 09:49
+
+经典视觉小说《夜勤病栋》现已上线Steam页面，支持简繁体中文。游戏讲述了一位天才医生的黑暗故事，玩家将体验跌宕起伏的剧情。目前发售日期尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729216126_340510.jpg)
+
+---
+
+## 6. [前PlayStation高管表示游戏机商需要在内容上竞争 而不是每秒万亿次浮点运算的能力](https://www.3dmgame.com/news/202410/3906513.html)  2024-10-18 09:41
+
+前PlayStation全球工作室总裁Shawn Layden表示，游戏机行业需要在内容上展开竞争，而非一味追求硬件性能。他认为当前模式已不可持续，未来需要彻底重设。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729215638_389839.jpg)
+
+---
+
+## 7. [口嫌体正直：当年玩家指责老滚马甲DLC 但还掏钱狂买](https://www.3dmgame.com/news/202410/3906510.html)  2024-10-18 09:31
+
+《上古卷轴4》的马甲DLC曾因售价2.5美元引发争议，但最终销售量高达数百万份。开发者表示尽管玩家批评，但仍然购买，成为DLC商业模式的开端。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729214071_294679.jpg)
+
+---
+
+## 8. [Xbox发布会：《深海迷航2》将于2025年推出抢先体验](https://www.3dmgame.com/news/202410/3906512.html)  2024-10-18 09:30
+
+《深海迷航2》宣布将于2025年推出抢先体验，并新增多人合作功能。玩家将在深海中探索神秘生物群落，修建基地，迎接更多冒险挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729214882_377349.png)
+
+---
+
+## 9. [《永恒之链》宣布将首日加入XGP 2025年初发售](https://www.3dmgame.com/news/202410/3906511.html)  2024-10-18 09:22
+
+魔幻动作冒险游戏《永恒之链》宣布将于2025年初发售，并首日加入Xbox Game Pass。玩家将与巨型生物战斗，探索魔法世界的秘密。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729214373_534399.jpg)
+
+---
+
+## 10. [《艾尔登法环》1.16版更新上线 修复存档Bug等](https://www.3dmgame.com/news/202410/3906509.html)  2024-10-18 08:34
+
+《艾尔登法环》推出1.16版本更新，修复角色能力值异常的存档Bug，并优化了游戏稳定性。玩家需更新版本后才能进行线上联机。
+
+![](https://img.3dmgame.com/uploads/images/news/20241018/1729211569_168707.jpg)
+
+---
