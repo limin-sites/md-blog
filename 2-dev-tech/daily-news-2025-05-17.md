@@ -107,3 +107,32 @@ OpenAI 近期动作频频，一边收购了浏览器创业公司 Windsurf，一�
 ![](https://media.daily.dev/image/upload/s--0_ODbtD2--/f_auto/v1722860399/public/Placeholder%2008)
 
 ---
+# 新闻简报(更新时间:2025-05-17 15:45)
+
+## 1. [DevEco重大更新快来体验吧 - 龙儿筝](https://www.cnblogs.com/zhaloe/p/18881191)   2025-05-17 14:36
+
+HarmonyOS首个API17版本正式发布，DevEco迎来了重大更新。此次更新支持创建API17应用，并新增模拟器功能，可支持折叠屏手机及二合一设备。此外，权限申请流程得到优化，用户可以通过自动签名快速完成申请。开发者可以通过更新的系统能力提升应用开发效率。
+
+## 2. [dotnet-trace 分析.net程序性能 - chester·chen](https://www.cnblogs.com/chenyishi/p/18881181)   2025-05-17 14:24
+
+性能分析是.NET开发中的关键环节，本文介绍了如何使用dotnet-trace工具对.NET Core应用进行性能跟踪。通过结合PerfView和Speedscope等工具，开发者可以更深入地了解程序运行状况，识别性能瓶颈，优化应用性能。
+
+## 3. [Windows配置VS Code详细流程 - 疯狂学习GIS](https://www.cnblogs.com/fkxxgis/p/18881155)   2025-05-17 13:44
+
+本文详细介绍了如何在Windows系统中安装和配置Visual Studio Code（VS Code）。VS Code是一款由微软开发的跨平台代码编辑器，支持多种操作系统。文章提供了从下载到运行的全流程指导，适合新手快速上手。
+
+## 4. [基于libwchnet&Mbedtls实现HTTPS - 小小小学僧](https://www.cnblogs.com/llidd/p/18881095)   2025-05-17 12:24
+
+本文讲解了如何使用CH32V307VCT6芯片及官方协议栈（libwchnet）结合Mbedtls协议实现HTTPS访问。通过实例展示如何获取百度首页数据，同时对HTTPS协议及SSL/TLS的基础知识进行了简要说明，是学习嵌入式网络编程的优质入门教程。
+
+## 5. [用 Tarjan 算法求解有向图的强连通分量 - Ofnoname](https://www.cnblogs.com/ofnoname/p/18823922)   2025-05-17 12:14
+
+连通性是图论中的核心概念，本文介绍了如何在有向图中使用Tarjan算法求解强连通分量。算法通过深度优先搜索实现，适用于分析网络结构和路径依赖问题，是解决复杂图论问题的有效手段。
+
+## 6. [探秘Transformer系列之（33）--- DeepSeek MTP - 罗西的思考](https://www.cnblogs.com/rossiXYZ/p/18880573)   2025-05-17 09:55
+
+本文继续探讨Transformer的深层原理，旨在帮助读者理解其工作机制及背后的理论基础。同时，还结合最新研究成果，为经验丰富的开发者提供了新的思路和启发，是机器学习领域的深度学习资料。
+
+## 7. [Manim实现线条发光效果 - wang_yb](https://www.cnblogs.com/wang_yb/p/18880993)   2025-05-17 09:46
+
+本文通过Manim框架演示如何实现线条发光效果。发光效果为动画增添了视觉吸引力，文章从代码解析到实现思路进行了逐步讲解，为动画制作者提供了实用的技巧。
