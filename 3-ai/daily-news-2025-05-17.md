@@ -171,3 +171,44 @@ OpenAI 今日线上发布了一款全新的云端 AI 编程智能体——Codex�
 Codex 运行于 OpenAI 的强化学习计算系统中，任务在独立虚拟沙盒中完成，确保安全高效。基准测试显示，codex-1 在 SWE-bench 上取得了 72.1% 的高分，性能超越其他 AI 模型。目前，Codex 已向 ChatGPT Pro、Enterprise 和 Team 用户开放，并计划进一步增强其交互性和灵活性。
 
 ![](https://upload.chinaz.com/2025/0517/6388307239674315043697200.png)
+# 新闻简报(更新时间:2025-05-17 20:45)
+
+## 1. [图像分词器造反了！华为 Selftok：自回归内核完美统一扩散模型，触发像素自主推理](https://www.jiqizhixin.com/articles/2025-05-17-5)   2025-05-17 19:17
+
+华为盘古团队推出了革命性图像分词技术Selftok，这一技术通过反向扩散过程将图像转化为离散自回归序列，彻底重构视觉表达的方式。Selftok不仅实现了视觉重建和跨模态生成的突破，还优化了强化学习的视觉表征，成为图像生成领域的新标杆。该技术论文已入选CVPR 2025最佳论文候选。
+
+![](https://image.jiqizhixin.com/uploads/editor/327f2b7d-e230-4d97-9476-5f1741d2981a/640.png)
+
+---
+
+## 2. [CVPR 2025 | SketchVideo让手绘动起来，视频生成进入线稿时代](https://www.jiqizhixin.com/articles/2025-05-17-4)   2025-05-17 19:12
+
+中国科学院大学与快手团队合作推出SketchVideo技术，通过线稿即可生成动态视频。该方法使用跳跃式残差控制结构和帧间注意力机制，大幅提升视频生成和编辑的可控性，助力用户轻松实现创意表达。该技术论文已在CVPR 2025发表。
+
+![](https://image.jiqizhixin.com/uploads/editor/32ccd401-5f53-4695-8d48-90536afe3290/640.png)
+
+---
+
+## 3. [刚刚，OpenAI最强编程智能体上线ChatGPT](https://www.jiqizhixin.com/articles/2025-05-17-3)   2025-05-17 19:08
+
+OpenAI发布智能编程助手Codex，专为软件工程任务优化，支持代码编写、问题解答和bug修复。该工具基于codex-1模型，并已面向ChatGPT Pro用户开放使用。Codex采用云端沙盒环境，确保代码生成的安全性和透明度。
+
+![](https://image.jiqizhixin.com/uploads/editor/25b0ea5f-6077-40ff-a39f-0a2dfe2bf82c/640.png)
+
+---
+
+## 4. [85倍速度碾压：苹果开源FastVLM，能在iphone直接运行的视觉语言模型](https://www.jiqizhixin.com/articles/2025-05-17-2)   2025-05-17 19:04
+
+苹果开源了高效视觉语言模型FastVLM，该模型通过混合视觉编码器FastViTHD，显著优化了图像处理速度和兼容性。FastVLM支持边缘设备和实时图文任务，是iOS和Mac生态的理想选择。用户可通过GitHub获取代码及演示应用。
+
+![](https://image.jiqizhixin.com/uploads/editor/558723b9-4f2c-4533-9284-6486719b11dc/640.png)
+
+---
+
+## 5. [ICML 2025 Spotlight｜南洋理工陶大程教授团队等提出基于RAG的高分辨率图像感知框架，准确率提高20%](https://www.jiqizhixin.com/articles/2025-05-17)   2025-05-17 18:58
+
+南洋理工大学与武汉大学团队合作提出RAP框架，该方法通过检索相关图像块并保持空间关系，大幅提升MLLM对高分辨率图像的感知能力。在HR-Bench 8K任务中，RAP实现了21.7%的准确率提升。此技术已获ICML 2025 Spotlight论文。
+
+![](https://image.jiqizhixin.com/uploads/editor/cb85d5ab-e0a1-42a5-9c61-11d5495706fc/640.png)
+
+---
