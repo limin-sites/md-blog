@@ -73,3 +73,37 @@ Stack Overflow 的用户参与度显著下降，每月提问数量已回到 2009
 ![](https://media.daily.dev/image/upload/s--1KxV4ohY--/f_auto/v1722860400/public/Placeholder%2007)
 
 ---
+
+# 新闻简报 (更新时间: 2025-05-17 10:45)
+
+## 1. [刚刚，OpenAI丢出最强编程智能体Codex！倒反天罡——新上线功能竟是微软Copilot鼻祖？](https://www.51cto.com/article/815847.html)   
+2025-05-17 08:39
+
+OpenAI 近期动作频频，一边收购了浏览器创业公司 Windsurf，一边在编程领域推出了更强大的 Codex 智能体。此举表明 OpenAI 正在为“AI 全栈开发环境”做准备。Codex 作为微软 Copilot 的重要技术来源，进一步强化了编程领域的 AI 赋能能力。文章深入探讨了 Codex 的最新功能及其对开发者生态的潜在影响。
+
+---
+
+## 2. [ASP.NET Core EFCore 属性配置与 DbContext 详解 - CSharp精选营](https://www.cnblogs.com/shenchuanchao/p/18879792)   
+2025-05-17 08:21
+
+本文全面解析了 ASP.NET Core 中 EFCore 的实体属性配置及 DbContext 的核心用法，旨在帮助开发者高效管理数据模型与数据库交互。重点介绍了两种配置方法：数据注解（Data Annotation）和 Fluent API，并详细说明了如何优化模型设计与数据库操作。无论是初学者还是资深开发者，都可以从中获得实用技巧。
+
+---
+
+## 3. [AI killed my coding brain but I’m rebuilding it](https://app.daily.dev/posts/ai-killed-my-coding-brain-but-i-m-rebuilding-it-7sroooj3b)   
+2025-05-14 10:24
+
+随着 Copilot 和 CodeWhisperer 等 AI 工具的广泛应用，开发者的编码方式正在发生变革。然而，这种依赖性也导致了基本编码技能的下降。作者建议开发者通过平衡 AI 使用与传统学习方法、参与社区互动以及从零开始构建项目来提升对编程的深刻理解，以确保长期的技术掌握。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/bf98de106b0592d46e268155ac6fb5af?_a=AQAEuj9)
+
+---
+
+## 4. [未命名新闻](https://app.daily.dev/posts/nfbblnxfs)   
+2025-05-14 03:51
+
+这篇新闻仅包含图片和链接，但未提供相关文字信息。内容可能涉及技术领域的最新动态或行业趋势。
+
+![](https://media.daily.dev/image/upload/s--0_ODbtD2--/f_auto/v1722860399/public/Placeholder%2008)
+
+---
