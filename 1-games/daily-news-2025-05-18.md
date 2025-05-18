@@ -346,3 +346,103 @@ Bungie新作《马拉松》因素材抄袭风波陷入困境，导致开发团�
 ![](https://img.3dmgame.com/uploads/images/news/20250518/1747534343_103084_jpg_r.jpg)
 
 --- 
+# 新闻简报(更新时间:2025-05-18 20:45)
+
+## 1. [ROG NUC 2025迷你游戏PC上架 售价24999元](https://www.3dmgame.com/news/202505/3919998.html)  2025-05-18 19:40  
+
+华硕推出新款ROG NUC 2025迷你游戏PC，搭载酷睿Ultra 200HX处理器和RTX 50系列显卡，机身容量仅3升，配置包括32GB内存和2TB SSD。该产品支持Wi-Fi 7和蓝牙5.4，拥有丰富的接口，售价为24999元，现已上线电商平台并开启预约抢购。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747569288_588197_jpg_r.jpg)  
+
+## 2. [小岛秀夫无意迎合所有人：对吸引大众市场不感兴趣](https://www.3dmgame.com/news/202505/3919997.html)  2025-05-18 17:34  
+
+小岛秀夫在采访中表示《死亡搁浅2》获得积极反馈，但他仍坚持不追求大众市场的成功。他透露新游戏《Physint》受《合金装备》影响，同时希望未来小岛工作室能延续他的创意遗产。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747553843_429357_jpg_r.jpg)  
+
+## 3. [《双影奇境》电影改编权的竞拍报价已达数百万美元级别](https://www.3dmgame.com/news/202505/3919996.html)  2025-05-18 17:02  
+
+EA合作冒险游戏《双影奇境》的电影改编权竞拍报价已达数百万美元级别，索尼和亚马逊米高梅影业展开争夺。该片将由朱浩伟执导，悉尼·斯威尼担任主演和执行制片人。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747553630_886727.jpg)  
+
+## 4. [Shift Up正在与索尼密切探讨《星刃》Steam版锁区问题](https://www.3dmgame.com/news/202505/3919995.html)  2025-05-18 16:36  
+
+《星刃》Steam版因锁区问题无法在超120个国家发行，开发商Shift Up正与索尼密切合作解决。同时，工作室回应了玩家对D加密的不满，承诺优化帧率并支持MOD使用。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747553458_139483_jpg_r.jpg)  
+
+## 5. [Take-Two CEO：《GTA6》会是有史以来最优秀的产品](https://www.3dmgame.com/news/202505/3919994.html)  2025-05-18 16:06  
+
+Take-Two CEO施特劳斯·泽尔尼克表示，Rockstar致力于将《GTA6》打造成娱乐领域最优秀的作品。尽管游戏略有延期，但其第二支预告片打破观看记录，备受期待。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747553286_906339_jpg_r.jpg)  
+
+## 6. [任天堂宣布不会在第一方游戏作品中使用游戏密钥卡](https://www.3dmgame.com/news/202505/3919992.html)  2025-05-18 15:26  
+
+任天堂确认Switch 2平台的第一方游戏将继续使用完整实体卡带，而非备受争议的“游戏密钥卡”。此举受到收藏爱好者的广泛欢迎。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747551155_809913.jpg)  
+
+## 7. [《弹丸论破》创作者新游《终天教团》公布游戏预告片](https://www.3dmgame.com/news/202505/3919991.html)  2025-05-18 14:48  
+
+《弹丸论破》创作者小高和刚参与的新作《终天教团》公布首个游戏预告片，该作由DMM Games与Too Kyo Games联合开发，具体发售时间尚未揭晓。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747550901_630281.jpg)  
+# 新闻简报(更新时间:2025-05-18 20:45)
+
+## 1. [AMD服务器市场收入份额狂飙近40% 桌面端也达34.4%](https://www.3dmgame.com/news/202505/3919990.html) 2025-05-18 14:44
+
+Mercury Research数据显示，AMD在2025年第一季度的服务器市场收入份额达到39.4%，桌面端收入份额达34.4%。其Zen 4和Zen 5架构处理器表现优异，锐龙系列处理器在游戏和内容创作领域持续领先。此外，AMD移动处理器市场份额也显著增长。
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747550667_646610_jpg_r.jpg)
+
+---
+
+## 2. [集成8款经典作品 《卡普空对战格斗合集2》上市宣传片](https://www.3dmgame.com/news/202505/3919989.html) 2025-05-18 13:57
+
+《卡普空对战格斗合集2》正式发售，包含8款经典格斗游戏，并支持线上对战与高分挑战模式。游戏新增丰富功能（如一键必杀技、练习模式等），还收录了插图与开发资料。玩家可在Steam免费试玩至5月20日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747547800_389049_jpg_r.jpg)
+
+---
+
+## 3. [微软称Windows PC比Mac快58%：惨遭网友无情嘲讽](https://www.3dmgame.com/news/202505/3919988.html) 2025-05-18 13:51
+
+微软发布广告称其Copilot+ PC比Mac快58%，但因对比去年的M3 MacBook Air而非最新M4系列引发网友质疑。评论区充满讽刺：“只比一年前的入门机快？这真令人尴尬。”
+
+![](https://img.3dmgame.com/uploads/images/news/20250518/1747547472_200660_png_r.webp)
+
+---
+
+## 4. [Steam好评模拟《房产达人2》多人合作DLC免费上架](https://www.4gamers.com.tw/news/detail/71843/house-flipper-2-co-op-dlc-and-free-weekend) 2025-05-18 13:47
+
+《房产达人2》推出免费多人合作DLC，支持最多4人组队完成新案件和房产任务，并新增92种物品。游戏正处于免费周末活动，玩家可在5月20日前免费试玩。
+
+![](https://img.4gamers.com.tw/puku-clone-version/58aa00182b71d5e02574e20e4d1cda1bec947b17.jpg)
+
+---
+
+## 5. [为什么一夜之间，各地高校内都贴满了这种“发神经”海报？](https://www.yystv.cn/p/12861) 2025-05-18 13:05
+
+一种名为“发神经”的恶搞海报活动在全国高校内迅速传播，旨在通过幽默和无意义的设计让人开怀一笑。这种行为艺术不仅风靡国内，还扩展至海外留学生社区。
+
+![](https://alioss.yystv.cn/doc/12861/faaf5650c83158465177c3ca76e828a3.appmsg_mw680water)
+
+---
+
+## 6. [《幻想生活 i 龙与偷走时间的少女》豪华版更新补丁内容曝光](http://nnas.sqngame.com:11201/xboxfan/news) 2025-05-18 13:03
+
+游戏将在豪华版解锁时推送大型补丁，新增“签名”功能、“Go to Life Master”选项等优化，提升制作物品的便捷性，同时进行了部分UI调整和Bug修复。
+
+![](https://static.willmao.com/feed_upload/2025-05-18/12-12-43-phpAmEOZ6.png)
+
+---
+
+## 7. [红警2的“文艺复兴”，正在散场](https://www.yystv.cn/p/12860) 2025-05-18 13:00
+
+红警2曾因怀旧浪潮迎来内容创作高峰，但随着时间推移，热度逐渐消退。创作者们面临技术限制和生活压力，部分项目停滞或转型。尽管如此，红警2仍在核心圈层保持活跃。
+
+![](https://alioss.yystv.cn/doc/12860/d640416c9c391dab1f3b8f0f070baedd.appmsg_mw680water)
+
+---
