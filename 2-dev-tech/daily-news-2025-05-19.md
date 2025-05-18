@@ -82,3 +82,30 @@ WSO2 Identity Server 和 WSO2 API Manager 现支持通过 Identity Providers 功
 ## 5. [稀疏贝叶斯谱估计及EM算法求解 - 节奏不稳](https://www.cnblogs.com/IrregularRhythm/p/18882385)   2025-05-18 18:32
 
 稀疏贝叶斯学习（SBL）作为一种机器学习算法，已被应用于谱估计和稀疏重构问题中。本文探讨了 SBL 的原理及其与压缩感知的关系，同时介绍了通过 EM 算法求解的具体实现方法，为读者深入理解机器学习提供了启发。
+# 新闻简报(更新时间:2025-05-19 05:45)
+
+## 1. [异步之舞：FastAPI与MongoDB的深度协奏 - Amd794](https://www.cnblogs.com/Amd794/p/18882985)   2025-05-19 00:22
+
+本文介绍了使用FastAPI与MongoDB进行集成的基础方法。内容涵盖环境配置要求、Python版本选择以及具体实践步骤。作者详细讲解了如何使用异步操作提升数据库访问效率，并探讨了常见问题及解决方法。文章适合有一定开发经验的读者，为进一步优化后端开发提供了实用指导。
+
+---
+
+## 2. [基于.NetCore开发 StarBlog 番外篇 (4) 文章一键发布工具Publisher大升级，AI功能增强与界面优化 - 程序设计实验室](https://www.cnblogs.com/deali/p/-/starblog-extrapolation-4-publisher-major-upgrade)   2025-05-18 23:46
+
+《StarBlogPublisher》迎来重大升级！此次更新优化了界面设计，提升空间利用率，统一使用Font Awesome图标，并新增多项AI功能，包括支持动态加载模型、独立配置窗口与多组配置文件管理。新版本的工具显著增强了博客和公众号文章创作效率，为内容创作者带来更智能化的体验。
+
+---
+
+## 3. [聊一聊 dotnet 社区对 RISC-V 的支持进展 - 张善友](https://www.cnblogs.com/shanyou/p/18882866)   2025-05-18 23:14
+
+.NET 10的最新预览版本发布后，文章对其对RISC-V架构支持的进展进行了梳理。从官方支持、社区贡献到开发工具链的优化，作者结合Github相关仓库和Issue，分析了RISC-V在.NET开发中的应用前景。这篇文章为关注新兴架构的开发者提供了最新动态。
+
+---
+
+## 4. [(comic) How to start a blog as a developer](https://app.daily.dev/posts/comic-how-to-start-a-blog-as-a-developer-aiahyqoef)   2025-05-13 00:19
+
+本文以漫画形式分享如何作为开发者开始博客创作，探讨了使用视觉化内容吸引读者的创新方式。文章还总结了博客创作的潜在优势及具体技巧，为想要建立个人品牌的技术人员提供了实用建议。
+
+![](https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/a294027ae1939df76a5efbeff255330c?_a=AQAEuj9)
+
+---
