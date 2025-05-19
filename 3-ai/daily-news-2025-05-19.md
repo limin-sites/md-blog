@@ -435,3 +435,95 @@ Invoice Mama 是一款免费的发票生成器，专为自由职业者和小型�
 ![](https://pic.chinaz.com/ai/2025/05/19/202505190354456944.jpg)
 
 ---
+# 新闻简报 (更新时间: 2025-05-19 20:45)
+
+## 1. [腾讯云两篇论文获全球顶会SIGCOMM录用，解决云计算和大模型网络技术痛点](https://www.jiqizhixin.com/articles/2025-05-19-9)  2025-05-19 19:07
+
+腾讯云的两项论文成功入选全球计算机网络领域顶级会议SIGCOMM，分别解决了超大规模云计算网络性能瓶颈和万亿参数大模型训练效率难题。其创新技术包括基于智能网卡的硬件原生流表管理架构，以及专为大模型训练构建的高性能网络基础设施。这标志着腾讯云在云网络和AI基础设施领域达到国际领先水平。
+
+![](https://image.jiqizhixin.com/uploads/editor/a3dc3461-3ff9-4305-b4d1-d2ee8e382003/1747652762368.png)
+
+---
+
+## 2. [高通重返数据中心市场，瞄准 AI 时代低功耗高效能产品](https://www.aibase.com/zh/news/18169)  2025-05-19 17:52
+
+高通宣布将重返数据中心市场，并计划推出基于低功耗高效能设计的AI相关产品。高通CEO透露未来会发布定制CPU，与Nvidia GPU协作，进一步推动AI时代数据中心的技术发展。此外，高通还计划在9月份发布新一代PC处理器，预计性能将显著提升。
+
+![](https://pic.chinaz.com/picmap/202011082114188511_15.jpg)
+
+---
+
+## 3. [抖音启动 “AI 起号” 专项整治行动，清理低俗内容](https://www.aibase.com/zh/news/18168)  2025-05-19 17:46
+
+抖音宣布启动“AI 起号”专项治理行动，重点打击利用AI生成低俗视频、虚假内容等行为。截至目前，平台已清理311条违规内容，并封禁15个严重违规账号。抖音呼吁用户合法使用AI工具，共同维护平台生态。
+
+![](https://upload.chinaz.com/2025/0519/6388327355238281713843777.png)
+
+---
+
+## 4. [爱诗科技PixVerse V4.5上线，APP热度赶超TikTok跻身美国总榜第四](https://www.jiqizhixin.com/articles/2025-05-19-8)  2025-05-19 17:44
+
+爱诗科技旗下AI视频生成平台PixVerse V4.5版本上线后迅速在海外市场走红，用户规模突破6000万，并超越TikTok跻身美国iOS总榜第四位。平台不仅服务于个人用户，也通过API开放平台助力企业高效生成商业级视觉内容。
+
+![](https://p3-sign.toutiaoimg.com/tos-cn-i-axegupay5k/7bcfb592eb3a4167a26bb587843bb158~tplv-tt-origin-web:gif.jpeg?_iz=58558&from=article.pc_detail&lk3s=953192f4&x-expires=1748252560&x-signature=dLJk3GwOklrF7Czyvvhc%2FpTgPNg%3D)
+
+---
+
+## 5. [NVIDIA全新GeForce GPU震撼亮相！黄仁勋：AI与模拟交织，极致美感颠覆游戏与创作！](https://www.aibase.com/zh/news/18167)  2025-05-19 17:42
+
+NVIDIA在COMPUTEX2025大会上发布全新GeForce GPU系列，强调AI与实时模拟的融合，为游戏玩家和内容创作者带来极致体验。同时推出下一代DLSS4技术和NVIDIA ACE数字人技术，大幅提升游戏帧率和沉浸感。
+
+![](https://upload.chinaz.com/2025/0519/6388327330191861568807296.png)
+
+---
+
+## 6. [微软推动AI代理跨公司协作，引入新标准协议](https://www.aibase.com/zh/news/18166)  2025-05-19 17:11
+
+微软计划通过模型上下文协议（MCP）推动AI代理跨公司协作，并提升AI系统的记忆能力。这将赋予AI模型更强的交互能力，同时通过结构化检索增强技术优化用户体验，推动AI行业的网络化发展。
+
+![](https://pic.chinaz.com/picmap/202001202045237249_1.jpg)
+
+---
+
+## 7. [Poe2025春季AI模型使用趋势报告：OpenAI与Anthropic双雄争霸 可灵异军突起](https://www.aibase.com/zh/news/18165)  2025-05-19 16:25
+
+Poe发布《2025春季AI模型使用趋势报告》，显示OpenAI和Anthropic继续主导文本生成领域，推理模型使用份额激增，视频生成领域中国模型Kling异军突起。报告揭示AI应用正向多模态任务全面扩展。
+
+![](https://upload.chinaz.com/2025/0519/6388326856692575084082386.png)
+
+---
+# 新闻简报(更新时间:2025-05-19 20:451)
+
+## 1. [Google搜索推出AI Mode实验，探索全新智能问答体验](https://www.aibase.com/zh/news/18163)   2025-05-19 15:32
+
+Google在其搜索引擎中推出了一项名为“AI Mode”的实验功能，该功能支持用户通过文本、语音或图像提问，并利用AI技术从网络信息中提供智能化回答。AI Mode还可根据用户的后续问题深入探索，同时提供相关网页链接，帮助用户全面理解查询内容。该功能目前仅向美国用户开放。
+
+![](https://upload.chinaz.com/2025/0519/6388326552796003751319858.png)
+
+---
+
+## 2. [AI大厦需要新的地基！](https://www.jiqizhixin.com/articles/2025-05-19-7)   2025-05-19 15:04
+
+随着AI模型的发展，数据的重要性愈加突出。文章探讨了“Data×AI”的新范式，强调数据与AI的一体化融合是未来AI发展的关键。OceanBase CTO在开发者大会上提出了向“知识底座”和多模态数据处理能力演进的战略，以应对AI时代的数据挑战。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWickoR5cFZgB6pwT3p0etqAkTYS5IS6TrGnUkyia5xxW7ryhDDSZgtsT55kUM75ZEVDibAialRicjEXCHg/640?wx_fmt=jpeg&from=appmsg)
+
+---
+
+## 3. [Index-AniSora：B站开源动画生成模型，斩获多项SOTA入选IJCAI25](https://www.jiqizhixin.com/articles/2025-05-19-6)   2025-05-19 15:00
+
+B站开源的动画生成模型Index-AniSora支持多种二次元风格视频一键生成，并入选IJCAI25学术会议。该模型基于B站AniSora技术打造，全面提升了动画内容生产的效率与质量。其开源内容包括训练数据集构建全链路模型和基准评测系统。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWicAcAVcbKtrGM6xQsSB2dTNZoRONIcNM6fxEK8v6aYM5YE0vFWU5WMqIK9GfGfBx16tB2sxohLiakA/640?wx_fmt=png&from=appmsg)
+
+---
+
+## 4. [AI生成视频总不符合物理规律？匹兹堡大学团队新作PhyT2V：不重训练模型也能让物理真实度狂飙2.3倍！](https://www.jiqizhixin.com/articles/2025-05-19-5)   2025-05-19 14:53
+
+匹兹堡大学研究团队提出了PhyT2V框架，利用大型语言模型进行和迭，T的表2了物理真实和。
+
+![](://mzXW6TNfxYEqGohwx_fmt=png)
+
+---
+
+ [黑Agent护.j/4  崛更多胁，如AI生成的钓鱼邮件、深度造和系统逐云安全”策方式格[](izmbPKopwAk8TOKxia1?=
