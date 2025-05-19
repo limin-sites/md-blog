@@ -634,3 +634,335 @@ Switch2的GameChat系统将新增文本转语音（TTS）和实时字幕功能�
 ![](https://img.3dmgame.com/uploads/images/news/20250519/1747620258_509304_png_r.webp)
 
 ---
+# 新闻简报(更新时间:2025-05-19 20:45)
+
+## 1. [繁中版《FGO》八周年庆典活动圆满落幕](https://www.4gamers.com.tw/news/detail/71878/fgo-8th-anniversary-event)   2025-05-19 19:11
+
+《Fate/Grand Order》繁中版在台北市立儿童新乐园举办八周年庆典“迦勒底乐园”，吸引上千名玩家参加。活动现场不仅有趣味活动与丰富周边，还有Cosplay和互动打卡体验。夜间更有无人机与烟火表演，回顾游戏旅程，彰显玩家与游戏的“羁绊”。
+
+![](https://img.4gamers.com.tw/puku-clone-version/49ead54e71ce3be59d34fe670a539f568b76b0cb.jpg)
+
+---
+
+## 2. [华硕发布新一代GC-HPWR接口，支持1000W供电](https://www.4gamers.com.tw/news/detail/71879/asus-gc-hpwr-connector)   2025-05-19 18:59
+
+华硕推出改进版GC-HPWR接口，适用于新一代显卡和主板设计。新接口采用金属外壳设计，支持1000W供电，兼容传统主板与背插式设计。此更新大幅提高供电能力并改善安装便捷性。
+
+![](https://thumbor.4gamers.com.tw/TVniqzQlFW1lkxFlMCt7gRyQzYQ=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F3d598ee31f98bf0d7c3ba2f9b80dd0ef5725ab9e.jpg)
+
+---
+
+## 3. [2025 Garena Game Jam落幕，共19款原创作品开放试玩](https://www.4gamers.com.tw/news/detail/71876/2025-garena-game-jam)   2025-05-19 18:37
+
+由Garena主办的2025 Game Jam吸引近80名游戏开发者参与，以“Superhero”为主题，在三天内创造出19款原创游戏。活动强调创意激荡与团队合作，并颁发多项奖项表彰优秀作品。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0cb59f0ac5a4d9eeda103b41041cca02cf6d8613.png)
+
+---
+
+## 4. [技嘉于COMPUTEX 2025展示AI解决方案](https://www.4gamers.com.tw/news/detail/71877/gigabyte-leading-edge-computex-2025)   2025-05-19 18:34
+
+技嘉科技在COMPUTEX 2025以“LEADING EDGE”为主题发布多项AI创新技术，包括新一代外接显卡、AI超算设备以及AI优化软件，展现其推动地端AI应用的承诺。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ec02053f260817878bc2eeedeef73396cef4cce0.jpg)
+
+---
+
+## 5. [怪物猎人官推暗示将联动街霸](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-19 18:03
+
+怪物猎人官方推特发布了一张图片，疑似暗示即将与街霸展开联动。
+
+![](https://static.willmao.com/feed_upload/2025-05-19/17-49-18-phpklnwNK.jpg)
+
+---
+
+## 6. [Intel发布Arc Pro B50/B60工作站GPU](https://www.4gamers.com.tw/news/detail/71846/intel-announces-arc-pro-b50-and-arc-pro-b60-workstation-gpu)   2025-05-19 18:30
+
+Intel在COMPUTEX 2025推出Arc Pro B50/B60工作站GPU，最高支持192GB VRAM，适合运行大型AI模型。Arc Pro B50定价299美元，性能提升显著。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-COMPUTEX/Intel/Arc-Pro-B-01.jpg)
+
+---
+
+## 7. [恐怖合作游戏《劫盗惊魂夜》推出新恶灵与地图](https://www.3dmgame.com/news/202505/3920054.html)   2025-05-19 18:25
+
+《劫盗惊魂夜》推出第四次大型更新“电击地狱”，新增地图“发电厂”与恶灵“电力鬼魂”，并改进全地图结构。游戏同步开启限时8折优惠。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747650295_442234.png)
+
+---
+
+## 8. [华硕推出ROG XG Station 3外接显卡盒](https://www.4gamers.com.tw/news/detail/71875/rog-xg-station-3-external-gpu-box)   2025-05-19 18:17
+
+华硕发布ROG XG Station 3外接显卡盒，采用Thunderbolt 5连接，减少传统外接设计的性能损失，兼容16 Pin与GC-HWPR接口，外观设计时尚。
+
+![](https://thumbor.4gamers.com.tw/7-_5PU0DuJWSX5FGyJxFAiKWmLs=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F1573574ffcfc264714b1b7b6f427a6f8ccb1402a.jpg)
+
+---
+
+## 9. [搜狐创始人张朝阳谈AI未来](https://www.3dmgame.com/news/202505/3920053.html)   2025-05-19 18:16
+
+搜狐创始人张朝阳在论坛上表示，如果晚生30年自己也会卷入AI领域。他认为中国在工程化落地与应用创新上具备优势，有望追赶甚至超越国际竞争者。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747646060_762179_jpg_r.jpg)
+
+---
+
+## 10. [任天堂宣布Switch多款游戏将免费更新支持Switch2](https://www.4gamers.com.tw/news/detail/71874/nintendo-details-free-switch-2-updates-for-12-first-party-switch-games)   2025-05-19 18:11
+
+任
+# 新闻简报(更新时间:2025-05-19 20:45)
+
+## 1. [无线搭磁轴、75％分离式设计，华硕发布ROG Falcata](https://www.4gamers.com.tw/news/detail/71871/rog-launches-falcata-gaming-keyboard)   2025-05-19 18:00
+
+华硕在COMPUTEX 2025前夕发布第二款磁轴键盘ROG Falcata，采用左右分离设计，具备8000 Hz轮询率和高速无线连接能力。该键盘支持通过USB-C连接两半部分，也可单独使用左半边，迎合不同游戏和工作场景需求。ROG Falcata以ROG HFX V2磁轴为核心，支持精确的轴距感应，续航力最高达100小时，预计7月上市。
+
+![](https://thumbor.4gamers.com.tw/FWrck2w0LIlcq4sOTCE41GCXUTI=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F1e19b6082fbf823c33ec0dc602838964296ba839.jpg)
+
+---
+
+## 2. [Steam免费寻物绘图《FIND ALL 7: Japan》首发极度好评](https://www.4gamers.com.tw/news/detail/71872/steam-find-all-7-japan-released)   2025-05-19 17:52
+
+独立游戏《FIND ALL 7: Japan》现已免费登陆Steam，玩家将体验手绘风格的寻物上色玩法，包含150种隐藏物品，完成后插图将以动画形式呈现。另外，游戏提供额外难度加强的DLC，特价促销至5月30日止。
+
+![](https://img.4gamers.com.tw/puku-clone-version/de409ecb8ee711ad0a72edf4b958a4d7379b6281.jpg)
+
+---
+
+## 3. [全汉FSP推出VITA GD MIT系列电源，主流规格亲民价格](https://www.4gamers.com.tw/news/detail/71868/fsp-vita-gd-mit-power)   2025-05-19 17:52
+
+全汉发布VITA GD MIT系列电源，定位为高性价比选择，支持ATX 3.1和PCIe 5.1规范，适配最新显卡。产品提供650W、750W和850W三种规格，配备原生PCIe 12V-2x6接口，采用日系电容和智能静音风扇，提供5年保修服务。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ae0f0ca51d2ce5386fffe0e8b7abaf2e935cfa04.jpg)
+
+---
+
+## 4. [怪物猎人或将联动街霸，官推暗示合作](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-19 17:50
+
+怪物猎人官方推特发布疑似联动街霸的图片，引发玩家热议。具体细节尚未公布，但玩家期待官方进一步确认合作内容/images/news/20250519/1747647707_484116_jpg_r.jpg)
+
+---
+
+## 6. [黏土人初音未来四款人气模型再版决定](https://www.4gamers.com.tw/news/detail/71870/4-miku-nendoroid-rerelease-announcement)   2025-05-19 17:36
+
+为纪念黏土人初音未来第100号模型，GOOD SMILE COMPANY宣布再版4款人气黏土人，包括15周年版和草莓白无垢版等，具体发售时间待公布。
+
+![](https://img.4gamers.com.tw/puku-clone-version/136c4f6ce036a07bf5e360645fc0b6774330e6e2.jpg)
+
+---
+
+## 7. [回合制仙侠RPG《戒指里的老爷爷》定档5月22日EA上线](https://www.3dmgame.com/news/202505/3920051.html)   2025-05-19 17:22
+
+《戒指里的老爷爷》将于5月22日登陆Steam抢先体验，售价36元，首发享九折优惠。游戏讲述玩家作为修仙者“老爷爷”寄居戒指中，引导宿主成长的冒险故事，融合策略与角色培养。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747646485_778717_jpg_r.jpg)
+
+---
+
+## 8. [黄仁勋佩戴千万级限量手表亮相引发热议](https://www.3dmgame.com/news/202505/3920050.html)   2025-05-19 17:12
+
+英伟达CEO黄仁勋近日公开佩戴价值约929万元人民币的RICHARD MILLE限量腕表，引发网友关注。该表全球限量80只，采用高科技材质，展现其极致奢华的品味。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747645700_670860.jpg)
+
+---
+
+## 9. [华为发布全球首款鸿蒙折叠电脑MateBook Fold](https://www.3dmgame.com/news/202505/3920049.html)   2025-05-19 17:09
+
+华为发布全球首款鸿蒙折叠电脑MateBook Fold非凡大师，配备18英寸大屏，支持折叠设计，重量仅1.16kg。搭载鸿蒙OS 5，兼顾便携与大屏体验。
+
+![](https://img1.mydrivers.com/img/20250519/Sa2d5e684-a5be-4ce4-8fce-96fb0b8e5d9a.jpg)
+
+---
+
+## 10. [《Fate/hollow ataraxia》高画质复刻年内登陆NS+Steam](https://www.4gamers.com.tw/news/detail/71867/fate-hollow-ataraxia-remastered-release-in-2025)   2025-05-19 17:05
+
+TYPE-MOON宣布《Fate/hollow ataraxia》高画质复刻版将于2025年内登陆Nintendo Switch和Steam平台。复刻版基于PSV版制作，支持多语言字幕和高清16:9画面比例。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b68a643adb7f898dd3f6044bbdb0bda3c6100a51.png)
+# 新闻简报(更新时间: 2025-05-19 20:45)
+
+## 1. [Steam蒸汽波越野冒险《ADRIFT》开放免费试玩，荷兰汽车技师转职开发者打造](https://www.4gamers.com.tw/news/detail/71866/retro-inspired-offroad-driving-adventure-game-adrift-releases-playable-demo-on-steam)  
+2025-05-19 17:00  
+
+由荷兰独立开发者Stefan Kwak打造的越野冒险游戏《ADRIFT》现已在Steam开放免费试玩。游戏以1980年代复古蒸汽波美学为特色，玩家将在赛博朋克风沙漠中驾驶卡车完成送货任务，同时应对能量核心的温度失控挑战。正式版预计于2025年晚些时候推出PC版本。
+
+![](https://img.4gamers.com.tw/puku-clone-version/68fac9e4dfd25586d9b914b5969cd533ee35ac5b.jpg)
+
+---
+
+## 2. [《星隕计划》新活动“妳在我的时间里”兔女郎机娘登场，1.5周年每天送10连抽](https://www.4gamers.com.tw/news/detail/71869/erolabs-ark-recode-new-event-review)  
+2025-05-19 17:00  
+
+成人手游《星隕计划》迎来1.5周年，新活动“妳在我的时间里”推出限定角色兔女郎机娘“乌尔德”。活动期间每日可领取10连抽奖励，还开放自选角色招募机制。此外，游戏同步新增剧情与技能内容，吸引玩家进一步探索。
+
+![](https://thumbor.4gamers.com.tw/0HczZCJZe4r6MkDY7tTJYmMnxC0=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F222f7db776360bbd973cd22d857e7d91247d2abc.png)
+
+---
+
+## 3. [维塔士潜行新作《唐传奇：琵琶行》预告 AI赋能诗诵长安](https://www.3dmgame.com/news/202505/3920047.html)  
+2025-05-19 16:50  
+
+《唐传奇：琵琶行》展示了由AI驱动的“说书人”功能，能够根据玩家的游戏行为生成七言律诗并实时演绎。该功能由维塔士与英伟达合作开发，旨在提升游戏沉浸感。游戏背景设定于唐
+# 新闻简报(更新时间:2025-05-19 20:45)
+
+## 1. [黃仁勳COMPUTEX開講，欣亞數位進駐中南院校共襄科技盛事！](https://www.4gamers.com.tw/news/detail/71859/computex-2025-keynote-watch-party-nvidia-jensen-huang)  
+2025-05-19 15:05
+
+NVIDIA COMPUTEX 2025 今日以「AI NEXT」为主题隆重开幕。执行长黄仁勋的主题演讲吸引了全球科技界的目光，涵盖人工智能、加速运算等前沿议题。欣亚数位今年扩大参与范围，进驻台中、高雄等三所高校，为年轻学子带来最新AI与电竞设备。
+
+![](https://img.4gamers.com.tw/puku-clone-version/067d204364311ad77f4252a7845cb7e264ca1152.jpg)
+
+---
+
+## 2. [《航海王》主題嘉年華登陸台北兒童新樂園，無人機煙火秀、巨型氣偶6/28登場](https://www.4gamers.com.tw/news/detail/71862/onepiece-taipei-children-s-amusement-park-2025-summer)  
+2025-05-19 14:54
+
+《航海王 ONE PIECE》主题嘉年华将于6月28日登场台北儿童新乐园，活动设有巨型气偶展览、无人机烟火秀及主题商店。园内还规划了气垫游乐区及互动集章活动，为粉丝打造沉浸式冒险体验。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3d63bcc21ad4d099a678ac95daec978bf280e0f3.jpg)
+
+---
+
+## 3. [資訊](http://nnas.sqngame.com:11201/xboxfan/news)  
+2025-05-19 14:51
+
+《幻想生活i》Xbox版抢先体验因技术延误推迟上线。目前官方正在商讨补偿措施，并将在确认后公布更多详情。
+
+![](https://static.willmao.com/feed_upload/2025-05-19/14-50-31-phpkJkH4L.png)
+
+---
+
+## 4. [《最后的生还者》主创尼尔谈第6集：谎言重压下的人性之光](https://www.3dmgame.com/news/202505/3920043.html)  
+2025-05-19 14:45
+
+HBO热剧《最后的生还者》第六集中，乔尔与艾莉的关系在谎言中迎来情感爆发点。主创尼尔·德拉柯曼解析了角色间的复杂关系，并透露该剧延续了游戏叙事的极简风格。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747637055_496099.jpg)
+
+---
+
+## 5. [《女神异闻录：夜幕魅影》国际服预约破20万 官方送礼](https://www.3dmgame.com/news/202505/3920042.html)  
+2025-05-19 14:41
+
+《女神异闻录：夜幕魅影》全球预注册突破20万，官方宣布将在6月26日上线游戏并赠送多项奖励，包括主角专属套装和免费抽卡机会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747636684_597768.png)
+
+---
+
+## 6. [繪師VT時雨羽衣6週年快閃店、咖啡廳與3D LIVE齊發，她暖心籲粉絲別勉強自己荷包](https://www.4gamers.com.tw/news/detail/71858/shigure-ui-vtuber-6th5thanniv)  
+2025-05-19 14:35
+
+VTuber时雨羽衣举办6周年庆祝活动，宣布开设快闪店、咖啡厅及3D直播演唱会。她提醒粉丝不要过度消费，强调活动周边并不会瞬间售罄。
+
+![](https://img.4gamers.com.tw/puku-clone-version/27a7cc10804479798c72806bb0884abd4f4a4c8c.jpg)
+
+---
+
+## 7. [Steam限時免費《Cast & Spell》巫師魔法大亂鬥新作，搶先體驗推出一個月後即開放限免](https://www.4gamers.com.tw/news/detail/71860/cast-and-spell-is-free-to-calim-on-steam)  
+2025-05-19 14:27
+
+巫师主题MOBA游戏《Cast & Spell》现于Steam限时免费领取，活动截止至5月21日，玩家可永久保存至收藏库。
+
+![](https://img.4gamers.com.tw/puku-clone-version/00914213254097247a56016527e7cf4c39352500.jpg)
+
+---
+
+## 8. [《方舟：生存飞升》将于6月2日上线虚幻5.5版本，各类玩法同步更新](https://www.3dmgame.com/news/202505/3920041.html)  
+2025-05-19 14:24
+
+《方舟：生存飞升》将在6月2日更新至虚幻引擎5.5，优化加载性能并推出新地图和生物“野牛”，为玩家带来全新生存体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747635855_642196.jpg)
+
+---
+
+## 9. [《碟中谍8：最终清算》曝十五张角色海报 超豪华阵容集结待发！](https://www.3dmgame.com/news/202505/3920039.html)  
+2025-05-19 14:22
+
+《碟中谍8：最终清算》发布15张全新角色海报。汤姆·克鲁斯领衔的豪华阵容将迎来拯救世界的终极决战，电影定档5月30日上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747635706_398899.png)
+
+---
+
+## 10. [《最终幻想14：水晶世界》正版手游官宣 今年6月上线](https://www.3dmgame.com/news/202505/3920038.html)  
+2025-05-19 14:07
+
+由腾讯光子工作室研发的《最终幻想14》正版手游《水晶世界》将于6月正式上线，官方今晚将直播介绍新玩法内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747634759_452446.jpg)
+
+---  
+# 新闻简报(更新时间:2025-05-19 20:454)
+
+## 1. [NVIDIA GeForce RTX 5060重光追AAA游戏1080p流畅度逾100 fps，5/20开卖](https://www.4gamers.com.tw/news/detail/71845/nvidia-launches-geforce-rtx-5060)   2025-05-19 14:00
+
+NVIDIA在COMPUTEX 2025上正式发布面向主流市场的GeForce RTX 5060显卡，售价299美元（未税）。该显卡在1080p分辨率下表现出色，如《黑神话：悟空》在DLSS 4模式下可达130 fps。此外，该系列显卡支持最新的GDDR7显存和DLSS技术，为玩家带来卓越的光线追踪性能和游戏体验。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-COMPUTEX/NVIDIA/P1000521.jpg?versionId=6xgyO0Kt8dLNxJaLjYHST2bchfY5VDHi)
+
+---
+
+## 2. [《赛博朋克2077》Switch2最新4K实机演示曝光](https://www.3dmgame.com/news/202505/3920037.html)   2025-05-19 13:59
+
+《赛博朋克2077》的Switch2版本4K实机演示引发热议，展示了令人惊叹的画质表现。此次演示采用英伟达DLSS技术，在低分辨率渲染后升频至4K，画面锐度和光照效果出色。Switch2的性能被认为为移动端体验大型游戏提供了新的可能性。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747634335_289752_jpg_r.jpg)
+
+---
+
+## 3. [《明末：渊虚之羽》线下试玩热闹 而官方美女Coser无人问津](https://www.3dmgame.com/news/202505/3920036.html)   2025-05-19 13:51
+
+《明末：渊虚之羽》成都线下试玩活动吸引了大批玩家，但官方安排的美女Coser却少有人关注。玩家们热衷于试玩游戏，展现了对游戏内容的兴趣超过对活动周边的追捧。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747633737_277616.jpg)
+
+---
+
+## 4. [《幻想生活i》Xbox版延期 微软平台技术问题致跳票](https://www.3dmgame.com/news/202505/3920035.html)   2025-05-19 13:47
+
+由于Xbox平台的技术问题，《幻想生活i》原定于5月18日的抢先体验延期。开发商表示正在努力解决问题，正式版仍计划于5月21日按时发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747633395_938700.png)
+
+---
+
+## 5. [Steam驾车生存模拟《Drive Beyond Horizons》人气直升，自由改装车辆+射击僵尸与飞碟的混沌游戏](https://www.4gamers.com.tw/news/detail/71857/drive-beyond-horizons-lets-game-it-out)   2025-05-19 13:32
+
+独立游戏《Drive Beyond Horizons》在Steam上的人气激增，其自由改装和多元玩法备受关注。玩家可在游戏中体验驾驶、射击、探索等多重乐趣。
+
+![](https://img.4gamers.com.tw/puku-clone-version/775558e40261f5b315827f14f6954cc0e141953c.jpg)
+
+---
+
+## 6. [爵士风酒馆放置新作《湖畔酒馆》，无压力享受音乐、美景与生活](https://www.4gamers.com.tw/news/detail/71854/steam-click-game-lakeside-bar)   2025-05-19 12:47
+
+《湖畔酒馆》是一款放置类游戏，玩家可在湖边经营酒馆，享受爵士乐和美景。游戏还融入了小型娱乐玩法，如飞镖和钓鱼，预计于2025年第三季度上线。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bea657038a01be26e10d1fe70490f87c2c56a40e.jpg)
+
+---
+
+## 7. [复古风动作RPG《魔王的迷宫》首周Steam极度好评，化身足轻孤身闯荡战国地狱](https://www.4gamers.com.tw/news/detail/71856/labyrinth-of-the-demon-king-steam-launch-)   2025-05-19 12:47
+
+《魔王的迷宫》以PS1复古风格呈现，融合动作与解谜玩法。玩家将扮演足轻，挑战充满陷阱和谜题的迷宫，与神秘生物战斗。游戏已上线Steam，支持中文。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3b59bd9074aca6e24a14884302240debe7e11dcf.jpg)
+
+---
+
+## 8. [共斗动作RPG《晶核》5/28登场，代言人谢坤达化身魔导朋克风元素师](https://www.4gamers.com.tw/news/detail/71855/crystal-of-atlan-ambassador-announcement)   2025-05-19 12:40
+
+合作共斗RPG《晶核》将于5月28日上线，全新职业“格斗家”首次亮相。代言人谢坤达化身元素师，展现魔导朋克风格，为玩家带来丰富的职业选择。
+
+![](https://img.4gamers.com.tw/puku-clone-version/07ef9f2f7a006e60dac70ac1fc2e191968d7caef.PNG)
+
+---
+
+## 9. [《和山田谈场Lv999的恋爱》真人电影版6/27全台上映](https://www.4gamers.com.tw/news/detail/71853/my-love-story-with-yamada-kun-at-lv999-live-action-in-taiwan)   2025-05-19 12:36
+
+人气漫画改编的真人电影《和山田谈场Lv999的恋爱》将于6月27日在台湾上映。故事讲述一名失恋女大学生与游戏好友的恋爱故事，主演为作间龙斗与山下美月。
+
+![](https://img.4gamers.com.tw/puku-clone-version/ed9921f58d1bec31bf504cdf4b728827a
