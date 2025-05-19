@@ -235,3 +235,109 @@ PlayStation旗下工作室Haven Studios创始人Jade Raymond宣布离职。Haven
 
 ![](https://img.3dmgame.com/uploads/images/news/20250518/1747576392_219801.jpg)
 
+
+# 新闻简报(更新时间:2025-05-19 10:45)
+
+## 1. [《胜利女神：新的希望》首发爆料，免费330抽，开局六金，尼尔联动](https://www.3dmgame.com/news/202505/3920015.html)  
+2025-05-19 09:25  
+
+《胜利女神：新的希望》即将于5月22日上线，官方在前瞻直播中公布了游戏的背景设定及玩法特色，包括末世背景下的美少女背身射击RPG玩法、离线资源获取功能等。上线初期，玩家将获得330次免费抽卡福利及多张SSR角色，打造轻松开局。此外，官方还预告了未来与《尼尔：机械纪元》的联动计划，以及IP衍生内容如泡面番动画和线下联动活动。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250519/1747617590_878291.jpg)
+
+---
+
+## 2. [阿汤哥盛赞《疾速追杀：芭蕾杀姬》 媒体爆出“大瓜”](https://www.3dmgame.com/news/202505/3920013.html)  
+2025-05-19 09:20  
+
+汤姆·克鲁斯近日高度评价了安娜·德·阿玛斯主演的电影《疾速追杀：芭蕾杀姬》，称其基调与原作《疾速追杀》的世界观非常契合。此外，媒体还爆料了阿汤哥与安娜在英国伦敦的近距离互动，引发网友讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747617065_422028_jpg_r.jpg)
+
+---
+
+## 3. [《Fate/hollow ataraxia》复刻版发行窗口确认 登陆NS和Steam](https://www.3dmgame.com/news/202505/3920012.html)  
+2025-05-19 09:16  
+
+《Fate/hollow ataraxia》复刻版将于2025年登陆Switch和Steam平台。这款视觉小说的重制版将带来全语音配音和其他现代化改进，配合经典的Fate系列剧情，吸引粉丝再次踏上第五次圣杯战争的冒险旅程。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747617261_940450.jpg)
+
+---
+
+## 4. [《羊蹄山之魂》总监：深刻考察日本文化 力求忠实还原](https://www.3dmgame.com/news/202505/3920011.html)  
+2025-05-19 09:05  
+
+《羊蹄山之魂》总监Nate Fox分享了团队深度考察日本文化的经历，表示游戏致力于忠实还原北海道的自然与人文特色。本作将以全新的虚构岛屿为背景，结合采风时的灵感，为玩家呈现一场独特的冒险。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747616707_428993.jpg)
+
+---
+
+## 5. [R星正努力将《GTA6》打造成史上最伟大娱乐作品](https://www.3dmgame.com/news/202505/3920010.html)  
+2025-05-19 08:55  
+
+Take-Two CEO Strauss Zelnick表示，《GTA6》目标不仅是成为最成功的电子游戏，还要成为史上最伟大的娱乐作品。尽管游戏延期发布，他强调这是为了确保最高质量的玩家体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747615975_172370_jpg_r.jpg)
+
+---
+
+## 6. [《塞伯利亚之谜：复刻版》公布 以全新面貌重现经典](https://www.3dmgame.com/news/202505/3920008.html)  
+2025-05-19 08:35  
+
+《塞伯利亚之谜：复刻版》宣布将于2025年第四季度发售，登陆PS5、XSX|S和PC平台。这款经典冒险游戏将通过全新画面、重制谜题及现代化操作体验，为玩家带来焕然一新的旅程。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747614842_319413_jpg_r.jpg)
+
+---
+
+## 7. [《幻想水浒传1&2HD复刻版》销量强劲 粉丝们狂喜](https://www.3dmgame.com/news/202505/3920007.html)  
+2025-05-19 08:14  
+
+科乐美的《幻想水浒传1&2HD复刻版》市场表现亮眼，制作人透露未来将有更多好消息。官方还公布手游新作《幻想水浒传STAR LEAP》和动画企划的最新进展，令系列粉丝倍感期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747613565_946212_jpg_r.jpg) 
+
+---
+# 新闻简报(更新时间:2025-05-19 10:45)
+
+## 1. [《光与影：33号远征队》超高画质MOD发布 修复DLSS 4带来的一些视觉问题](https://www.3dmgame.com/news/202505/3920006.html)   2025-05-19 08:13
+
+Mod作者Lazorr发布了《光与影：33号远征队》超高画质MOD，通过调整游戏设置改善画面效果，修复DLSS 4带来的一些视觉问题。该MOD提升了光照、反射和阴影效果，修复纹理加载缓慢等问题。此外，新增的“透射”功能能使光线以更自然方式透过物体，提升视觉真实性。虽效果出色，但对显卡性能要求较高，建议高端显卡用户使用。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747613465_763008.webp)
+
+---
+
+## 2. [《星刃》与《妮姬》联动内容曝光 红莲成为新Boss](https://www.3dmgame.com/news/202505/3920005.html)   2025-05-19 08:02
+
+《星刃》将与《妮姬：胜利女神》展开联动，于6月上线。《妮姬》角色红莲将作为新Boss登场，玩家击败她后可获得新服装、发型和歌曲。此外，新增射击场迷你游戏及《妮姬》主题服装商店，还有钓鱼玩法可获得收藏物品。官方还发布了PC版新截图，展示角色精致的战斗姿态。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747612859_477600_jpg_r.jpg)
+
+---
+
+## 3. [《赛博朋克2077》NS2版截图 画面细节很不错](https://www.3dmgame.com/news/202505/3920004.html)   2025-05-19 07:42
+
+《赛博朋克2077：终极版》将作为Switch 2首发护航游戏，于6月5日上线。游戏充分适配Switch 2的特性，新增触控滑动菜单、陀螺仪精准射击等功能。官方发布的NS2版截图展示了细腻的画面细节和战斗场景。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747611728_391397_jpg_r.jpg)
+
+---
+
+## 4. [《塞伯利亚》重制版将于2025年第四季度发布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-19 07:33
+
+经典游戏《塞伯利亚》将以现代化版本重生，预计在2025年第四季度发布。重制版将带来视觉革新、重新设计的玩法及迷人叙事，玩家将重新体验标志性场景和难忘的角色。
+
+![](https://static.willmao.com/feed_upload/2025-05-19/06-57-10-phpjIG8B4.jpg)
+
+---
+
+## 5. [Lego Monkey Palace Board Game Is Over 50% Off At Amazon Right Now](https://www.gamespot.com/articles/lego-board-game-monkey-palace-strategy-building-set-amazon-deal-2025/1100-6528660/?ftag=CAD-01-10abi2f)   2025-05-19 04:36
+
+Lego官方授权的策略桌游《Monkey Palace》在Amazon降价至19.11美元，较原价40美元优惠超过50%。该游戏适合2-4名玩家，结合乐高拼搭与策略玩法。折扣时间有限，其他平台价格未降。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4401106-81s2ur0b9el._ac_sl1500.jpg)
+
+---
