@@ -341,3 +341,296 @@ Lego官方授权的策略桌游《Monkey Palace》在Amazon降价至19.11美元�
 ![](https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4401106-81s2ur0b9el._ac_sl1500.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-19 15:45)
+
+## 1. [全汉FSP展出高效电源、极致散热器与美型机壳，再获国际肯定](https://www.4gamers.com.tw/news/detail/71861/fsp-power-computex2025-news)   2025-05-19 15:14
+
+全汉FSP在COMPUTEX TAIPEI 2025上展示了最新的电源、机壳和散热解决方案，包括支持Intel PSU设计指南的ATX 3.1和PCIe 5.1电源产品。旗舰SFX-L 1200W电源和小型化ITX机壳S550也首次亮相，展现了FSP在高效能和创新设计上的实力。
+
+![](https://img.4gamers.com.tw/puku-clone-version/2e36b433298273b68c89511854af8640eeec255d.jpg)
+
+---
+
+## 2. [黄仁勋COMPUTEX开讲，欣亚数位进驻中南院校共襄科技盛事！](https://www.4gamers.com.tw/news/detail/71859/computex-2025-keynote-watch-party-nvidia-jensen-huang)   2025-05-19 15:05
+
+NVIDIA COMPUTEX 2025重点讨论AI、智慧运算和未来移动等议题。黄仁勋的主题演讲通过线上直播与各大院校同步观看，欣亚数位也在台中、高雄等地展示最新科技设备，吸引年轻学子体验AI趋势。
+
+![](https://img.4gamers.com.tw/puku-clone-version/067d204364311ad77f4252a7845cb7e264ca1152.jpg)
+
+---
+
+## 3. [《航海王》主题嘉年华登陆台北儿童新乐园，巨型气偶6/28登场](https://www.4gamers.com.tw/news/detail/71862/onepiece-taipei-children-s-amusement-park-2025-summer)   2025-05-19 14:54
+
+《航海王》主题活动将于6月28日至10月12日在台北儿童新乐园举办，包括巨型气偶展出、无人机烟火秀、主题商店和互动活动，吸引粉丝进入航海冒险世界。
+
+![](https://img.4gamers.com.tw/puku-clone-version/3d63bcc21ad4d099a678ac95daec978bf280e0f3.jpg)
+
+---
+
+## 4. [L5宣布《幻想生活i》Xbox版上线延迟并计划补偿](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-19 14:51
+
+《幻想生活i》Xbox版因技术问题延迟上线，开发团队正讨论补偿措施，并承诺尽快公布详细信息。
+
+![](https://static.willmao.com/feed_upload/2025-05-19/14-50-31-phpkJkH4L.png)
+
+---
+
+## 5. [《最后的生还者》主创尼尔谈第6集：谎言重压下的人性之光](https://www.3dmgame.com/news/202505/3920043.html)   2025-05-19 14:45
+
+《最后的生还者》第二季第六集中，核心戏剧冲突揭示了乔尔与艾莉关系中的矛盾与情感。主创尼尔·德拉柯曼剖析了角色间的复杂情感及创作灵感，强调了爱与人性的主题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747637055_496099.jpg)
+
+---
+
+## 6. [《女神异闻录：夜幕魅影》国际服预约破20万 官方送礼](https://www.3dmgame.com/news/202505/3920042.html)   2025-05-19 14:41
+
+《女神异闻录：夜幕魅影》国际服预约突破20万。完成预注册的玩家将免费获赠专属套装及抽卡机会。游戏将于6月26日正式上线，并在洛杉矶动漫展举办3dmgame.com/news/202505/3920041.html)   5-05-19 14:24
+
+《方舟：生存飞升》即将更新至虚幻5.5版本，带来性能优化、全新生物野牛及其他玩法革新，为玩家提供更丰富的生存体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747635855_642196.jpg)
+
+---
+
+## 10. [《碟中谍8：最终清算》曝十五张角色海报 超豪华阵容集结待发！](https://www.3dmgame.com/news/202505/3920039.html)   2025-05-19 14:22
+
+《碟中谍8：最终清算》发布全新角色海报，汤姆·克鲁斯领衔15位演员集结，开启拯救世界的终极任务。影片将于5月30日上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747635706_398899.png)
+
+---
+# 新闻简报(更新时间:2025-05-19 15:45)
+
+## 1. [《最终幻想14：水晶世界》正版手游官宣 今年6月上线](https://www.3dmgame.com/news/202505/3920038.html) 2025-05-19 14:07
+
+近日，腾讯光子工作室研发的《最终幻想14：水晶世界》手游正式宣布将在6月上线。该手游由SQUARE ENIX授权并监制，官方称其继承了端游的经典玩法与音乐，同时加入了全新剧情与副本内容。今晚19点将举办直播，详细介绍游戏优化与玩法。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747634759_452446.jpg)
+
+---
+
+## 2. [NVIDIA GeForce RTX 5060性能抢眼，将于5月20日上市](https://www.4gamers.com.tw/news/detail/71845/nvidia-launches-geforce-rtx-5060) 2025-05-19 14:00
+
+NVIDIA正式发布GeForce RTX 5060显卡，售价299美元，5月20日全球开售。测试显示，该显卡在1080p分辨率下运行《黑神话：悟空》可达130 fps，并支持DLSS 4技术，性能较上一代提升显著。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-COMPUTEX/NVIDIA/P1000521.jpg?versionId=6xgyO0Kt8dLNxJaLjYHST2bchfY5VDHi)
+
+---
+
+## 3. [《赛博朋克2077》Switch2最新4K实机演示曝光](https://www.3dmgame.com/news/202505/3920037.html) 2025-05-19 13:59
+
+一段Switch2运行《赛博朋克2077》的4K实机演示流出。视频显示，该游戏在“画质优先”模式下实现极高细节表现，得益于DLSS技术的支持，呈现出极为流畅的动态光影效果。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747634327_241020.jpg)
+
+---
+
+## 4. [《明末：渊虚之羽》线下试玩热闹 官方Coser无人问津](https://www.3dmgame.com/news/202505/3920036.html) 2025-05-19 13:51
+
+《明末：渊虚之羽》成都线下试玩活动热度高涨，大批玩家围观试玩区，而两位身着精美Cos服的官方Coser却鲜有人关注，引发网友热议“真·游戏玩家只关注游戏”。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747633737_277616.jpg)
+
+---
+
+## 5. [《幻想生活i》Xbox版延期 微软平台技术问题致跳票](https://www.3dmgame.com/news/202505/3920035.html) 2025-05-19 13:47
+
+Level-5宣布，由于技术问题，《幻想生活i》Xbox版抢先体验延期，PS和Steam版不受影响。官方表示正与相关团队协作，计划在问题解决后提供补偿方案。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747633395_938700.png)
+
+---
+
+## 6. [Steam游戏《Drive Beyond Horizons》爆火，混沌玩法吸引玩家](https://www.4gamers.com.tw/news/detail/71857/drive-beyond-horizons-lets-game-it-out) 2025-05-19 13:32
+
+生存模拟游戏《Drive Beyond Horizons》因创作者“Let's Game It Out”的另类玩法介绍而走红。玩家可自由改装车辆、射击敌人，探索公路边界的废墟冒险。
+
+![](https://img.4gamers.com.tw/puku-clone-version/775558e40261f5b315827f14f6954cc0e141953c.jpg)
+
+---
+
+## 7. [《湖畔酒馆》：爵士风放置游戏尽享生活](https://www.4gamers.com.tw/news/detail/71854/steam-click-game-lakeside-bar) 2025-05-19 12:47
+
+Steam新作《湖畔酒馆》带来无压力的经营体验。玩家可在美丽湖畔开
+# 新闻简报(更新时间:2025-05-19 15:45)
+
+## 1. [战锤 SKULL 节即将开启：多款游戏新消息发布](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-19 10:03
+
+战锤 SKULL 节将于5月22日凌晨12点盛大开启，活动将集中展示《星际战士2》、《暗潮》、《行商浪人》、《全面战争：战锤》等众多热门游戏的新消息，吸引了大量粉丝的关注。
+
+![](https://static.willmao.com/feed_upload/2025-05-19/09-41-52-phppPdnkG.jfif)
+
+---
+
+## 2. [Hololive English 联名酒款《もり桜一輪花》全台现货开售](https://www.4gamers.com.tw/news/detail/71847/hololive-english-mori-calliope-morizakura-taiwan-available-now)   2025-05-19 09:00
+
+重星战略与 Hololive English 的森美声联名推出的「花道物语」酒款正式在全台啟售。今年推出的 2025 限定特典徽章反响热烈，7家蔦屋书店同步提供现货，粉丝还可获赠限定贴纸。此外，台北与高雄的指定店面还推出以联名酒款为基底的特调饮品，吸引大量粉丝到场抢购。
+
+![](https://img.4gamers.com.tw/puku-clone-version/c77845f1be2d579306a7405267cbc44134e09504.jpg)
+
+---
+
+## 3. [慢活RPG《奇幻生活i》豪华版先行体验获好评](https://www.4gamers.com.tw/news/detail/71852/fantasy-life-i-the-girl-who-steals-time-steam-now-on-sale)   2025-05-19 12:23
+
+由LEVEL5 Inc.开发的《奇幻生活i转圈圈的龙和偷取时间的少女》现已开启豪华版先行体验，广受玩家好评。游戏将于5月21日全平台正式发售，玩家可自由选择职业、建造家园、探索岛屿，并体验丰富的生活与冒险内容。
+
+![](https://img.4gamers.com.tw/puku-clone-version/8534f1c287febaa52e15cc2f81d631a0d22e1f00.jpg)
+
+---
+
+## 4. [《明末 淵虛之羽》制作人分享开发心路历程](https://www.4gamers.com.tw/news/detail/71842/wuchang-fallen-feathers-producer-interview)   2025-05-19 12:05
+
+《明末 淵虛之羽》将于7月底发售，制作人夏思源接受采访，分享了项目从早期受到批评到不断改进的心路历程。他表示团队在不断优化游戏内容，并强调明末背景的独特性。同时，灵泽科技总部的开发环境也首次曝光。
+
+![](https://thumbor.4gamers.com.tw/hIKbpYsqVqKOQ449fCRkYHEJRzk=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fcd15031d6d9dc5fb2fc95affe3df44d6828f087d.JPG)
+
+---
+
+## 5. [微软称其PC性能领先Mac 58%引发网友嘲讽](https://www.3dmgame.com/news/202505/3920033.html)   2025-05-19 12:05
+
+微软发布广告称其Copilot+ PC比苹果M3 MacBook Air快58%，但对比方式遭网友质疑。许多网友认为微软选择较旧的Mac版本进行比较缺乏说服力，并对如此对比方式进行了调侃。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747627258_902642.jpg)
+
+---
+
+## 6. [网飞将推出AI生成广告内容](https://www.3dmgame.com/news/202505/3920034.html)   2025-05-19 12:03
+
+网飞宣布将在2026年上线基于生成式AI技术的广告内容，用户在观看剧集时将看到与剧情相关的AI生成广告画面。这一创新广告形式已引发用户热议，同时，网飞广告套餐月活用户已突破9400万。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747627212_132273.png)
+
+---
+
+## 7. [索尼新作《失落星船：马拉松》被曝抄袭设计师作品](https://www.yystv.cn/p/12863)   2025-05-19 12:00
+
+索尼旗下Bungie工作室的《失落星船：马拉松》被指控未经授权使用设计师Antireal的艺术作品。Bungie已承认部分抄袭事实，并表示将展开资产审查。这一事件对游戏的艺术风格和未来预期造成了严重影响。
+
+![](https://alioss.yystv.cn/doc/12863/112f788dec883a077bd5bf55d05756ff.appmsg_mw680water)
+
+---
+
+## 8. [日本麦当劳玩具引发抢购与食物浪费争议](https://www.4gamers.com.tw/news/detail/71850/mcdonalds-japan-chiikawa-happy-meal-resale)   2025-05-19 11:45
+
+日本麦当劳推出的《吉伊卡哇》联名玩具引发抢购潮，但大量快餐被浪费引发公愤。黄牛转卖行为使得原本设计给儿童的玩具难以正常分发，消费者呼吁调整领取机制以避免浪费和不公平现象。
+
+![](https://img.4gamers.com.tw/puku-clone-version/0f23e2d388e0507a0605273d596503a413354b90.jpg)
+
+---
+
+## 9. [前顽皮狗开发者谈《生化危机4》的广泛影响](https://www.3dmgame.com/news/202505/3920032.html)   2025-05-19 11:42
+
+《生化危机4》的越肩视角设计对《战争机器》、《神秘海域》等众多现代游戏产生了深远影响。前顽皮狗高级环境美术师Jeremy Huxley指出，这款经典游戏为现代动作游戏奠定了基础。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747626125_361846_jpg_r.jpg)
+
+---
+
+## 10. [《鬼灭之刃：火神血风谭2》新角色预告发布](https://www.3dmgame.com/news/202505/3920031.html)   2025-05-19 11:42
+
+《鬼灭之刃：火
+# 新闻简报(更新时间:2025-05-19 15:45)
+
+## 1. [《第一狂战士：卡赞》未达销售预期 Nexon称无碍IP战略布局](https://www.3dmgame.com/news/202505/3920030.html)  
+2025-05-19 11:38
+
+Nexon在最新财报中透露，《第一狂战士：卡赞》的销售未达预期目标，但作为《地下城与勇士》IP全球化战略的重要一环，该作成功实现了品牌推广使命。游戏于3月28日全球发行，并获得玩家好评，未来计划通过更新增加内容。与此同时，Nexon还宣布基于《地下城与勇士》世界观的新作正在开发中，具体发布日期尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747625815_604114_jpg_r.jpg)
+
+---
+
+## 2. [YOASOBI《魔女守護者》OP主題曲〈Watch me!〉完整動畫MV上線](https://www.4gamers.com.tw/news/detail/71851/witch-watch-theme-song-full-version-mv)  
+2025-05-19 11:25
+
+YOASOBI演唱的《WITCH WATCH 魔女守護者》改编动画主题曲〈Watch me!〉发布完整版MV，由Folium动画公司制作。动画改编自人气漫画，描述高中生与魔女并肩生活的奇幻故事。本作自2021年连载以来深受欢迎，并于今年4月改编成电视动画播出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/81585079603fd085ad1251d1d07f28bb4a6499d7.png)
+
+---
+
+## 3. [《怪物猎人：荒野》挤牙膏式更新引众怒！日本玩家怒喷官方](https://www.3dmgame.com/news/202505/3920029.html)  
+2025-05-19 11:17
+
+卡普空的《怪物猎人：荒野》因分段式内容更新引发玩家强烈不满。近日官方公布的未来更新计划图再次遭到日本玩家的抗议，评论区充满对“内容体量不足”和“分段式更新”的质疑。国内外玩家对其信心已大幅减弱，评论区对游戏的批评声一片。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747624513_539106.png)
+
+---
+
+## 4. [《彩虹六号：围攻X》路线图公布 新PC配置要求揭晓](https://www.3dmgame.com/news/202505/3920028.html)  
+2025-05-19 11:14
+
+育碧宣布《彩虹六号：围攻X》将于6月10日开启免费体验，新增“双线作战”模式、现代化地图与进阶索降系统等核心内容。同时公布PC配置需求及未来赛季更新计划，包括干员重制、地图翻新及更多创新内容。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747623736_723090_jpg_r.jpg)
+
+---
+
+## 5. [《毁灭战士：黑暗时代》开发揭秘 光追技术节省数年工期](https://www.3dmgame.com/news/202505/3920027.html)  
+2025-05-19 10:44
+
+id Software在接受采访时表示，《毁灭战士：黑暗时代》通过光线追踪技术实现了更细腻的光影效果与大规模战斗场景的视觉表现。该技术不仅提升了游戏质量，还显著缩短了开发周期，为玩家带来了更丰富、独特的体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747622824_872878.jpg)
+
+---
+
+## 6. [任天堂Switch2将配备实时字幕与文本转语音聊天功能](https://www.3dmgame.com/news/202505/3920026.html)  
+2025-05-19 10:39
+
+Switch2的GameChat系统将新增文本转语音（TTS）和实时字幕功能，为玩家提供更便捷的语音聊天体验。首发时将支持12款第一方游戏的画质升级与帧率提升，进一步优化玩家体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747622267_553097_jpg_r.jpg)
+
+---
+# 新闻简报 (更新时间: 2025-05-19 15:45)
+
+## 1. [国礼级殊荣！捷克总理获赠《天国：拯救2》典藏版](https://www.3dmgame.com/news/202505/3920025.html)   2025-05-19 10:34
+
+捷克游戏产业迎来历史性时刻，《天国：拯救2》典藏版被库滕贝格市长作为国礼赠予总理彼得·菲亚拉。典藏版重达8.7公斤，包含亨利骑马雕像、羊皮卷轴地图等23件藏品，全面展现15世纪波西米亚文明精髓。此次事件引发对游戏文化价值的热议，被认为是捷克“游戏外交”的重要一步。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747621835_815815.png)
+
+---
+
+## 2. [《DBD×刺客教条：暗影者》联动即将登场，8.7版本“稳定脉搏”DLC迎新幸存者](https://www.4gamers.com.tw/news/detail/71848/assassins-creed-shadows-is-crossing-over-with-dead-by-daylight)   2025-05-19 10:29
+
+《黎明死线》宣布与《刺客教条：暗影者》展开联动，新增角色奈绪江与彌助将于5月27日公布。同时，8.7版本推出新DLC“稳定脉搏”，新增幸存者奥蕾拉·罗斯，其技能专注于治疗与保护机制，并附带独家外观道具。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7cfd83e8c85c17ae26bf2cd1258f18d5fbf5cf64.jpg)
+
+---
+
+## 3. [《药师少女的独语》×极乐汤RAKU SPA 5月底合作，馆内放送猫猫原创新语音](https://www.4gamers.com.tw/news/detail/71849/the-apothecary-diaries-raku-spa)   2025-05-19 10:28
+
+极乐汤宣布与动画《药师少女的独语》合作，活动自5月22日至6月17日举行，包括联名浴池、限定商品、主题菜单等。同时，馆内将放送角色“猫猫”原创新语音，增添独特氛围。
+
+![](https://img.4gamers.com.tw/puku-clone-version/21cc5867bbac4d03b7ae1871051477abd2077a84.webp)
+
+---
+
+## 4. [《我被女神盯上了》Steam特别好评 全是美女很养眼](https://www.3dmgame.com/news/202505/3920024.html)   2025-05-19 10:18
+
+恋爱养成游戏《我被女神盯上了！》在Steam发售，首发优惠仅32.40元，获得“特别好评”。游戏采用全动态真人影像，玩家需通过提升女神好感度解锁更多内容，但新手引导和操作延迟等问题仍需优化。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747620218_870480_jpg_r.jpg)
+
+---
+
+## 5. [俺寻思该卖了 《战锤40K：极速狂飙》5月22日结束抢先体验正式发售](https://www.3dmgame.com/news/202505/3920023.html)   2025-05-19 10:16
+
+多人载具对战游戏《战游戏行业整体涨价趋势，但其他Xbox 3A游戏或暂不跟进。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747618822_575828.png)
+
+---
+
+## 7. [《鬼武者2：复刻版》新盟友预告片：风魔小太郎](https://www.3dmgame.com/news/202505/3920022.html)   2025-05-19 10:07
+
+卡普空发布《鬼武者2：复刻版》新盟友“风魔小太郎”预告片。这位17岁的少年武士擅长忍术与灵活战斗，是本作四位核心盟友之一。游戏将于5月23日正式发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250519/1747620258_509304_png_r.webp)
+
+---
