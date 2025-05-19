@@ -64,3 +64,16 @@
 C++11引入了shared_ptr和unique_ptr智能指针，但很多C语言库的指针需要自定义删除器。本文详细讲解了如何为这些智能指针设置自定义删除器，方便管理非标准资源，提升代码可靠性。  
 
 ---
+# 新闻简报(更新时间:2025-05-18 12:45)
+
+## 1. [I'm the CTO now](https://app.daily.dev/posts/i-m-the-cto-now-vajefyn4k)   2025-05-18 12:45
+
+一位意外晋升为CTO的开发者讲述了自己的“非典型领导”经历。在这家濒临崩溃的初创公司里，所有设计师、产品经理以及其他员工纷纷离职，唯独他因疲惫而选择留下。现如今，他独自面对CEO的无止境“快速创意”、投资者的“路线图要求”，以及一个问题重重的代码库。公司技术栈几乎靠临时拼凑维持，甚至部署密码简单到“12345”。这位CTO不仅要处理客户支持，还要管理AI实习生，甚至自己部署代码。文章以幽默且略带自嘲的笔调揭示了初创企业中技术领导者的真实困境，称这可能是“人生最糟糕的升职”。
+
+![](https://media.daily.dev/image/upload/s--Kh4SK3-p--/f_auto/v1747154033/posts/GSSte1qZS?_a=BAMClqUq0)
+
+## 2. [https://api.daily.dev/r/WhuCooe01](https://app.daily.dev/posts/whucooe01)   2025-05-13 11:20
+
+此新闻条目提供了一张占位图片，但缺乏具体的内容说明或背景信息。
+
+![](https://media.daily.dev/image/upload/s--HRgLpUt6--/f_auto/v1722860399/public/Placeholder%2003)
