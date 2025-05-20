@@ -1242,3 +1242,272 @@ ATLUS发布《葛叶雷道 复刻版: 超力兵团奇谭》的新预告片，展
 ![](https://img.3dmgame.com/uploads/images/news/20250520/1747705945_533137.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-20 20:45)
+
+## 1. [《博德之门3》迷你模型因质量问题遭大量退款](https://www.gamespot.com/articles/these-baldurs-gate-3-minis-are-so-ugly-fans-are-getting-refunds/1100-6531660/?ftag=CAD-01-10abi2f)   2025-05-20 19:48
+
+一套官方预涂装的《博德之门3》迷你模型由于外观与宣传图片严重不符，引发玩家强烈不满。模型的粗糙涂装使角色面目全非，甚至被形容为“丑陋至极”。生产商WizKids已发布道歉声明，并为不满的消费者提供全额退款。玩家们在社交媒体上晒出对比照片，进一步加剧了争议。
+
+![](https://www.gamespot.com/a/uploads/original/1922/19226326/3967613-baldurs_gate_3.png)
+
+---
+
+## 2. [《铁血战士》系列首部动画电影《铁血战士：时空猎袭者》发布预告](https://www.3dmgame.com/news/202505/3920116.html)   2025-05-20 19:40
+
+《铁血战士：时空猎袭者》将于6月6日在Disney+上线。这部动画选集以三个时空背景为舞台，讲述三位人类战士与终极猎手“铁血战士”之间的博弈。预告片展示了充满动作与张力的画面，引发影迷热议。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747742078_808875_jpeg_r.jpeg)
+
+---
+
+## 3. [《Infinity Nikki》因不受欢迎的更新致歉并提供补偿](https://www.gamespot.com/articles/infinity-nikki-team-offers-apologies-and-compensation-after-unpopular-update/1100-6531661/?ftag=CAD-01-10abi2f)   2025-05-20 19:36
+
+《Infinity Nikki》近期的1.5版本更新因引入多种问题和争议性内容，导致玩家大量不满。问题包括游戏崩溃、多人玩法故障以及被指责更激进的商业化策略。开发团队已发表道歉声明，并通过游戏内货币进行补偿。
+
+---
+
+## 4. [Epic要求法院强制苹果将《堡垒之夜》重新上架App Store](https://www.gamespot.com/articles/epic-asks-court-to-force-apple-to-return-fortnite-to-us-app-store/1100-6531659/?ftag=CAD-01-10abi2f)   2025-05-20 19:29
+
+Epic与苹果之间的法律纠纷再度升级，Epic请求法院强制苹果允许《堡垒之夜》重回美国App Store。苹果此前以未决诉讼为由，阻止了游戏的重新上架。Epic指责苹果行为违反法庭禁令，目前正寻求进一步强制执行。
+
+---
+
+## 5. [《堡垒之夜》AI版达斯·维达声音引发工会投诉](https://www.gamespot.com/articles/fortnites-ai-darth-vader-voice-draws-union-complaint/1100-6531662/?ftag=CAD-01-10abi2f)   2025-05-20 19:20
+
+《堡垒之夜》近期引入AI生成的达斯·维达声音功能后，演员工会SAG-AFTRA提出了不公平劳动行为投诉。工会表示，尽管已故配音演员詹姆斯·厄尔·琼斯授权AI使用其声音，但这一技术的使用可能影响其他配音演员的就业权益。
+
+---
+
+## 6. [唯美虐心BL漫画《失焦的深度》改编日剧6月开播](https://.4gamers.com.tw/puku-clone-version/ec48c9d5b2fae742d310d85e31746511381283d1.jpeg)
+
+---
+
+## 9. [周鸿祎谈“折腾”：想赚大钱必须不断折腾](https://www.3dmgame.com/news/202505/3920114.html)   2025-05-20 18:16
+
+360创始人周鸿祎近日发视频表示，折腾是一种无比珍贵的品质。他强调，通过折腾积累经验、提升行动力，最终能实现成功。同时，他鼓励粉丝不要害怕失败，勇敢迎接挑战。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747729160_185384.jpg)
+
+---
+
+## 10. [彭博社：任天堂Switch2芯片生产合作三星非台积电](https://www.4gamers.com.tw/news/detail/71901/nintendo-taps-samsung-to-make-switch-2-chips)   2025-05-20 18:10
+
+根据彭博社报道，任天堂选择三星作为Switch2芯片的生产商，而非台积电。三星将使用8纳米工艺制造芯片，以平衡产量和稳定性。后续可能推出更高效能的5纳米版本。
+
+![](https://img.4gamers.com.tw/puku-clone-version/4c6628bc2cd8305c9e4e63cfc8e8c1f921d29ce1.png)
+# 新闻简报 (更新时间: 2025-05-20 20:45)
+
+## 1. [《虹彩六号：围攻行动X》公开第10年更新路线图与破晓行动](https://www.4gamers.com.tw/news/detail/71896/rainbow-six-siege-operation-daybreak-and-year-10-roadmap-reveal)  
+2025-05-20 18:08
+
+《虹彩六号：围攻行动》即将迎来新赛季“破晓行动”，Ubisoft宣布重制干员Clash的电盾功能，可灵活放置地上并遥控电击敌人。此外，Jackal、Sledge等干员的技能也将进行平衡调整。官方还同步公布了第10年更新路线图，包括新增防守干员、地图重制以及双重战线模式的优化。
+
+![](https://img.4gamers.com.tw/puku-clone-version/501cf4eaf059e107275fcd1d8afa9cb4dfcf97e0.jpg)
+
+---
+
+## 2. [小米集齐玄戒、高通、联发科及紫光展锐四大芯片平台](https://www.3dmgame.com/news/202505/3920113.html)  
+2025-05-20 18:06
+
+小米成为首家同时使用玄戒、高通、联发科和紫光展锐四大芯片平台的手机厂商。小米自研芯片玄戒O1基于3nm工艺，Geekbench性能表现优异，将由小米15S Pro首发搭载。此外，小米16系列将采用高通骁龙8 Elite 2芯片，Redmi K系列搭载天玑9500系列。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747727973_740715.jpg)
+
+---
+
+## 3. [传奇真人影像ADV《428：被封锁的涩谷》导演新作开启众筹](https://www.3dmgame.com/news/202505/3920112.html)  
+2025-05-20 17:59
+
+《428：被封锁的涩谷》导演Ishiijirou宣布新作启动，该游戏仍为真人影像冒险，将邀多位知名演员出演，并于5月28日开启众筹。新作舞台设定在涩谷，剧本由老搭档北岛行德操刀。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747735112_199223.jpg)
+
+---
+
+## 4. [联力在COMPUTEX 2025展示LANCOOL 217 INF三面全景机壳](https://www.4gamers.com.tw/news/detail/71900/lian-li-lancool-217-inf-case-in-computex-2025)  
+2025-05-20 17:41
+
+联力于COMPUTEX 2025推出LANCOOL 217 INF三面全景机壳，正面玻璃上开洞安装风扇，解决散热与美观问题。此外，展出曲面LCD水冷头与其他创新硬件，预计于今年第四季上市。
+
+![](https://thumbor.4gamers.com.tw/1OeP_KUV8DBagABjuZsm0LzJGbo=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2F0a4fbb9e9a32a5d541fb8c01c1b843260c89f593.jpg)
+
+---
+
+## 5. [《巫师3》10周年Steam史低促销，CDPR全系列特价](https://www.4gamers.com.tw/news/detail/71899/cd-projekt-red-celebrates-the-witcher-3-wild-hunt-10-year-anniversary)  
+2025-05-20 17:19
+
+《巫师3》十周年特卖活动进行中，Steam售价86元，DLC与完整版均有优惠。CDPR全系列游戏参与促销，包括《昆特牌》和《电驭叛客》。限时至5月26日结束。
+
+![](https://img.4gamers.com.tw/puku-clone-version/bacc8cd8f77d71095b680cef6f068798b7eb39b9.jpg)
+
+---
+
+## 6. [任天堂转投三星代工芯片 全力提升Switch2产能](https://www.3dmgame.com/news/202505/3920111.html)  
+2025-05-20 17:18
+
+任天堂选择三星电子代工Switch2主芯片，旨在提升产能. [SE曾考虑2024年终止《最终幻想11》运营 但玩家热情使其得以延续](https://www.3dmgame.com/news/202505/3920108.html)  
+2025-05-20 16:33
+
+《最终幻想11》制作人藤户洋司透露，游戏原计划于2024年停止更新。但玩家热情使其继续运营，并计划新增种族转换功能和优化单人体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747729939_318334.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-20 20:45)
+
+## 1. [Ducky、Endgame Gear等四军联动亮相COMPUTEX 2025](https://www.4gamers.com.tw/news/detail/71893/pro-gamers-group-in-computex-2025)   2025-05-20 16:10
+
+Pro Gamers Group由Ducky、Endgame Gear、noblechairs和ThunderX3四家电竞厂商联合组成，专注于游戏硬件解决方案。此次亮相COMPUTEX 2025，展出包括Ducky蛇年特制限量键盘、Endgame Gear超高反应速度鼠标、noblechairs抗污电竞椅以及ThunderX3人体工学桌椅等创新产品，吸引了众多电竞爱好者关注。
+
+![](https://thumbor.4gamers.com.tw/BuhHoX6EwFiZRc4tYwP7EZRSGY4=/filters:watermark(https://img.4gamers.com.tw/default-image/4gamers_watermark_20190925.png,-5,-3,0,17):format(jpeg):quality(90)/https%3A%2F%2Fimg.4gamers.com.tw%2Fpuku-clone-version%2Fdefe42509464257d5e5e114c3391a8e11059f737.jpg)
+
+---
+
+## 2. [《明末》修改角色背景故事 女主从海盗变成海商保镖](https://www.3dmgame.com/news/202505/3920107.html)   2025-05-20 16:36
+
+《明末：渊虚之羽》试玩会中，女主角背景从“海盗”改为“海商保镖”，并对角色动机进行了优化。玩家普遍认为此改动规避了争议，并增强了故事的合理性。开发团队的积极调整赢得了玩家好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747727486_431400_jpg_r.jpg)
+
+---
+
+## 3. [任天堂Switch 2第二轮抽选揭晓 前开发者未中签](https://www.3dmgame.com/news/202505/3920106.html)   2025-05-20 15:59
+
+Switch 2预购资格第二轮抽签结果出炉，仍有大量玩家未能中签，包括前任天堂资深涨价时代，玩家到底在为谁买单？](https://www.yystv.cn/p/12866)   2025-05-20 15:45
+
+随着游戏开发成本上涨，主机厂商逐步提高游戏价格。然而，玩家对涨价并不买账，认为部分作品无法匹配更高的售价。文章分析了3A大作成本结构及市场博弈，呼吁玩家用选择影响定价。
+
+![](https://alioss.yystv.cn/doc/12866/c22fa824dfdb36ab04ea8b29f38e3021.appmsg_mw680water)
+
+---
+
+## 6. [小岛秀夫亮相戛纳电影节 《死亡搁浅2》新画面曝光](https://www.3dmgame.com/news/202505/3920105.html)   2025-05-20 15:30
+
+小岛秀夫在戛纳电影节展示《死亡搁浅2：冥滩之上》新画面，首次引入角色“人偶师”，以逐帧动画技术实现其动作表现。该角色将在游戏中为主角山姆提供助力，并增添更多趣味。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747726120_554620.jpg)
+
+--- 
+# 新闻简报 (更新时间: 2025-05-20 20:45)
+
+## 1. [中村悠一记忆遭抹除仍再度落选Switch 2，网笑「任天堂太公平反而可疑」](https://www.4gamers.com.tw/news/detail/71897/yuichi-nakamura-misses-switch-2-lottery-again)   2025-05-20 15:30
+
+日本声优中村悠一在任天堂Switch 2第二波预购抽选中再度落选后，通过社交媒体发表“薄目で見た”的无奈回应，引发网友热议。中村悠一曾表示落选后与中选者“绝交”，并用初代Switch主机手写“2”字自我安慰。任天堂Switch 2预计6月5日正式推出，目前日本区第三次抽选将于5月22日至28日接受报名。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b479d1875b5ab647b28c9591ff2268b74c708897.jpg)
+
+---
+
+## 2. [《少女前线》Steam版上线延期：未收到平台过审通知](https://www.3dmgame.com/news/202505/3920104.html)   2025-05-20 15:24
+
+《少女前线》Steam版原定于5月20日上线，但因未收到平台审核通过通知而宣布延期。官方表示，将通过社交媒体第一时间告知上线日期，并在正式上线当天，为玩家提供延期补偿礼包。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747725827_155737_jpg_r.jpg)
+
+---
+
+## 3. [疾走摇滚乐团HITORIE新专巡演8月3日降临台北The Wall Live House](https://www.4gamers.com.tw/news/detail/71895/hitorie-aisa-tour-in-taiwan-2025)   2025-05-20 15:09
+
+日本摇滚乐团HITORIE将于8月3日在台北The Wall Live House举办专场演唱会，带来新专辑《Friend Chord》的亚洲巡回演出。门票将于5月24日中午12点开始发售。
+
+![](https://img.4gamers.com.tw/puku-clone-version/25ad64eb4de9d96421de42ab1027901c4914cc5b.jpg)
+
+---
+
+## 4. [开发者谈《刺客信条：影》对动物无暴力：亲近比杀戮更有魅力](https://www.3dmgame.com/news/202505/3920103.html)   2025-05-20 15:04
+
+育碧开发者在采访中透露，《刺客信条：影》游戏中玩家无法对动物施加暴力行为，部分动物还能被邀请到隐蔽小屋作为宠物。这一设计旨在平衡游戏冒险与自然环境体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747724621_197609.png)
+
+---
+
+## 5. [《斗阵特攻2》x《快打旋风6》联动造型曝光，限时解锁主题喷漆和头衔](https://www.4gamers.com.tw/news/detail/71894/overwatch-2-reveals-street-fighter-6-collab-skins)   2025-05-20 14:40
+
+《斗阵特攻2》与《快打旋风6》联动推出8款角色造型，包括朱诺春丽、奪命女嘉米等经典角色。活动将于5月21日至6月3日进行，玩家完成挑战可解锁独家奖励。
+
+![](https://img.4gamers.com.tw/puku-clone-version/578beb52bcb0f1f181c1c6b45ad30e7e731f4749.jpg)
+
+---
+
+## 6. [Intel下代处理器Panther Lake首次公开运行：明年大规模上市](https://www.3dmgame.com/news/202505/3920102.html)   2025-05-20 14:34
+
+Intel在台北电脑展上首次实际运行Panther Lake处理器，通过三大DEMO展示其性能与AI应用。预计该处理器将在今年底发布，明年初全面上市。
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250520/1747722842_164851.jpg)
+
+---
+
+## 7. [微星发布AMD芯片Claw A8掌机：锐龙Z2 Extreme加持](https://www.3dmgame.com/news/202505/3920101.html)   2025-05-20 14:33
+
+微星在台北电脑展上发布新款游戏掌机Claw A8，搭载AMD锐龙Z2 Extreme处理器与120Hz屏幕。该掌机提供皓月白与青柠绿两种配色，售价尚未公布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747722793_293114.jpg)
+
+---
+
+## 8. [Steam肉鸽动作射击《Gunner-chan！》5月30日推出](https://www.4gamers.com.tw/news/detail/71891/steam-roguelike-gunner-chan-launch-on-may30th)   2025-05-20 14:20
+
+由日本独立开发者制作的肉鸽动作射击游戏《Gunner-chan！》将于5月30日在Steam上线，玩家将操作Q版枪手娘对抗叛变机器人，游戏支持繁体中文。
+
+![](https://img.4gamers.com.tw/puku-clone-version/026b6a4ee2ac4b40d4a30f410468dbade0a399de.jpg)
+
+---
+
+## 9. [《王国之心》混搭曲风震惊作曲家 乐曲创作内幕曝光](https://www.3dmgame.com/news/202505/3920098.html)   2025-05-20 13:43
+
+《王国之心》系列作曲家下村阳子近日透露创作内幕，她提到在游戏中为迪士尼世界打造音乐的挑战，以及如何融合独特风格。下村阳子确认将回归《王国之心4》。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747719988_466605.webp)
+
+---
+
+## 10. [《最终幻想14：水晶世界》定档6月上线！官方直播公布超多优化新内容](https://www.yystv.cn/p/12865)   2025-05-20 12:00
+
+《最终幻想14：水晶世界》手游宣布将于6月正式上线，优化内容包括画质提升、战斗体验改进以及新增野外玩法。冒险者可通过官网预约参与新版本体验。
+
+![](https://alioss.yystv.cn/doc/12865/9f721fee66c613d395f41987a396d2d2.jpg_mw680water)
+
+---
+# 新闻简报(更新时间:2025-05-20 20:45)
+
+## 1. [《ARC Raiders》开发商主动删除游戏文件 严防数据挖掘](https://www.3dmgame.com/news/202505/3920100.html)   2025-05-20 14:00
+
+为了防止《ARC Raiders》内容被数据挖掘，开发商Embark Studios在技术测试结束后采取激进措施，删除了游戏客户端内的关键文件。更新后，客户端内的多个重要数据被清除，还留下了一个运行后显示加密信息的文件，暗示游戏或将在2025年内发售。尽管此举开创了先例，但也引发了关于数据挖掘对游戏宣传利弊的讨论。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747720775_943995_jpg_r.jpg)
+
+---
+
+## 2. [B社分享《毁灭战士：黑暗时代》水墨风艺图 超挥洒写意](https://www.3dmgame.com/news/202505/3920099.html)   2025-05-20 13:58
+
+《毁灭战士：黑暗时代》作为系列前传，凭借出色口碑与销量受到关注。发行商发布了一组水墨风艺图，展现了游戏独特的艺术风格和故事背景。游戏讲述了毁灭战士如何从凡人崛起，成为地狱杀神的过程，画面风格极具写意美感。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747720654_422579.png)
+
+---
+
+## 3. [Team Liquid选手发争议帖 遭HONDA终止赞助合约](https://www.4gamers.com.tw/news/detail/71890/honda-terminated-its-sponsorship-agreement-with-team-liquid)   2025-05-20 13:49
+
+北美电竞战队Team Liquid旗下选手DiasLucasBr因在输给日本队后发布含原子弹爆炸GIF的社交媒体帖子，引发广泛争议。尽管选手已道歉并接受罚款及教育训练，赞助商HONDA仍宣布终止与Team Liquid长达六年的合作关系，强调该行为与企业价值观不符。
+
+![](https://img.4gamers.com.tw/puku-clone-version/28bf83ce2253acba6a7681c42de180b9737e43fe.png)
+
+---
+
+## 4. [UE5开放世界MMORPG《Chrono Odyssey》Steam全球封测6月开跑](https://www.4gamers.com.tw/news/detail/71889/chrono-odyssey-global-closed-beta-announcement)   2025-05-20 13:10
+
+由NPIXEL开发的《Chrono Odyssey》将于2025年6月在Steam平台启动全球封闭测试。玩家可选择剑客、游侠或狂战士三大职业，体验奇幻世界冒险。本作采用虚幻引擎5打造，融合黑暗奇幻与魂系风格，预计于2025年第四季度正式发售。
+
+![](https://img.4gamers.com.tw/puku-clone-version/08f6aeb3f46aed5b4465c43bbf4506f828b64387.jpg)
+
+---
+
+## 5. [「桐生一马」「春日一番」粘土人现已开订](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-20 12:03
+
+《如龙》系列角色「桐生一马」与「春日一番」的粘土人现已开放预订，售价各6800日元，预计2025年10月发售，角色设计可爱精致，受到粉丝热烈关注。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/11-43-07-phpbjQmo1.jpg)  
+![](https://static.willmao.com/feed_upload/2025-05-20/11-43-08-phpi7eoh4.jpg)
+
+---
