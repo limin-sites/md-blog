@@ -590,3 +590,320 @@ Take-Two首席执行官Strauss Zelnick表示，尽管通货膨胀影响，视频
 ![](https://www.gamespot.com/a/uploads/scale_super/3/37852/4497281-overwatchxstreetfighter6group.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-20 10:45)
+
+## 1. [英伟达黑科技加持《毁灭战士：黑暗时代》 光线追踪再进化](https://www.3dmgame.com/news/202505/3920075.html)  
+2025-05-20 09:26  
+
+英伟达宣布《毁灭战士：黑暗时代》将于6月为GeForce RTX显卡用户开放路径追踪与DLSS光线重建功能，进一步提升光线追踪的表现。RTX 50系列显卡的DLSS 4技术可将4K分辨率下的帧率提升至四倍，并借助AI模型优化画质。路径追踪技术在光线效果和反射细节上实现突破，为玩家带来极致视觉体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747704220_508243.png)
+
+---
+
+## 2. [玩过的人都说好！新《战地》国内玩家实机](https://www.3dmgame.com/news/202505/3920074.html)  
+2025-05-20 09:24  
+
+《战地》新作在中国玩家社区引发热烈反响。一些幸运玩家上传了封测视频，展示了新作中的战场体验和破坏系统，获得广泛好评。相比上一代《战地2042》，新作回归经典大战场设计，并在画面细节和玩法创新上取得显著进步。游戏的四大兵种设计也备受关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747703731_291438_jpg_r.jpg)
+
+---
+
+## 3. [卡普空暗示《怪物猎人：荒野》与《街头霸王》联动活动](https://www.3dmgame.com/news/202505/3920073.html)  
+2025-05-20 09:23  
+
+卡普空宣布《怪物猎人：荒野》将与《街头霸王》展开联动，活动预计于5月底上线。可能推出以经典角色为灵感的防具套装和任务。此次联动延续了卡普空通过跨界活动丰富游戏内容的传统，为玩家提供更多乐趣。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747704131_986980_jpg_r.jpg)
+
+---
+
+## 4. [任天堂宣布参展科隆游戏展 时隔2年再次参展](https://www.3dmgame.com/news/202505/3920071.html)  
+2025-05-20 09:11  
+
+任天堂确认参加2025年科隆游戏展，这是自2023年以来的首次亮相。作为世界三大游戏展之一，科隆游戏展将于8月20日至24日在德国举行。目前任天堂尚未公布具体参展项目，玩家对此充满期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747703462_262126.png)
+
+---
+
+## 5. [《守望先锋2》x《街头霸王6》联动实机演示 明日上线！](https://www.3dmgame.com/news/202505/3920070.html)  
+2025-05-20 09:08  
+
+暴雪娱乐发布了《守望先锋2》与《街头霸王6》的联动预告片。多位英雄将获得以街霸角色为主题的皮肤，联动内容将于5月21日上线。此外，游戏还新增了致敬街霸回合胜利画面的特色动作。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747703204_262055_png_r.webp)
+
+---
+
+## 6. [《鬼武者2：复刻版》女角被卡普空和谐 让玩家们不满](https://www.3dmgame.com/news/202505/3920069.html)  
+2025-05-20 09:05  
+
+《鬼武者2：复刻版》因对女性角色服装和场景进行更改而引发争议。玩家认为这些调整迎合了西方审查标准，违背了原作精神，甚至调侃未来其他经典角色也可能遭到“和谐”。部分玩家表示将抵制该作品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747702846_124344_jpg_r.jpg)
+
+---
+
+## 7. [《最后生还者》剧集确认四季完结 主创否决第三季收官](https://www.3dmgame.com/news/202505/3920072.html)  
+2025-05-20 09:03  
+
+HBO剧集《最后生还者》主创克雷格·麦辛确认将以四季结局，否定用三季讲完整故事的可能性。他解释道，故事的复杂性需要更多时间展开，预计后续季数将有更长篇幅。目前第二季即将完结，评价较为两极。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747703895_427980.webp)
+
+---
+
+## 8. [除了《星际：异端先知》 顽皮狗确认正开发另外一个游戏](https://www.3dmgame.com/news/202505/3920068.html)  
+2025-05-20 08:50  
+
+顽皮狗创意总监Neil Druckmann透露工作室正在开发另一款新作，其角色更偏向制作人的指导角色。这款游戏处于早期阶段，可能为PS6平台设计。此外，顽皮狗此前表示除《星际：异端先知》外正在开发多款单人游戏。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747702083_315559_jpg_r.jpg)
+# 新闻简报(更新时间:2025-05-20 10:45)
+
+## 1. [《永劫无间》全景光追和DLSS光线重建 画面提升](https://www.3dmgame.com/news/202505/3920067.html)   2025-05-20 08:39
+
+《永劫无间》即将于5月22日发布更新，新增全景光线追踪和DLSS光线重建技术，显著提升游戏画面质量。通过全景光线追踪，游戏中的环境光照、阴影和水面反射更加逼真自然。同时，DLSS光线重建技术替换传统降噪器，进一步优化GeForce RTX GPU的光线追踪性能，带来更高的画面细节和沉浸感。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747701531_892199_jpg_r.jpg)
+
+---
+
+## 2. [Fan recreates Minecraft in Super Mario 64, playable on Original Hardware](https://gonintendo.com/contents/48604-fan-recreates-minecraft-in-super-mario-64-playable-on-original-hardware)   2025-05-20 08:38
+
+一位粉丝成功将《Minecraft》移植至《超级马里奥64》，并且可以在原始硬件上运行。这项创意展示了经典游戏与现代游戏机制的巧妙融合。
+
+---
+
+## 3. [微软应用商店免费开放给独立开发者](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-20 08:33
+
+从六月起，独立开发者可以免费注册微软应用商店，无需支付费用或提供信用卡信息。这一举措旨在支持开发者专注于创作和开发应用程序，进一步壮大商店生态。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/07-58-29-phpzmpN9m.jpg)
+
+---
+
+## 4. [《使命召唤2025》传闻：战役设定与玩法升级](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-20 08:33
+
+据传，《使命召唤2025》战役模式设定在2035年，作为《黑色行动2》的续作。多人模式将引入全地形移动机制和未来主题地图，僵尸模式将回归经典回合制玩法，首发或包含类似《运输站》类型的地图。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/07-53-23-phpElSEOU.jpg)
+
+---
+
+## 5. [《纪元117：罗马和平》冬季登陆次世代平台](http://nnas.sqngame.com:11201/xboxfan/news)   2025-05-20 08:33
+
+《纪元117：罗马和平》实机演示公开，游戏背景设定在公元117年，玩家将扮演罗马总督，通过建造、贸易和扩张决定市民命运。该作将于今年冬季登陆Xbox Series X|S、PS5及PC平台。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/08-08-30-phpghSn7H.jpg)
+
+---
+
+## 6. [《明末：渊虚之羽》4K DLSS4对比视频发布](https://www.3dmgame.com/news/202505/3920066.html)   2025-05-20 08:28
+
+《明末：渊虚之羽》展示了DLSS4技术的帧数提升效果，游戏将于7月24日正式发售，支持多项RTX技术。玩家将在动荡的明末巴蜀之地化身女侠，探索丰富剧情，体验流畅战斗，并揭开神秘诅咒的真相。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747700813_898744_jpg_r.jpg)
+
+---
+
+## 7. [《巫师4》玩家自由度升级 面临艰难选择](https://www.3dmgame.com/news/202505/3920062.html)   2025-05-20 08:20
+
+《巫师4》将在2027年发售，游戏总监透露玩家将拥有更高自由度，选择机制更具深度。玩家的每个决定都将带来不同后果，善恶选择可能交织出复杂的剧情，让玩家体验个性化游戏故事。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747699300_833284_jpg_r.jpg)
+
+---
+
+## 8. [《心之眼》《红色沙漠》确认支持DLSS4](https://www.3dmgame.com/news/202505/3920064.html)   2025-05-20 08:17
+
+英伟达宣布《红色沙漠》和《心之眼》将在发布时支持DLSS 4技术。《红色沙漠》是一款开放世界动作冒险游戏，将展现帕卫尔大陆的史诗故事。《心之眼》则以未来城市为背景，讲述人工智能与人类冲突的惊险传奇。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747700141_594892_jpg_r.jpg)
+
+---
+# 新闻简报(更新时间:2025-05-20 08:15)
+
+## 1. [育碧策略游戏《纪元117：罗马和平》实际演示公开](https://www.3dmgame.com/news/202505/3920065.html)  2025-05-20 08:15
+
+育碧Mainz工作室开发的策略游戏《纪元117：罗马和平》发布了实际演示，该作预计于今年冬季登陆PC、Xbox Series X|S和PS5。游戏设定在公元117年，让玩家扮演罗马总督，管理行省、制定政策并塑造自己的传奇。玩家可以选择经济增长、文化联合或强权统治等不同方向，体验建设、贸易与扩张的丰富内容。值得注意的是，游戏的Steam页面已上线，但暂不支持中文。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747700154_589204.jpg)
+
+---
+
+## 2. [Steam喜加一：免费领取多人魔法对战游戏《施法与咒语》](https://www.3dmgame.com/news/202505/3920063.html)  2025-05-20 08:00
+
+Steam平台现正限时免费领取多人魔法对战游戏《施法与咒语》，活动将持续至5月21日凌晨3点。该游戏于2025年4月18日上线，支持简体中文，玩家可扮演魔法师使用火、冰霜、闪电等自然元素进行对战，支持PvP与PvE模式。虽然当前评价“褒贬不一”，但对喜欢魔法对战的玩家来说，或许是一个值得尝试的机会。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747699387_627333_jpg_r.jpg)
+
+---
+
+## 3. [Sky宣布全新动画《The Two Embers》，将在游戏中播放](https://gonintendo.com/contents/48603-sky-announces-the-two-embers-and-animated-feature-that-will-stream-in-game)  2025-05-20 08:12
+
+Sky官方宣布了一部全新动画电影《The Two Embers》，该动画将直接在游戏内进行播放。动画将探索“光之子”的起源故事，为玩家提供更深入的游戏背景与情感体验。
+
+---
+
+## 4. [微软应用商店推出FastTrack计划，简化企业提交应用流程](http://nnas.sqngame.com:11201/xboxfan/news)  2025-05-20 08:00
+
+微软应用商店宣布推出全新FastTrack计划，为企业开发者提供免注册费、简化认证流程和全程指导服务，旨在吸引更多企业开发者加入平台。这一计划有望进一步提升微软应用生态系统的活跃度。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/07-59-44-phpJvl1MQ.jpg)
+
+---
+
+## 5. [《使命召唤2025》传闻汇总：战役设定于2035，多人模式回归经典](http://nnas.sqngame.com:11201/xboxfan/news)  2025-05-20 07:54
+
+关于《使命召唤2025》的传闻显示，游戏的战役模式设定在《黑色行动2》之后的2035年，多人模式将引入全地形移动机制并重制经典地图。此外，僵尸模式将回归回合制内容，首发地图或包含类似《运输站》的设计。
+
+![](https://static.willmao.com/feed_upload/2025-05-20/07-53-23-phpElSEOU.jpg)
+# 新闻简报(更新时间:2025-05-20 10:45)
+
+## 1. [《古墓丽影》新作开发接近完成 已进入打磨阶段](https://www.3dmgame.com/news/202505/3920061.html)   
+2025-05-20 07:35
+
+《古墓丽影》系列新作由水晶动力与亚马逊合作开发，目前已进入开发最后阶段的打磨环节。招聘信息显示，开发团队正在寻找高级关卡设计师，以设计具有解谜元素的关卡。随着夏季游戏节临近，新作或将正式公布。预计游戏将在2025年假日季或2026年初发布。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747697642_344466.jpg)
+
+---
+
+## 2. [Minecraft Warden Spawns, Drops, And How To Beat](https://www.gamespot.com/articles/minecraft-warden-spawns-drops-and-how-to-beat/1100-6531623/?ftag=CAD-01-10abi2f)   
+2025-05-20 07:25
+
+《Minecraft》中致命的Warden怪物可在“深暗洞穴”中通过触发四个Sculk Shriekers生成。游戏玩家需谨慎策略，以避免直接与Warden对抗。击败它后，可以获取珍贵的古城战利品。 
+
+![](https://www.gamespot.com/a/uploads/scale_super/1850/18507742/4497160-minecraft-warden.jpg)
+
+---
+
+## 3. [Nihon Falcom的RPG《Tokyo Xanadu》Switch版罕见折扣](https://www.gamespot.com/articles/nihon-falcoms-rpg-tokyo-xanadu-gets-rare-discount-for-nintendo-switch/1100-6527596/?ftag=CAD-01-10abi2f)    
+2025-05-20 06:32
+
+《Tokyo Xanadu eX+》Switch版现于Amazon售价35美元，GameStop售价30美元。这款动作RPG包括所有DLC及新增内容，适合《英雄传说》与《伊苏》系列粉丝。Switch版是该游戏的增强版，加入了画质提升与游戏优化。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1595/15950357/4497341-tokyoxanadu.png)
+
+---
+
+## 4. [《最后生还者》导演Neil Druckmann参与第二款未公布游戏开发](https://www.gamespot.com/articles/the-last-of-us-director-neil-druckmann-is-working-on-a-second-unannounced-game-at-naughty-dog/1100-6531656/?ftag=CAD-01-10abi2f)    
+2025-05-20 06:18
+
+《最后生还者》创意总监Neil Druckmann透露，他目前同时参与两款游戏开发：一是《Intergalactic: The Heretic Prophet》，另一款尚未公布。这或许表明《最后生还者3》的概念已经成型，未来可能推出新作。
+
+---
+
+## 5. [《堡垒之夜》Darth Jar Jar皮肤需大量经验解锁](https://www.gamespot.com/articles/fortnites-darth-jar-jar-skin-takes-a-ridiculous-amount-of-xp-to-unlock/1100-6531655/?ftag=CAD-01-10abi2f)    
+2025-05-20 05:09
+
+《堡垒之夜》新增Darth Jar Jar皮肤，但玩家需通过积累128万经验值才能解锁购买权限。解锁后，皮肤售价为3200 V-Bucks（约26美元），仅服装部分则为1500 V-Bucks（约13美元）。
+
+---
+
+## 6. [NVIDIA DLSS 4支持游戏超125款，《毁灭战士：黑暗时代》6月升级路徑追踪](https://www.4gamers.com.tw/news/detail/71882/over-125-games-support-nvidia-dlss-4-and-doom-the-dark-ages-path-tracing-launching-june)    
+2025-05-20 05:00
+
+NVIDIA宣布DLSS 4已支持超过125款游戏，包括《赤血沙漠》和《F1 25》。此外，《毁灭战士：黑暗时代》将在6月更新中加入光线追踪技术的路徑追踪模式，以提升游戏画质。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-COMPUTEX/NVIDIA/DOOM-01.jpg)
+
+---
+
+## 7. [Intel展示Panther Lake，预计2026年初上市](https://www.4gamers.com.tw/news/detail/71881/intel-demos-panther-lake-sample)    
+2025-05-20 02:00
+
+Intel在COMPUTEX 2025上展示了次世代笔电平台Panther Lake样品机。该平台基于Intel 18A制程，提供高效能与低功耗。Panther Lake预计2025下半年量产，2026年初上市。
+
+![](https://img.4gamers.com.tw/ckfinder/files/Elvis/News/2025-COMPUTEX/Intel/P1012011.jpg)
+
+---
+
+## 8. [Switch 2或将成为终极任天堂系统](https://www.gamespot.com/articles/switch-2-looks-like-the-ultimate-nintendo-system/1100-6531652/?ftag=CAD-01-10abi2f)    
+2025-05-20 04:22
+
+任天堂Switch 2整合了多项硬件创新，配备内置麦克风以支持语音聊天功能。尽管设计较为保守，但其强大的性能和多功能性使其成为集大成的任天堂主机，瞄准更广泛的玩家市场。
+# 新闻简报 (更新时间: 2025-05-20 10:45)
+
+## 1. [Nintendo展示Switch 2游戏卡及官方便携包](https://www.gamespot.com/articles/heres-what-the-nintendo-switch-2-game-cards-and-carrying-case-look-like/1100-6531654/?ftag=CAD-01-10abi2f)   
+2025-05-20 04:14
+
+任天堂通过一段视频详细展示了Switch 2游戏卡和官方便携包。这款便携包售价40美元，可容纳主机、两条Joy-Con腕带及六张游戏卡。游戏卡外观与原版Switch卡相似，但采用亮红色设计，视觉上非常独特。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4497336-xboxgamestudiosbundle.png)
+
+---
+
+## 2. [乐高关闭开发8年的Bionicle粉丝游戏](https://www.gamespot.com/articles/lego-shuts-down-bionicle-fan-game-after-8-years-in-development/1100-6531651/?ftag=CAD-01-10abi2f)   
+2025-05-20 04:12
+
+乐高要求结束粉丝开发的《Bionicle: Masks of Power》游戏项目，该游戏已开发近十年。开发团队Team Kanohi发布了最后版本的“项目总结”，并表示不清楚乐高为何此时要求关闭，尽管团队严格遵守使用条款。
+
+---
+
+## 3. [8款Xbox Game Studios热门游戏仅售10美元](https://www.gamespot.com/articles/grab-8-xbox-game-studios-hits-for-only-10-this-week/1100-6531624/?ftag=CAD-01-10abi2f)   
+2025-05-20 04:11
+
+Humble Bundle推出促销活动，8款Xbox Game Studios经典游戏仅需10美元，包括《Ori and the Will of the Wisps》和《Age of Empires: Definitive Edition》。该优惠将于5月24日结束。
+
+![](https://www.gamespot.com/a/uploads/square_medium/1595/15950357/4497336-xboxgamestudiosbundle.png)
+
+---
+
+## 4. [《Warhammer 40,000: Space Marine 2》以史低价格促销](https://www.gamespot.com/articles/warhammer-40000-space-marine-2-is-on-sale-for-its-best-price-yet/1100-6531641/?ftag=CAD-01-10abi2f)   
+2025-05-20 03:59
+
+《Warhammer 40,000: Space Marine 2》现售价40美元（原价70美元），适用于Xbox Series X和PS5。该游戏延续了前作的紧张战斗风格，获得了8/10的高评价。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4497275-81oyukxwukl._sl1500.jpg)
+
+---
+
+## 5. [《Fortified Zone 2》首次在日本以外发布实体版](https://gonintendo.com/contents/48600-fortified-zone-2-getting-physical-game-boy-release-outside-of-japan-for-the-first)   
+2025-05-20 03:59
+
+经典游戏《Fortified Zone 2》将首次在日本以外地区推出实体版Game Boy卡带，带来怀旧体验。
+
+---
+
+## 6. [《Crash Bandicoot》经典雕像公开](https://gonintendo.com/contents/48599-first-4-figures-reveals-crash-bandicoot-classic-statue)   
+2025-05-20 03:55
+
+First 4 Figures宣布推出《Crash Bandicoot》经典雕像，完美再现角色细节。
+
+---
+
+## 7. [《Donkey Kong Country Returns HD》开启实况系列](https://gonintendo.com/contents/45973-play-nintendo-kicks-off-donkey-kong-country-returns-hd-let-s-play-update)   
+2025-05-20 03:54
+
+Play Nintendo正式启动《Donkey Kong Country Returns HD》的Let’s Play实况系列，带领玩家畅游丛林世界。
+
+---
+
+## 8. [《Minecraft》如何找到、驯服、骑乘和繁育马匹](https://www.gamespot.com/articles/how-to-find-tame-ride-and-breed-minecraft-horses/1100-6531531/?ftag=CAD-01-10abi2f)   
+2025-05-20 03:42
+
+《Minecraft》中的马匹是玩家早期探索地图的好伙伴，可在草原或热带稀树草原生物群落中找到。马匹有多种颜色和图案，玩家还可通过繁育获得理想的马匹。
+
+![](https://www.gamespot.com/a/uploads/scale_super/1850/18507742/4494562-minecraft-horses.jpg)
+
+---
+
+## 9. [《Balatro》未来更新计划公布](https://gonintendo.com/contents/48598-balatro-publisher-is-taking-a-very-respectful-approach-to-future-updates)   
+2025-05-20 03:41
+
+《Balatro》发行商宣布采取“非常尊重”的方式推进未来更新，为玩家带来更多新内容。
+
+---
+
+## 10. [《Minecraft》无限熔岩农场制作指南](https://www.gamespot.com/articles/how-to-make-an-infinite-minecraft-lava-farm/1100-6531501/?ftag=CAD-01-10abi2f)   
+2025-05-20 03:40
+
+通过滴水石和熔岩源块，玩家可以在《Minecraft》中创建轻松安全的无限熔岩农场，满足建筑或熔炼需求。
+
+![](https://www.gamespot.com/a/uploads/scale_super/1850/18507742/4493468-minecraft-lava.jpg)
+
+---
