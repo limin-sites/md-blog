@@ -66,3 +66,21 @@ Edit是一个为Windows设计的轻量级开源命令行文本编辑器，支持
 本文通过翻译《AD Recon – AS-REP Roasting Attacks》一文，详细探讨了AD环境中的AS-REP烘烤攻击技术。文章从Kerberos预身份验证机制入手，介绍了AS-REP烘烤攻击的原理，并分享了如何搜寻可被利用的AS-REP用户的实操方法。作者对翻译内容进行了校正，并补充了部分注释，适合对该技术感兴趣的安全研究人员深入阅读。
 
 ![](https://pic.cnblogs.com/avatar/1747742656935382.png)
+# 新闻简报(更新时间:2025-05-21 05:45)
+
+## 1. [Remote Startup vs Corporate Job: How to Choose Without Regret](https://app.daily.dev/posts/remote-startup-vs-corporate-job-how-to-choose-without-regret-rrtsrwaxr)  
+2025-05-17 14:28
+
+这篇文章探讨了在职业生涯早期如何选择适合自己的工作环境：创业公司还是大型企业。作者指出，创业公司和企业各有优势，例如创业公司提供更多的角色灵活性和晋升机会，而企业则通常拥有更完善的结构化流程和知名度。文章还强调了在选择工作时需要结合个人需求，例如是否需要搬迁、是否能获得独特的技能成长，以及如何避免因“曝光”而忽视薪资的重要性。最后，作者给出了实用的建议，如通过自我挑战来提升现有工作的价值，以及在跳槽前明确自己的目标和实际需求。
+
+![](https://media.daily.dev/image/upload/s--4X9_fuke--/f_auto/v1747463315/posts/rrTsRWAXr?_a=BAMClqUq0)
+
+---
+
+## 2. [小白也能行！10分钟用Cursor搭建个人博客网站（零基础教程） - CSharp精选营](https://www.cnblogs.com/shenchuanchao/p/18888045)  
+2025-05-20 23:42
+
+文章介绍了如何使用Cursor，一款基于GPT-4技术的智能代码编辑器，快速搭建个人博客网站。Cursor的特点包括自动生成代码、解释代码含义、修复代码错误，以及提供对话式编程支持。该工具特别适合零基础用户，传统需要掌握HTML/CSS和命令行知识的博客搭建工作，现在通过AI对话即可轻松完成。教程详细展示了从安装工具到搭建网站的具体步骤，并对比了传统方法与AI辅助的效率差异。
+
+---
+
