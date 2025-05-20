@@ -907,3 +907,338 @@ Play Nintendo正式启动《Donkey Kong Country Returns HD》的Let’s Play实�
 ![](https://www.gamespot.com/a/uploads/scale_super/1850/18507742/4493468-minecraft-lava.jpg)
 
 ---
+# 新闻简报(更新时间:2025-05-20 15:45)
+
+## 1. [中村悠一记忆遭抹除仍二度落选Switch 2，网笑「任天堂太公平反而可疑」](https://www.4gamers.com.tw/news/detail/71897/yuichi-nakamura-misses-switch-2-lottery-again)  
+2025-05-20 15:30  
+
+声优中村悠一第二次未能中选Switch 2预购，引发网友热议。尽管他为任天堂Direct长年担任旁白，仍未中选，网友调侃任天堂太公平。Switch 2因产能受限，日本第二轮预购报名人数高达220万。第三轮抽选将于5月22日开启。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/b479d1875b5ab647b28c9591ff2268b74c708897.jpg)  
+
+---
+
+## 2. [《少女前线》Steam版上线延期：未收到平台过审通知](https://www.3dmgame.com/news/202505/3920104.html)  
+2025-05-20 15:24  
+
+《少女前线》原定今日上线Steam，但因尚未收到平台审核通过反馈而延期。官方表示将在上线当天发放补偿礼包，并将积极与平台沟通以争取尽快上线。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747725827_155737_jpg_r.jpg)  
+
+---
+
+## 3. [疾走摇滚乐团HITORIE新专巡演8月3日登陆台北](https://www.4gamers.com.tw/news/detail/71895/hitorie-aisa-tour-in-taiwan-2025)  
+2025-05-20 15:09  
+
+日本摇滚乐团HITORIE将于8月3日在台北The Wall Live House举办演唱会，演出为新专辑《Friend Chord》亚洲巡演的一部分。门票将于5月24日中午开售。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/25ad64eb4de9d96421de42ab1027901c4914cc5b.jpg)  
+
+---
+
+## 4. [开发者谈《刺客信条：影》对动物无暴力 亲近比杀戮更有魅力](https://www.3dmgame.com/news/202505/3920103.html)  
+2025-05-20 15:04  
+
+《刺客信条：影》中玩家无法对动物施以暴力，而是可与部分动物亲近为伴。开发者表示此设计旨在为玩家提供如禅道般的自然体验。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747724621_197609.png)  
+
+---
+
+## 5. [《斗阵特攻2》×《快打旋风6》联动造型曝光，活动限时开启](https://www.4gamers.com.tw/news/detail/71894/overwatch-2-reveals-street-fighter-6-collab-skins)  
+2025-05-20 14:40  
+
+《斗阵特攻2》宣布与《快打旋风6》联动，将推出8款角色联动造型及限时挑战活动。活动于5月21日-6月3日举行，完成挑战可获丰富奖励。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/578beb52bcb0f1f181c1c6b45ad30e7e731f4749.jpg)  
+
+---
+
+## 6. [Intel下代处理器Panther Lake首次公开运行：明年大规模上市](https://www.3dmgame.com/news/202505/3920102.html)  
+2025-05-20 14:34  
+
+Intel在台北电脑展上展示了新一代处理器Panther Lake实际运行性能，包括AI应用和视频编辑，这表明其开发进展顺利，预计明年初全面上市。  
+
+![](https://img.3dmgame.com/uploads/images/xiaz/20250520/1747722842_719062.jpg)  
+
+---
+
+## 7. [微星发布AMD芯片Claw A8掌机：锐龙Z2Extreme加持](https://www.3dmgame.com/news/202505/3920101.html)  
+2025-05-20 14:33  
+
+微星在台北电脑展上发布Claw A8掌机，搭载AMD锐龙Z2 Extreme处理器，配备8英寸120Hz屏幕和24GB内存，售价尚未公布。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747722793_293114.jpg)  
+
+---
+
+## 8. [Steam肉鸽动作射击《Gunner-chan！》5月30日推出](https://www.4gamers.com.tw/news/detail/71891/steam-roguelike-gunner-chan-launch-on-may30th)  
+2025-05-20 14:20  
+
+独立游戏《Gunner-chan！》即将在Steam上线，玩家将操作Q版主角对抗敌人。游戏支持多种武器、随机地图和角色成长，现已开放愿望清单。  
+
+![](https://img.4gamers.com.tw/puku-clone-version/026b6a4ee2ac4b40d4a30f410468dbade0a399de.jpg)  
+
+---
+
+## 9. [《王国之心》混搭曲风震惊作曲家 乐曲创作内幕曝光](https://www.3dmgame.com/news/202505/3920098.html)  
+2025-05-20 13:43  
+
+作曲家下村阳子回忆《王国之心》配乐创作经历，坦言迪士尼与原创风格混搭的挑战性，同时确认将继续参与《王国之心4》制作。  
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747719988_466605.webp)  
+
+---
+
+## 10. [《最终幻想14：水晶世界》定档6月上线！官方直播公布优化内容](https://www.yystv.cn/p/12865)  
+2025-05-20 12:00  
+
+《最终幻想14：水晶世界》宣布将于6月上线，官方直播中公布了画面优化、战斗体验升级以及新玩法内容，预约玩家可抽取专属奖励。  
+
+![](https://alioss.yystv.cn/doc/12865/9f721fee66c613d395f41987a396d2d2.jpg_mw680water)  
+# 新闻简报(更新时间:2025-05-20 15:45)
+
+## 1. [《ARC Raiders》开发商主动删除游戏文件 严防数据挖掘](https://www.3dmgame.com/news/202505/3920100.html)   2025-05-20 14:00
+
+在《ARC Raiders》技术测试结束后，开发商Embark Studios采取了一项激进措施——直接删除游戏客户端内的关键文件，以防止数据挖掘和内容泄露。网友提供的截图显示，更新后大量文件被移除，开发者甚至留下了一个显示发售日期加密信息的.exe文件。据悉，游戏预计于2025年内发售。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747720775_943995_jpg_r.jpg)
+
+---
+
+## 2. [B社分享《毁灭战士：黑暗时代》水墨风艺图 超挥洒写意](https://www.3dmgame.com/news/202505/3920099.html)   2025-05-20 13:58
+
+《毁灭战士：黑暗时代》以其水墨风艺术图再次吸引了玩家目光。作为《毁灭战士(2016)》和《毁灭战士：永恒》的前传，该作讲述了毁灭战士的起源故事。水墨画作展现了游戏的独特艺术风格，深受玩家好评。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747720654_422579.png)
+
+---
+
+## 3. [Team Liquid《虹彩六号》选手争议发文，HONDA终止赞助](https://www.4gamers.com.tw/news/detail/71890/honda-terminated-its-sponsorship-agreement-with-team-liquid)   2025-05-20 13:49
+
+Team Liquid《虹彩六号》选手因在社交媒体上发布广岛原爆动图引发争议，尽管选手随后道歉，HONDA仍决定终止与战队的六年赞助关系。Team Liquid对选手进行了罚款和教育整改，未来将加强全员教育，以避免类似事件的发生。
+
+![](https://img.4gamers.com.tw/puku-clone-version/28bf83ce2253acba6a7681c42de180b9737e43fe.png)
+
+---
+
+## 4. [UE5开放世界MMORPG《Chrono Odyssey》Steam全球封测6月开启](https://www.4gamers.com.tw/news/detail/71889/chrono-odyssey-global-closed-beta-announcement)   2025-05-20 13:10
+
+韩国NPIXEL开发的MMORPG《Chrono Odyssey》宣布将于6月在Steam启动全球封测。本作采用买断制，计划于2025年第四季度上线PC、PS5及Xbox Series X/S平台。游戏以其独特的时间操控机制和开放世界设定吸引了大量关注。
+
+![](https://img.4gamers.com.tw/puku-clone-version/f0fa2a7838d5e4646934e3e4c9937ff2abb4bfb8.jpg)
+
+---
+
+## 5. [Steam铜板价恐怖新作《The Deadseat》获极度好评](https://www.4gamers.com.tw/news/detail/71884/steam-horror-game-the-deadseat)   2025-05-20 12:23
+
+恐怖游戏《The Deadseat》以其出色的剧情和氛围营造在Steam上获得极度好评。玩家将扮演被困车内的角色，通过掌上游戏机与怪物对抗。本作售价仅66元，游戏时长约30分钟，推荐给喜欢恐怖氛围的玩家。
+
+![](https://img.4gamers.com.tw/puku-clone-version/b6fa713507c5613f1ccbec41b85524d006b63000.jpg)
+
+---
+
+## 6. [2499元起！英伟达RTX5060显卡/笔记本正式开售](https://www.3dmgame.com/news/202505/3920097.html)   2025-05-20 12:23
+
+NVIDIA RTX 5060显卡今日正式开售，起售价为2499元。RTX 5060支持DLSS 4多帧生成技术，能在高画质设定下实现100FPS以上的游戏体验。此外，搭载移动版RTX 5060的笔记本售价7999元起。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747712167_918561.jpg)
+
+---
+
+## 7. [东方Project二创对战《东方Dream Duel》Steam亮相](https://www.4gamers.com.tw/news/detail/71888/touhou-dream-duel-currently-in-development)   2025-05-20 12:11
+
+东方Project同人作品《东方Dream Duel》计划于2025年内登陆Steam。该作结合弹幕射击与对战格斗玩法，支持线上回滚网络代码，预计将带来更加流畅的对战体验。目前确认登场角色包括博丽灵梦、魔理沙等。
+
+![](https://img.4gamers.com.tw/puku-clone-version/a03ebac4103ab609dad762b10a8e22631a37d2cc.jpg)
+
+--- 
+# 新闻简报(更新时间:2025-05-20 15:45)
+
+## 1. [新敌人现身《DELTARUNE》](https://gonintendo.com/contents/48610-new-enemy-revealed-for-deltarune)   2025-05-20 12:04
+
+《DELTARUNE》正式公布一位新敌人形象，相关细节和玩法尚未披露，但玩家们对这一新角色的期待值已然飙升。
+
+---
+
+## 2. [亚马逊促销：配屏无线手柄降价20%](https://www.gamespot.com/articles/save-20-on-this-cool-wireless-controller-with-a-built-in-screen-at-amazon/1100-6528094/?ftag=CAD-01-10abi2f)   2025-05-20 11:52
+
+ManbaOne无线手柄现已在亚马逊促销，白色款仅售56美元（原价70美元），黑色款售价60美元。该手柄不仅支持PC、Switch和移动设备，还内置迷你屏幕，功能丰富且设计独特。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4497530-manbaonewirelesscontroller.png)
+
+---
+
+## 3. [《博德之门3》手办翻车，威世智提供全额退款](https://www.3dmgame.com/news/202505/3920096.html)   2025-05-20 11:51
+
+威世智因其推出的《博德之门3》手办质量问题向玩家致歉，并承诺提供全额退款。手办的实际形象与宣传落差巨大，被形容为“软塌脸”的灾难。威世智表示将加强质量监控，避免再次出现类似问题。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747713181_784302.webp)
+
+---
+
+## 4. [国外《任天堂大乱斗DX》决赛因BUG决胜引热议](https://www.3dmgame.com/news/202505/3920095.html)   2025-05-20 11:49
+
+在Full House 2025电竞比赛中，《任天堂大乱斗DX》决赛因一知名BUG意外决胜。选手Moky因触发BUG导致失利，引发现场观众哗然，也让这一经典游戏的比赛规则受到更多关注。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747712902_895012.png)
+
+---
+
+## 5. [像素风ARPG《The Slormancer》Steam爆火](https://www.3dmgame.com/news/202505/3920094.html)   2025-05-20 11:45
+
+凭借独特的像素风美术、爽快的战斗体验及丰富的装备系统，《The Slormancer》在Steam上掀起热潮，并被誉为《暗黑4》和《流放之路2》的新竞争对手。目前该游戏正在进行25%折扣促销。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747712675_277140.jpg)
+
+---
+
+## 6. [《洛奇英雄传：抵抗命运》A测预告片发布](https://www.3dmgame.com/news/202505/3920093.html)   2025-05-20 11:39
+
+NEXON宣布动作RPG《洛奇英雄传：抵抗命运》将于6月8日在Steam开启Alpha测试。该游戏以其震撼的打击感和多样化技能设计为特色，预告片现已公开。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747712276_651544_png_r.webp)
+
+---
+
+## 7. [迪士尼宣布《动物方城市2》上映日期](https://www.4gamers.com.tw/news/detail/71887/disney-officially-announces-release-date-for-zootopia-2)   2025-05-20 11:33
+
+迪士尼宣布《动物方城市2》将于2025年11月26日在台湾上映，首支前导预告将在5月21日公开。本次续集将继续由原班人马配音。
+
+![](https://img.4gamers.com.tw/puku-clone-version/7fc1addbcb8060cba90e6368e70bee9485558b39.jpg)
+
+--- 
+# 新闻简报(更新时间:2025-05-20 15:45)
+
+## 1. [任天堂与三星合作，提升Switch 2产能](https://gonintendo.com/contents/48606-nintendo-teams-with-samsung-to-ramp-up-switch-2-production)   2025-05-20 11:31
+
+任天堂宣布与三星展开合作，计划提升下一代Switch游戏机的产能。此次合作旨在解决以往的库存问题，为即将推出的Switch 2做好充分准备。据悉，双方将共同优化供应链，以确保新产品的市场需求得到满足。
+
+---
+
+## 2. [My Nintendo推出马里奥赛车与塞尔达传说抽奖活动](https://gonintendo.com/contents/48605-my-nintendo-running-mario-kart-and-legend-of-zelda-sweepstakes)   2025-05-20 11:23
+
+My Nintendo平台推出两项主题抽奖活动，分别围绕《马里奥赛车》和《塞尔达传说》。玩家可通过积累积分参与抽奖，赢取主题周边及珍藏版奖品。活动细节和获奖名单将于官网公布。
+
+---
+
+## 3. [高通回应小米自研3nm芯片合作关系稳固](https://www.3dmgame.com/news/202505/3920092.html)   2025-05-20 11:17
+
+小米正式宣布推出自主研发的3nm玄戒O1芯片，引发市场关注。对此，高通CEO表示与小米的合作关系依旧稳固，并重申高通将继续为小米旗舰机型提供技术支持。新芯片性能较现有骁龙8芯片有一定差距，但市场前景广阔。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747711038_334613.png)
+
+---
+
+## 4. [小岛秀夫谈《合金装备》和《死亡搁浅》亲子主题](https://www.3dmgame.com/news/202505/3920091.html)   2025-05-20 11:13
+
+小岛秀夫在采访中透露，《合金装备》系列探讨“弑父主题”，而《死亡搁浅》则以“父母视角”展现对下一代的守护。这两部作品在亲子关系的描写上形成鲜明对比，展现了小岛对生死和传承的深刻思考。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747710625_411802.jpg)
+
+---
+
+## 5. [《GTA6》延期无妨？Take-Two称线上模式填补空白](https://www.3dmgame.com/news/202505/3920090.html)   2025-05-20 11:05
+
+Take-Two表示，《侠盗猎车》线上模式的持续更新有效填补了《GTA6》延期带来的空窗期。更新内容规模庞大，甚至可媲美独立游戏发布，确保玩家参与度不减。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747710543_753081.webp)
+
+---
+
+## 6. [Take-Two大量专利曝光，《GTA6》次世代体验引期待](https://www.3dmgame.com/news/202505/3920089.html)   2025-05-20 10:53
+
+Take-Two注册的多项技术专利显示，《GTA6》可能引入高度动态模拟的角色行为、无缝在线会话等创新功能，进一步提升开放世界的沉浸感。玩家期待通过这些技术体验次世代游戏的震撼效果。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747709534_924124_jpg_r.jpg)
+
+---
+
+## 7. [《村与地下城》发售：总裁转型独立开发的逆袭之作](https://www.3dmgame.com/news/202505/3920088.html)   2025-05-20 10:45
+
+前上市公司高管辞职并自学代码开发的独立游戏《村与地下城》正式发售，以卡牌构筑与肉鸽玩法吸引玩家关注。游戏采用AI生成素材与人工精修结合的创新方式，定价亲民且承诺持续更新。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747709070_224047.png)
+
+---
+
+## 8. [《美丽新世界117：罗马治世》实机预告发布](https://www.4gamers.com.tw/news/detail/71886/anno117-pax-romana-ubisoft-gameplay-showcase-trailer)   2025-05-20 10:44
+
+育碧发布《美丽新世界117：罗马治世》的实机预告片，玩家将扮演罗马帝国总督，建设城市并决定行省命运。游戏支持跨平台游玩，预计于2025年冬季正式推出。
+
+![](https://img.4gamers.com.tw/puku-clone-version/dbbe5e75385dcfc15712cfc090f4888f5a2c33b7.jpg)
+
+---
+
+## 9. [世界首家日本特摄概念酒店客房7月开业](https://www.3dmgame.com/news/202505/3920087.html)   2025-05-20 10:43
+
+新宿Gracery酒店推出全球首家特摄概念客房，将日本特摄文化融入设计，展示哥斯拉大战金刚的怪兽风格世界观。房间装饰独特，提供纪念周边，吸引影迷入住体验。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747708988_913096.png)
+
+---
+
+## 10. [《守望先锋2》开发者谈与《街霸6》联动始末](https://www.3dmgame.com/news/202505/3920086.html)   2025-05-20 10:28
+
+《守望先锋2》即将上线与《街霸6》的联动活动。开发者表示，双方艺术风格相互影响，联动皮肤需经过精心打磨。本次联动规模空前，共推出8款皮肤，展现两大IP的深度融合。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747708038_300757.png)
+
+---
+# 新闻简报(更新时间:2025-05-20 15:45)
+
+## 1. [《马里奥赛车：世界》照相模式曝光 任天堂展示创意定格玩法](https://www.3dmgame.com/news/202505/3920085.html)   2025-05-20 10:27
+
+近日，任天堂官方推特展示了《马里奥赛车：世界》的拍照模式。自由漫游模式中，玩家可暂停比赛进入拍照界面，通过多样化的相框和编辑工具创造独特镜头。任天堂表示，玩家可以自由选择拍摄内容，并装饰镜头。该模式的截图也已公布，展现了角色服装与动作的活力组合。《马里奥赛车：世界》将与任天堂Switch 2同步发售，定档6月5日。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747707934_189440_jpg_r.jpg)
+
+---
+
+## 2. [比肩Faker？Uzi荣膺英雄联盟名人堂第二位成员](https://www.3dmgame.com/news/202505/3920084.html)   2025-05-20 10:27
+
+《英雄联盟》宣布Uzi成为名人堂第二位成员，继Faker之后，这位全球最具影响力的ADC选手因其卓越表现和电竞贡献获此殊荣。从全球总决赛的双亚军到亚运会电竞金牌，Uzi的成就令人瞩目。官方将于6月6日上海举办入选仪式，同时推出相关活动和主题装饰物品。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747707953_754017.png)
+
+---
+
+## 3. [在COD当铁驭 爆料称《黑色行动7》跑墙机制将回归](https://www.3dmgame.com/news/202505/3920083.html)   2025-05-20 10:23
+
+多名数据挖掘者在《黑色行动6》第三赛季更新文件中发现疑似《黑色行动7》的新代码，显示跑墙机制将回归。玩家甚至通过修改《黑色行动6》的文件成功测试了这一功能。由于《使命召唤》系列共用同一引擎，这一“测试代码”引发了玩家对新作的期待。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747707736_908794_jpg_r.jpg)
+
+---
+
+## 4. [T2老总谈《GTA6》：信任开发团队 并给予充分自由](https://www.3dmgame.com/news/202505/3920082.html)   2025-05-20 10:18
+
+Take-Two CEO Strauss Zelnick在接受采访时表示，他并不是《GTA6》的玩家，但完全信任开发团队，并给予他们创作自由。他评价《GTA6》为“娱乐史上的里程碑”，并称R星团队有能力按时完成发售计划。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747705856_845903_jpg_r.jpg)
+
+---
+
+## 5. [《葛叶雷道复刻版：超力兵团奇谭》新介绍预告发布 6月19日上线](https://www.3dmgame.com/news/202505/3920081.html)   2025-05-20 10:11
+
+ATLUS发布《葛叶雷道 复刻版: 超力兵团奇谭》的新预告片，展示了大正二十年的世界以及主角雷道与“仲魔”并肩作战的情景。本作优化了2006年推出的经典动作RPG，将于6月19日登陆多平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747706981_730013_png_r.webp)
+
+---
+
+## 6. [《时空奥德赛》6月PC版内测 虚幻5韩国制MMORPG](https://www.3dmgame.com/news/202505/3920080.html)   2025-05-20 09:54
+
+韩国发行商Kakao Games宣布，虚幻5引擎MMORPG《时空奥德赛》将于6月开启PC版封闭测试。该游戏提供开放世界、独特职业系统和沉浸式剧情，并计划登陆PC和主机平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747706059_941700.jpg)
+
+---
+
+## 7. [严格保密 《星际：异端先知》演员都不了解完整剧情](https://www.3dmgame.com/news/202505/3920078.html)   2025-05-20 09:55
+
+顽皮狗新作《星际：异端先知》保持高度保密，连参与配音的演员都仅掌握碎片化信息。据透露，这一原创科幻游戏设定在未来数千年后，其拍摄和剧本编排严格参照《最后生还者2》的保密模式。
+
+![](https://img.3dmgame.com/uploads/images/news/20250520/1747705945_533137.jpg)
+
+---
