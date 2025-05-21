@@ -599,3 +599,274 @@ GameStop开启年度促销活动，多款PS5、Xbox和Switch游戏仅售15或30�
 ![](https://www.gamespot.com/a/uploads/original/1587/15875866/4497724-ss_ec565deb0246e301b95f662a1cf89d0e99f83c18.1920x1080.jpg)
 
 ---
+# 新闻简报 (更新时间: 2025-05-21 10:45)
+
+## 1. [杰洛特配音演员发声：《巫师4》主角希里并非政治正确](https://www.3dmgame.com/news/202505/3920134.html)   2025-05-21 09:28
+
+杰洛特配音演员Doug Cockle在采访中表示，以希里为主角的《巫师4》并非“政治正确”产物，而是基于原著小说的自然选择。他强调希里作为角色非常适合展开新三部曲的故事，同时指出持“政治正确”观点的粉丝应阅读原著以了解背景。CD Projekt将通过希里的视角继续深入探索《巫师》系列故事，并计划在未来六年内完成新三部曲。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747790721_454957.jpg)
+
+---
+
+## 2. [国产古风游戏《火起雪中寺》发售 有美女姐姐哟](https://www.3dmgame.com/news/202505/3920133.html)   2025-05-21 09:25
+
+国产3D悬疑解密游戏《火起雪中寺》现已登陆Steam平台，售价46元，首发优惠39.1元。游戏以时间推进和循环为核心玩法，玩家需在古刹场景中解密并还原故事。《火起雪中寺》采用箱庭式非线性探索方式，通过精美的古风场景和时间系统为玩家呈现复杂的游戏世界。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747790638_211819_jpg_r.jpg)
+
+---
+
+## 3. [《死亡回归》工作室无意开发服务型游戏 称买断制仍有市场](https://www.3dmgame.com/news/202505/3920132.html)   2025-05-21 09:12
+
+Housemarque工作室在三十周年庆典中表示，将继续专注于买断制单人游戏的开发，并明确短期内不会涉足服务型游戏领域。工作室负责人指出，买断制游戏如同电影或电视剧，旨在为玩家提供一段独特的体验，而非终身绑定。其正在开发的新作《Saros》预计将登陆PS5平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747790052_757883.webp)
+
+---
+
+## 4. [《龙珠：超宇宙2》推出大魔DLC预告片 超四悟空参战！](https://www.3dmgame.com/news/202505/3920131.html)   2025-05-21 09:12
+
+《龙珠：超宇宙2》最新付费DLC“龙珠大魔组合包”将于5月22日上线，新增超级赛亚人4孙悟空等角色，以及平行任务、技能和服装等丰富内容。游戏现已登陆多个平台，包括PS5、Xbox Series X/S和Steam等。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747789843_451261_png_r.webp)
+
+---
+
+## 5. [顽皮狗新Logo曝光 第二个新作不会是小体量游戏](https://www.3dmgame.com/news/202505/3920130.html)   2025-05-21 09:11
+
+顽皮狗提交了新Logo设计，显示其品牌形象的微小调整。同时，顽皮狗总裁尼尔确认正在开发第二个新作，据业内人士透露该新作可能是3A
+# 新闻简报(更新时间:2025-05-21 10:45)
+
+## 1. [《鬼武者2复刻版》新视频 介绍织田信长杂贺孙市等](https://www.3dmgame.com/news/202505/3920128.html)   2025-05-21 08:54
+
+卡普空公布《鬼武者2：复刻版》新视频，展示了织田信长、杂贺孙市以及烈火剑等内容。织田信长因混合幻魔之血与人类之血获得超越幻魔的能力；杂贺孙市则带来修罗模式等新玩法；烈火剑是难以获取但极为强力的武器。《鬼武者2：复刻版》将于5月23日发售，支持简体中文，登陆PS4、XboxOne、Switch和PC平台。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747788549_357159_jpg_r.jpg)
+
+---
+
+## 2. [Final Fantasy 7 Remake Intergrade For PS5 Gets $30 Discount At Amazon](https://www.gamespot.com/articles/final-fantasy-7-remake-intergrade-for-ps5-is-only-40-at-amazon/1100-6528630/?ftag=CAD-01-10abi2f)   2025-05-21 08:40
+
+《最终幻想7重制版：Intergrade》PS5实体版在亚马逊售价降至40美元（原价70美元）。该版本包括基础游戏和“Intermission”DLC，画面与技术均显著提升。此外，《最终幻想7重制版》也计划推出Nintendo Switch 2版本。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4423452-ff7remake.png)
+
+---
+
+## 3. [《毁灭战士：黑暗时代》玩家数破300万 B社很自豪](https://www.3dmgame.com/news/202505/3920127.html)   2025-05-21 08:39
+
+《毁灭战士：黑暗时代》玩家数已突破300万人，成为id Software史上规模最大的游戏。该作首日加入XGP，达到这一里程碑的速度比前作《毁灭战士：永恒》快了七倍。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747787910_249722_jpg_r.jpg)
+
+---
+
+## 4. [《侏罗纪世界：重生》新剧照 霸王龙沧龙暴虐龙等登场](https://www.3dmgame.com/news/202505/3920126.html)   2025-05-21 08:24
+
+环球影业公布《侏罗纪世界：重生》的新剧照与海报。斯嘉丽·约翰逊领衔主演，与恐龙展开冒险。电影故事设定在《侏罗纪世界3》事件五年后，团队将探索恐龙DNA样本的秘密。影片定于7月2日北美上映。
+
+![](https://img.3dmgame.com/uploads/images/news/20250521/1747786858_210080.jpg)
+
+---
+
+## 5. [Fanatical's May Madness Sale Is Here To Bolster Your Steam Backlog Before Summer](https://www.gamespot.com/articles/fanaticals-may-madness-sale-is-here-to-bolster-your-steam-backlog-before-summer/1100-6531658/?ftag=CAD-01-10abi2f)   2025-05-21 08:20
+
+Fanatical开启五月疯狂促销活动，众多PC
+# 新闻简报(更新时间:2025-05-21 10:45)
+
+## 1. [《街头霸王6》“Elena”角色指南](https://gonintendo.com/contents/48639-street-fighter-6-elena-character-guide)  
+2025-05-21 07:04  
+
+为玩家提供关于如何掌握“Elena”角色的细致技巧和策略，助力提升战斗表现。
+
+---
+
+## 2. [Cherry推出四款新机械键盘轴体](https://www.gamespot.com/articles/keyswitch-standard-bearer-cherry-offers-up-four-new-keyswitches-at-computex/1100-6531695/?ftag=CAD-01-10abi2f)  
+2025-05-21 06:57  
+
+德国著名键盘轴体制造商Cherry在台北Computex大会上发布了MK和IK等新型轴体，旨在解决摩擦引起的键盘磨损问题。这些新轴体有助于提升键盘寿命和操作体验。
+
+![](https://www.gamespot.com/a/uploads/original/1603/16030002/4498373-ik1a-11lb_image002.jpg)
+
+---
+
+## 3. [《堡垒之夜》重返美国iOS平台](https://www.gamespot.com/articles/fortnite-is-finally-back-on-ios-in-the-us-heres-how-to-download-it/1100-6531696/?ftag=CAD-01-10abi2f)  
+2025-05-21 06:24  
+
+《堡垒之夜》在经历长达五年的法律纠纷后，终于重新登陆iOS平台。玩家现可通过App Store下载，重温这款风靡全球的游戏。
+
+---
+
+## 4. [Ditto主题Switch Joy-Con替换手柄热销](https://www.gamespot.com/articles/these-official-ditto-themed-switch-joy-con-replacements-are-selling-out-fast/1100-6531684/?ftag=CAD-01-10abi2f)  
+2025-05-21 00:42  
+
+Hori推出的Ditto主题Switch手柄因其舒适的握持感和可爱的设计大受欢迎，目前已在Amazon上暂时售罄。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4497763-71nodzyiual._sl1500.jpg)
+
+---
+
+## 5. [《塞尔达传说》新作将探索更多背景故事](https://www.gamespot.com/articles/switch-2s-hyrule-warriors-will-delve-into-zelda-lore-that-fans-have-been-wondering-about/1100-6531691/?ftag=CAD-01-10abi2f)  
+2025-05-21 04:37  
+
+任天堂即将推出的《海拉鲁无双：监禁战争》将深入展现《塞尔达传说：王国之泪》之前的故事，让玩家更全面了解海拉鲁的历史与角色。
+
+---
+
+## 6. [《约会万物！》发布“Farya”角色预告](https://gonintendo.com/contents/48638-date-everything-meet-farya-trailer)  
+2025-05-21 04:03  
+
+预告片展示了“Farya”角色的独特魅力，引发玩家对这款游戏更多期待。
+
+---
+
+## 7. [《Avowed 2》或将失去核心开发者](https://www.gamespot.com/articles/if-we-get-avowed-2-itll-have-to-make-do-without-a-key-figure/1100-6531694/?ftag=CAD-01-10abi2f)  
+2025-05-21 04:01  
+
+游戏总监Carrie Patel宣布离开Obsidian，加入Netflix旗下的Night Dive工作室，这可能对《Avowed 2》的开发造成一定影响。
+
+---
+
+## 8. [Apple TV剧集《Murderbot》改编自获奖小说](https://www.gamespot.com/articles/appletvs-sci-fi-show-murderbot-is-based-on-this-award-winning-book
+# 新闻简报(更新时间:2025-05-21 10:453)
+
+## 1. [备受期待的Steam游戏《RoadCraft》正式发布，开局表现不俗](https://www.gamespot.com/articles/anticipated-steam-game-roadcraft-is-out-now-and-off-to-a-good-start/1100-6531693/?ftag=CAD-01-10abi2f)   
+2025-05-21 03:38
+
+Saber Interactive推出的新作《RoadCraft》已在Steam平台上线，目前已跻身该平台最受欢迎游戏排行榜第35位，拥有近34,000名同时在线玩家。《RoadCraft》是一款以灾后重建为主题的现实向模拟游戏，玩家需清理废墟并规划重建区域，注重创造性与策略性。这款游戏的独特玩法与AAA级大作竞争中脱颖而出，吸引了大量玩家的关注。
+
+![](https://store.steampowered.com/news/app/2104890/view/563623871217927077)
+
+---
+
+## 2. [视觉小说《梦中樱花，我与你相恋》宣布登陆Switch](https://gonintendo.com/contents/47839-visual-novel-dreaming-in-cherry-blossoms-i-fall-in-love-with-you-announced-for)   
+2025-05-21 03:34
+
+全新的视觉小说游戏《梦中樱花，我与你相恋》即将登陆Switch平台。这款作品以其温馨又催泪的故事情节吸引了众多玩家的期待，尤其适合喜欢浪漫叙事的玩家。
+
+---
+
+## 3. [《Fast Fusion》将推出免费DLC，支持多种帧率与分辨率模式](https://gonintendo.com/contents/48636-fast-fusion-getting-free-dlc-track-totals-and-various-fps-resolution-modes-detailed)   
+2025-05-21 03:27
+
+作为Switch 2主打发售游戏之一，《Fast Fusion》即将迎来免费DLC更新。此次更新将为游戏带来更多赛道内容，并针对不同硬件设备提供多种帧率与分辨率选项，进一步优化玩家的游戏体验。
+
+---
+
+## 4. [《Lollipop Chainsaw RePOP》将再次推出实体版](https://gonintendo.com/contents/48635-lollipop-chainsaw-repop-getting-another-physical-switch-release)   
+2025-05-21 03:22
+
+经典游戏《Lollipop Chainsaw RePOP》宣布将在Switch平台再次推出实体版本，令收藏爱好者兴奋不已。游戏以其独特的风格和玩法吸引了不少粉丝。
+
+---
+
+## 5. [Square Enix发布《王国之心艺术博物馆》主题卡牌](https://gonintendo.com/contents/48634-square-enix-reveals-kingdom-hearts-art-museum-trading-cards)   
+2025-05-21 03:14
+
+Square Enix宣布推出以《王国之心》为主题的艺术博物馆卡牌系列。这些卡牌不仅是游戏粉丝的收藏佳品，也为玩家提供了一种全新的互动方式。
+
+---
+
+## 6. [《使命召唤：黑色行动6》更新中发现双跳与跑墙代码](https://www.gamespot.com/articles/the-most-recent-black-ops-6-update-contains-double-jump-and-wall-running-code-but-its-not-being-used-yet/1100-6531692/?ftag=CAD-01-10abi2f)   
+2025-05-21 03:08
+
+数据挖掘者发现，《使命召唤：黑色行动6》的最新更新中包含双跳与跑墙的代码。不过，这些功能尚未在实际游戏中启用，可能为未来模式或地图更新做准备。有传言称这些机制可能会在《使命召唤2025》中回归。
+
+---
+
+## 7. [《银河战士：Other M》figma手办即将重新发售](https://gonintendo.com/contents/48633-metroid-other-m-figmas-set-for-a-reprint)   
+2025-05-21 03:07
+
+经典游戏《银河战士：Other M》的figma系列手办即将迎来重新发售，为粉丝们提供再次拥有该系列手办的机会。
+
+---
+
+## 8. [六款乐高《超级马里奥/马里奥赛车》套装将于2025年8月1日上市](https://gonintendo.com/contents/48632-six-lego-super-mario-mario-kart-sets-arrive-august-1st-2025)   
+2025-05-21 02:56
+
+乐高宣布将在2025年8月1日推出六款全新《超级马里奥/马里奥赛车》主题套装。这些套装设计精美，预计将成为玩家和收藏者的热门选择。
+
+---
+
+## 9. [《龙珠：异战2》DAIMA DLC将于2025年5月22日上线](https://gonintendo.com/contents/48631-dragon-ball-xenoverse-2-daima-dlc-drops-may-22nd-2025)   
+2025-05-21 02:52
+
+《龙珠：异战2》宣布其最新DLC“DAIMA”将于5月22日正式发布，为玩家带来更多的全新内容与挑战。
+
+---
+
+## 10. [《街头霸王6》中Elena的镜像对战致敬经典梗](https://gonintendo.com/contents/48630-street-fighter-6-mirror-matches-with-elena-feature-a-decades-old-reference)   
+2025-05-21 02:42
+
+《街头霸王6》中的Elena镜像对战加入了一个致敬经典的彩蛋，为资深玩家带来怀旧与惊喜的双重体验。
+# 新闻简报(更新时间:2025-05-21 10:45)
+
+## 1. [六款全新乐高超级马里奥和马里奥赛车套装将于8月1日发布](https://www.gamespot.com/articles/six-new-lego-super-mario-and-mario-kart-sets-launching-august-1/1100-6531300/?ftag=CAD-01-10abi2f)  
+2025-05-21 02:33
+
+乐高宣布将发布六款全新的超级马里奥主题套装，其中包括基于《超级马里奥奇迹》和《队长蛤蟆寻宝之旅》的游戏场景，以及马里奥赛车系列的新赛车和场景。这些套装将于8月1日正式上市，套装包括可互动的角色和场景元素，预购尚未开放，但可在乐高官网加入愿望清单。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4487301-001.jpg)
+
+---
+
+## 2. [Switch 2无法同时支持120fps和4K分辨率](https://gonintendo.com/contents/48629-switch-2-not-capable-of-120fps-4k-at-the-same-time)  
+2025-05-21 02:30
+
+一则消息表明，任天堂即将推出的Switch 2主机可能无法同时支持120帧每秒和4K分辨率的运行，这一限制符合当前硬件性能的实际情况。
+
+---
+
+## 3. [《使命召唤：黑色行动6》和《战区》第四赛季即将上线](https://www.gamespot.com/articles/cod-black-ops-6-and-warzone-season-4-start-date-and-details/1100-6531690/?ftag=CAD-01-10abi2f)  
+2025-05-21 02:27
+
+《使命召唤：黑色行动6》和《战区》第四赛季将在5月29日正式上线，新赛季将带来更多的武器、地图和游戏功能，包括传闻中的墙跑机制。同时，官方将在5月21日发布完整更新说明。
+
+---
+
+## 4. [宫本茂现身超级任天堂世界奥兰多分园开幕前活动](https://gonintendo.com/contents/48628-shigeru-miyamoto-spotted-at-super-nintendo-world-orlando-ahead-of-the-park-s-grand)  
+2025-05-21 02:18
+
+任天堂传奇人物宫本茂被目击出现在超级任天堂世界奥兰多分园，为即将到来的开幕活动造势。粉丝们对他的亮相表示热烈欢迎。
+
+---
+
+## 5. [任天堂隐私政策更新：可能记录游戏聊天音视频](https://gonintendo.com/contents/48175-nintendo-privacy-policy-says-they-may-record-gamechat-audio-video-update)  
+2025-05-21 02:17
+
+任天堂更新了其隐私政策，表明可能会记录玩家在游戏中使用的音频和视频聊天。这一举措引发了玩家们对隐私保护的担忧。
+
+---
+
+## 6. [星球大战7款游戏合集在亚马逊上半价促销](https://www.gamespot.com/articles/star-wars-7-game-nintendo-switch-collection-is-50-off-at-amazon/1100-6523031/?ftag=CAD-01-10abi2f)  
+2025-05-21 02:14
+
+星球大战经典游戏合集在亚马逊上打五折，售价仅30美元。这款合集包含7款经典游戏，包括《绝地武士》和《旧共和国武士》系列，是星战迷不可错过的收藏。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4207880-swheritagephyshero.jpg)
+
+---
+
+## 7. [《在玩中迷失》推出线下完全版实体游戏](https://www.gamespot.com/articles/lost-in-play-is-releasing-new-physical-editions-of-games-with-offline-play-and-no-hidden-catches/1100-6531689/?ftag=CAD-01-10abi2f)  
+2025-05-21 02:06
+
+游戏文化品牌Lost in Cult推出了三款全新实体游戏版本，这些版本包含离线功能和最新更新，无需额外下载。其中包括《不朽》、《霍布斯巴罗的挖掘》和《谢天谢地你来了》。
+
+![](https://www.gamespot.com/a/uploads/original/1601/16018044/4497826-lost-in-cult-1.jpg)
+
+---
+
+## 8. [《海拉鲁无双：囚禁时代》开发者谈Switch 2性能](https://gonintendo.com/contents/48626-hyrule-warriors-age-of-imprisonment-devs-talk-switch-2-power-more-enemies-and)  
+2025-05-21 02:03
+
+开发团队在“创作者之声”视频中讨论了Switch 2的性能提升，表示新硬件将支持更多敌人和更流畅的帧率，为玩家带来更丰富的游戏体验。
+
+---
+
+## 9. [《怪奇物语》小说套装将在最终季前发布](https://www.gamespot.com/articles/stranger-things-novel-box-set-amazon-preorder-releases-before-season-5/1100-6531522/?ftag=CAD-01-10abi2f)  
+2025-05-21 02:01
+
+《怪奇物语》小说套装将于7月1日发布，包含三本青少年小说，进一步扩展该系列的故事背景。亚马逊现已开放预购，售价为35美元。
+
+![](https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4494044-stbooks.jpg)
